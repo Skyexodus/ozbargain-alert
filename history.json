@@ -1,1 +1,718 @@
-{}
+{
+  "Whisky": {
+    "deals": [
+      {
+        "title": "[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel",
+        "link": "https://www.ozbargain.com.au/node/974499",
+        "price": null,
+        "date": "2026-09-10"
+      },
+      {
+        "title": "$15 off $150 Spend on Selected Alcohol @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/974289",
+        "price": 150.0,
+        "date": "2026-09-08"
+      },
+      {
+        "title": "$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/974204",
+        "price": 50.0,
+        "date": "2026-09-07"
+      },
+      {
+        "title": "20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online",
+        "link": "https://www.ozbargain.com.au/node/973966",
+        "price": 75.0,
+        "date": "2026-09-05"
+      },
+      {
+        "title": "Corowa Distilling Co Mad Dog Morgan Single Malt Aus Whisky 500 mL $76.05 + Delivery ($0 C&C) @ Dan Murphy's (Limited Locations)",
+        "link": "https://www.ozbargain.com.au/node/974001",
+        "price": 76.05,
+        "date": "2026-09-05"
+      },
+      {
+        "title": "10% off Red Wines, Whisky, Bourbon & Rum + Delivery ($0 C&C) @ Dan Murphy's Online & App",
+        "link": "https://www.ozbargain.com.au/node/973261",
+        "price": 0.0,
+        "date": "2026-08-30"
+      },
+      {
+        "title": "[QLD] Southern Comfort Original Whiskey 1L $5.90 C&C / in Limited Stores Only @ BWS",
+        "link": "https://www.ozbargain.com.au/node/973125",
+        "price": 5.9,
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Jack Daniels & Cola 330ml Bottle 24-Pack $27 (Was $130) @ Liquorland via Coles (Select Locations)",
+        "link": "https://www.ozbargain.com.au/node/972264",
+        "price": 27.0,
+        "date": "2026-08-22"
+      },
+      {
+        "title": "BWS: 22% Cashback ($20 Cap Per Order) @ ShopBack",
+        "link": "https://www.ozbargain.com.au/node/971009",
+        "price": 20.0,
+        "date": "2026-08-12"
+      },
+      {
+        "title": "$40 off $200 Spend (Exclusions Apply) + Delivery ($0 C&C) @ Liquorland via Coles Online",
+        "link": "https://www.ozbargain.com.au/node/970544",
+        "price": 200.0,
+        "date": "2026-08-07"
+      }
+    ]
+  },
+  "NAS": {
+    "deals": [
+      {
+        "title": "[Prime] Terramaster F4-425 Plus NAS Storage $824.99 Delivered (RRP $1,099.99) Delivered @ TerraMaster via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/977105",
+        "price": 824.99,
+        "date": "2026-09-30"
+      },
+      {
+        "title": "[Prime] TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $547.49 ($527.49 with Zip) Shipped @ TerraMaster Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/977155",
+        "price": 547.49,
+        "date": "2026-09-30"
+      },
+      {
+        "title": "[Prime] UGREEN DXP4800 Pro 4-Bay NAS $1,019.99 Delivered @ UGREEN GROUP LIMITED AU Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/976805",
+        "price": 1019.99,
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/973482",
+        "price": 587.99,
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com",
+        "link": "https://www.ozbargain.com.au/node/973533",
+        "price": 599.0,
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @  youyeetoo Official AliExpress",
+        "link": "https://www.ozbargain.com.au/node/971828",
+        "price": 260.36,
+        "date": "2026-08-18"
+      },
+      {
+        "title": "TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $583.98 Delivered @ TerraMaster Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/971408",
+        "price": 583.98,
+        "date": "2026-08-14"
+      },
+      {
+        "title": "TerraMaster F4-425 Plus NAS Storage - 4Bay Intel N150 CPU, 16GB RAM DDR5 $879.99 Delivered @ TerraMaster via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/971215",
+        "price": 879.99,
+        "date": "2026-08-13"
+      },
+      {
+        "title": "TerraMaster F4-424 Pro 4-Bay NAS (i3-N305, 32GB RAM, 2x M.2 NVMe, 2x 2.5G LAN) $847.99 Delivered @ TerraMaster Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/971283",
+        "price": 847.99,
+        "date": "2026-08-13"
+      },
+      {
+        "title": "Terramaster F4 4 Bay SSD NAS Storage $671.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/971068",
+        "price": 671.99,
+        "date": "2026-08-12"
+      }
+    ]
+  },
+  "HDD": {
+    "deals": [
+      {
+        "title": "Seagate Skyhawk 8TB 3.5\" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU",
+        "link": "https://www.ozbargain.com.au/node/974118",
+        "price": 326.5,
+        "date": "2026-09-06"
+      },
+      {
+        "title": "[Used] EMC 8TB WD HUH721008ALN600 3.5\" 4Kn 7.2K SATA Enterprise HDD $225.25 ($212 eBay Plus) Delivered @ ACT eBay",
+        "link": "https://www.ozbargain.com.au/node/972765",
+        "price": 225.25,
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/969728",
+        "price": 404.6,
+        "date": "2026-07-31"
+      },
+      {
+        "title": "[Refurb] Seagate ST18000NM002J 18TB SATA HDD £237.50 + £39.66 Delivery (~A$530 + Applicable Duty & GST) @ Bargain Hardware",
+        "link": "https://www.ozbargain.com.au/node/968935",
+        "price": 530.0,
+        "date": "2026-07-24"
+      },
+      {
+        "title": "Western Digital 12TB WD Blue SATA 3 Internal Hard Drive - 7200 RPM $502.90 (RRP $641.52) Delivered @ Amazon US via AU",
+        "link": "https://www.ozbargain.com.au/node/967991",
+        "price": 502.9,
+        "date": "2026-07-15"
+      },
+      {
+        "title": "[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5\", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology",
+        "link": "https://www.ozbargain.com.au/node/967492",
+        "price": 599.95,
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Seagate Skyhawk 14TB ST14000VE0008 $292.79 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/967312",
+        "price": 292.79,
+        "date": "2026-07-10"
+      },
+      {
+        "title": "$100 off $1000 Minimum Spend on Select Products: Palit GeForce RTX 5080 GPU $1499, 5070 Ti $1199 + Delivery @ Shopping Express",
+        "link": "https://www.ozbargain.com.au/node/965567",
+        "price": 1499.0,
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Seagate IronWolf 6TB NAS HDD $278.92 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/964448",
+        "price": 278.92,
+        "date": "2026-06-21"
+      },
+      {
+        "title": "Seagate IronWolf 8TB NAS HDD $384.84 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/964063",
+        "price": 384.84,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  "SSD": {
+    "deals": [
+      {
+        "title": "[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU",
+        "link": "https://www.ozbargain.com.au/node/976928",
+        "price": 122.45,
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/976703",
+        "price": 637.43,
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave",
+        "link": "https://www.ozbargain.com.au/node/976405",
+        "price": 231.95,
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Kingston NV2 2TB NVMe M.2 2280 SSD $159.00 + Delivery @ Mwave",
+        "link": "https://www.ozbargain.com.au/node/976408",
+        "price": 159.0,
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280 Internal SSD $132.99 Delivered @ LDCEMS via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/975974",
+        "price": 132.99,
+        "date": "2026-09-22"
+      },
+      {
+        "title": "Lexar NS100 1TB 2.5\" SSD $175.75 Delivered / NSW C&C @ Mwave",
+        "link": "https://www.ozbargain.com.au/node/974857",
+        "price": 175.75,
+        "date": "2026-09-13"
+      },
+      {
+        "title": "WD Blue SN5000 4TB PCIe Gen4 M.2 2280 NVMe SSD $629 Delivered @ Tech Junction via Kogan",
+        "link": "https://www.ozbargain.com.au/node/974154",
+        "price": 629.0,
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $120.14 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/974190",
+        "price": 120.14,
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Corsair MP600 PRO LPX 2TB M.2 NVMe PCIe X4 Gen4 SSD $429.71 (RRP $908) Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/973729",
+        "price": 429.71,
+        "date": "2026-09-03"
+      },
+      {
+        "title": "KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 2280 SSD $618.30 Delivered @ Mwave",
+        "link": "https://www.ozbargain.com.au/node/973693",
+        "price": 618.3,
+        "date": "2026-09-02"
+      }
+    ]
+  },
+  "NBN (home)": {
+    "deals": [
+      {
+        "title": "nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim",
+        "link": "https://www.ozbargain.com.au/node/977478",
+        "price": 30.0,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop",
+        "link": "https://www.ozbargain.com.au/node/977311",
+        "price": 74.0,
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder",
+        "link": "https://www.ozbargain.com.au/node/976658",
+        "price": 68.0,
+        "date": "2026-09-28"
+      },
+      {
+        "title": "50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra",
+        "link": "https://www.ozbargain.com.au/node/976633",
+        "price": 44.5,
+        "date": "2026-09-27"
+      },
+      {
+        "title": "nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong",
+        "link": "https://www.ozbargain.com.au/node/976371",
+        "price": 59.0,
+        "date": "2026-09-25"
+      },
+      {
+        "title": "nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim",
+        "link": "https://www.ozbargain.com.au/node/975834",
+        "price": 50.0,
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU",
+        "link": "https://www.ozbargain.com.au/node/975640",
+        "price": 200.0,
+        "date": "2026-09-19"
+      },
+      {
+        "title": "nbn FTTP or HFC 500/50 $69.99/M for 6-Months Then $79.99/M for 18-Months (Existing Exetel & Superloop Customers Only) @ Arctel",
+        "link": "https://www.ozbargain.com.au/node/975728",
+        "price": 69.99,
+        "date": "2026-09-19"
+      },
+      {
+        "title": "nbn 25/10 $54/Month, 50/20 $69/Month, 500/50 $72/Month, 1000/100 $85/Month for 6 Months (New Customers) @ Swoop",
+        "link": "https://www.ozbargain.com.au/node/975747",
+        "price": 54.0,
+        "date": "2026-09-19"
+      }
+    ]
+  },
+  "Games": {
+    "deals": [
+      {
+        "title": "[PC/Steam] The Elder Scrolls V: Skyrim Special Edition $5.49 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977640",
+        "price": 5.49,
+        "date": "2026-10-04"
+      },
+      {
+        "title": "[PC, Steam] Death's Door $2.95 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977513",
+        "price": 2.95,
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/977370",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[Android, Epic] Free - Bridge Constructor Studio @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/977371",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[Prime, PC, Epic] Free - DOOM (2016), Five Nights at Freddy's: Into the Pit @ Amazon Luna",
+        "link": "https://www.ozbargain.com.au/node/977377",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[Steam] Free - 3 Steam Stickers for Going Through Your Steam Discovery Queue (Steam Autumn Sale 2026) @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977380",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[PC, Steam] Mirror's Edge Catalyst $1.49 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977381",
+        "price": 1.49,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[PC, Steam] Command & Conquer Remastered Collection $5.99 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977409",
+        "price": 5.99,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[PS5, XSX, PC] Free Next-Gen Update for Existing Owners of Metro Redux @ Various Gaming Platforms",
+        "link": "https://www.ozbargain.com.au/node/977424",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[PC, Mac, Steam] Hades $9.12, Hades II $30.76 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/977431",
+        "price": 9.12,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[PC] Free - Bounty Train  @ GOG",
+        "link": "https://www.ozbargain.com.au/node/977503",
+        "price": null,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[Switch] Street Fighter 30th Anniversary Collection $5.99 @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/977505",
+        "price": 5.99,
+        "date": "2026-10-02"
+      },
+      {
+        "title": "SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software",
+        "link": "https://www.ozbargain.com.au/node/977205",
+        "price": null,
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Nintendo Switch 2 Console $699 In-Store/Delivered @ Big W (Price Matched @ Officeworks)",
+        "link": "https://www.ozbargain.com.au/node/977211",
+        "price": 699.0,
+        "date": "2026-10-01"
+      },
+      {
+        "title": "[iOS, Android] Free Pair of adidas Shoes Avatar Clothing @ Pokémon GO",
+        "link": "https://www.ozbargain.com.au/node/977067",
+        "price": null,
+        "date": "2026-09-30"
+      }
+    ]
+  },
+  "Drinks": {
+    "deals": [
+      {
+        "title": "[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)",
+        "link": "https://www.ozbargain.com.au/node/976818",
+        "price": 21.0,
+        "date": "2026-09-29"
+      },
+      {
+        "title": "[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/976982",
+        "price": 1.65,
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)",
+        "link": "https://www.ozbargain.com.au/node/976699",
+        "price": null,
+        "date": "2026-09-28"
+      },
+      {
+        "title": "½ Price: Sanitarium Weet-Bix 575g $2.50 & Protein Weet-Bix Bites 510g $4.00 @ Coles + 191 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/976711",
+        "price": 2.5,
+        "date": "2026-09-28"
+      },
+      {
+        "title": "[Vic] Nongshim Shin Ramyun Varieties 4/5 Pack from $2, Boss Coffee 4 Pack $4 @ Cheaper Buy Miles (Fitzroy)",
+        "link": "https://www.ozbargain.com.au/node/976610",
+        "price": 2.0,
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Buy an Ó Burger or Oprego Meal and Get Another Free from 2-2:30pm Today (26/9) @ Oporto (App Req.)",
+        "link": "https://www.ozbargain.com.au/node/976501",
+        "price": null,
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Domino’s - 1 Large Traditional Pizza + 1.25L Drink + Garlic Sauce $20 Pickup / 2 Pizzas $30 / 3 Pizzas $40",
+        "link": "https://www.ozbargain.com.au/node/976558",
+        "price": 20.0,
+        "date": "2026-09-26"
+      },
+      {
+        "title": "$8.95 Small Quarter Pounder Meal + 6pc Chicken McNuggets (MyMacca's App Required) @ McDonald's",
+        "link": "https://www.ozbargain.com.au/node/976352",
+        "price": 8.95,
+        "date": "2026-09-25"
+      },
+      {
+        "title": "20% off Food and Drinks at Select Airport Locations with Visa Infinite or Visa Signature Cards",
+        "link": "https://www.ozbargain.com.au/node/976260",
+        "price": null,
+        "date": "2026-09-24"
+      },
+      {
+        "title": "[NSW, VIC] Spring Discoveries Black Box $19.99 (Worth $115) + Delivery @ Black Box Australia",
+        "link": "https://www.ozbargain.com.au/node/976156",
+        "price": 19.99,
+        "date": "2026-09-23"
+      },
+      {
+        "title": "50% off Pepsi, Solo Zero, Schweppes, Mountain Dew, Sunkist Zero Soft Drink Cans Multipack 375ml 18pk $17.50 (TAS $18.25) @ Coles",
+        "link": "https://www.ozbargain.com.au/node/975980",
+        "price": 17.5,
+        "date": "2026-09-22"
+      },
+      {
+        "title": "Bundaberg Lemon Lime and Bitters 24 x 375ml $18.07 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/976033",
+        "price": 18.07,
+        "date": "2026-09-22"
+      },
+      {
+        "title": "½ Price: Family Faves Crunchy Chicken Tenders 1kg $6.00 @ Coles + 226 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/975906",
+        "price": 6.0,
+        "date": "2026-09-21"
+      },
+      {
+        "title": "[Uber One] V Energy Drink Original 250ml 10-Pack $12 @ Coles via Uber Eats",
+        "link": "https://www.ozbargain.com.au/node/975171",
+        "price": 12.0,
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Monster Energy Drink Original Zero Sugar 4x500ml (Pack of 2) $17.50 (RRP $35) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/974387",
+        "price": 17.5,
+        "date": "2026-09-09"
+      }
+    ]
+  },
+  "Turtle Wax Ceramic Spray": {
+    "deals": [
+      {
+        "title": "TurtleWax Hybrid Solutions Ceramic Spray Coating Wax 473ml $31.84 Delivered @ Sparesbox via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/951900",
+        "price": 31.84,
+        "date": "2026-03-16"
+      },
+      {
+        "title": "Turtle Wax Hybrid Solutions Ceramic Spray Coating Wax 500ml $34.79 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/941946",
+        "price": 34.79,
+        "date": "2025-12-26"
+      },
+      {
+        "title": "[Prime] Turtle Wax Hybrid Solutions Ceramic Spray Coating Wax 500ml $24.81 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/915058",
+        "price": 24.81,
+        "date": "2025-07-11"
+      },
+      {
+        "title": "Turtle Wax Hybrid Solutions Ceramic Spray Coating Wax 473ml $24.97 + Delivery ($0 with Prime/ $59 Spend) @ Amazon US via AU",
+        "link": "https://www.ozbargain.com.au/node/887923",
+        "price": 24.97,
+        "date": "2025-01-07"
+      },
+      {
+        "title": "Turtle Wax Hybrid Solutions Ceramic Spray Coating Wax 473ml $24.75 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/881336",
+        "price": 24.75,
+        "date": "2024-11-29"
+      },
+      {
+        "title": "TurtleWax Hybrid Solutions Ceramic Spray Coating Wax 473ml $21.82 + Shipping ($0 with Prime/ $59 Spend) @ Amazon US via AU",
+        "link": "https://www.ozbargain.com.au/node/874490",
+        "price": 21.82,
+        "date": "2024-11-01"
+      },
+      {
+        "title": "[Prime] Turtle Wax Hybrid Solutions Ceramic Spray Coating 500ml $24.30 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/870644",
+        "price": 24.3,
+        "date": "2024-10-09"
+      }
+    ]
+  },
+  "Students": {
+    "deals": [
+      {
+        "title": "10% off for Students with Optus",
+        "link": "https://www.ozbargain.com.au/node/556983",
+        "price": null,
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[Students] Vodafone 12mo SIM Only Plan, 30GB + Intl. Minutes, $40/Month",
+        "link": "https://www.ozbargain.com.au/node/384472",
+        "price": 40.0,
+        "date": "2018-06-13"
+      },
+      {
+        "title": "6 Months of Spotify Premium for Students Opening a St.George Student Account",
+        "link": "https://www.ozbargain.com.au/node/236704",
+        "price": null,
+        "date": "2016-02-29"
+      },
+      {
+        "title": "[QLD] 20% off Student Wow Card Membership - Now $9.60 for Basic, $12 for VIP",
+        "link": "https://www.ozbargain.com.au/node/233295",
+        "price": 9.6,
+        "date": "2016-02-04"
+      },
+      {
+        "title": "FREE: Full Unlimited Access to 'Get Revising' Educational Website (Was £6.99/Month)",
+        "link": "https://www.ozbargain.com.au/node/210685",
+        "price": null,
+        "date": "2015-09-09"
+      },
+      {
+        "title": "90% off on 35,000 Online Courses ($1/Month) @ Coursmos",
+        "link": "https://www.ozbargain.com.au/node/208600",
+        "price": 1.0,
+        "date": "2015-08-25"
+      },
+      {
+        "title": "48% off The Economist Subscription $4.41 Per Week (Students Only)",
+        "link": "https://www.ozbargain.com.au/node/208331",
+        "price": 4.41,
+        "date": "2015-08-24"
+      },
+      {
+        "title": "Students - Bonus 1GB Data Vodafone RED $50 Plan ($40/M) - Total 5GB + 6 Months Spotify",
+        "link": "https://www.ozbargain.com.au/node/203939",
+        "price": 50.0,
+        "date": "2015-07-22"
+      },
+      {
+        "title": "1-Month of FREE Access to 35,000 Online Courses - $0.00",
+        "link": "https://www.ozbargain.com.au/node/197007",
+        "price": 0.0,
+        "date": "2015-06-04"
+      },
+      {
+        "title": "Endnote for iPad, iOS, Free (Prev $3.99), US, UK and AUS iTunes Versions All Free",
+        "link": "https://www.ozbargain.com.au/node/194297",
+        "price": 3.99,
+        "date": "2015-05-15"
+      },
+      {
+        "title": "5% off University Textbooks at Zookal - April Fools Special",
+        "link": "https://www.ozbargain.com.au/node/188757",
+        "price": null,
+        "date": "2015-04-01"
+      },
+      {
+        "title": "Mid Season Sale - Take an Extra 25% off All Sale Items, up to 100.00% Cashback @ Cashrewards",
+        "link": "https://www.ozbargain.com.au/node/188455",
+        "price": null,
+        "date": "2015-03-30"
+      },
+      {
+        "title": "Optus Student Offer, Bonus $50 Visa Card on Sim-Only Plan or $100 Visa Card on 24month Contract",
+        "link": "https://www.ozbargain.com.au/node/186922",
+        "price": 50.0,
+        "date": "2015-03-18"
+      },
+      {
+        "title": "Student Sale 10% OFF Hair Straighteners, & Free Shipping 7 Days Money Back & 2 Yr Warranty @ SAS Hair",
+        "link": "https://www.ozbargain.com.au/node/185802",
+        "price": null,
+        "date": "2015-03-10"
+      },
+      {
+        "title": "Tertiary Students 10% off Total Bill with $30+ Spend @ Woolworths (VIC)",
+        "link": "https://www.ozbargain.com.au/node/184778",
+        "price": 30.0,
+        "date": "2015-03-01"
+      }
+    ]
+  },
+  "Ultraboost": {
+    "deals": [
+      {
+        "title": "adidas Men's Ultraboost 5 Running Shoes - White / Glory Grey / Lucid Pink $125 + Delivery ($0 with OnePass) @ Catch",
+        "link": "https://www.ozbargain.com.au/node/892503",
+        "price": 125.0,
+        "date": "2025-02-07"
+      }
+    ]
+  },
+  "Electricity": {
+    "deals": [
+      {
+        "title": "Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder",
+        "link": "https://www.ozbargain.com.au/node/976663",
+        "price": null,
+        "date": "2026-09-28"
+      },
+      {
+        "title": "[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie",
+        "link": "https://www.ozbargain.com.au/node/976508",
+        "price": 200.0,
+        "date": "2026-09-26"
+      },
+      {
+        "title": "[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy",
+        "link": "https://www.ozbargain.com.au/node/976330",
+        "price": null,
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)",
+        "link": "https://www.ozbargain.com.au/node/976341",
+        "price": 200.0,
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU",
+        "link": "https://www.ozbargain.com.au/node/975640",
+        "price": 200.0,
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex",
+        "link": "https://www.ozbargain.com.au/node/975495",
+        "price": 150.0,
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Join Origin Go Variable Ongoing Electricity Plan, Get 5 x $40 Uber Eats 30-Day Voucher (New/Moving Customers) @ Origin Energy",
+        "link": "https://www.ozbargain.com.au/node/974996",
+        "price": 40.0,
+        "date": "2026-09-14"
+      },
+      {
+        "title": "[VIC, NSW, QLD, SA] $12 Electricity Credit in Nov for $6 @ Powershop",
+        "link": "https://www.ozbargain.com.au/node/974428",
+        "price": 12.0,
+        "date": "2026-09-09"
+      },
+      {
+        "title": "[NSW] Join Energy Australia Flexi Plan for $250 Electricity Credit on First Bill (New Accounts Only) @ Energy Australia",
+        "link": "https://www.ozbargain.com.au/node/973921",
+        "price": 250.0,
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Switch Home Electricity/Gas & Stay for 1 Year, Earn up to 35,000 Velocity Points (New Customers Only) @ AGL",
+        "link": "https://www.ozbargain.com.au/node/973757",
+        "price": null,
+        "date": "2026-09-03"
+      }
+    ]
+  }
+}
