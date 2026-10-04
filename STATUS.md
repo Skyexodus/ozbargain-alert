@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-04 04:22 (UTC)_
+_Last checked: 2026-10-04 10:00 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-10-04 04:22 (UTC)_
 
 ### NAS
 
+- 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-30 · $824.99 · [[Prime] Terramaster F4-425 Plus NAS Storage $824.99 Delivered (RRP $1,099.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/977105)
 - 2026-09-30 · $547.49 · [[Prime] TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $547.49 ($527.49 with Zip) Shipped @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/977155)
 - 2026-09-29 · $1,019.99 · [[Prime] UGREEN DXP4800 Pro 4-Bay NAS $1,019.99 Delivered @ UGREEN GROUP LIMITED AU Amazon AU](https://www.ozbargain.com.au/node/976805)
@@ -35,7 +36,6 @@ _Last checked: 2026-10-04 04:22 (UTC)_
 - 2026-08-14 · $583.98 · [TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $583.98 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971408)
 - 2026-08-13 · $879.99 · [TerraMaster F4-425 Plus NAS Storage - 4Bay Intel N150 CPU, 16GB RAM DDR5 $879.99 Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/971215)
 - 2026-08-13 · $847.99 · [TerraMaster F4-424 Pro 4-Bay NAS (i3-N305, 32GB RAM, 2x M.2 NVMe, 2x 2.5G LAN) $847.99 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971283)
-- 2026-08-12 · $671.99 · [Terramaster F4 4 Bay SSD NAS Storage $671.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/971068)
 
 ### HDD
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-04 04:22 (UTC)_
 
 ### SSD
 
+- 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-29 · $122.45 · [[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/976928)
 - 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
 - 2026-09-25 · $231.95 · [Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976405)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-04 04:22 (UTC)_
 - 2026-09-07 · $629.00 · [WD Blue SN5000 4TB PCIe Gen4 M.2 2280 NVMe SSD $629 Delivered @ Tech Junction via Kogan](https://www.ozbargain.com.au/node/974154)
 - 2026-09-07 · $120.14 · [Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $120.14 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/974190)
 - 2026-09-03 · $429.71 · [Corsair MP600 PRO LPX 2TB M.2 NVMe PCIe X4 Gen4 SSD $429.71 (RRP $908) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/973729)
-- 2026-09-02 · $618.30 · [KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 2280 SSD $618.30 Delivered @ Mwave](https://www.ozbargain.com.au/node/973693)
 
 ### NBN (home)
 
@@ -126,3 +126,9 @@ _Last checked: 2026-10-04 04:22 (UTC)_
 - 2026-09-09 · $12.00 · [[VIC, NSW, QLD, SA] $12 Electricity Credit in Nov for $6 @ Powershop](https://www.ozbargain.com.au/node/974428)
 - 2026-09-04 · $250.00 · [[NSW] Join Energy Australia Flexi Plan for $250 Electricity Credit on First Bill (New Accounts Only) @ Energy Australia](https://www.ozbargain.com.au/node/973921)
 - 2026-09-03 · price n/a · [Switch Home Electricity/Gas & Stay for 1 Year, Earn up to 35,000 Velocity Points (New Customers Only) @ AGL](https://www.ozbargain.com.au/node/973757)
+
+### Wine fridge
+
+- 2026-06-08 · $2,039.15 · [DIVIN 57-Can + 20-Bottle Beverage & Wine Fridge $2039.15 (15% off) & Bonus Insulated Wine Bag (Valued $36.50) + Delivery @ DIVIN](https://www.ozbargain.com.au/node/962555)
+- 2025-04-11 · price n/a · [15% off Wine Fridges, Cooler Bags & Glassware + Delivery @ DIVIN Australia](https://www.ozbargain.com.au/node/901424)
+- 2024-11-12 · price n/a · [15% off Wine Fridges, Cooler Bags & Glassware + Delivery @ DIVIN Australia](https://www.ozbargain.com.au/node/876352)
