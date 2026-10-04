@@ -49,6 +49,7 @@ SEEN = HERE / "seen.json"
 HISTORY = HERE / "history.json"
 STATUS = HERE / "STATUS.md"
 TOPIC_FILE = HERE / ".ntfy_topic"
+TELEGRAM_FILE = HERE / ".telegram"
 OZB_NS = "{https://www.ozbargain.com.au}"
 PRICE_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{1,2})?)")
 PATH_RE = re.compile(r"^(tag|cat|brand|product|event|store)/[\w-]+$")
@@ -276,9 +277,38 @@ def notify_ntfy(topic, title, body, url, tags):
         print(f"  ntfy failed: {e}")
 
 
+def telegram_config():
+    """(bot token, chat id) from env vars (cloud) or the local .telegram file."""
+    token, chat = os.environ.get("TELEGRAM_TOKEN", "").strip(), os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if not (token and chat) and TELEGRAM_FILE.exists():
+        token, chat = load_json(TELEGRAM_FILE, {}).get("token", ""), load_json(TELEGRAM_FILE, {}).get("chat_id", "")
+    return token, str(chat)
+
+
+def telegram_api(token, method, payload=None):
+    req = urllib.request.Request(f"https://api.telegram.org/bot{token}/{method}",
+                                 data=json.dumps(payload or {}).encode("utf-8"),
+                                 headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return json.loads(resp.read())
+
+
+def notify_telegram(token, chat, title, body, url, tags):
+    icon = {"fire": "🔥", "moneybag": "💰", "label": "🏷️"}.get(tags[0] if tags else "", "")
+    text = f"{icon} <b>{escape(title)}</b>\n{escape(body)}\n\n<a href=\"{escape(url)}\">Open deal</a>"
+    try:
+        telegram_api(token, "sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML",
+                                            "disable_web_page_preview": False})
+    except Exception as e:
+        print(f"  telegram failed: {e}")
+
+
 def notify(title, body, url, tags=("moneybag",)):
-    if sys.platform == "win32":
+    if sys.platform == "win32" and not os.environ.get("CI"):
         notify_windows(title, body, url)
+    token, chat = telegram_config()
+    if token and chat:
+        notify_telegram(token, chat, title, body, url, list(tags))
     topic = ntfy_topic()
     if topic:
         notify_ntfy(topic, title, body, url, list(tags))
@@ -493,6 +523,30 @@ def cmd_phone(args):
         print("Phone alerts disabled for local runs.")
 
 
+def cmd_telegram(args):
+    """Find your chat with the bot, save it locally and as GitHub secrets, and send a test message."""
+    token = args.token.strip()
+    try:
+        me = telegram_api(token, "getMe")["result"]
+        updates = telegram_api(token, "getUpdates")["result"]
+    except Exception as e:
+        print(f"That bot token didn't work ({e}). Copy it again from BotFather.")
+        return
+    chats = [u["message"]["chat"] for u in updates if "message" in u]
+    if not chats:
+        print(f"Open Telegram, search for @{me['username']}, press Start (or send any message), then run this again.")
+        return
+    chat = chats[-1]
+    save_json(TELEGRAM_FILE, {"token": token, "chat_id": chat["id"]})
+    for name, value in (("TELEGRAM_TOKEN", token), ("TELEGRAM_CHAT_ID", str(chat["id"]))):
+        r = subprocess.run(["gh", "secret", "set", name, "--body", value], cwd=HERE, capture_output=True, text=True)
+        if r.returncode:
+            print(f"Couldn't save {name} to GitHub: {r.stderr.strip()}")
+    notify_telegram(token, chat["id"], "OzBargain alerts connected", f"Hi {chat.get('first_name', '')}! Deals will arrive here.",
+                    "https://www.ozbargain.com.au", ["moneybag"])
+    print(f"Connected to @{me['username']} (chat {chat['id']}). Check Telegram for a test message.")
+
+
 def cmd_test(_args):
     notify("OzBargain alert test", "Notifications are working!", BASE)
     print("Test notification sent.")
@@ -529,6 +583,10 @@ def main():
     ph = sub.add_parser("phone", help="set ntfy.sh topic for local runs ('' to disable)")
     ph.add_argument("topic")
     ph.set_defaults(func=cmd_phone)
+
+    tg = sub.add_parser("telegram", help="connect a Telegram bot (token from @BotFather)")
+    tg.add_argument("token")
+    tg.set_defaults(func=cmd_telegram)
 
     args = p.parse_args()
     args.func(args)
