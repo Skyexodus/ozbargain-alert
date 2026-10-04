@@ -20,7 +20,7 @@ Usage:
   python ozb_alert.py remove "Games"
   python ozb_alert.py check            # check the feed once
   python ozb_alert.py watch -i 10      # keep checking every 10 minutes (local)
-  python ozb_alert.py phone my-topic   # set ntfy.sh topic for phone alerts (local)
+  python ozb_alert.py telegram TOKEN   # connect your Telegram bot for alerts
   python ozb_alert.py test             # send a test notification
 """
 
@@ -48,7 +48,6 @@ WATCHLIST = HERE / "watchlist.json"
 SEEN = HERE / "seen.json"
 HISTORY = HERE / "history.json"
 STATUS = HERE / "STATUS.md"
-TOPIC_FILE = HERE / ".ntfy_topic"
 TELEGRAM_FILE = HERE / ".telegram"
 OZB_NS = "{https://www.ozbargain.com.au}"
 PRICE_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{1,2})?)")
@@ -73,12 +72,6 @@ def save_json(path, data):
 
 def load_watchlist():
     return load_json(WATCHLIST, {"items": []})
-
-
-def ntfy_topic():
-    if os.environ.get("NTFY_TOPIC"):
-        return os.environ["NTFY_TOPIC"].strip()
-    return TOPIC_FILE.read_text().strip() if TOPIC_FILE.exists() else ""
 
 
 def is_item(watch):
@@ -267,16 +260,6 @@ $appId = '{{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}}\\WindowsPowerShell\\v1.0\\pow
                    capture_output=True, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
 
 
-def notify_ntfy(topic, title, body, url, tags):
-    payload = {"topic": topic, "title": title, "message": body, "click": url, "tags": tags}
-    req = urllib.request.Request("https://ntfy.sh", data=json.dumps(payload).encode("utf-8"),
-                                 headers={"Content-Type": "application/json"})
-    try:
-        urllib.request.urlopen(req, timeout=15)
-    except Exception as e:
-        print(f"  ntfy failed: {e}")
-
-
 def telegram_config():
     """(bot token, chat id) from env vars (cloud) or the local .telegram file."""
     token, chat = os.environ.get("TELEGRAM_TOKEN", "").strip(), os.environ.get("TELEGRAM_CHAT_ID", "").strip()
@@ -309,9 +292,6 @@ def notify(title, body, url, tags=("moneybag",)):
     token, chat = telegram_config()
     if token and chat:
         notify_telegram(token, chat, title, body, url, list(tags))
-    topic = ntfy_topic()
-    if topic:
-        notify_ntfy(topic, title, body, url, list(tags))
 
 
 def short(d):
@@ -511,16 +491,7 @@ def cmd_list(_args):
             else:
                 parts.append(f"{len(h.get('deals', []))} recent deal(s)")
             print(f"  - {w['name']}: {' | '.join(parts)}")
-    print(f"Phone (ntfy) topic: {ntfy_topic() or '(not set)'}")
-
-
-def cmd_phone(args):
-    if args.topic:
-        TOPIC_FILE.write_text(args.topic)
-        print(f"Phone alerts (local runs) will go to ntfy topic '{args.topic}'.")
-    else:
-        TOPIC_FILE.unlink(missing_ok=True)
-        print("Phone alerts disabled for local runs.")
+    print(f"Telegram: {'connected' if all(telegram_config()) else 'not set (run: python ozb_alert.py telegram TOKEN)'}")
 
 
 def cmd_telegram(args):
@@ -579,10 +550,6 @@ def main():
     w = sub.add_parser("watch", help="check repeatedly (local)")
     w.add_argument("-i", "--interval", type=float, default=10, help="minutes between checks")
     w.set_defaults(func=cmd_watch)
-
-    ph = sub.add_parser("phone", help="set ntfy.sh topic for local runs ('' to disable)")
-    ph.add_argument("topic")
-    ph.set_defaults(func=cmd_phone)
 
     tg = sub.add_parser("telegram", help="connect a Telegram bot (token from @BotFather)")
     tg.add_argument("token")
