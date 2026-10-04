@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-04 10:00 (UTC)_
+_Last checked: 2026-10-04 15:19 (UTC)_
 
 ## Specific items
 
@@ -77,6 +77,8 @@ _Last checked: 2026-10-04 10:00 (UTC)_
 
 ### Games
 
+- 2026-10-05 · $39.00 · [Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox](https://www.ozbargain.com.au/node/977711)
+- 2026-10-05 · $49.00 · [[Switch] Pokémon Legends: Z-A $49 + $9 Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977710)
 - 2026-10-04 · $5.49 · [[PC/Steam] The Elder Scrolls V: Skyrim Special Edition $5.49 @ Steam](https://www.ozbargain.com.au/node/977640)
 - 2026-10-03 · $2.95 · [[PC, Steam] Death's Door $2.95 @ Steam](https://www.ozbargain.com.au/node/977513)
 - 2026-10-02 · price n/a · [[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games](https://www.ozbargain.com.au/node/977370)
@@ -85,8 +87,6 @@ _Last checked: 2026-10-04 10:00 (UTC)_
 - 2026-10-02 · price n/a · [[Steam] Free - 3 Steam Stickers for Going Through Your Steam Discovery Queue (Steam Autumn Sale 2026) @ Steam](https://www.ozbargain.com.au/node/977380)
 - 2026-10-02 · $1.49 · [[PC, Steam] Mirror's Edge Catalyst $1.49 @ Steam](https://www.ozbargain.com.au/node/977381)
 - 2026-10-02 · $5.99 · [[PC, Steam] Command & Conquer Remastered Collection $5.99 @ Steam](https://www.ozbargain.com.au/node/977409)
-- 2026-10-02 · price n/a · [[PS5, XSX, PC] Free Next-Gen Update for Existing Owners of Metro Redux @ Various Gaming Platforms](https://www.ozbargain.com.au/node/977424)
-- 2026-10-02 · $9.12 · [[PC, Mac, Steam] Hades $9.12, Hades II $30.76 @ Steam](https://www.ozbargain.com.au/node/977431)
 
 ### Drinks
 
