@@ -129,16 +129,22 @@
       "name": "Wine fridge",
       "type": "group",
       "match": [
-        "tag/wine-fridge",
         "tag/wine-cooler",
         "wine fridge",
-        "wine cooler",
-        "wine cabinet",
-        "wine chiller",
         "wine fridges",
-        "wine coolers"
+        "wine cooler",
+        "wine coolers",
+        "wine cabinet",
+        "wine cellar fridge"
       ],
-      "exclude": [],
+      "exclude": [
+        "iceless",
+        "aerator",
+        "sleeve",
+        "stick",
+        "bucket",
+        "pour"
+      ],
       "max_price": null
     }
   ]

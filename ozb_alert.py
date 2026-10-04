@@ -92,11 +92,23 @@ def parse_price(title):
     return None
 
 
+class Redirected(Exception):
+    """An OzBargain tag/product page redirected to a different (usually broader) one."""
+
+
+def check_redirect(asked, got):
+    asked_path = asked.replace(BASE, "").split("?")[0].strip("/")
+    got_path = got.replace(BASE, "").split("?")[0].strip("/")
+    if asked_path != got_path:
+        raise Redirected(f"{asked_path} redirects to {got_path}")
+
+
 def fetch_deals(url=FEED_URL, retries=2):
     req = urllib.request.Request(url, headers=UA)
     for attempt in range(retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
+                check_redirect(url, resp.geturl())
                 root = ET.fromstring(resp.read())
             break
         except urllib.error.HTTPError as e:
@@ -179,6 +191,7 @@ def fetch_page(url, retries=2):
     for attempt in range(retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
+                check_redirect(url, resp.geturl())
                 return resp.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < retries:
@@ -227,6 +240,9 @@ def backfill(history, watch):
             time.sleep(6)  # be polite to OzBargain
         try:
             deals = fetch_history(path) if is_item(watch) else fetch_deals(f"{BASE}/{path}/feed")
+        except Redirected as e:
+            print(f"  (skipped: {e}; use that path instead if it's what you want)")
+            continue
         except Exception as e:
             print(f"  (couldn't read {path}: {e})")
             continue
