@@ -1,1 +1,13 @@
-{"items": []}
+{
+  "items": [
+    {
+      "name": "Test Item",
+      "keywords": [
+        "seagate",
+        "10tb"
+      ],
+      "exclude": [],
+      "max_price": null
+    }
+  ]
+}

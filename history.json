@@ -1,1 +1,30 @@
-{}
+{
+  "Test Item": {
+    "lowest": {
+      "title": "Seagate 10TB Expansion Desktop External Hard Drive $299.60 Delivered @ Amazon Germany via AU",
+      "link": "https://www.ozbargain.com.au/node/884433",
+      "price": 299.6,
+      "date": "2024-12-15"
+    },
+    "recent": [
+      {
+        "title": "Seagate 10TB Expansion Desktop External Hard Drive $299.60 Delivered @ Amazon Germany via AU",
+        "link": "https://www.ozbargain.com.au/node/884433",
+        "price": 299.6,
+        "date": "2024-12-15"
+      },
+      {
+        "title": "Seagate 10TB One Touch Hub Desktop Hard Drive with Rescue $379 In-Store Only @ Officeworks (Selected Stores Only)",
+        "link": "https://www.ozbargain.com.au/node/925264",
+        "price": 379.0,
+        "date": "2025-09-22"
+      },
+      {
+        "title": "Seagate 10TB Expansion Desktop Hard Drive $360.16 (RRP $469) Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/965978",
+        "price": 360.16,
+        "date": "2026-07-01"
+      }
+    ]
+  }
+}
