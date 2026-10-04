@@ -50,6 +50,7 @@ HISTORY = HERE / "history.json"
 STATUS = HERE / "STATUS.md"
 TELEGRAM_FILE = HERE / ".telegram"
 OZB_NS = "{https://www.ozbargain.com.au}"
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 PRICE_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{1,2})?)")
 PATH_RE = re.compile(r"^(tag|cat|brand|product|event|store)/[\w-]+$")
 UA = {"User-Agent": "ozb-alert/1.0 (personal deal alerts)"}
@@ -112,6 +113,8 @@ def fetch_deals(url=FEED_URL, retries=2):
         except (TypeError, ValueError):
             date = datetime.now().strftime("%Y-%m-%d")
         cats = item.findall("category")
+        meta, thumb = item.find(f"{OZB_NS}meta"), item.find(f"{MEDIA_NS}thumbnail")
+        image = (meta.get("image") if meta is not None else None) or (thumb.get("url") if thumb is not None else None)
         deals.append({
             "id": item.findtext("guid", "").split(" ")[0],
             "title": title,
@@ -120,6 +123,7 @@ def fetch_deals(url=FEED_URL, retries=2):
             "categories": [c.text or "" for c in cats],
             "paths": [c.get("domain", "").replace(BASE, "").strip("/") for c in cats],
             "price": parse_price(title),
+            "image": image,
         })
     return deals
 
@@ -164,7 +168,7 @@ def record(history, watch, deal):
     h = history.setdefault(watch["name"], {"deals": []})
     before = stats(h)
     if all(d["link"] != deal["link"] for d in h["deals"]):
-        entry = {k: deal[k] for k in ("title", "link", "price", "date")}
+        entry = {k: deal.get(k) for k in ("title", "link", "price", "date", "image")}
         deals = sorted([entry] + h["deals"], key=lambda d: d["date"], reverse=True)
         h["deals"] = [d for d in deals if d["date"] >= cutoff()] if is_item(watch) else deals[:RECENT_KEEP]
     return before
@@ -198,11 +202,13 @@ def fetch_history(path, max_pages=8):
             if not (nid and title and when):
                 continue
             title = unescape(title.group(1))
+            img = re.search(r'class="foxshot-container">.*?<img src="([^"]+)"', b, re.S)
             deals.append({
                 "id": nid.group(1), "title": title, "link": f"{BASE}/node/{nid.group(1)}",
                 "date": f"{when.group(3)}-{when.group(2)}-{when.group(1)}",
                 "categories": [], "paths": re.findall(r'href="/((?:cat|tag|brand|product)/[\w-]+)"', b) + [path],
                 "price": parse_price(title),
+                "image": unescape(img.group(1)) if img else None,
             })
         if not blocks or f"page={page + 1}" not in html or (deals and deals[-1]["date"] < oldest):
             break
@@ -276,9 +282,16 @@ def telegram_api(token, method, payload=None):
         return json.loads(resp.read())
 
 
-def notify_telegram(token, chat, title, body, url, tags):
+def notify_telegram(token, chat, title, body, url, tags, image=None):
     icon = {"fire": "🔥", "moneybag": "💰", "label": "🏷️"}.get(tags[0] if tags else "", "")
+    body = body if len(body) < 850 else body[:850] + "…"  # photo captions max out at 1024 chars
     text = f"{icon} <b>{escape(title)}</b>\n{escape(body)}\n\n<a href=\"{escape(url)}\">Open deal</a>"
+    if image:
+        try:
+            telegram_api(token, "sendPhoto", {"chat_id": chat, "photo": image, "caption": text, "parse_mode": "HTML"})
+            return
+        except Exception as e:
+            print(f"  telegram photo failed ({e}), sending text only")
     try:
         telegram_api(token, "sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML",
                                             "disable_web_page_preview": False})
@@ -286,12 +299,12 @@ def notify_telegram(token, chat, title, body, url, tags):
         print(f"  telegram failed: {e}")
 
 
-def notify(title, body, url, tags=("moneybag",)):
+def notify(title, body, url, tags=("moneybag",), image=None):
     if sys.platform == "win32" and not os.environ.get("CI"):
         notify_windows(title, body, url)
     token, chat = telegram_config()
     if token and chat:
-        notify_telegram(token, chat, title, body, url, list(tags))
+        notify_telegram(token, chat, title, body, url, list(tags), image)
 
 
 def short(d):
@@ -313,7 +326,7 @@ def alert(watch, deal, before):
     else:
         title, tags = f"[{watch['name']}] {fmt(deal['price'])}", ["label"]
         body = deal["title"]
-    notify(title, body, deal["link"], tags)
+    notify(title, body, deal["link"], tags, deal.get("image"))
 
 
 # ---------- status page ----------
