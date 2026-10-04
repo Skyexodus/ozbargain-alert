@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-04 18:41 (UTC)_
+_Last checked: 2026-10-04 21:59 (UTC)_
 
 ## Specific items
 
@@ -77,6 +77,7 @@ _Last checked: 2026-10-04 18:41 (UTC)_
 
 ### Games
 
+- 2026-10-05 · $75.00 · [Boardgame Mystery Box $75 (Worth $150) + Free Postage on Whole Order ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/977720)
 - 2026-10-05 · $39.00 · [Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox](https://www.ozbargain.com.au/node/977711)
 - 2026-10-05 · $49.00 · [[Switch] Pokémon Legends: Z-A $49 + $9 Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977710)
 - 2026-10-04 · $5.49 · [[PC/Steam] The Elder Scrolls V: Skyrim Special Edition $5.49 @ Steam](https://www.ozbargain.com.au/node/977640)
@@ -86,7 +87,6 @@ _Last checked: 2026-10-04 18:41 (UTC)_
 - 2026-10-02 · price n/a · [[Prime, PC, Epic] Free - DOOM (2016), Five Nights at Freddy's: Into the Pit @ Amazon Luna](https://www.ozbargain.com.au/node/977377)
 - 2026-10-02 · price n/a · [[Steam] Free - 3 Steam Stickers for Going Through Your Steam Discovery Queue (Steam Autumn Sale 2026) @ Steam](https://www.ozbargain.com.au/node/977380)
 - 2026-10-02 · $1.49 · [[PC, Steam] Mirror's Edge Catalyst $1.49 @ Steam](https://www.ozbargain.com.au/node/977381)
-- 2026-10-02 · $5.99 · [[PC, Steam] Command & Conquer Remastered Collection $5.99 @ Steam](https://www.ozbargain.com.au/node/977409)
 
 ### Drinks
 
