@@ -182,7 +182,8 @@ def record(history, watch, deal):
     if all(d["link"] != deal["link"] for d in h["deals"]):
         entry = {k: deal.get(k) for k in ("title", "link", "price", "date", "image")}
         deals = sorted([entry] + h["deals"], key=lambda d: d["date"], reverse=True)
-        h["deals"] = [d for d in deals if d["date"] >= cutoff()] if is_item(watch) else deals[:RECENT_KEEP]
+        deals = [d for d in deals if d["date"] >= cutoff()]
+        h["deals"] = deals if is_item(watch) else deals[:RECENT_KEEP]
     return before
 
 
