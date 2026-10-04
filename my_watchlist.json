@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Whisky", "type": "group", "match": ["tag/whisky", "whisky", "whiskey"], "exclude": [], "max_price": null},
+    {"name": "NAS", "type": "group", "match": ["tag/nas", "nas"], "exclude": [], "max_price": null},
+    {"name": "HDD", "type": "group", "match": ["tag/hard-drive", "hdd", "hard drive"], "exclude": [], "max_price": null},
+    {"name": "SSD", "type": "group", "match": ["tag/ssd", "ssd", "nvme"], "exclude": [], "max_price": null},
+    {"name": "NBN (home)", "type": "group", "match": ["tag/nbn", "nbn"], "exclude": ["cat/mobile", "sim", "esim", "prepaid", "mobile plan"], "max_price": null},
+    {"name": "Games", "type": "group", "match": ["cat/gaming"], "exclude": [], "max_price": null},
+    {"name": "Drinks", "type": "group", "match": ["tag/energy-drink", "energy drink", "energy drinks", "tag/soft-drink", "tag/beverage"], "exclude": [], "max_price": null},
+    {"name": "Turtle Wax Ceramic Spray", "type": "item", "match": ["product/turtle-wax-hybrid-solutions-ceramic-spray-coating", "turtle wax+ceramic"], "exclude": [], "max_price": null},
+    {"name": "Students", "type": "group", "match": ["tag/student", "tag/students", "student", "students", "unidays"], "exclude": [], "max_price": null},
+    {"name": "Ultraboost", "type": "item", "match": ["product/adidas-ultraboost", "ultraboost", "ultra boost"], "exclude": [], "max_price": null},
+    {"name": "Electricity", "type": "group", "match": ["tag/electricity", "electricity"], "exclude": [], "max_price": null}
+  ]
+}

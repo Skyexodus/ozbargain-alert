@@ -2,23 +2,26 @@
 
 Watches the OzBargain new-deals RSS feed and notifies you when a deal matches
 your watchlist. Two kinds of watches:
-  - item:     specific product, matched by keywords (tracks the lowest price seen)
-  - category: every deal in an OzBargain category (optionally filtered by keywords/price)
+  - item:  a specific product; tracks the lowest price seen
+  - group: a topic or category (e.g. all SSD deals); lists recent deals
+
+Each watch has "match" terms; a deal matches if ANY term matches:
+  - an OzBargain page path:  tag/whisky, cat/gaming, brand/seagate, product/adidas-ultraboost
+  - a word/phrase in the deal title (whole words, case-insensitive): "hard drive"
+  - words joined by "+" must ALL appear:  "turtle wax+ceramic"
+Optional filters: "exclude" (same syntax, any hit skips the deal) and "max_price".
 
 Usage:
-  python ozb_alert.py add "Seagate HDD" -k seagate -m 300
-  python ozb_alert.py add "Gaming" -c gaming
-  python ozb_alert.py add "Cheap SSDs" -c computing -k ssd -m 100
+  python ozb_alert.py add "Ultraboost" --item -a product/adidas-ultraboost ultraboost
+  python ozb_alert.py add "SSD" -a tag/ssd ssd nvme -m 150
+  python ozb_alert.py add "Games" -a cat/gaming
+  python ozb_alert.py add "NBN" -a tag/nbn nbn -x cat/mobile sim esim
   python ozb_alert.py list
-  python ozb_alert.py remove "Gaming"
+  python ozb_alert.py remove "Games"
   python ozb_alert.py check            # check the feed once
   python ozb_alert.py watch -i 10      # keep checking every 10 minutes (local)
   python ozb_alert.py phone my-topic   # set ntfy.sh topic for phone alerts (local)
   python ozb_alert.py test             # send a test notification
-
-Category slugs: computing, electrical-electronics, gaming, mobile, home-garden,
-groceries, fashion-apparel, health-beauty, entertainment, travel, automotive,
-sports-outdoors, toys-kids, alcohol, dining-takeaway, financial, internet, ...
 """
 
 import argparse
@@ -29,11 +32,13 @@ import re
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from html import unescape
 from xml.sax.saxutils import escape
 
 BASE = "https://www.ozbargain.com.au"
@@ -46,8 +51,10 @@ STATUS = HERE / "STATUS.md"
 TOPIC_FILE = HERE / ".ntfy_topic"
 OZB_NS = "{https://www.ozbargain.com.au}"
 PRICE_RE = re.compile(r"\$\s?([\d,]+(?:\.\d{1,2})?)")
+PATH_RE = re.compile(r"^(tag|cat|brand|product|event|store)/[\w-]+$")
 UA = {"User-Agent": "ozb-alert/1.0 (personal deal alerts)"}
 RECENT_KEEP = 15
+HISTORY_YEARS = 2
 
 
 # ---------- storage ----------
@@ -73,37 +80,11 @@ def ntfy_topic():
     return TOPIC_FILE.read_text().strip() if TOPIC_FILE.exists() else ""
 
 
-def kind(watch):
-    return "item" if watch.get("keywords") else "category"
+def is_item(watch):
+    return watch.get("type") == "item"
 
 
 # ---------- feed ----------
-
-def fetch_deals(url=FEED_URL):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        root = ET.fromstring(resp.read())
-
-    deals = []
-    for item in root.iter("item"):
-        title = item.findtext("title", "").strip()
-        price = parse_price(title)
-        try:
-            date = parsedate_to_datetime(item.findtext("pubDate", "")).strftime("%Y-%m-%d")
-        except (TypeError, ValueError):
-            date = datetime.now().strftime("%Y-%m-%d")
-        cats = item.findall("category")
-        deals.append({
-            "id": item.findtext("guid", "").split(" ")[0],
-            "title": title,
-            "link": item.findtext("link", ""),
-            "date": date,
-            "categories": [c.text or "" for c in cats],
-            "cat_slugs": [c.get("domain", "").rstrip("/").rsplit("/", 1)[-1] for c in cats],
-            "price": price,
-        })
-    return deals
-
 
 def parse_price(title):
     """First $ amount that looks like the deal price (skips "$X off", "save $X", "RRP $X", "min spend $X")."""
@@ -116,19 +97,57 @@ def parse_price(title):
     return None
 
 
+def fetch_deals(url=FEED_URL, retries=2):
+    req = urllib.request.Request(url, headers=UA)
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                root = ET.fromstring(resp.read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                time.sleep(20 * (attempt + 1))
+                continue
+            raise
+
+    deals = []
+    for item in root.iter("item"):
+        title = item.findtext("title", "").strip()
+        try:
+            date = parsedate_to_datetime(item.findtext("pubDate", "")).strftime("%Y-%m-%d")
+        except (TypeError, ValueError):
+            date = datetime.now().strftime("%Y-%m-%d")
+        cats = item.findall("category")
+        deals.append({
+            "id": item.findtext("guid", "").split(" ")[0],
+            "title": title,
+            "link": item.findtext("link", ""),
+            "date": date,
+            "categories": [c.text or "" for c in cats],
+            "paths": [c.get("domain", "").replace(BASE, "").strip("/") for c in cats],
+            "price": parse_price(title),
+        })
+    return deals
+
+
 # ---------- matching ----------
 
+def has_words(text, phrase):
+    return re.search(r"(?<![a-z0-9])" + re.escape(phrase.lower()) + r"(?![a-z0-9])", text) is not None
+
+
+def term_hits(deal, term):
+    term = term.strip().lower()
+    if PATH_RE.match(term):
+        return term in deal["paths"]
+    title = deal["title"].lower()
+    return all(has_words(title, part.strip()) for part in term.split("+"))
+
+
 def matches(deal, watch):
-    """Category (if set) must match; all keywords must appear; no exclude word; price <= max_price."""
-    cat = watch.get("category")
-    if cat:
-        cat = cat.lower()
-        if cat not in deal["cat_slugs"] and cat not in [c.lower() for c in deal["categories"]]:
-            return False
-    text = deal["title"].lower()
-    if not all(k.lower() in text for k in watch.get("keywords", [])):
+    if not any(term_hits(deal, t) for t in watch.get("match", [])):
         return False
-    if any(x.lower() in text for x in watch.get("exclude", [])):
+    if any(term_hits(deal, t) for t in watch.get("exclude", [])):
         return False
     max_price = watch.get("max_price")
     if max_price is not None and deal["price"] is not None and deal["price"] > max_price:
@@ -136,29 +155,83 @@ def matches(deal, watch):
     return True
 
 
+def cutoff():
+    return (datetime.now() - timedelta(days=365 * HISTORY_YEARS)).strftime("%Y-%m-%d")
+
+
+def stats(h):
+    """Lowest price within the last HISTORY_YEARS years, and the 2 most recent deals."""
+    priced = [d for d in h.get("deals", []) if d["price"] is not None and d["date"] >= cutoff()]
+    return {"lowest": min(priced, key=lambda d: d["price"]) if priced else None, "last": h.get("deals", [])[:2]}
+
+
 def record(history, watch, deal):
-    """Store the deal in this watch's history. Returns (previous lowest, is_new_lowest)."""
-    h = history.setdefault(watch["name"], {"lowest": None, "recent": []})
-    entry = {k: deal[k] for k in ("title", "link", "price", "date")}
-    if all(r["link"] != deal["link"] for r in h["recent"]):
-        h["recent"] = ([entry] + h["recent"])[:RECENT_KEEP]
-    prev = h["lowest"]
-    is_new_low = deal["price"] is not None and (prev is None or deal["price"] < prev["price"])
-    if is_new_low:
-        h["lowest"] = entry
-    return prev, is_new_low
+    """Store the deal in this watch's history. Returns the stats from *before* this deal."""
+    h = history.setdefault(watch["name"], {"deals": []})
+    before = stats(h)
+    if all(d["link"] != deal["link"] for d in h["deals"]):
+        entry = {k: deal[k] for k in ("title", "link", "price", "date")}
+        deals = sorted([entry] + h["deals"], key=lambda d: d["date"], reverse=True)
+        h["deals"] = [d for d in deals if d["date"] >= cutoff()] if is_item(watch) else deals[:RECENT_KEEP]
+    return before
+
+
+def fetch_page(url, retries=2):
+    req = urllib.request.Request(url, headers=UA)
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                time.sleep(20 * (attempt + 1))
+                continue
+            raise
+
+
+def fetch_history(path, max_pages=8):
+    """Deals listed on an OzBargain tag/product page, paging back until HISTORY_YEARS ago."""
+    deals, oldest = [], cutoff()
+    for page in range(max_pages):
+        if page:
+            time.sleep(6)  # be polite to OzBargain
+        html = fetch_page(f"{BASE}/{path}" + (f"?page={page}" if page else ""))
+        blocks = html.split('<div class="node node-ozbdeal')[1:]
+        for b in blocks:
+            nid = re.search(r'id="node(\d+)"', b)
+            title = re.search(r'data-title="([^"]*)"', b)
+            when = re.search(r"\bon (\d\d)/(\d\d)/(\d{4})", b)
+            if not (nid and title and when):
+                continue
+            title = unescape(title.group(1))
+            deals.append({
+                "id": nid.group(1), "title": title, "link": f"{BASE}/node/{nid.group(1)}",
+                "date": f"{when.group(3)}-{when.group(2)}-{when.group(1)}",
+                "categories": [], "paths": re.findall(r'href="/((?:cat|tag|brand|product)/[\w-]+)"', b) + [path],
+                "price": parse_price(title),
+            })
+        if not blocks or f"page={page + 1}" not in html or (deals and deals[-1]["date"] < oldest):
+            break
+    return deals
 
 
 def backfill(history, watch):
-    """Seed price history from OzBargain tag feeds (last ~10 deals per tag), without notifying."""
-    tags = watch.get("tags") or [re.sub(r"[^a-z0-9]+", "-", k.lower()).strip("-") for k in watch.get("keywords", [])]
+    """Seed history without notifying: items get up to HISTORY_YEARS of deals from their
+    tag/product pages; groups get the last ~10 deals from each page's RSS feed."""
+    paths = [t.lower() for t in watch.get("match", []) if PATH_RE.match(t.lower())]
+    if not paths:  # text-only watch: try each word as a tag
+        paths = [f"tag/{re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')}" for t in watch["match"]]
     found = 0
-    for tag in tags:
+    for i, path in enumerate(paths):
+        if i:
+            time.sleep(6)  # be polite to OzBargain
         try:
-            deals = fetch_deals(f"{BASE}/tag/{tag}/feed")
-        except Exception:
+            deals = fetch_history(path) if is_item(watch) else fetch_deals(f"{BASE}/{path}/feed")
+        except Exception as e:
+            print(f"  (couldn't read {path}: {e})")
             continue
         for deal in deals:
+            deal["paths"].append(path)  # it came from this page's feed, even if the item doesn't list it
             if matches(deal, watch):
                 record(history, watch, deal)
                 found += 1
@@ -211,14 +284,22 @@ def notify(title, body, url, tags=("moneybag",)):
         notify_ntfy(topic, title, body, url, list(tags))
 
 
-def alert(watch, deal, prev, is_new_low):
-    if kind(watch) == "item":
-        if is_new_low and prev is not None:
-            title, tags = f"NEW LOWEST · {watch['name']} {fmt(deal['price'])}", ["fire"]
+def short(d):
+    return f"{fmt(d['price'])} ({d['date']})"
+
+
+def alert(watch, deal, before):
+    if is_item(watch):
+        low = before["lowest"]
+        if low and deal["price"] is not None and deal["price"] < low["price"]:
+            title, tags = f"NEW {HISTORY_YEARS}-YR LOW · {watch['name']} {fmt(deal['price'])}", ["fire"]
         else:
             title, tags = f"{watch['name']} {fmt(deal['price'])}", ["moneybag"]
-        low = deal if is_new_low else prev
-        body = f"{deal['title']}\nLowest seen: {fmt(low['price'])} ({low['date']})" if low else deal["title"]
+        body = deal["title"]
+        if low:
+            body += f"\n{HISTORY_YEARS}-yr low: {short(low)}"
+        if before["last"]:
+            body += "\nLast prices: " + ", ".join(short(d) for d in before["last"])
     else:
         title, tags = f"[{watch['name']}] {fmt(deal['price'])}", ["label"]
         body = deal["title"]
@@ -231,28 +312,30 @@ def write_status(config, history):
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     lines = ["# OzBargain watchlist", "", f"_Last checked: {now} (UTC)_", ""]
 
-    items = [w for w in config["items"] if kind(w) == "item"]
-    cats = [w for w in config["items"] if kind(w) == "category"]
+    items = [w for w in config["items"] if is_item(w)]
+    groups = [w for w in config["items"] if not is_item(w)]
 
     lines += ["## Specific items", ""]
     if items:
-        lines += ["| Item | Lowest seen | Latest deal |", "|---|---|---|"]
+        lines += [f"| Item | {HISTORY_YEARS}-yr lowest | Latest price | Previous price | Deals ({HISTORY_YEARS} yrs) |",
+                  "|---|---|---|---|---|"]
         for w in items:
             h = history.get(w["name"], {})
-            low, recent = h.get("lowest"), h.get("recent", [])
-            low_s = f"**{fmt(low['price'])}** ({low['date']}) [link]({low['link']})" if low else "—"
-            last_s = f"{fmt(recent[0]['price'])} ({recent[0]['date']}) [link]({recent[0]['link']})" if recent else "—"
-            lines.append(f"| {w['name']} | {low_s} | {last_s} |")
+            s = stats(h)
+            cell = lambda d: f"{short(d)} [link]({d['link']})" if d else "—"
+            last = s["last"] + [None, None]
+            low_s = f"**{cell(s['lowest'])}**" if s["lowest"] else "—"
+            lines.append(f"| {w['name']} | {low_s} | {cell(last[0])} | {cell(last[1])} | {len(h.get('deals', []))} |")
     else:
         lines.append("_None yet._")
     lines.append("")
 
-    lines += ["## Categories", ""]
-    if not cats:
+    lines += ["## Groups", ""]
+    if not groups:
         lines += ["_None yet._", ""]
-    for w in cats:
-        lines += [f"### {w['name']} (`{w['category']}`)", ""]
-        recent = history.get(w["name"], {}).get("recent", [])
+    for w in groups:
+        lines += [f"### {w['name']}", ""]
+        recent = history.get(w["name"], {}).get("deals", [])
         lines += [f"- {d['date']} · {fmt(d['price'])} · [{d['title']}]({d['link']})" for d in recent[:10]] or ["_No deals yet._"]
         lines.append("")
 
@@ -302,9 +385,9 @@ def cmd_check(_args=None):
         for watch in config["items"]:
             if matches(deal, watch):
                 hits += 1
-                prev, is_new_low = record(history, watch, deal)
+                before = record(history, watch, deal)
                 print(f"  MATCH [{watch['name']}] {deal['title']}\n    {deal['link']}")
-                alert(watch, deal, prev, is_new_low)
+                alert(watch, deal, before)
 
     save_json(SEEN, sorted(seen, key=lambda s: int(s) if s.isdigit() else 0)[-2000:])
     save_json(HISTORY, history)
@@ -319,35 +402,42 @@ def cmd_watch(args):
         time.sleep(args.interval * 60)
 
 
-def cmd_add(args):
-    if not args.keywords and not args.category:
-        args.keywords = args.name.split()
-    sync_pull()
-    config = load_watchlist()
-    config["items"] = [w for w in config["items"] if w["name"].lower() != args.name.lower()]
-    watch = {"name": args.name}
-    if args.category:
-        watch["category"] = args.category.lower()
-    watch["keywords"] = args.keywords or []
-    watch["exclude"] = args.exclude or []
-    watch["max_price"] = args.max_price
-    if args.tags:
-        watch["tags"] = args.tags
+def add_watch(config, history, watch):
+    config["items"] = [w for w in config["items"] if w["name"].lower() != watch["name"].lower()]
     config["items"].append(watch)
-    save_json(WATCHLIST, config)
-    print(f"Added {kind(watch)} '{args.name}'.")
+    history.pop(watch["name"], None)
+    n = backfill(history, watch)
+    s = stats(history.get(watch["name"], {}))
+    if is_item(watch) and s["lowest"]:
+        last = ", ".join(short(d) for d in s["last"])
+        print(f"Added item '{watch['name']}': {n} deal(s) in {HISTORY_YEARS} yrs, lowest {short(s['lowest'])}, last: {last}")
+    else:
+        print(f"Added {watch.get('type', 'group')} '{watch['name']}': {n} past deal(s) found.")
 
-    if kind(watch) == "item":
-        history = load_json(HISTORY, {})
-        history.pop(args.name, None)
-        n = backfill(history, watch)
-        save_json(HISTORY, history)
-        low = history.get(args.name, {}).get("lowest")
-        if low:
-            print(f"Found {n} recent past deal(s). Lowest: {fmt(low['price'])} ({low['date']}) - {low['title']}")
-        else:
-            print("No past deals found yet; lowest price will be tracked from now on.")
+
+def cmd_add(args):
+    sync_pull()
+    config, history = load_watchlist(), load_json(HISTORY, {})
+    watch = {"name": args.name, "type": "item" if args.item else "group",
+             "match": args.any or [args.name], "exclude": args.exclude or [], "max_price": args.max_price}
+    add_watch(config, history, watch)
+    save_json(WATCHLIST, config)
+    save_json(HISTORY, history)
     sync_push(f"Watch {args.name}")
+
+
+def cmd_import(args):
+    """Replace/add watches from a JSON file: {"items": [ {name, type, match, exclude, max_price}, ... ]}"""
+    sync_pull()
+    config, history = load_watchlist(), load_json(HISTORY, {})
+    for i, watch in enumerate(load_json(Path(args.file), {"items": []})["items"]):
+        if i:
+            time.sleep(6)
+        add_watch(config, history, watch)
+    save_json(WATCHLIST, config)
+    save_json(HISTORY, history)
+    write_status(config, history)
+    sync_push("Import watchlist")
 
 
 def cmd_remove(args):
@@ -370,24 +460,25 @@ def cmd_list(_args):
     sync_pull()
     config = load_watchlist()
     history = load_json(HISTORY, {})
-    for label, k in (("Specific items", "item"), ("Categories", "category")):
+    for label, want_item in (("Specific items", True), ("Groups", False)):
         print(f"{label}:")
-        group = [w for w in config["items"] if kind(w) == k]
+        group = [w for w in config["items"] if is_item(w) == want_item]
         if not group:
             print("  (none)")
         for w in group:
-            parts = []
-            if w.get("category"):
-                parts.append(f"category {w['category']}")
-            if w.get("keywords"):
-                parts.append(f"keywords [{', '.join(w['keywords'])}]")
-            if w.get("max_price") is not None:
-                parts.append(f"max {fmt(w['max_price'])}")
+            parts = [f"match [{', '.join(w.get('match', []))}]"]
             if w.get("exclude"):
                 parts.append(f"exclude [{', '.join(w['exclude'])}]")
-            low = history.get(w["name"], {}).get("lowest")
-            if k == "item":
-                parts.append(f"lowest {fmt(low['price'])} ({low['date']})" if low else "lowest —")
+            if w.get("max_price") is not None:
+                parts.append(f"max {fmt(w['max_price'])}")
+            h = history.get(w["name"], {})
+            if want_item:
+                s = stats(h)
+                parts.append(f"{HISTORY_YEARS}-yr low {short(s['lowest'])}" if s["lowest"] else f"{HISTORY_YEARS}-yr low —")
+                if s["last"]:
+                    parts.append("last " + ", ".join(short(d) for d in s["last"]))
+            else:
+                parts.append(f"{len(h.get('deals', []))} recent deal(s)")
             print(f"  - {w['name']}: {' | '.join(parts)}")
     print(f"Phone (ntfy) topic: {ntfy_topic() or '(not set)'}")
 
@@ -412,12 +503,15 @@ def main():
 
     a = sub.add_parser("add", help="add or replace a watch")
     a.add_argument("name")
-    a.add_argument("-c", "--category", help="OzBargain category slug, e.g. gaming, computing")
-    a.add_argument("-k", "--keywords", nargs="+", help="words that must ALL appear (default for items: words of the name)")
-    a.add_argument("-x", "--exclude", nargs="+", help="skip deals containing any of these words")
+    a.add_argument("-a", "--any", nargs="+", help="match terms: tag/x, cat/x, product/x, words, or a+b (default: the name)")
+    a.add_argument("-x", "--exclude", nargs="+", help="skip deals matching any of these terms")
     a.add_argument("-m", "--max-price", type=float, help="only alert at or below this price")
-    a.add_argument("-t", "--tags", nargs="+", help="OzBargain tags to look up past prices (default: keywords)")
+    a.add_argument("--item", action="store_true", help="specific product: track lowest price")
     a.set_defaults(func=cmd_add)
+
+    im = sub.add_parser("import", help="add watches from a JSON file")
+    im.add_argument("file")
+    im.set_defaults(func=cmd_import)
 
     r = sub.add_parser("remove", help="remove a watch")
     r.add_argument("name")
