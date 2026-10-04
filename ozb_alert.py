@@ -406,8 +406,9 @@ def add_watch(config, history, watch):
     config["items"] = [w for w in config["items"] if w["name"].lower() != watch["name"].lower()]
     config["items"].append(watch)
     history.pop(watch["name"], None)
-    n = backfill(history, watch)
-    s = stats(history.get(watch["name"], {}))
+    backfill(history, watch)
+    h = history.get(watch["name"], {})
+    s, n = stats(h), len(h.get("deals", []))
     if is_item(watch) and s["lowest"]:
         last = ", ".join(short(d) for d in s["last"])
         print(f"Added item '{watch['name']}': {n} deal(s) in {HISTORY_YEARS} yrs, lowest {short(s['lowest'])}, last: {last}")
