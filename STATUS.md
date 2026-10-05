@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-05 15:02 (UTC)_
+_Last checked: 2026-10-05 21:59 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-05 15:02 (UTC)_
 
 ### SSD
 
+- 2026-10-06 · $589.00 · [2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance](https://www.ozbargain.com.au/node/977841)
 - 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
 - 2026-10-05 · $2,899.00 · [Lenovo Legion 7a 15" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo](https://www.ozbargain.com.au/node/977761)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-05 15:02 (UTC)_
 - 2026-09-25 · $159.00 · [Kingston NV2 2TB NVMe M.2 2280 SSD $159.00 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976408)
 - 2026-09-22 · $132.99 · [Fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280 Internal SSD $132.99 Delivered @ LDCEMS via Amazon AU](https://www.ozbargain.com.au/node/975974)
 - 2026-09-13 · $175.75 · [Lexar NS100 1TB 2.5" SSD $175.75 Delivered / NSW C&C @ Mwave](https://www.ozbargain.com.au/node/974857)
-- 2026-09-07 · $629.00 · [WD Blue SN5000 4TB PCIe Gen4 M.2 2280 NVMe SSD $629 Delivered @ Tech Junction via Kogan](https://www.ozbargain.com.au/node/974154)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-05 15:02 (UTC)_
 
 ### Games
 
+- 2026-10-06 · price n/a · [[PC, Steam] Free - Save the Earth @ Steam](https://www.ozbargain.com.au/node/977834)
 - 2026-10-06 · $12.74 · [[PC, Steam] Sons of The Forest $12.74 @ Steam](https://www.ozbargain.com.au/node/977831)
 - 2026-10-05 · $26.55 · [[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam](https://www.ozbargain.com.au/node/977825)
 - 2026-10-05 · price n/a · [[PC, Mac, Steam] Free - FROGGIN' AROUND @ Steam](https://www.ozbargain.com.au/node/977789)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-05 15:02 (UTC)_
 - 2026-10-04 · $5.49 · [[PC/Steam] The Elder Scrolls V: Skyrim Special Edition $5.49 @ Steam](https://www.ozbargain.com.au/node/977640)
 - 2026-10-03 · $2.95 · [[PC, Steam] Death's Door $2.95 @ Steam](https://www.ozbargain.com.au/node/977513)
 - 2026-10-02 · price n/a · [[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games](https://www.ozbargain.com.au/node/977370)
-- 2026-10-02 · price n/a · [[Android, Epic] Free - Bridge Constructor Studio @ Epic Games](https://www.ozbargain.com.au/node/977371)
 
 ### Drinks
 
