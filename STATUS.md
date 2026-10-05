@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-05 00:46 (UTC)_
+_Last checked: 2026-10-05 06:19 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 
 ### SSD
 
+- 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
+- 2026-10-05 · $2,899.00 · [Lenovo Legion 7a 15" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo](https://www.ozbargain.com.au/node/977761)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-29 · $122.45 · [[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/976928)
 - 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
@@ -60,11 +62,10 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 - 2026-09-22 · $132.99 · [Fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280 Internal SSD $132.99 Delivered @ LDCEMS via Amazon AU](https://www.ozbargain.com.au/node/975974)
 - 2026-09-13 · $175.75 · [Lexar NS100 1TB 2.5" SSD $175.75 Delivered / NSW C&C @ Mwave](https://www.ozbargain.com.au/node/974857)
 - 2026-09-07 · $629.00 · [WD Blue SN5000 4TB PCIe Gen4 M.2 2280 NVMe SSD $629 Delivered @ Tech Junction via Kogan](https://www.ozbargain.com.au/node/974154)
-- 2026-09-07 · $120.14 · [Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $120.14 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/974190)
-- 2026-09-03 · $429.71 · [Corsair MP600 PRO LPX 2TB M.2 NVMe PCIe X4 Gen4 SSD $429.71 (RRP $908) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/973729)
 
 ### NBN (home)
 
+- 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
 - 2026-10-01 · $74.00 · [nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/977311)
 - 2026-09-28 · $68.00 · [Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/976658)
@@ -90,6 +91,7 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 
 ### Drinks
 
+- 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
 - 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
 - 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
 - 2026-09-28 · price n/a · [Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)](https://www.ozbargain.com.au/node/976699)
@@ -99,7 +101,6 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 - 2026-09-26 · $20.00 · [Domino’s - 1 Large Traditional Pizza + 1.25L Drink + Garlic Sauce $20 Pickup / 2 Pizzas $30 / 3 Pizzas $40](https://www.ozbargain.com.au/node/976558)
 - 2026-09-25 · $8.95 · [$8.95 Small Quarter Pounder Meal + 6pc Chicken McNuggets (MyMacca's App Required) @ McDonald's](https://www.ozbargain.com.au/node/976352)
 - 2026-09-24 · price n/a · [20% off Food and Drinks at Select Airport Locations with Visa Infinite or Visa Signature Cards](https://www.ozbargain.com.au/node/976260)
-- 2026-09-23 · $19.99 · [[NSW, VIC] Spring Discoveries Black Box $19.99 (Worth $115) + Delivery @ Black Box Australia](https://www.ozbargain.com.au/node/976156)
 
 ### Students
 
@@ -116,6 +117,7 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 
 ### Electricity
 
+- 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
 - 2026-09-26 · $200.00 · [[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie](https://www.ozbargain.com.au/node/976508)
 - 2026-09-24 · price n/a · [[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy](https://www.ozbargain.com.au/node/976330)
@@ -125,7 +127,6 @@ _Last checked: 2026-10-05 00:46 (UTC)_
 - 2026-09-14 · $40.00 · [Join Origin Go Variable Ongoing Electricity Plan, Get 5 x $40 Uber Eats 30-Day Voucher (New/Moving Customers) @ Origin Energy](https://www.ozbargain.com.au/node/974996)
 - 2026-09-09 · $12.00 · [[VIC, NSW, QLD, SA] $12 Electricity Credit in Nov for $6 @ Powershop](https://www.ozbargain.com.au/node/974428)
 - 2026-09-04 · $250.00 · [[NSW] Join Energy Australia Flexi Plan for $250 Electricity Credit on First Bill (New Accounts Only) @ Energy Australia](https://www.ozbargain.com.au/node/973921)
-- 2026-09-03 · price n/a · [Switch Home Electricity/Gas & Stay for 1 Year, Earn up to 35,000 Velocity Points (New Customers Only) @ AGL](https://www.ozbargain.com.au/node/973757)
 
 ### Wine fridge
 
