@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-05 06:19 (UTC)_
+_Last checked: 2026-10-05 15:02 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-05 06:19 (UTC)_
 
 ### Games
 
+- 2026-10-06 · $12.74 · [[PC, Steam] Sons of The Forest $12.74 @ Steam](https://www.ozbargain.com.au/node/977831)
+- 2026-10-05 · $26.55 · [[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam](https://www.ozbargain.com.au/node/977825)
+- 2026-10-05 · price n/a · [[PC, Mac, Steam] Free - FROGGIN' AROUND @ Steam](https://www.ozbargain.com.au/node/977789)
 - 2026-10-05 · $75.00 · [Boardgame Mystery Box $75 (Worth $150) + Free Postage on Whole Order ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/977720)
 - 2026-10-05 · $39.00 · [Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox](https://www.ozbargain.com.au/node/977711)
 - 2026-10-05 · $49.00 · [[Switch] Pokémon Legends: Z-A $49 + $9 Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977710)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-05 06:19 (UTC)_
 - 2026-10-03 · $2.95 · [[PC, Steam] Death's Door $2.95 @ Steam](https://www.ozbargain.com.au/node/977513)
 - 2026-10-02 · price n/a · [[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games](https://www.ozbargain.com.au/node/977370)
 - 2026-10-02 · price n/a · [[Android, Epic] Free - Bridge Constructor Studio @ Epic Games](https://www.ozbargain.com.au/node/977371)
-- 2026-10-02 · price n/a · [[Prime, PC, Epic] Free - DOOM (2016), Five Nights at Freddy's: Into the Pit @ Amazon Luna](https://www.ozbargain.com.au/node/977377)
-- 2026-10-02 · price n/a · [[Steam] Free - 3 Steam Stickers for Going Through Your Steam Discovery Queue (Steam Autumn Sale 2026) @ Steam](https://www.ozbargain.com.au/node/977380)
-- 2026-10-02 · $1.49 · [[PC, Steam] Mirror's Edge Catalyst $1.49 @ Steam](https://www.ozbargain.com.au/node/977381)
 
 ### Drinks
 
