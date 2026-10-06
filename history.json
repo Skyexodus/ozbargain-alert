@@ -222,6 +222,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/977966",
+        "price": 239.0,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/66/977966l.jpg?h=c22257d1"
+      },
+      {
         "title": "[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay",
         "link": "https://www.ozbargain.com.au/node/977932",
         "price": 160.65,
@@ -311,12 +318,6 @@
         "link": "https://www.ozbargain.com.au/node/974154",
         "price": 629.0,
         "date": "2026-09-07"
-      },
-      {
-        "title": "Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $120.14 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/974190",
-        "price": 120.14,
-        "date": "2026-09-07"
       }
     ]
   },
@@ -394,6 +395,20 @@
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle",
+        "link": "https://www.ozbargain.com.au/node/977962",
+        "price": 20.95,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/62/977962l.jpg?h=9e540ec9"
+      },
+      {
+        "title": "[Prime, PC] Free - Conarium, WarBreeds, Vampire: The Masquerade - Swansong, Caravan SandWitch, Ad Infinitum + More @ Amazon Luna",
+        "link": "https://www.ozbargain.com.au/node/977958",
+        "price": null,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/58/977958l.jpg?h=a45359ce"
+      },
       {
         "title": "[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK",
         "link": "https://www.ozbargain.com.au/node/977955",
@@ -484,20 +499,6 @@
         "price": null,
         "date": "2026-10-05",
         "image": "https://files.ozbargain.com.au/n/89/977789l.jpg?h=f4f786a0"
-      },
-      {
-        "title": "Boardgame Mystery Box $75 (Worth $150) + Free Postage on Whole Order ($0 NSW C&C) @ Bulk Cards",
-        "link": "https://www.ozbargain.com.au/node/977720",
-        "price": 75.0,
-        "date": "2026-10-05",
-        "image": null
-      },
-      {
-        "title": "Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox",
-        "link": "https://www.ozbargain.com.au/node/977711",
-        "price": 39.0,
-        "date": "2026-10-05",
-        "image": "https://files.ozbargain.com.au/n/11/977711l.jpg?h=0ed81640"
       }
     ]
   },

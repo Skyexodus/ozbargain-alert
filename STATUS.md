@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-06 15:55 (UTC)_
+_Last checked: 2026-10-06 20:51 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-06 15:55 (UTC)_
 
 ### SSD
 
+- 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
 - 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 - 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
 - 2026-10-06 · $289.43 · [Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977871)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-06 15:55 (UTC)_
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-29 · $122.45 · [[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/976928)
 - 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
-- 2026-09-25 · $231.95 · [Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976405)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-06 15:55 (UTC)_
 
 ### Games
 
+- 2026-10-07 · $20.95 · [[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/977962)
+- 2026-10-07 · price n/a · [[Prime, PC] Free - Conarium, WarBreeds, Vampire: The Masquerade - Swansong, Caravan SandWitch, Ad Infinitum + More @ Amazon Luna](https://www.ozbargain.com.au/node/977958)
 - 2026-10-07 · price n/a · [[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK](https://www.ozbargain.com.au/node/977955)
 - 2026-10-06 · price n/a · [Free - 5 Spider-Man: Brand New Day Avatars @ PlayStation](https://www.ozbargain.com.au/node/977950)
 - 2026-10-06 · $4.86 · [[PC, Steam] Birds of War $4.86 (Was $6.95) @ Steam](https://www.ozbargain.com.au/node/977945)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-06 15:55 (UTC)_
 - 2026-10-06 · $79.54 · [Endeavor Deep Sea $79.54, Expeditions $85.03, Moon Colony Bloodbath $76.07, SETI $82.98, Unmatched $47 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977893)
 - 2026-10-06 · $24.96 · [Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/977867)
 - 2026-10-06 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/977853)
-- 2026-10-06 · $123.76 · [[Prime] Atari 7800+ $123.76 (35% off RRP $189.95) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/977851)
-- 2026-10-06 · price n/a · [[PC, Steam] Free - Save the Earth @ Steam](https://www.ozbargain.com.au/node/977834)
 
 ### Drinks
 
