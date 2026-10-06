@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-06 09:06 (UTC)_
+_Last checked: 2026-10-06 15:55 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-06 09:06 (UTC)_
 
 ### Games
 
+- 2026-10-07 · price n/a · [[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK](https://www.ozbargain.com.au/node/977955)
+- 2026-10-06 · price n/a · [Free - 5 Spider-Man: Brand New Day Avatars @ PlayStation](https://www.ozbargain.com.au/node/977950)
+- 2026-10-06 · $4.86 · [[PC, Steam] Birds of War $4.86 (Was $6.95) @ Steam](https://www.ozbargain.com.au/node/977945)
 - 2026-10-06 · $49.00 · [Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977927)
 - 2026-10-06 · price n/a · [2,000 Mymacca’s Points for 14 Days of World of Warcraft Sub @MyMacca's via App](https://www.ozbargain.com.au/node/977916)
 - 2026-10-06 · $79.54 · [Endeavor Deep Sea $79.54, Expeditions $85.03, Moon Colony Bloodbath $76.07, SETI $82.98, Unmatched $47 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977893)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-06 09:06 (UTC)_
 - 2026-10-06 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/977853)
 - 2026-10-06 · $123.76 · [[Prime] Atari 7800+ $123.76 (35% off RRP $189.95) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/977851)
 - 2026-10-06 · price n/a · [[PC, Steam] Free - Save the Earth @ Steam](https://www.ozbargain.com.au/node/977834)
-- 2026-10-06 · $12.74 · [[PC, Steam] Sons of The Forest $12.74 @ Steam](https://www.ozbargain.com.au/node/977831)
-- 2026-10-05 · $26.55 · [[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam](https://www.ozbargain.com.au/node/977825)
-- 2026-10-05 · price n/a · [[PC, Mac, Steam] Free - FROGGIN' AROUND @ Steam](https://www.ozbargain.com.au/node/977789)
 
 ### Drinks
 
