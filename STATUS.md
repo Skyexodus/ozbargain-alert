@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-06 02:12 (UTC)_
+_Last checked: 2026-10-06 09:06 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 
 ### NAS
 
+- 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-30 · $824.99 · [[Prime] Terramaster F4-425 Plus NAS Storage $824.99 Delivered (RRP $1,099.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/977105)
 - 2026-09-30 · $547.49 · [[Prime] TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $547.49 ($527.49 with Zip) Shipped @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/977155)
@@ -35,10 +36,11 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 - 2026-08-18 · $260.36 · [Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @  youyeetoo Official AliExpress](https://www.ozbargain.com.au/node/971828)
 - 2026-08-14 · $583.98 · [TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $583.98 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971408)
 - 2026-08-13 · $879.99 · [TerraMaster F4-425 Plus NAS Storage - 4Bay Intel N150 CPU, 16GB RAM DDR5 $879.99 Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/971215)
-- 2026-08-13 · $847.99 · [TerraMaster F4-424 Pro 4-Bay NAS (i3-N305, 32GB RAM, 2x M.2 NVMe, 2x 2.5G LAN) $847.99 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971283)
 
 ### HDD
 
+- 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
+- 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
 - 2026-09-06 · $326.50 · [Seagate Skyhawk 8TB 3.5" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/974118)
 - 2026-08-26 · $225.25 · [[Used] EMC 8TB WD HUH721008ALN600 3.5" 4Kn 7.2K SATA Enterprise HDD $225.25 ($212 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/972765)
 - 2026-07-31 · $404.60 · [Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/969728)
@@ -47,11 +49,10 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 - 2026-07-11 · $599.95 · [[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology](https://www.ozbargain.com.au/node/967492)
 - 2026-07-10 · $292.79 · [Seagate Skyhawk 14TB ST14000VE0008 $292.79 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/967312)
 - 2026-06-29 · $1,499.00 · [$100 off $1000 Minimum Spend on Select Products: Palit GeForce RTX 5080 GPU $1499, 5070 Ti $1199 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/965567)
-- 2026-06-21 · $278.92 · [Seagate IronWolf 6TB NAS HDD $278.92 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/964448)
-- 2026-06-18 · $384.84 · [Seagate IronWolf 8TB NAS HDD $384.84 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/964063)
 
 ### SSD
 
+- 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 - 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
 - 2026-10-06 · $289.43 · [Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977871)
 - 2026-10-06 · $589.00 · [2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance](https://www.ozbargain.com.au/node/977841)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 - 2026-09-29 · $122.45 · [[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/976928)
 - 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
 - 2026-09-25 · $231.95 · [Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976405)
-- 2026-09-25 · $159.00 · [Kingston NV2 2TB NVMe M.2 2280 SSD $159.00 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976408)
 
 ### NBN (home)
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 
 ### Games
 
+- 2026-10-06 · $49.00 · [Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977927)
+- 2026-10-06 · price n/a · [2,000 Mymacca’s Points for 14 Days of World of Warcraft Sub @MyMacca's via App](https://www.ozbargain.com.au/node/977916)
+- 2026-10-06 · $79.54 · [Endeavor Deep Sea $79.54, Expeditions $85.03, Moon Colony Bloodbath $76.07, SETI $82.98, Unmatched $47 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977893)
 - 2026-10-06 · $24.96 · [Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/977867)
 - 2026-10-06 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/977853)
 - 2026-10-06 · $123.76 · [[Prime] Atari 7800+ $123.76 (35% off RRP $189.95) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/977851)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-06 02:12 (UTC)_
 - 2026-10-06 · $12.74 · [[PC, Steam] Sons of The Forest $12.74 @ Steam](https://www.ozbargain.com.au/node/977831)
 - 2026-10-05 · $26.55 · [[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam](https://www.ozbargain.com.au/node/977825)
 - 2026-10-05 · price n/a · [[PC, Mac, Steam] Free - FROGGIN' AROUND @ Steam](https://www.ozbargain.com.au/node/977789)
-- 2026-10-05 · $75.00 · [Boardgame Mystery Box $75 (Worth $150) + Free Postage on Whole Order ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/977720)
-- 2026-10-05 · $39.00 · [Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox](https://www.ozbargain.com.au/node/977711)
-- 2026-10-05 · $49.00 · [[Switch] Pokémon Legends: Z-A $49 + $9 Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977710)
 
 ### Drinks
 

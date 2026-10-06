@@ -66,6 +66,13 @@
   "NAS": {
     "deals": [
       {
+        "title": "Western Digital WD Red Plus 4TB 3.5\" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU",
+        "link": "https://www.ozbargain.com.au/node/977933",
+        "price": 164.78,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/33/977933l.jpg?h=b47302ed"
+      },
+      {
         "title": "TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/977702",
         "price": 1124.99,
@@ -137,6 +144,20 @@
   "HDD": {
     "deals": [
       {
+        "title": "Western Digital WD Red Plus 4TB 3.5\" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU",
+        "link": "https://www.ozbargain.com.au/node/977933",
+        "price": 164.78,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/33/977933l.jpg?h=b47302ed"
+      },
+      {
+        "title": "[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/977897",
+        "price": 874.27,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/97/977897l.jpg?h=01f6c64e"
+      },
+      {
         "title": "Seagate Skyhawk 8TB 3.5\" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU",
         "link": "https://www.ozbargain.com.au/node/974118",
         "price": 326.5,
@@ -200,6 +221,13 @@
   },
   "SSD": {
     "deals": [
+      {
+        "title": "[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay",
+        "link": "https://www.ozbargain.com.au/node/977932",
+        "price": 160.65,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/32/977932l.jpg?h=558848a7"
+      },
       {
         "title": "[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders",
         "link": "https://www.ozbargain.com.au/node/977881",
@@ -289,12 +317,6 @@
         "link": "https://www.ozbargain.com.au/node/974190",
         "price": 120.14,
         "date": "2026-09-07"
-      },
-      {
-        "title": "Corsair MP600 PRO LPX 2TB M.2 NVMe PCIe X4 Gen4 SSD $429.71 (RRP $908) Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/973729",
-        "price": 429.71,
-        "date": "2026-09-03"
       }
     ]
   },
@@ -372,6 +394,27 @@
   },
   "Games": {
     "deals": [
+      {
+        "title": "Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target",
+        "link": "https://www.ozbargain.com.au/node/977927",
+        "price": 49.0,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/27/977927l.jpg?h=7c87ec31"
+      },
+      {
+        "title": "2,000 Mymacca’s Points for 14 Days of World of Warcraft Sub @MyMacca's via App",
+        "link": "https://www.ozbargain.com.au/node/977916",
+        "price": null,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/16/977916l.jpg?h=67ba5af1"
+      },
+      {
+        "title": "Endeavor Deep Sea $79.54, Expeditions $85.03, Moon Colony Bloodbath $76.07, SETI $82.98, Unmatched $47 Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/977893",
+        "price": 79.54,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/93/977893l.jpg?h=199b0165"
+      },
       {
         "title": "Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
         "link": "https://www.ozbargain.com.au/node/977867",
@@ -453,24 +496,6 @@
         "link": "https://www.ozbargain.com.au/node/977513",
         "price": 2.95,
         "date": "2026-10-03"
-      },
-      {
-        "title": "[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/977370",
-        "price": null,
-        "date": "2026-10-02"
-      },
-      {
-        "title": "[Android, Epic] Free - Bridge Constructor Studio @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/977371",
-        "price": null,
-        "date": "2026-10-02"
-      },
-      {
-        "title": "[Prime, PC, Epic] Free - DOOM (2016), Five Nights at Freddy's: Into the Pit @ Amazon Luna",
-        "link": "https://www.ozbargain.com.au/node/977377",
-        "price": null,
-        "date": "2026-10-02"
       }
     ]
   },
