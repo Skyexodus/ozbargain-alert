@@ -201,6 +201,20 @@
   "SSD": {
     "deals": [
       {
+        "title": "[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders",
+        "link": "https://www.ozbargain.com.au/node/977881",
+        "price": 299.0,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/81/977881l.jpg?h=fa1ab670"
+      },
+      {
+        "title": "Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/977871",
+        "price": 289.43,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/71/977871l.jpg?h=2a1bdeb4"
+      },
+      {
         "title": "2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance",
         "link": "https://www.ozbargain.com.au/node/977841",
         "price": 589.0,
@@ -281,17 +295,18 @@
         "link": "https://www.ozbargain.com.au/node/973729",
         "price": 429.71,
         "date": "2026-09-03"
-      },
-      {
-        "title": "KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 2280 SSD $618.30 Delivered @ Mwave",
-        "link": "https://www.ozbargain.com.au/node/973693",
-        "price": 618.3,
-        "date": "2026-09-02"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra",
+        "link": "https://www.ozbargain.com.au/node/977865",
+        "price": 69.0,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/65/977865l.jpg?h=f3049020"
+      },
       {
         "title": "Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU",
         "link": "https://www.ozbargain.com.au/node/977763",
@@ -357,6 +372,27 @@
   },
   "Games": {
     "deals": [
+      {
+        "title": "Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/977867",
+        "price": 24.96,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/67/977867l.jpg?h=9c747f2e"
+      },
+      {
+        "title": "Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi",
+        "link": "https://www.ozbargain.com.au/node/977853",
+        "price": 699.0,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/53/977853l.jpg?h=18e3ba17"
+      },
+      {
+        "title": "[Prime] Atari 7800+ $123.76 (35% off RRP $189.95) Delivered @ Amazon DE via AU",
+        "link": "https://www.ozbargain.com.au/node/977851",
+        "price": 123.76,
+        "date": "2026-10-06",
+        "image": "https://files.ozbargain.com.au/n/51/977851l.jpg?h=12f36a4a"
+      },
       {
         "title": "[PC, Steam] Free - Save the Earth @ Steam",
         "link": "https://www.ozbargain.com.au/node/977834",
@@ -434,24 +470,6 @@
         "title": "[Prime, PC, Epic] Free - DOOM (2016), Five Nights at Freddy's: Into the Pit @ Amazon Luna",
         "link": "https://www.ozbargain.com.au/node/977377",
         "price": null,
-        "date": "2026-10-02"
-      },
-      {
-        "title": "[Steam] Free - 3 Steam Stickers for Going Through Your Steam Discovery Queue (Steam Autumn Sale 2026) @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977380",
-        "price": null,
-        "date": "2026-10-02"
-      },
-      {
-        "title": "[PC, Steam] Mirror's Edge Catalyst $1.49 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977381",
-        "price": 1.49,
-        "date": "2026-10-02"
-      },
-      {
-        "title": "[PC, Steam] Command & Conquer Remastered Collection $5.99 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977409",
-        "price": 5.99,
         "date": "2026-10-02"
       }
     ]

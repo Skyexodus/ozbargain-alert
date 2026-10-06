@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-05 21:59 (UTC)_
+_Last checked: 2026-10-06 02:12 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-10-05 21:59 (UTC)_
 
 ### SSD
 
+- 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
+- 2026-10-06 · $289.43 · [Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977871)
 - 2026-10-06 · $589.00 · [2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance](https://www.ozbargain.com.au/node/977841)
 - 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
 - 2026-10-05 · $2,899.00 · [Lenovo Legion 7a 15" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo](https://www.ozbargain.com.au/node/977761)
@@ -60,11 +62,10 @@ _Last checked: 2026-10-05 21:59 (UTC)_
 - 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
 - 2026-09-25 · $231.95 · [Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976405)
 - 2026-09-25 · $159.00 · [Kingston NV2 2TB NVMe M.2 2280 SSD $159.00 + Delivery @ Mwave](https://www.ozbargain.com.au/node/976408)
-- 2026-09-22 · $132.99 · [Fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280 Internal SSD $132.99 Delivered @ LDCEMS via Amazon AU](https://www.ozbargain.com.au/node/975974)
-- 2026-09-13 · $175.75 · [Lexar NS100 1TB 2.5" SSD $175.75 Delivered / NSW C&C @ Mwave](https://www.ozbargain.com.au/node/974857)
 
 ### NBN (home)
 
+- 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
 - 2026-10-01 · $74.00 · [nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/977311)
@@ -74,10 +75,12 @@ _Last checked: 2026-10-05 21:59 (UTC)_
 - 2026-09-21 · $50.00 · [nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim](https://www.ozbargain.com.au/node/975834)
 - 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
 - 2026-09-19 · $69.99 · [nbn FTTP or HFC 500/50 $69.99/M for 6-Months Then $79.99/M for 18-Months (Existing Exetel & Superloop Customers Only) @ Arctel](https://www.ozbargain.com.au/node/975728)
-- 2026-09-19 · $54.00 · [nbn 25/10 $54/Month, 50/20 $69/Month, 500/50 $72/Month, 1000/100 $85/Month for 6 Months (New Customers) @ Swoop](https://www.ozbargain.com.au/node/975747)
 
 ### Games
 
+- 2026-10-06 · $24.96 · [Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/977867)
+- 2026-10-06 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/977853)
+- 2026-10-06 · $123.76 · [[Prime] Atari 7800+ $123.76 (35% off RRP $189.95) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/977851)
 - 2026-10-06 · price n/a · [[PC, Steam] Free - Save the Earth @ Steam](https://www.ozbargain.com.au/node/977834)
 - 2026-10-06 · $12.74 · [[PC, Steam] Sons of The Forest $12.74 @ Steam](https://www.ozbargain.com.au/node/977831)
 - 2026-10-05 · $26.55 · [[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam](https://www.ozbargain.com.au/node/977825)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-05 21:59 (UTC)_
 - 2026-10-05 · $75.00 · [Boardgame Mystery Box $75 (Worth $150) + Free Postage on Whole Order ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/977720)
 - 2026-10-05 · $39.00 · [Sandisk Micro SD Express Card 256GB For Nintendo Switch 2 $39 + $15 Delivery ($0 C&C/ $100 Order) @ GiftBox](https://www.ozbargain.com.au/node/977711)
 - 2026-10-05 · $49.00 · [[Switch] Pokémon Legends: Z-A $49 + $9 Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977710)
-- 2026-10-04 · $5.49 · [[PC/Steam] The Elder Scrolls V: Skyrim Special Edition $5.49 @ Steam](https://www.ozbargain.com.au/node/977640)
-- 2026-10-03 · $2.95 · [[PC, Steam] Death's Door $2.95 @ Steam](https://www.ozbargain.com.au/node/977513)
-- 2026-10-02 · price n/a · [[PC, Epic] Free - Out of Sight & TerraScape @ Epic Games](https://www.ozbargain.com.au/node/977370)
 
 ### Drinks
 
