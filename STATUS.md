@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-07 19:35 (UTC)_
+_Last checked: 2026-10-07 23:48 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-07 19:35 (UTC)_
 
 ### Games
 
+- 2026-10-08 · price n/a · [[PC, PS5, Xbox, Switch] Watch Live Stream for 90 minutes & Earn In-Game Items for The Witcher 3: Wild Hunt (Remastered) @ Twitch](https://www.ozbargain.com.au/node/978125)
+- 2026-10-08 · price n/a · [[Switch 2] Free - Minecraft Switch 2 Version for Owners of Digital Switch Version @ Nintendo eShop](https://www.ozbargain.com.au/node/978110)
 - 2026-10-07 · $138.47 · [[Prime] The C64 Mini - Black Edition $138.47 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/978098)
 - 2026-10-07 · price n/a · [[Switch 2] In Game Free Resort Set for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/978091)
 - 2026-10-07 · price n/a · [[PC, Mac, Steam] Free - Spooky Cats (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/978083)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-07 19:35 (UTC)_
 - 2026-10-07 · $2.95 · [[PC, Steam] PlateUp! $2.95 @ Steam](https://www.ozbargain.com.au/node/978024)
 - 2026-10-07 · $53.14 · [Catan Seafarers Board Game Expansion (6th Edition) $53.14 Delivered @ Good Games AU via Amazon AU](https://www.ozbargain.com.au/node/978023)
 - 2026-10-07 · $20.95 · [[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/977962)
-- 2026-10-07 · price n/a · [[Prime, PC] Free - Conarium, WarBreeds, Vampire: The Masquerade - Swansong, Caravan SandWitch, Ad Infinitum + More @ Amazon Luna](https://www.ozbargain.com.au/node/977958)
-- 2026-10-07 · price n/a · [[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK](https://www.ozbargain.com.au/node/977955)
 
 ### Drinks
 
