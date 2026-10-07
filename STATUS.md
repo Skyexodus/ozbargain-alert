@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-07 06:22 (UTC)_
+_Last checked: 2026-10-07 13:45 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-10-07 06:22 (UTC)_
 
 ### Games
 
+- 2026-10-07 · $138.47 · [[Prime] The C64 Mini - Black Edition $138.47 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/978098)
+- 2026-10-07 · price n/a · [[Switch 2] In Game Free Resort Set for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/978091)
+- 2026-10-07 · price n/a · [[PC, Mac, Steam] Free - Spooky Cats (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/978083)
+- 2026-10-07 · price n/a · [[PC, Steam] Free - Hex Reverse @ Steam](https://www.ozbargain.com.au/node/978079)
 - 2026-10-07 · $59.97 · [[PS4, PS5] Final Fantasy Tactics: The Ivalice Chronicles Deluxe Edition $59.97 @ Playstation AU](https://www.ozbargain.com.au/node/978041)
 - 2026-10-07 · $2.95 · [[PC, Steam] PlateUp! $2.95 @ Steam](https://www.ozbargain.com.au/node/978024)
 - 2026-10-07 · $53.14 · [Catan Seafarers Board Game Expansion (6th Edition) $53.14 Delivered @ Good Games AU via Amazon AU](https://www.ozbargain.com.au/node/978023)
 - 2026-10-07 · $20.95 · [[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/977962)
 - 2026-10-07 · price n/a · [[Prime, PC] Free - Conarium, WarBreeds, Vampire: The Masquerade - Swansong, Caravan SandWitch, Ad Infinitum + More @ Amazon Luna](https://www.ozbargain.com.au/node/977958)
 - 2026-10-07 · price n/a · [[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK](https://www.ozbargain.com.au/node/977955)
-- 2026-10-06 · price n/a · [Free - 5 Spider-Man: Brand New Day Avatars @ PlayStation](https://www.ozbargain.com.au/node/977950)
-- 2026-10-06 · $4.86 · [[PC, Steam] Birds of War $4.86 (Was $6.95) @ Steam](https://www.ozbargain.com.au/node/977945)
-- 2026-10-06 · $49.00 · [Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977927)
-- 2026-10-06 · price n/a · [2,000 Mymacca’s Points for 14 Days of World of Warcraft Sub @MyMacca's via App](https://www.ozbargain.com.au/node/977916)
 
 ### Drinks
 
