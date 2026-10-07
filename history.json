@@ -324,6 +324,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus",
+        "link": "https://www.ozbargain.com.au/node/978039",
+        "price": 69.0,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/39/978039l.jpg?h=3808acc5"
+      },
+      {
         "title": "nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra",
         "link": "https://www.ozbargain.com.au/node/977865",
         "price": 69.0,
@@ -395,6 +402,27 @@
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PS4, PS5] Final Fantasy Tactics: The Ivalice Chronicles Deluxe Edition $59.97 @ Playstation AU",
+        "link": "https://www.ozbargain.com.au/node/978041",
+        "price": 59.97,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/41/978041l.jpg?h=39e9a950"
+      },
+      {
+        "title": "[PC, Steam] PlateUp! $2.95 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/978024",
+        "price": 2.95,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/24/978024l.jpg?h=27efdddd"
+      },
+      {
+        "title": "Catan Seafarers Board Game Expansion (6th Edition) $53.14 Delivered @ Good Games AU via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/978023",
+        "price": 53.14,
+        "date": "2026-10-07",
+        "image": "https://files.ozbargain.com.au/n/23/978023l.jpg?h=c1c089bf"
+      },
       {
         "title": "[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle",
         "link": "https://www.ozbargain.com.au/node/977962",
@@ -478,27 +506,6 @@
         "price": null,
         "date": "2026-10-06",
         "image": "https://files.ozbargain.com.au/n/34/977834l.jpg?h=e06443d5"
-      },
-      {
-        "title": "[PC, Steam] Sons of The Forest $12.74 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977831",
-        "price": 12.74,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/31/977831l.jpg?h=a504f97f"
-      },
-      {
-        "title": "[PC, Steam] Little Big Adventure – Twinsen’s Quest $26.55 (40% off) @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977825",
-        "price": 26.55,
-        "date": "2026-10-05",
-        "image": "https://files.ozbargain.com.au/n/25/977825l.jpg?h=8315ea63"
-      },
-      {
-        "title": "[PC, Mac, Steam] Free - FROGGIN' AROUND @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977789",
-        "price": null,
-        "date": "2026-10-05",
-        "image": "https://files.ozbargain.com.au/n/89/977789l.jpg?h=f4f786a0"
       }
     ]
   },

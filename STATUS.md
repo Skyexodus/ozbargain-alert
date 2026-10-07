@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-07 00:28 (UTC)_
+_Last checked: 2026-10-07 06:22 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-07 00:28 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
 - 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
@@ -74,10 +75,12 @@ _Last checked: 2026-10-07 00:28 (UTC)_
 - 2026-09-25 · $59.00 · [nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong](https://www.ozbargain.com.au/node/976371)
 - 2026-09-21 · $50.00 · [nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim](https://www.ozbargain.com.au/node/975834)
 - 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
-- 2026-09-19 · $69.99 · [nbn FTTP or HFC 500/50 $69.99/M for 6-Months Then $79.99/M for 18-Months (Existing Exetel & Superloop Customers Only) @ Arctel](https://www.ozbargain.com.au/node/975728)
 
 ### Games
 
+- 2026-10-07 · $59.97 · [[PS4, PS5] Final Fantasy Tactics: The Ivalice Chronicles Deluxe Edition $59.97 @ Playstation AU](https://www.ozbargain.com.au/node/978041)
+- 2026-10-07 · $2.95 · [[PC, Steam] PlateUp! $2.95 @ Steam](https://www.ozbargain.com.au/node/978024)
+- 2026-10-07 · $53.14 · [Catan Seafarers Board Game Expansion (6th Edition) $53.14 Delivered @ Good Games AU via Amazon AU](https://www.ozbargain.com.au/node/978023)
 - 2026-10-07 · $20.95 · [[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/977962)
 - 2026-10-07 · price n/a · [[Prime, PC] Free - Conarium, WarBreeds, Vampire: The Masquerade - Swansong, Caravan SandWitch, Ad Infinitum + More @ Amazon Luna](https://www.ozbargain.com.au/node/977958)
 - 2026-10-07 · price n/a · [[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK](https://www.ozbargain.com.au/node/977955)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-07 00:28 (UTC)_
 - 2026-10-06 · $4.86 · [[PC, Steam] Birds of War $4.86 (Was $6.95) @ Steam](https://www.ozbargain.com.au/node/977945)
 - 2026-10-06 · $49.00 · [Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/977927)
 - 2026-10-06 · price n/a · [2,000 Mymacca’s Points for 14 Days of World of Warcraft Sub @MyMacca's via App](https://www.ozbargain.com.au/node/977916)
-- 2026-10-06 · $79.54 · [Endeavor Deep Sea $79.54, Expeditions $85.03, Moon Colony Bloodbath $76.07, SETI $82.98, Unmatched $47 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977893)
-- 2026-10-06 · $24.96 · [Star Wars Villainous - Revenge at Last $24.96 (RRP $79.99) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/977867)
-- 2026-10-06 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU (Sold Out) | + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/977853)
 
 ### Drinks
 
