@@ -326,6 +326,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel",
+        "link": "https://www.ozbargain.com.au/node/978192",
+        "price": 30.0,
+        "date": "2026-10-08",
+        "image": "https://files.ozbargain.com.au/n/92/978192.jpg?h=993f4e93"
+      },
+      {
         "title": "nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus",
         "link": "https://www.ozbargain.com.au/node/978039",
         "price": 69.0,
@@ -405,6 +412,34 @@
   "Games": {
     "deals": [
       {
+        "title": "[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)",
+        "link": "https://www.ozbargain.com.au/node/978246",
+        "price": 101.7,
+        "date": "2026-10-08",
+        "image": "https://files.ozbargain.com.au/n/46/978246l.jpg?h=15fe5f59"
+      },
+      {
+        "title": "[Switch 2] Zelda TOTK, BOTW, DK Bananza: $79 Each + Delivery ($0 with $99 Spend) @ Giftbox (Price Beat $75.05 @ Officeworks)",
+        "link": "https://www.ozbargain.com.au/node/978195",
+        "price": 79.0,
+        "date": "2026-10-08",
+        "image": "https://files.ozbargain.com.au/n/95/978195l.jpg?h=4d091ff3"
+      },
+      {
+        "title": "Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games",
+        "link": "https://www.ozbargain.com.au/node/978193",
+        "price": 49.0,
+        "date": "2026-10-08",
+        "image": "https://files.ozbargain.com.au/n/93/978193l.jpg?h=671af4c5"
+      },
+      {
+        "title": "[PS5] Star Wars: Galactic Racer $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target",
+        "link": "https://www.ozbargain.com.au/node/978190",
+        "price": 79.0,
+        "date": "2026-10-08",
+        "image": "https://files.ozbargain.com.au/n/90/978190l.jpg?h=916f7e4e"
+      },
+      {
         "title": "[PC, PS5, Xbox, Switch] Watch Live Stream for 90 minutes & Earn In-Game Items for The Witcher 3: Wild Hunt (Remastered) @ Twitch",
         "link": "https://www.ozbargain.com.au/node/978125",
         "price": null,
@@ -480,34 +515,6 @@
         "price": null,
         "date": "2026-10-07",
         "image": "https://files.ozbargain.com.au/n/58/977958l.jpg?h=a45359ce"
-      },
-      {
-        "title": "[PS4] Free - Mafia III & DLC, Call of Duty: WWII @ PlayStation AU & UK",
-        "link": "https://www.ozbargain.com.au/node/977955",
-        "price": null,
-        "date": "2026-10-07",
-        "image": "https://files.ozbargain.com.au/n/55/977955l.jpg?h=f608c734"
-      },
-      {
-        "title": "Free - 5 Spider-Man: Brand New Day Avatars @ PlayStation",
-        "link": "https://www.ozbargain.com.au/node/977950",
-        "price": null,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/50/977950l.jpg?h=acc00665"
-      },
-      {
-        "title": "[PC, Steam] Birds of War $4.86 (Was $6.95) @ Steam",
-        "link": "https://www.ozbargain.com.au/node/977945",
-        "price": 4.86,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/45/977945l.jpg?h=7a14e3a8"
-      },
-      {
-        "title": "Catan: The Game 6th Edition $49 + $9 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Spend) @ Target",
-        "link": "https://www.ozbargain.com.au/node/977927",
-        "price": 49.0,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/27/977927l.jpg?h=7c87ec31"
       }
     ]
   },

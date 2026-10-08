@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-08 03:03 (UTC)_
+_Last checked: 2026-10-08 10:28 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-08 03:03 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
 - 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
 - 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
@@ -74,20 +75,19 @@ _Last checked: 2026-10-08 03:03 (UTC)_
 - 2026-09-27 · $44.50 · [50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra](https://www.ozbargain.com.au/node/976633)
 - 2026-09-25 · $59.00 · [nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong](https://www.ozbargain.com.au/node/976371)
 - 2026-09-21 · $50.00 · [nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim](https://www.ozbargain.com.au/node/975834)
-- 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
 
 ### Games
 
+- 2026-10-08 · $101.70 · [[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)](https://www.ozbargain.com.au/node/978246)
+- 2026-10-08 · $79.00 · [[Switch 2] Zelda TOTK, BOTW, DK Bananza: $79 Each + Delivery ($0 with $99 Spend) @ Giftbox (Price Beat $75.05 @ Officeworks)](https://www.ozbargain.com.au/node/978195)
+- 2026-10-08 · $49.00 · [Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games](https://www.ozbargain.com.au/node/978193)
+- 2026-10-08 · $79.00 · [[PS5] Star Wars: Galactic Racer $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/978190)
 - 2026-10-08 · price n/a · [[PC, PS5, Xbox, Switch] Watch Live Stream for 90 minutes & Earn In-Game Items for The Witcher 3: Wild Hunt (Remastered) @ Twitch](https://www.ozbargain.com.au/node/978125)
 - 2026-10-08 · price n/a · [[Switch 2] Free - Minecraft Switch 2 Version for Owners of Digital Switch Version @ Nintendo eShop](https://www.ozbargain.com.au/node/978110)
 - 2026-10-07 · $138.47 · [[Prime] The C64 Mini - Black Edition $138.47 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/978098)
 - 2026-10-07 · price n/a · [[Switch 2] In Game Free Resort Set for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/978091)
 - 2026-10-07 · price n/a · [[PC, Mac, Steam] Free - Spooky Cats (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/978083)
 - 2026-10-07 · price n/a · [[PC, Steam] Free - Hex Reverse @ Steam](https://www.ozbargain.com.au/node/978079)
-- 2026-10-07 · $59.97 · [[PS4, PS5] Final Fantasy Tactics: The Ivalice Chronicles Deluxe Edition $59.97 @ Playstation AU](https://www.ozbargain.com.au/node/978041)
-- 2026-10-07 · $2.95 · [[PC, Steam] PlateUp! $2.95 @ Steam](https://www.ozbargain.com.au/node/978024)
-- 2026-10-07 · $53.14 · [Catan Seafarers Board Game Expansion (6th Edition) $53.14 Delivered @ Good Games AU via Amazon AU](https://www.ozbargain.com.au/node/978023)
-- 2026-10-07 · $20.95 · [[PC, Steam] Humble Choice Oct - LaD: Pirate Yakuza in Hawaii, Prince of Persia: TLC, Psychonauts 2 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/977962)
 
 ### Drinks
 
