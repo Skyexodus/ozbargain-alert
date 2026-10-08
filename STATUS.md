@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-07 23:48 (UTC)_
+_Last checked: 2026-10-08 03:03 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-10-07 23:48 (UTC)_
 
 ### SSD
 
+- 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
+- 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
 - 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
 - 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 - 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
@@ -60,8 +62,6 @@ _Last checked: 2026-10-07 23:48 (UTC)_
 - 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
 - 2026-10-05 · $2,899.00 · [Lenovo Legion 7a 15" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo](https://www.ozbargain.com.au/node/977761)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
-- 2026-09-29 · $122.45 · [[Prime] Crucial P310 500GB M.2 2280 PCIe Gen4 NVMe SSD $122.45 (2 for $227.76) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/976928)
-- 2026-09-28 · $637.43 · [Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/976703)
 
 ### NBN (home)
 
