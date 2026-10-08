@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-08 10:28 (UTC)_
+_Last checked: 2026-10-08 17:34 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-10-08 10:28 (UTC)_
 
 ### Games
 
+- 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
+- 2026-10-09 · price n/a · [[Android, Epic] Free - The Big Con @ Epic Games](https://www.ozbargain.com.au/node/978262)
+- 2026-10-09 · price n/a · [[PC, Android, Epic] Free - Agent a: a Puzzle in Disguise & [PC] Bad Cheese @ Epic Games](https://www.ozbargain.com.au/node/978261)
+- 2026-10-08 · $4.49 · [[XB1, XSX] Metro Saga Bundle $4.49 (Was $89.95) @ Xbox Store](https://www.ozbargain.com.au/node/978254)
 - 2026-10-08 · $101.70 · [[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)](https://www.ozbargain.com.au/node/978246)
 - 2026-10-08 · $79.00 · [[Switch 2] Zelda TOTK, BOTW, DK Bananza: $79 Each + Delivery ($0 with $99 Spend) @ Giftbox (Price Beat $75.05 @ Officeworks)](https://www.ozbargain.com.au/node/978195)
 - 2026-10-08 · $49.00 · [Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games](https://www.ozbargain.com.au/node/978193)
 - 2026-10-08 · $79.00 · [[PS5] Star Wars: Galactic Racer $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/978190)
 - 2026-10-08 · price n/a · [[PC, PS5, Xbox, Switch] Watch Live Stream for 90 minutes & Earn In-Game Items for The Witcher 3: Wild Hunt (Remastered) @ Twitch](https://www.ozbargain.com.au/node/978125)
 - 2026-10-08 · price n/a · [[Switch 2] Free - Minecraft Switch 2 Version for Owners of Digital Switch Version @ Nintendo eShop](https://www.ozbargain.com.au/node/978110)
-- 2026-10-07 · $138.47 · [[Prime] The C64 Mini - Black Edition $138.47 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/978098)
-- 2026-10-07 · price n/a · [[Switch 2] In Game Free Resort Set for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/978091)
-- 2026-10-07 · price n/a · [[PC, Mac, Steam] Free - Spooky Cats (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/978083)
-- 2026-10-07 · price n/a · [[PC, Steam] Free - Hex Reverse @ Steam](https://www.ozbargain.com.au/node/978079)
 
 ### Drinks
 
