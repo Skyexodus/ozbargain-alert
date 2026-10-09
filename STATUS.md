@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-09 02:28 (UTC)_
+_Last checked: 2026-10-09 09:32 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-09 02:28 (UTC)_
 
 ### Games
 
+- 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
+- 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
+- 2026-10-09 · $29.00 · [[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/978329)
 - 2026-10-09 · price n/a · [[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox](https://www.ozbargain.com.au/node/978314)
 - 2026-10-09 · $5.49 · [[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store](https://www.ozbargain.com.au/node/978291)
 - 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
@@ -85,12 +88,11 @@ _Last checked: 2026-10-09 02:28 (UTC)_
 - 2026-10-09 · price n/a · [[PC, Android, Epic] Free - Agent a: a Puzzle in Disguise & [PC] Bad Cheese @ Epic Games](https://www.ozbargain.com.au/node/978261)
 - 2026-10-08 · $4.49 · [[XB1, XSX] Metro Saga Bundle $4.49 (Was $89.95) @ Xbox Store](https://www.ozbargain.com.au/node/978254)
 - 2026-10-08 · $101.70 · [[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)](https://www.ozbargain.com.au/node/978246)
-- 2026-10-08 · $79.00 · [[Switch 2] Zelda TOTK, BOTW, DK Bananza: $79 Each + Delivery ($0 with $99 Spend) @ Giftbox (Price Beat $75.05 @ Officeworks)](https://www.ozbargain.com.au/node/978195)
-- 2026-10-08 · $49.00 · [Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games](https://www.ozbargain.com.au/node/978193)
-- 2026-10-08 · $79.00 · [[PS5] Star Wars: Galactic Racer $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/978190)
 
 ### Drinks
 
+- 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
+- 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
 - 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
 - 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
 - 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
@@ -99,8 +101,6 @@ _Last checked: 2026-10-09 02:28 (UTC)_
 - 2026-09-27 · $2.00 · [[Vic] Nongshim Shin Ramyun Varieties 4/5 Pack from $2, Boss Coffee 4 Pack $4 @ Cheaper Buy Miles (Fitzroy)](https://www.ozbargain.com.au/node/976610)
 - 2026-09-26 · price n/a · [Buy an Ó Burger or Oprego Meal and Get Another Free from 2-2:30pm Today (26/9) @ Oporto (App Req.)](https://www.ozbargain.com.au/node/976501)
 - 2026-09-26 · $20.00 · [Domino’s - 1 Large Traditional Pizza + 1.25L Drink + Garlic Sauce $20 Pickup / 2 Pizzas $30 / 3 Pizzas $40](https://www.ozbargain.com.au/node/976558)
-- 2026-09-25 · $8.95 · [$8.95 Small Quarter Pounder Meal + 6pc Chicken McNuggets (MyMacca's App Required) @ McDonald's](https://www.ozbargain.com.au/node/976352)
-- 2026-09-24 · price n/a · [20% off Food and Drinks at Select Airport Locations with Visa Infinite or Visa Signature Cards](https://www.ozbargain.com.au/node/976260)
 
 ### Students
 
@@ -117,6 +117,7 @@ _Last checked: 2026-10-09 02:28 (UTC)_
 
 ### Electricity
 
+- 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
 - 2026-09-26 · $200.00 · [[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie](https://www.ozbargain.com.au/node/976508)
@@ -126,7 +127,6 @@ _Last checked: 2026-10-09 02:28 (UTC)_
 - 2026-09-17 · $150.00 · [Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex](https://www.ozbargain.com.au/node/975495)
 - 2026-09-14 · $40.00 · [Join Origin Go Variable Ongoing Electricity Plan, Get 5 x $40 Uber Eats 30-Day Voucher (New/Moving Customers) @ Origin Energy](https://www.ozbargain.com.au/node/974996)
 - 2026-09-09 · $12.00 · [[VIC, NSW, QLD, SA] $12 Electricity Credit in Nov for $6 @ Powershop](https://www.ozbargain.com.au/node/974428)
-- 2026-09-04 · $250.00 · [[NSW] Join Energy Australia Flexi Plan for $250 Electricity Credit on First Bill (New Accounts Only) @ Energy Australia](https://www.ozbargain.com.au/node/973921)
 
 ### Wine fridge
 
