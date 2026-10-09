@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-09 16:33 (UTC)_
+_Last checked: 2026-10-09 21:15 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-09 16:33 (UTC)_
 
 ### Games
 
+- 2026-10-10 · $28.99 · [1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5](https://www.ozbargain.com.au/node/978412)
+- 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
+- 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
 - 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
 - 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
 - 2026-10-09 · $29.00 · [[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/978329)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-09 16:33 (UTC)_
 - 2026-10-09 · $5.49 · [[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store](https://www.ozbargain.com.au/node/978291)
 - 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
 - 2026-10-09 · price n/a · [[Android, Epic] Free - The Big Con @ Epic Games](https://www.ozbargain.com.au/node/978262)
-- 2026-10-09 · price n/a · [[PC, Android, Epic] Free - Agent a: a Puzzle in Disguise & [PC] Bad Cheese @ Epic Games](https://www.ozbargain.com.au/node/978261)
-- 2026-10-08 · $4.49 · [[XB1, XSX] Metro Saga Bundle $4.49 (Was $89.95) @ Xbox Store](https://www.ozbargain.com.au/node/978254)
-- 2026-10-08 · $101.70 · [[Seconds] Sony INZONE H5 Wireless Gaming Headset (Black) $101.70 Delivered @ Sony eBay (Excl. WA, TAS, NT)](https://www.ozbargain.com.au/node/978246)
 
 ### Drinks
 
