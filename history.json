@@ -222,6 +222,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC",
+        "link": "https://www.ozbargain.com.au/node/978396",
+        "price": 2898.0,
+        "date": "2026-10-09",
+        "image": null
+      },
+      {
         "title": "Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech",
         "link": "https://www.ozbargain.com.au/node/978284",
         "price": 2999.0,
@@ -314,12 +321,6 @@
         "title": "Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave",
         "link": "https://www.ozbargain.com.au/node/976405",
         "price": 231.95,
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Kingston NV2 2TB NVMe M.2 2280 SSD $159.00 + Delivery @ Mwave",
-        "link": "https://www.ozbargain.com.au/node/976408",
-        "price": 159.0,
         "date": "2026-09-25"
       }
     ]
