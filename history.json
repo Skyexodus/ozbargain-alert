@@ -222,6 +222,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech",
+        "link": "https://www.ozbargain.com.au/node/978284",
+        "price": 2999.0,
+        "date": "2026-10-09",
+        "image": "https://files.ozbargain.com.au/n/84/978284l.jpg?h=ff94f2a9"
+      },
+      {
         "title": "WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/978162",
         "price": 333.67,
@@ -314,12 +321,6 @@
         "link": "https://www.ozbargain.com.au/node/976408",
         "price": 159.0,
         "date": "2026-09-25"
-      },
-      {
-        "title": "Fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280 Internal SSD $132.99 Delivered @ LDCEMS via Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/975974",
-        "price": 132.99,
-        "date": "2026-09-22"
       }
     ]
   },
@@ -412,6 +413,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox",
+        "link": "https://www.ozbargain.com.au/node/978314",
+        "price": null,
+        "date": "2026-10-09",
+        "image": "https://files.ozbargain.com.au/n/14/978314.jpg?h=661b98ea"
+      },
+      {
+        "title": "[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/978291",
+        "price": 5.49,
+        "date": "2026-10-09",
+        "image": "https://files.ozbargain.com.au/n/91/978291.jpg?h=e7529335"
+      },
+      {
         "title": "[PC] Free - Pony Island @ Steam",
         "link": "https://www.ozbargain.com.au/node/978264",
         "price": null,
@@ -501,20 +516,6 @@
         "price": null,
         "date": "2026-10-07",
         "image": "https://files.ozbargain.com.au/n/83/978083l.jpg?h=402b19f3"
-      },
-      {
-        "title": "[PC, Steam] Free - Hex Reverse @ Steam",
-        "link": "https://www.ozbargain.com.au/node/978079",
-        "price": null,
-        "date": "2026-10-07",
-        "image": "https://files.ozbargain.com.au/n/79/978079l.jpg?h=5b19bba3"
-      },
-      {
-        "title": "[PS4, PS5] Final Fantasy Tactics: The Ivalice Chronicles Deluxe Edition $59.97 @ Playstation AU",
-        "link": "https://www.ozbargain.com.au/node/978041",
-        "price": 59.97,
-        "date": "2026-10-07",
-        "image": "https://files.ozbargain.com.au/n/41/978041l.jpg?h=39e9a950"
       }
     ]
   },

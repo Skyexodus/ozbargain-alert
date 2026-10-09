@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-08 22:26 (UTC)_
+_Last checked: 2026-10-09 02:28 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-08 22:26 (UTC)_
 
 ### SSD
 
+- 2026-10-09 · $2,999.00 · [Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/978284)
 - 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
 - 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
 - 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-08 22:26 (UTC)_
 - 2026-10-06 · $589.00 · [2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance](https://www.ozbargain.com.au/node/977841)
 - 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
 - 2026-10-05 · $2,899.00 · [Lenovo Legion 7a 15" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo](https://www.ozbargain.com.au/node/977761)
-- 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-08 22:26 (UTC)_
 
 ### Games
 
+- 2026-10-09 · price n/a · [[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox](https://www.ozbargain.com.au/node/978314)
+- 2026-10-09 · $5.49 · [[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store](https://www.ozbargain.com.au/node/978291)
 - 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
 - 2026-10-09 · price n/a · [[Android, Epic] Free - The Big Con @ Epic Games](https://www.ozbargain.com.au/node/978262)
 - 2026-10-09 · price n/a · [[PC, Android, Epic] Free - Agent a: a Puzzle in Disguise & [PC] Bad Cheese @ Epic Games](https://www.ozbargain.com.au/node/978261)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-08 22:26 (UTC)_
 - 2026-10-08 · $79.00 · [[Switch 2] Zelda TOTK, BOTW, DK Bananza: $79 Each + Delivery ($0 with $99 Spend) @ Giftbox (Price Beat $75.05 @ Officeworks)](https://www.ozbargain.com.au/node/978195)
 - 2026-10-08 · $49.00 · [Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games](https://www.ozbargain.com.au/node/978193)
 - 2026-10-08 · $79.00 · [[PS5] Star Wars: Galactic Racer $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/978190)
-- 2026-10-08 · price n/a · [[PC, PS5, Xbox, Switch] Watch Live Stream for 90 minutes & Earn In-Game Items for The Witcher 3: Wild Hunt (Remastered) @ Twitch](https://www.ozbargain.com.au/node/978125)
-- 2026-10-08 · price n/a · [[Switch 2] Free - Minecraft Switch 2 Version for Owners of Digital Switch Version @ Nintendo eShop](https://www.ozbargain.com.au/node/978110)
 
 ### Drinks
 
