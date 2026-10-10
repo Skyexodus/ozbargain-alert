@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-10 00:58 (UTC)_
+_Last checked: 2026-10-10 06:57 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-10-10 00:58 (UTC)_
 
 ### SSD
 
+- 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
+- 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
 - 2026-10-09 · $2,898.00 · [Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/978396)
 - 2026-10-09 · $2,999.00 · [Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/978284)
 - 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
@@ -60,11 +62,10 @@ _Last checked: 2026-10-10 00:58 (UTC)_
 - 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 - 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
 - 2026-10-06 · $289.43 · [Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977871)
-- 2026-10-06 · $589.00 · [2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance](https://www.ozbargain.com.au/node/977841)
-- 2026-10-05 · $1,577.00 · [Lenovo Legion Pro 5 16" WQXGA 240Hz IPS Laptop: i9-14900HX, 24GB RAM, 1TB SSD, RTX 5070 $1577 Delivered / C&C @ Officeworks](https://www.ozbargain.com.au/node/977776)
 
 ### NBN (home)
 
+- 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
 - 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
 - 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
 - 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-10 00:58 (UTC)_
 - 2026-09-28 · $68.00 · [Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/976658)
 - 2026-09-27 · $44.50 · [50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra](https://www.ozbargain.com.au/node/976633)
 - 2026-09-25 · $59.00 · [nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong](https://www.ozbargain.com.au/node/976371)
-- 2026-09-21 · $50.00 · [nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim](https://www.ozbargain.com.au/node/975834)
 
 ### Games
 
+- 2026-10-10 · $33.71 · [[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store](https://www.ozbargain.com.au/node/978439)
 - 2026-10-10 · $28.99 · [1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5](https://www.ozbargain.com.au/node/978412)
 - 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
 - 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-10 00:58 (UTC)_
 - 2026-10-09 · price n/a · [[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox](https://www.ozbargain.com.au/node/978314)
 - 2026-10-09 · $5.49 · [[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store](https://www.ozbargain.com.au/node/978291)
 - 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
-- 2026-10-09 · price n/a · [[Android, Epic] Free - The Big Con @ Epic Games](https://www.ozbargain.com.au/node/978262)
 
 ### Drinks
 

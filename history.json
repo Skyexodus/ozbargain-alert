@@ -222,6 +222,20 @@
   "SSD": {
     "deals": [
       {
+        "title": "BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com",
+        "link": "https://www.ozbargain.com.au/node/978465",
+        "price": 89.0,
+        "date": "2026-10-10",
+        "image": "https://files.ozbargain.com.au/n/65/978465l.jpg?h=cdaa1bc9"
+      },
+      {
+        "title": "BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com",
+        "link": "https://www.ozbargain.com.au/node/978464",
+        "price": 159.0,
+        "date": "2026-10-10",
+        "image": "https://files.ozbargain.com.au/n/64/978464l.jpg?h=71ea3978"
+      },
+      {
         "title": "Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC",
         "link": "https://www.ozbargain.com.au/node/978396",
         "price": 2898.0,
@@ -310,23 +324,18 @@
         "link": "https://www.ozbargain.com.au/node/976928",
         "price": 122.45,
         "date": "2026-09-29"
-      },
-      {
-        "title": "Corsair MP600 PRO LPX 4TB M.2 NVMe PCIe X4 Gen4 SSD $637.43 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/976703",
-        "price": 637.43,
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Silicon Power XS70 2TB PCIe Gen 4 NVMe M.2 SSD $231.95 + Delivery @ Mwave",
-        "link": "https://www.ozbargain.com.au/node/976405",
-        "price": 231.95,
-        "date": "2026-09-25"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU",
+        "link": "https://www.ozbargain.com.au/node/978459",
+        "price": 100.0,
+        "date": "2026-10-10",
+        "image": "https://files.ozbargain.com.au/n/59/978459l.jpg?h=e1ea34a2"
+      },
       {
         "title": "$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel",
         "link": "https://www.ozbargain.com.au/node/978192",
@@ -413,6 +422,13 @@
   },
   "Games": {
     "deals": [
+      {
+        "title": "[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/978439",
+        "price": 33.71,
+        "date": "2026-10-10",
+        "image": "https://files.ozbargain.com.au/n/39/978439.jpg?h=a2c0f072"
+      },
       {
         "title": "1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5",
         "link": "https://www.ozbargain.com.au/node/978412",
@@ -510,13 +526,6 @@
         "price": 79.0,
         "date": "2026-10-08",
         "image": "https://files.ozbargain.com.au/n/95/978195l.jpg?h=4d091ff3"
-      },
-      {
-        "title": "Harmonies $49, Dungeons & Dragons Player's Handbook 2024 $56.95 + $9.50 Flat Rate Shipping @ Good Games",
-        "link": "https://www.ozbargain.com.au/node/978193",
-        "price": 49.0,
-        "date": "2026-10-08",
-        "image": "https://files.ozbargain.com.au/n/93/978193l.jpg?h=671af4c5"
       }
     ]
   },
