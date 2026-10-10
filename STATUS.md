@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-10 06:57 (UTC)_
+_Last checked: 2026-10-10 13:31 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-10 06:57 (UTC)_
 
 ### Games
 
+- 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
+- 2026-10-10 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/978477)
 - 2026-10-10 · $33.71 · [[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store](https://www.ozbargain.com.au/node/978439)
 - 2026-10-10 · $28.99 · [1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5](https://www.ozbargain.com.au/node/978412)
 - 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-10 06:57 (UTC)_
 - 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
 - 2026-10-09 · $29.00 · [[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/978329)
 - 2026-10-09 · price n/a · [[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox](https://www.ozbargain.com.au/node/978314)
-- 2026-10-09 · $5.49 · [[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store](https://www.ozbargain.com.au/node/978291)
-- 2026-10-09 · price n/a · [[PC] Free - Pony Island @ Steam](https://www.ozbargain.com.au/node/978264)
 
 ### Drinks
 
