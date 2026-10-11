@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-11 00:27 (UTC)_
+_Last checked: 2026-10-11 06:19 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-11 00:27 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 - 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
 - 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
 - 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
@@ -74,7 +75,6 @@ _Last checked: 2026-10-11 00:27 (UTC)_
 - 2026-10-01 · $74.00 · [nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/977311)
 - 2026-09-28 · $68.00 · [Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/976658)
 - 2026-09-27 · $44.50 · [50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra](https://www.ozbargain.com.au/node/976633)
-- 2026-09-25 · $59.00 · [nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong](https://www.ozbargain.com.au/node/976371)
 
 ### Games
 
@@ -104,16 +104,7 @@ _Last checked: 2026-10-11 00:27 (UTC)_
 
 ### Students
 
-- 2020-08-08 · price n/a · [10% off for Students with Optus](https://www.ozbargain.com.au/node/556983)
-- 2018-06-13 · $40.00 · [[Students] Vodafone 12mo SIM Only Plan, 30GB + Intl. Minutes, $40/Month](https://www.ozbargain.com.au/node/384472)
-- 2016-02-29 · price n/a · [6 Months of Spotify Premium for Students Opening a St.George Student Account](https://www.ozbargain.com.au/node/236704)
-- 2016-02-04 · $9.60 · [[QLD] 20% off Student Wow Card Membership - Now $9.60 for Basic, $12 for VIP](https://www.ozbargain.com.au/node/233295)
-- 2015-09-09 · price n/a · [FREE: Full Unlimited Access to 'Get Revising' Educational Website (Was £6.99/Month)](https://www.ozbargain.com.au/node/210685)
-- 2015-08-25 · $1.00 · [90% off on 35,000 Online Courses ($1/Month) @ Coursmos](https://www.ozbargain.com.au/node/208600)
-- 2015-08-24 · $4.41 · [48% off The Economist Subscription $4.41 Per Week (Students Only)](https://www.ozbargain.com.au/node/208331)
-- 2015-07-22 · $50.00 · [Students - Bonus 1GB Data Vodafone RED $50 Plan ($40/M) - Total 5GB + 6 Months Spotify](https://www.ozbargain.com.au/node/203939)
-- 2015-06-04 · $0.00 · [1-Month of FREE Access to 35,000 Online Courses - $0.00](https://www.ozbargain.com.au/node/197007)
-- 2015-05-15 · $3.99 · [Endnote for iPad, iOS, Free (Prev $3.99), US, UK and AUS iTunes Versions All Free](https://www.ozbargain.com.au/node/194297)
+- 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 
 ### Electricity
 
