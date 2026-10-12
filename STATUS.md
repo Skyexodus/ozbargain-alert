@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-11 21:54 (UTC)_
+_Last checked: 2026-10-12 01:05 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-11 21:54 (UTC)_
 
 ### SSD
 
+- 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
 - 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
 - 2026-10-09 · $2,898.00 · [Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/978396)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-11 21:54 (UTC)_
 - 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
 - 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 - 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
-- 2026-10-06 · $289.43 · [Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977871)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-11 21:54 (UTC)_
 
 ### Games
 
+- 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
 - 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
 - 2026-10-10 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/978477)
 - 2026-10-10 · $33.71 · [[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store](https://www.ozbargain.com.au/node/978439)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-11 21:54 (UTC)_
 - 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
 - 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
 - 2026-10-09 · $29.00 · [[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/978329)
-- 2026-10-09 · price n/a · [[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox](https://www.ozbargain.com.au/node/978314)
 
 ### Drinks
 
