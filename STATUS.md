@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-12 16:51 (UTC)_
+_Last checked: 2026-10-12 23:32 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-10-12 16:51 (UTC)_
 
 ### HDD
 
+- 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
 - 2026-09-06 · $326.50 · [Seagate Skyhawk 8TB 3.5" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/974118)
@@ -48,7 +49,6 @@ _Last checked: 2026-10-12 16:51 (UTC)_
 - 2026-07-15 · $502.90 · [Western Digital 12TB WD Blue SATA 3 Internal Hard Drive - 7200 RPM $502.90 (RRP $641.52) Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/967991)
 - 2026-07-11 · $599.95 · [[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology](https://www.ozbargain.com.au/node/967492)
 - 2026-07-10 · $292.79 · [Seagate Skyhawk 14TB ST14000VE0008 $292.79 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/967312)
-- 2026-06-29 · $1,499.00 · [$100 off $1000 Minimum Spend on Select Products: Palit GeForce RTX 5080 GPU $1499, 5070 Ti $1199 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/965567)
 
 ### SSD
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-12 16:51 (UTC)_
 
 ### Games
 
+- 2026-10-13 · $32.95 · [[PC] MOUSE: P.I. For Hire $32.95 @ GOG](https://www.ozbargain.com.au/node/978742)
 - 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
 - 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
 - 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-12 16:51 (UTC)_
 - 2026-10-10 · $28.99 · [1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5](https://www.ozbargain.com.au/node/978412)
 - 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
 - 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
-- 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
 
 ### Drinks
 
