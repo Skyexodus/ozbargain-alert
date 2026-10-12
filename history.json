@@ -331,6 +331,20 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms",
+        "link": "https://www.ozbargain.com.au/node/978661",
+        "price": 82.0,
+        "date": "2026-10-12",
+        "image": "https://files.ozbargain.com.au/n/61/978661l.jpg?h=67567ae9"
+      },
+      {
+        "title": "Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder",
+        "link": "https://www.ozbargain.com.au/node/978655",
+        "price": 69.0,
+        "date": "2026-10-12",
+        "image": "https://files.ozbargain.com.au/n/55/978655.jpg?h=9042a3fc"
+      },
+      {
         "title": "[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband",
         "link": "https://www.ozbargain.com.au/node/978566",
         "price": 69.0,
@@ -413,23 +427,18 @@
         "link": "https://www.ozbargain.com.au/node/975640",
         "price": 200.0,
         "date": "2026-09-19"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $69.99/M for 6-Months Then $79.99/M for 18-Months (Existing Exetel & Superloop Customers Only) @ Arctel",
-        "link": "https://www.ozbargain.com.au/node/975728",
-        "price": 69.99,
-        "date": "2026-09-19"
-      },
-      {
-        "title": "nbn 25/10 $54/Month, 50/20 $69/Month, 500/50 $72/Month, 1000/100 $85/Month for 6 Months (New Customers) @ Swoop",
-        "link": "https://www.ozbargain.com.au/node/975747",
-        "price": 54.0,
-        "date": "2026-09-19"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)",
+        "link": "https://www.ozbargain.com.au/node/978662",
+        "price": 5.88,
+        "date": "2026-10-12",
+        "image": "https://files.ozbargain.com.au/n/62/978662l.jpg?h=60137ab3"
+      },
       {
         "title": "1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards",
         "link": "https://www.ozbargain.com.au/node/978613",
@@ -527,18 +536,25 @@
         "price": null,
         "date": "2026-10-09",
         "image": "https://files.ozbargain.com.au/n/62/978262l.jpg?h=62d6aed1"
-      },
-      {
-        "title": "[PC, Android, Epic] Free - Agent a: a Puzzle in Disguise & [PC] Bad Cheese @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/978261",
-        "price": null,
-        "date": "2026-10-09",
-        "image": "https://files.ozbargain.com.au/n/61/978261l.jpg?h=62d6aed1"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/978686",
+        "price": 6.25,
+        "date": "2026-10-12",
+        "image": "https://files.ozbargain.com.au/n/86/978686l.jpg?h=81089183"
+      },
+      {
+        "title": "[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura",
+        "link": "https://www.ozbargain.com.au/node/978666",
+        "price": 19.99,
+        "date": "2026-10-12",
+        "image": "https://files.ozbargain.com.au/n/66/978666l.jpg?h=57ac9e15"
+      },
       {
         "title": "Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura",
         "link": "https://www.ozbargain.com.au/node/978379",
@@ -619,18 +635,6 @@
         "link": "https://www.ozbargain.com.au/node/976156",
         "price": 19.99,
         "date": "2026-09-23"
-      },
-      {
-        "title": "50% off Pepsi, Solo Zero, Schweppes, Mountain Dew, Sunkist Zero Soft Drink Cans Multipack 375ml 18pk $17.50 (TAS $18.25) @ Coles",
-        "link": "https://www.ozbargain.com.au/node/975980",
-        "price": 17.5,
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Bundaberg Lemon Lime and Bitters 24 x 375ml $18.07 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/976033",
-        "price": 18.07,
-        "date": "2026-09-22"
       }
     ]
   },

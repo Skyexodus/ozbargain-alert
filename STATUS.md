@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-12 01:05 (UTC)_
+_Last checked: 2026-10-12 07:18 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,8 @@ _Last checked: 2026-10-12 01:05 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
+- 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 - 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
 - 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
@@ -73,11 +75,10 @@ _Last checked: 2026-10-12 01:05 (UTC)_
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
 - 2026-10-01 · $74.00 · [nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/977311)
-- 2026-09-28 · $68.00 · [Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/976658)
-- 2026-09-27 · $44.50 · [50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra](https://www.ozbargain.com.au/node/976633)
 
 ### Games
 
+- 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
 - 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
 - 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
 - 2026-10-10 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/978477)
@@ -87,10 +88,11 @@ _Last checked: 2026-10-12 01:05 (UTC)_
 - 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
 - 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
 - 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
-- 2026-10-09 · $29.00 · [[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target](https://www.ozbargain.com.au/node/978329)
 
 ### Drinks
 
+- 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
+- 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
 - 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
 - 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
 - 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
@@ -99,8 +101,6 @@ _Last checked: 2026-10-12 01:05 (UTC)_
 - 2026-09-28 · price n/a · [Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)](https://www.ozbargain.com.au/node/976699)
 - 2026-09-28 · $2.50 · [½ Price: Sanitarium Weet-Bix 575g $2.50 & Protein Weet-Bix Bites 510g $4.00 @ Coles + 191 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/976711)
 - 2026-09-27 · $2.00 · [[Vic] Nongshim Shin Ramyun Varieties 4/5 Pack from $2, Boss Coffee 4 Pack $4 @ Cheaper Buy Miles (Fitzroy)](https://www.ozbargain.com.au/node/976610)
-- 2026-09-26 · price n/a · [Buy an Ó Burger or Oprego Meal and Get Another Free from 2-2:30pm Today (26/9) @ Oporto (App Req.)](https://www.ozbargain.com.au/node/976501)
-- 2026-09-26 · $20.00 · [Domino’s - 1 Large Traditional Pizza + 1.25L Drink + Garlic Sauce $20 Pickup / 2 Pizzas $30 / 3 Pizzas $40](https://www.ozbargain.com.au/node/976558)
 
 ### Students
 
