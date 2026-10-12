@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-12 07:18 (UTC)_
+_Last checked: 2026-10-12 16:51 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-12 07:18 (UTC)_
 
 ### Games
 
+- 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
 - 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
 - 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
 - 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-12 07:18 (UTC)_
 - 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
 - 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
 - 2026-10-09 · $69.00 · [[Switch 2] Splatoon Raiders $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978349)
-- 2026-10-09 · $69.00 · [[Switch 2] Star Fox $69 Delivered @ Amazon AU / + Delivery ($0 to Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978337)
 
 ### Drinks
 
