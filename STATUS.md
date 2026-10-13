@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-13 11:32 (UTC)_
+_Last checked: 2026-10-13 18:29 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-13 11:32 (UTC)_
 
 ### Games
 
+- 2026-10-14 · price n/a · [[SUBS, PC, XSX] Battlefield 6 Added to Game Pass Ultimate & PC Game Pass via EA Play @ Xbox](https://www.ozbargain.com.au/node/978860)
 - 2026-10-13 · $16.00 · [The Darksiders Collection Bundle - $16AU from Green Man Gaming](https://www.ozbargain.com.au/node/978845)
 - 2026-10-13 · $9.74 · [[Android] Balatro $9.74 (35% off) @ Google Play](https://www.ozbargain.com.au/node/978832)
 - 2026-10-13 · $34.76 · [[PC, XSX] Dispatch - $34.76 @ Xbox Store](https://www.ozbargain.com.au/node/978803)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-13 11:32 (UTC)_
 - 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
 - 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
 - 2026-10-10 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/978477)
-- 2026-10-10 · $33.71 · [[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store](https://www.ozbargain.com.au/node/978439)
 
 ### Drinks
 
