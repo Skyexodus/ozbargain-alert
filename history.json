@@ -440,6 +440,27 @@
   "Games": {
     "deals": [
       {
+        "title": "The Darksiders Collection Bundle - $16AU from Green Man Gaming",
+        "link": "https://www.ozbargain.com.au/node/978845",
+        "price": 16.0,
+        "date": "2026-10-13",
+        "image": "https://files.ozbargain.com.au/n/45/978845l.jpg?h=0c229dff"
+      },
+      {
+        "title": "[Android] Balatro $9.74 (35% off) @ Google Play",
+        "link": "https://www.ozbargain.com.au/node/978832",
+        "price": 9.74,
+        "date": "2026-10-13",
+        "image": "https://files.ozbargain.com.au/n/32/978832l.jpg?h=359722cd"
+      },
+      {
+        "title": "[PC, XSX] Dispatch - $34.76 @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/978803",
+        "price": 34.76,
+        "date": "2026-10-13",
+        "image": "https://files.ozbargain.com.au/n/03/978803.jpg?h=0eff3158"
+      },
+      {
         "title": "[PC] MOUSE: P.I. For Hire $32.95 @ GOG",
         "link": "https://www.ozbargain.com.au/node/978742",
         "price": 32.95,
@@ -522,32 +543,18 @@
         "price": 69.0,
         "date": "2026-10-09",
         "image": "https://files.ozbargain.com.au/n/37/978337l.jpg?h=0656ee4a"
-      },
-      {
-        "title": "[XSX, PS5] Battlefield 6 $29 + Delivery ($0 C&C/ In-Store/ OnePass/ $60 Spend) @ Target",
-        "link": "https://www.ozbargain.com.au/node/978329",
-        "price": 29.0,
-        "date": "2026-10-09",
-        "image": "https://files.ozbargain.com.au/n/29/978329l.jpg?h=691e3591"
-      },
-      {
-        "title": "[PS5, XSX] Free - Mafia III: Definitive Edition PS5/XSX Version for Owners of Any PS4/Digital XB1 Version @ PlayStation & Xbox",
-        "link": "https://www.ozbargain.com.au/node/978314",
-        "price": null,
-        "date": "2026-10-09",
-        "image": "https://files.ozbargain.com.au/n/14/978314.jpg?h=661b98ea"
-      },
-      {
-        "title": "[PC, XSX] RoboCop: Rogue City - $5.49 @ Xbox Store",
-        "link": "https://www.ozbargain.com.au/node/978291",
-        "price": 5.49,
-        "date": "2026-10-09",
-        "image": "https://files.ozbargain.com.au/n/91/978291.jpg?h=e7529335"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen",
+        "link": "https://www.ozbargain.com.au/node/978838",
+        "price": 20.9,
+        "date": "2026-10-13",
+        "image": "https://files.ozbargain.com.au/n/38/978838l.jpg?h=18c602dd"
+      },
       {
         "title": "½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths",
         "link": "https://www.ozbargain.com.au/node/978686",
@@ -636,12 +643,6 @@
         "link": "https://www.ozbargain.com.au/node/976260",
         "price": null,
         "date": "2026-09-24"
-      },
-      {
-        "title": "[NSW, VIC] Spring Discoveries Black Box $19.99 (Worth $115) + Delivery @ Black Box Australia",
-        "link": "https://www.ozbargain.com.au/node/976156",
-        "price": 19.99,
-        "date": "2026-09-23"
       }
     ]
   },

@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-13 03:51 (UTC)_
+_Last checked: 2026-10-13 11:32 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-13 03:51 (UTC)_
 
 ### Games
 
+- 2026-10-13 · $16.00 · [The Darksiders Collection Bundle - $16AU from Green Man Gaming](https://www.ozbargain.com.au/node/978845)
+- 2026-10-13 · $9.74 · [[Android] Balatro $9.74 (35% off) @ Google Play](https://www.ozbargain.com.au/node/978832)
+- 2026-10-13 · $34.76 · [[PC, XSX] Dispatch - $34.76 @ Xbox Store](https://www.ozbargain.com.au/node/978803)
 - 2026-10-13 · $32.95 · [[PC] MOUSE: P.I. For Hire $32.95 @ GOG](https://www.ozbargain.com.au/node/978742)
 - 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
 - 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
@@ -85,12 +88,10 @@ _Last checked: 2026-10-13 03:51 (UTC)_
 - 2026-10-10 · $31.60 · [[PC, Steam] Twisted Trilogies and Terrors: Dark Visual Novel Bundle (Spirit Hunter Trilogy, and Others) $31.60 @ Humble Bundle](https://www.ozbargain.com.au/node/978516)
 - 2026-10-10 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/978477)
 - 2026-10-10 · $33.71 · [[XB1, XSX] Terminator 2D: NO FATE - $33.71 @ Xbox Store](https://www.ozbargain.com.au/node/978439)
-- 2026-10-10 · $28.99 · [1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5](https://www.ozbargain.com.au/node/978412)
-- 2026-10-10 · $69.00 · [[Switch 2] Mario Tennis Fever / Yoshi and the Mysterious Book $69 + Delivery ($0 Metro/ OnePass/ C&C/ In-Store) @ Officeworks](https://www.ozbargain.com.au/node/978411)
-- 2026-10-10 · price n/a · [[PC, Steam] Free - Fireside Feelings @ Steam](https://www.ozbargain.com.au/node/978405)
 
 ### Drinks
 
+- 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
 - 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
 - 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
 - 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-13 03:51 (UTC)_
 - 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
 - 2026-09-28 · price n/a · [Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)](https://www.ozbargain.com.au/node/976699)
 - 2026-09-28 · $2.50 · [½ Price: Sanitarium Weet-Bix 575g $2.50 & Protein Weet-Bix Bites 510g $4.00 @ Coles + 191 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/976711)
-- 2026-09-27 · $2.00 · [[Vic] Nongshim Shin Ramyun Varieties 4/5 Pack from $2, Boss Coffee 4 Pack $4 @ Cheaper Buy Miles (Fitzroy)](https://www.ozbargain.com.au/node/976610)
 
 ### Students
 
