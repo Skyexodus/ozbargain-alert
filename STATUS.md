@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-14 07:17 (UTC)_
+_Last checked: 2026-10-14 12:56 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-14 07:17 (UTC)_
 
 ### Games
 
+- 2026-10-14 · $149.39 · [SteelSeries Arctis Nova 5 Wireless Gaming Headset $149.39 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978994)
 - 2026-10-14 · $32.76 · [[PC, Steam] Planet Zoo 2: Standard A$32.76, Deluxe Edition A$42.73 @ AllYouPlay](https://www.ozbargain.com.au/node/978899)
 - 2026-10-14 · $4.87 · [[XB1, XSX] Leisure Suit Larry - Wet Dreams Saga Bundle $4.87 (Was $97.45) Game Pass Req'd @ Xbox Store](https://www.ozbargain.com.au/node/978865)
 - 2026-10-14 · price n/a · [[SUBS, PC, XSX] Battlefield 6 Added to Game Pass Ultimate & PC Game Pass via EA Play @ Xbox](https://www.ozbargain.com.au/node/978860)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-14 07:17 (UTC)_
 - 2026-10-13 · $32.95 · [[PC] MOUSE: P.I. For Hire $32.95 @ GOG](https://www.ozbargain.com.au/node/978742)
 - 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
 - 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
-- 2026-10-12 · $39.00 · [1000+ Yugioh English Cards (10 Super Rares, 100 Rares) $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/978613)
 
 ### Drinks
 
