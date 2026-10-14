@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-14 01:52 (UTC)_
+_Last checked: 2026-10-14 07:17 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-14 01:52 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
 - 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
 - 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
@@ -74,7 +75,6 @@ _Last checked: 2026-10-14 01:52 (UTC)_
 - 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
-- 2026-10-01 · $74.00 · [nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/977311)
 
 ### Games
 
@@ -104,10 +104,12 @@ _Last checked: 2026-10-14 01:52 (UTC)_
 
 ### Students
 
+- 2026-10-14 · price n/a · [10% off Ultimate Her, Him, Teens, Kids and Students Gift Cards (In-Store Only) @ Coles](https://www.ozbargain.com.au/node/978950)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 
 ### Electricity
 
+- 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
@@ -117,7 +119,6 @@ _Last checked: 2026-10-14 01:52 (UTC)_
 - 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
 - 2026-09-17 · $150.00 · [Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex](https://www.ozbargain.com.au/node/975495)
 - 2026-09-14 · $40.00 · [Join Origin Go Variable Ongoing Electricity Plan, Get 5 x $40 Uber Eats 30-Day Voucher (New/Moving Customers) @ Origin Energy](https://www.ozbargain.com.au/node/974996)
-- 2026-09-09 · $12.00 · [[VIC, NSW, QLD, SA] $12 Electricity Credit in Nov for $6 @ Powershop](https://www.ozbargain.com.au/node/974428)
 
 ### Wine fridge
 
