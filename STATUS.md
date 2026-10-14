@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-14 17:55 (UTC)_
+_Last checked: 2026-10-14 21:23 (UTC)_
 
 ## Specific items
 
@@ -109,6 +109,7 @@ _Last checked: 2026-10-14 17:55 (UTC)_
 
 ### Electricity
 
+- 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
 - 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
@@ -118,7 +119,6 @@ _Last checked: 2026-10-14 17:55 (UTC)_
 - 2026-09-24 · $200.00 · [Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)](https://www.ozbargain.com.au/node/976341)
 - 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
 - 2026-09-17 · $150.00 · [Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex](https://www.ozbargain.com.au/node/975495)
-- 2026-09-14 · $40.00 · [Join Origin Go Variable Ongoing Electricity Plan, Get 5 x $40 Uber Eats 30-Day Voucher (New/Moving Customers) @ Origin Energy](https://www.ozbargain.com.au/node/974996)
 
 ### Wine fridge
 
