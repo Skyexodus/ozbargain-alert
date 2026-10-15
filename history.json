@@ -66,6 +66,13 @@
   "NAS": {
     "deals": [
       {
+        "title": "Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks",
+        "link": "https://www.ozbargain.com.au/node/979030",
+        "price": 1000.0,
+        "date": "2026-10-15",
+        "image": "https://files.ozbargain.com.au/n/30/979030l.jpg?h=b26bfc10"
+      },
+      {
         "title": "Western Digital WD Red Plus 4TB 3.5\" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU",
         "link": "https://www.ozbargain.com.au/node/977933",
         "price": 164.78,
@@ -143,6 +150,13 @@
   },
   "HDD": {
     "deals": [
+      {
+        "title": "Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks",
+        "link": "https://www.ozbargain.com.au/node/979030",
+        "price": 1000.0,
+        "date": "2026-10-15",
+        "image": "https://files.ozbargain.com.au/n/30/979030l.jpg?h=b26bfc10"
+      },
       {
         "title": "WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU",
         "link": "https://www.ozbargain.com.au/node/978741",
@@ -441,6 +455,13 @@
   "Games": {
     "deals": [
       {
+        "title": "[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft",
+        "link": "https://www.ozbargain.com.au/node/979029",
+        "price": 79.95,
+        "date": "2026-10-15",
+        "image": "https://files.ozbargain.com.au/n/29/979029.jpg?h=ff07c413"
+      },
+      {
         "title": "SteelSeries Arctis Nova 5 Wireless Gaming Headset $149.39 (RRP $299) Delivered @ Amazon JP via AU",
         "link": "https://www.ozbargain.com.au/node/978994",
         "price": 149.39,
@@ -537,18 +558,18 @@
         "price": 33.71,
         "date": "2026-10-10",
         "image": "https://files.ozbargain.com.au/n/39/978439.jpg?h=a2c0f072"
-      },
-      {
-        "title": "1/2 Price: Arc Raiders (Free-To-Play 8-12 October) $28.99 @ Steam, Epic, Xbox, PS5",
-        "link": "https://www.ozbargain.com.au/node/978412",
-        "price": 28.99,
-        "date": "2026-10-10",
-        "image": "https://files.ozbargain.com.au/n/12/978412l.jpg?h=ffafebc9"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)",
+        "link": "https://www.ozbargain.com.au/node/979024",
+        "price": null,
+        "date": "2026-10-15",
+        "image": "https://files.ozbargain.com.au/n/24/979024l.jpg?h=a86fb20e"
+      },
       {
         "title": "[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen",
         "link": "https://www.ozbargain.com.au/node/978838",
@@ -638,12 +659,6 @@
         "link": "https://www.ozbargain.com.au/node/976352",
         "price": 8.95,
         "date": "2026-09-25"
-      },
-      {
-        "title": "20% off Food and Drinks at Select Airport Locations with Visa Infinite or Visa Signature Cards",
-        "link": "https://www.ozbargain.com.au/node/976260",
-        "price": null,
-        "date": "2026-09-24"
       }
     ]
   },

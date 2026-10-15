@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-14 21:23 (UTC)_
+_Last checked: 2026-10-15 00:01 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 
 ### NAS
 
+- 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
 - 2026-09-30 · $824.99 · [[Prime] Terramaster F4-425 Plus NAS Storage $824.99 Delivered (RRP $1,099.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/977105)
@@ -35,10 +36,10 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 - 2026-09-01 · $599.00 · [Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com](https://www.ozbargain.com.au/node/973533)
 - 2026-08-18 · $260.36 · [Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @  youyeetoo Official AliExpress](https://www.ozbargain.com.au/node/971828)
 - 2026-08-14 · $583.98 · [TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $583.98 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971408)
-- 2026-08-13 · $879.99 · [TerraMaster F4-425 Plus NAS Storage - 4Bay Intel N150 CPU, 16GB RAM DDR5 $879.99 Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/971215)
 
 ### HDD
 
+- 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
@@ -48,7 +49,6 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 - 2026-07-24 · $530.00 · [[Refurb] Seagate ST18000NM002J 18TB SATA HDD £237.50 + £39.66 Delivery (~A$530 + Applicable Duty & GST) @ Bargain Hardware](https://www.ozbargain.com.au/node/968935)
 - 2026-07-15 · $502.90 · [Western Digital 12TB WD Blue SATA 3 Internal Hard Drive - 7200 RPM $502.90 (RRP $641.52) Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/967991)
 - 2026-07-11 · $599.95 · [[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology](https://www.ozbargain.com.au/node/967492)
-- 2026-07-10 · $292.79 · [Seagate Skyhawk 14TB ST14000VE0008 $292.79 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/967312)
 
 ### SSD
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 
 ### Games
 
+- 2026-10-15 · $79.95 · [[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft](https://www.ozbargain.com.au/node/979029)
 - 2026-10-14 · $149.39 · [SteelSeries Arctis Nova 5 Wireless Gaming Headset $149.39 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978994)
 - 2026-10-14 · $32.76 · [[PC, Steam] Planet Zoo 2: Standard A$32.76, Deluxe Edition A$42.73 @ AllYouPlay](https://www.ozbargain.com.au/node/978899)
 - 2026-10-14 · $4.87 · [[XB1, XSX] Leisure Suit Larry - Wet Dreams Saga Bundle $4.87 (Was $97.45) Game Pass Req'd @ Xbox Store](https://www.ozbargain.com.au/node/978865)
@@ -87,10 +88,10 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 - 2026-10-13 · $34.76 · [[PC, XSX] Dispatch - $34.76 @ Xbox Store](https://www.ozbargain.com.au/node/978803)
 - 2026-10-13 · $32.95 · [[PC] MOUSE: P.I. For Hire $32.95 @ GOG](https://www.ozbargain.com.au/node/978742)
 - 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
-- 2026-10-12 · $5.88 · [UNO Teams Card Game $5.88 (RRP $12.99) + Delivery ($0 Prime/$59 Spend) @ Amazon AU / Mr Toys ($0 C&C QLD)](https://www.ozbargain.com.au/node/978662)
 
 ### Drinks
 
+- 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
 - 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
 - 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
 - 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-14 21:23 (UTC)_
 - 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
 - 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
 - 2026-09-28 · price n/a · [Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)](https://www.ozbargain.com.au/node/976699)
-- 2026-09-28 · $2.50 · [½ Price: Sanitarium Weet-Bix 575g $2.50 & Protein Weet-Bix Bites 510g $4.00 @ Coles + 191 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/976711)
 
 ### Students
 
