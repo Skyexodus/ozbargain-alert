@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-15 09:24 (UTC)_
+_Last checked: 2026-10-15 14:19 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-15 09:24 (UTC)_
 
 ### Whisky
 
+- 2026-10-15 · $76.00 · [Dalwhinnie 15 Years Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Exc QLD, TAS, NT)](https://www.ozbargain.com.au/node/979150)
 - 2026-09-10 · price n/a · [[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel](https://www.ozbargain.com.au/node/974499)
 - 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
 - 2026-09-07 · $50.00 · [$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/974204)
@@ -22,7 +23,6 @@ _Last checked: 2026-10-15 09:24 (UTC)_
 - 2026-08-28 · $5.90 · [[QLD] Southern Comfort Original Whiskey 1L $5.90 C&C / in Limited Stores Only @ BWS](https://www.ozbargain.com.au/node/973125)
 - 2026-08-22 · $27.00 · [Jack Daniels & Cola 330ml Bottle 24-Pack $27 (Was $130) @ Liquorland via Coles (Select Locations)](https://www.ozbargain.com.au/node/972264)
 - 2026-08-12 · $20.00 · [BWS: 22% Cashback ($20 Cap Per Order) @ ShopBack](https://www.ozbargain.com.au/node/971009)
-- 2026-08-07 · $200.00 · [$40 off $200 Spend (Exclusions Apply) + Delivery ($0 C&C) @ Liquorland via Coles Online](https://www.ozbargain.com.au/node/970544)
 
 ### NAS
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-15 09:24 (UTC)_
 
 ### Games
 
+- 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
+- 2026-10-15 · price n/a · [[PC, Steam] Free - Cyberfrags '69 @ Steam](https://www.ozbargain.com.au/node/979133)
 - 2026-10-15 · $79.95 · [[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft](https://www.ozbargain.com.au/node/979029)
 - 2026-10-14 · $149.39 · [SteelSeries Arctis Nova 5 Wireless Gaming Headset $149.39 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978994)
 - 2026-10-14 · $32.76 · [[PC, Steam] Planet Zoo 2: Standard A$32.76, Deluxe Edition A$42.73 @ AllYouPlay](https://www.ozbargain.com.au/node/978899)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-15 09:24 (UTC)_
 - 2026-10-13 · $16.00 · [The Darksiders Collection Bundle - $16AU from Green Man Gaming](https://www.ozbargain.com.au/node/978845)
 - 2026-10-13 · $9.74 · [[Android] Balatro $9.74 (35% off) @ Google Play](https://www.ozbargain.com.au/node/978832)
 - 2026-10-13 · $34.76 · [[PC, XSX] Dispatch - $34.76 @ Xbox Store](https://www.ozbargain.com.au/node/978803)
-- 2026-10-13 · $32.95 · [[PC] MOUSE: P.I. For Hire $32.95 @ GOG](https://www.ozbargain.com.au/node/978742)
-- 2026-10-12 · price n/a · [[PC, Mac, Steam] Free - Fostering Apocalypse, Cartomancy Anthology @ Steam](https://www.ozbargain.com.au/node/978702)
 
 ### Drinks
 
