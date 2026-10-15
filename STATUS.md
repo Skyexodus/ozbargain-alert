@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-15 14:19 (UTC)_
+_Last checked: 2026-10-15 18:25 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-15 14:19 (UTC)_
 
 ### Games
 
+- 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
+- 2026-10-16 · $35.99 · [[PC, Steam] Unicef Bundle (Incl Peak, Blue Prince, Vampire Crawlers + More) $35.99 @ Planetplay](https://www.ozbargain.com.au/node/979155)
 - 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
 - 2026-10-15 · price n/a · [[PC, Steam] Free - Cyberfrags '69 @ Steam](https://www.ozbargain.com.au/node/979133)
 - 2026-10-15 · $79.95 · [[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft](https://www.ozbargain.com.au/node/979029)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-15 14:19 (UTC)_
 - 2026-10-14 · $4.87 · [[XB1, XSX] Leisure Suit Larry - Wet Dreams Saga Bundle $4.87 (Was $97.45) Game Pass Req'd @ Xbox Store](https://www.ozbargain.com.au/node/978865)
 - 2026-10-14 · price n/a · [[SUBS, PC, XSX] Battlefield 6 Added to Game Pass Ultimate & PC Game Pass via EA Play @ Xbox](https://www.ozbargain.com.au/node/978860)
 - 2026-10-13 · $16.00 · [The Darksiders Collection Bundle - $16AU from Green Man Gaming](https://www.ozbargain.com.au/node/978845)
-- 2026-10-13 · $9.74 · [[Android] Balatro $9.74 (35% off) @ Google Play](https://www.ozbargain.com.au/node/978832)
-- 2026-10-13 · $34.76 · [[PC, XSX] Dispatch - $34.76 @ Xbox Store](https://www.ozbargain.com.au/node/978803)
 
 ### Drinks
 
