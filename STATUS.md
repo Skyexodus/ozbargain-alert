@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-15 21:39 (UTC)_
+_Last checked: 2026-10-15 23:52 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-15 21:39 (UTC)_
 
 ### Games
 
+- 2026-10-16 · $59.97 · [[PC, Steam] 007 First Light $59.97 @ Steam](https://www.ozbargain.com.au/node/979164)
 - 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
 - 2026-10-16 · $35.99 · [[PC, Steam] Unicef Bundle (Incl Peak, Blue Prince, Vampire Crawlers + More) $35.99 @ Planetplay](https://www.ozbargain.com.au/node/979155)
 - 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-15 21:39 (UTC)_
 - 2026-10-14 · $32.76 · [[PC, Steam] Planet Zoo 2: Standard A$32.76, Deluxe Edition A$42.73 @ AllYouPlay](https://www.ozbargain.com.au/node/978899)
 - 2026-10-14 · $4.87 · [[XB1, XSX] Leisure Suit Larry - Wet Dreams Saga Bundle $4.87 (Was $97.45) Game Pass Req'd @ Xbox Store](https://www.ozbargain.com.au/node/978865)
 - 2026-10-14 · price n/a · [[SUBS, PC, XSX] Battlefield 6 Added to Game Pass Ultimate & PC Game Pass via EA Play @ Xbox](https://www.ozbargain.com.au/node/978860)
-- 2026-10-13 · $16.00 · [The Darksiders Collection Bundle - $16AU from Green Man Gaming](https://www.ozbargain.com.au/node/978845)
 
 ### Drinks
 
