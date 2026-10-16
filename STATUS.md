@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-15 23:52 (UTC)_
+_Last checked: 2026-10-16 03:47 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-15 23:52 (UTC)_
 
 ### Whisky
 
+- 2026-10-16 · $19.95 · [[QLD] 2 Free Tickets + $19.95 Admin Fee to Whiskymofo Brisbane 16 & 17 Oct at John Reid Pavilion @ Promotix](https://www.ozbargain.com.au/node/979190)
 - 2026-10-15 · $76.00 · [Dalwhinnie 15 Years Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Exc QLD, TAS, NT)](https://www.ozbargain.com.au/node/979150)
 - 2026-09-10 · price n/a · [[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel](https://www.ozbargain.com.au/node/974499)
 - 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
@@ -22,10 +23,10 @@ _Last checked: 2026-10-15 23:52 (UTC)_
 - 2026-08-30 · $0.00 · [10% off Red Wines, Whisky, Bourbon & Rum + Delivery ($0 C&C) @ Dan Murphy's Online & App](https://www.ozbargain.com.au/node/973261)
 - 2026-08-28 · $5.90 · [[QLD] Southern Comfort Original Whiskey 1L $5.90 C&C / in Limited Stores Only @ BWS](https://www.ozbargain.com.au/node/973125)
 - 2026-08-22 · $27.00 · [Jack Daniels & Cola 330ml Bottle 24-Pack $27 (Was $130) @ Liquorland via Coles (Select Locations)](https://www.ozbargain.com.au/node/972264)
-- 2026-08-12 · $20.00 · [BWS: 22% Cashback ($20 Cap Per Order) @ ShopBack](https://www.ozbargain.com.au/node/971009)
 
 ### NAS
 
+- 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-04 · $1,124.99 · [TERRAMASTER F8 SSD Plus NAS - 8Bay All SSD NAS Storage Core i3 8… $1,124.99 (RRP $1,499.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977702)
@@ -35,10 +36,10 @@ _Last checked: 2026-10-15 23:52 (UTC)_
 - 2026-09-01 · $587.99 · [Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/973482)
 - 2026-09-01 · $599.00 · [Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com](https://www.ozbargain.com.au/node/973533)
 - 2026-08-18 · $260.36 · [Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @  youyeetoo Official AliExpress](https://www.ozbargain.com.au/node/971828)
-- 2026-08-14 · $583.98 · [TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $583.98 Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/971408)
 
 ### HDD
 
+- 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
@@ -48,7 +49,6 @@ _Last checked: 2026-10-15 23:52 (UTC)_
 - 2026-07-31 · $404.60 · [Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/969728)
 - 2026-07-24 · $530.00 · [[Refurb] Seagate ST18000NM002J 18TB SATA HDD £237.50 + £39.66 Delivery (~A$530 + Applicable Duty & GST) @ Bargain Hardware](https://www.ozbargain.com.au/node/968935)
 - 2026-07-15 · $502.90 · [Western Digital 12TB WD Blue SATA 3 Internal Hard Drive - 7200 RPM $502.90 (RRP $641.52) Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/967991)
-- 2026-07-11 · $599.95 · [[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology](https://www.ozbargain.com.au/node/967492)
 
 ### SSD
 
