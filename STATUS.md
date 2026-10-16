@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-16 03:47 (UTC)_
+_Last checked: 2026-10-16 08:31 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-16 03:47 (UTC)_
 
 ### SSD
 
+- 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
 - 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-16 03:47 (UTC)_
 - 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
 - 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
 - 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
-- 2026-10-06 · $299.00 · [[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders](https://www.ozbargain.com.au/node/977881)
 
 ### NBN (home)
 
