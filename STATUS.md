@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-16 17:41 (UTC)_
+_Last checked: 2026-10-16 20:07 (UTC)_
 
 ## Specific items
 
