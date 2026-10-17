@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-17 01:10 (UTC)_
+_Last checked: 2026-10-17 05:40 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-10-17 01:10 (UTC)_
 
 ### HDD
 
+- 2026-10-17 · $439.25 · [[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979328)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
@@ -48,10 +49,10 @@ _Last checked: 2026-10-17 01:10 (UTC)_
 - 2026-08-26 · $225.25 · [[Used] EMC 8TB WD HUH721008ALN600 3.5" 4Kn 7.2K SATA Enterprise HDD $225.25 ($212 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/972765)
 - 2026-07-31 · $404.60 · [Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/969728)
 - 2026-07-24 · $530.00 · [[Refurb] Seagate ST18000NM002J 18TB SATA HDD £237.50 + £39.66 Delivery (~A$530 + Applicable Duty & GST) @ Bargain Hardware](https://www.ozbargain.com.au/node/968935)
-- 2026-07-15 · $502.90 · [Western Digital 12TB WD Blue SATA 3 Internal Hard Drive - 7200 RPM $502.90 (RRP $641.52) Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/967991)
 
 ### SSD
 
+- 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
 - 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-17 01:10 (UTC)_
 - 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
 - 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
 - 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
-- 2026-10-06 · $160.65 · [[Refurb] HP EliteDesk 800 G4 Micro Intel i5 8500T 8GB RAM 256GB SSD $160.65 ($156.87 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/977932)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-17 01:10 (UTC)_
 
 ### Games
 
+- 2026-10-17 · $6.99 · [70% Final Storewide Clearance VR Accessories for Quest 3, Quest 2, Valve Index, Rift S, PSVR2 + $6.99 Delivery @ Kronos VR](https://www.ozbargain.com.au/node/979326)
 - 2026-10-17 · $158.90 · [Palworld POCGe-BP01 Dawn of Palpagos Booster Box $158.90 Delivered @ Gameology Study of Games eBay](https://www.ozbargain.com.au/node/979300)
 - 2026-10-16 · $59.97 · [[PC, Steam] 007 First Light $59.97 @ Steam](https://www.ozbargain.com.au/node/979164)
 - 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-17 01:10 (UTC)_
 - 2026-10-15 · $79.95 · [[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft](https://www.ozbargain.com.au/node/979029)
 - 2026-10-14 · $149.39 · [SteelSeries Arctis Nova 5 Wireless Gaming Headset $149.39 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978994)
 - 2026-10-14 · $32.76 · [[PC, Steam] Planet Zoo 2: Standard A$32.76, Deluxe Edition A$42.73 @ AllYouPlay](https://www.ozbargain.com.au/node/978899)
-- 2026-10-14 · $4.87 · [[XB1, XSX] Leisure Suit Larry - Wet Dreams Saga Bundle $4.87 (Was $97.45) Game Pass Req'd @ Xbox Store](https://www.ozbargain.com.au/node/978865)
 
 ### Drinks
 

@@ -172,6 +172,13 @@
   "HDD": {
     "deals": [
       {
+        "title": "[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU",
+        "link": "https://www.ozbargain.com.au/node/979328",
+        "price": 439.25,
+        "date": "2026-10-17",
+        "image": "https://files.ozbargain.com.au/n/28/979328l.jpg?h=51f85698"
+      },
+      {
         "title": "[Prime] WD Red Plus 4TB 3.5\" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU",
         "link": "https://www.ozbargain.com.au/node/979191",
         "price": 277.63,
@@ -259,17 +266,18 @@
         "link": "https://www.ozbargain.com.au/node/964448",
         "price": 278.92,
         "date": "2026-06-21"
-      },
-      {
-        "title": "Seagate IronWolf 8TB NAS HDD $384.84 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/964063",
-        "price": 384.84,
-        "date": "2026-06-18"
       }
     ]
   },
   "SSD": {
     "deals": [
+      {
+        "title": "PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY",
+        "link": "https://www.ozbargain.com.au/node/979321",
+        "price": 389.0,
+        "date": "2026-10-17",
+        "image": "https://files.ozbargain.com.au/n/21/979321l.jpg?h=d3b88959"
+      },
       {
         "title": "Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX",
         "link": "https://www.ozbargain.com.au/node/979241",
@@ -367,13 +375,6 @@
         "price": 1577.0,
         "date": "2026-10-05",
         "image": "https://files.ozbargain.com.au/n/76/977776l.jpg?h=4f382cd6"
-      },
-      {
-        "title": "Lenovo Legion 7a 15\" Gen 11 OLED Laptop: AMD Ryzen Max+ 388 CPU, 32GB DDR5 RAM, 1TB SSD $2899 Delivered @ Lenovo",
-        "link": "https://www.ozbargain.com.au/node/977761",
-        "price": 2899.0,
-        "date": "2026-10-05",
-        "image": "https://files.ozbargain.com.au/n/61/977761l.jpg?h=8cf949b5"
       }
     ]
   },
@@ -483,6 +484,13 @@
   "Games": {
     "deals": [
       {
+        "title": "70% Final Storewide Clearance VR Accessories for Quest 3, Quest 2, Valve Index, Rift S, PSVR2 + $6.99 Delivery @ Kronos VR",
+        "link": "https://www.ozbargain.com.au/node/979326",
+        "price": 6.99,
+        "date": "2026-10-17",
+        "image": null
+      },
+      {
         "title": "Palworld POCGe-BP01 Dawn of Palpagos Booster Box $158.90 Delivered @ Gameology Study of Games eBay",
         "link": "https://www.ozbargain.com.au/node/979300",
         "price": 158.9,
@@ -579,13 +587,6 @@
         "price": 34.76,
         "date": "2026-10-13",
         "image": "https://files.ozbargain.com.au/n/03/978803.jpg?h=0eff3158"
-      },
-      {
-        "title": "[PC] MOUSE: P.I. For Hire $32.95 @ GOG",
-        "link": "https://www.ozbargain.com.au/node/978742",
-        "price": 32.95,
-        "date": "2026-10-13",
-        "image": "https://files.ozbargain.com.au/n/42/978742l.jpg?h=d0f80bc1"
       }
     ]
   },
