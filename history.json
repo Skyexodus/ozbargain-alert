@@ -381,6 +381,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs",
+        "link": "https://www.ozbargain.com.au/node/979367",
+        "price": null,
+        "date": "2026-10-17",
+        "image": "https://files.ozbargain.com.au/n/67/979367l.jpg?h=9502d9df"
+      },
+      {
         "title": "Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip",
         "link": "https://www.ozbargain.com.au/node/978924",
         "price": null,
@@ -472,12 +479,6 @@
         "link": "https://www.ozbargain.com.au/node/976371",
         "price": 59.0,
         "date": "2026-09-25"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $50/Month for 6 Months (New Customers), Ongoing $90/Month @ amaysim",
-        "link": "https://www.ozbargain.com.au/node/975834",
-        "price": 50.0,
-        "date": "2026-09-21"
       }
     ]
   },

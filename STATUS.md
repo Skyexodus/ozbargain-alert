@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-17 09:44 (UTC)_
+_Last checked: 2026-10-17 13:16 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-17 09:44 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
 - 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
 - 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
 - 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
@@ -74,7 +75,6 @@ _Last checked: 2026-10-17 09:44 (UTC)_
 - 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
 - 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
-- 2026-10-02 · $30.00 · [nbn 25/10 $30/Month for 6 Months, nbn FTTP or HFC 750/50 $60/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/977478)
 
 ### Games
 
