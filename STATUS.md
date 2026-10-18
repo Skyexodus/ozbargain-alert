@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-18 01:00 (UTC)_
+_Last checked: 2026-10-18 05:50 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-18 01:00 (UTC)_
 
 ### SSD
 
+- 2026-10-18 · $664.08 · [Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/979416)
 - 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
 - 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-18 01:00 (UTC)_
 - 2026-10-09 · $2,999.00 · [Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/978284)
 - 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
 - 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
-- 2026-10-07 · $239.00 · [CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/977966)
 
 ### NBN (home)
 
