@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-18 19:33 (UTC)_
+_Last checked: 2026-10-18 21:52 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-18 19:33 (UTC)_
 
 ### Games
 
+- 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
 - 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
 - 2026-10-18 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979393)
 - 2026-10-17 · $6.99 · [70% Final Storewide Clearance VR Accessories for Quest 3, Quest 2, Valve Index, Rift S, PSVR2 + $6.99 Delivery @ Kronos VR](https://www.ozbargain.com.au/node/979326)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-18 19:33 (UTC)_
 - 2026-10-16 · $35.99 · [[PC, Steam] Unicef Bundle (Incl Peak, Blue Prince, Vampire Crawlers + More) $35.99 @ Planetplay](https://www.ozbargain.com.au/node/979155)
 - 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
 - 2026-10-15 · price n/a · [[PC, Steam] Free - Cyberfrags '69 @ Steam](https://www.ozbargain.com.au/node/979133)
-- 2026-10-15 · $79.95 · [[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft](https://www.ozbargain.com.au/node/979029)
 
 ### Drinks
 
