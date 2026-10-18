@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-18 10:37 (UTC)_
+_Last checked: 2026-10-18 14:09 (UTC)_
 
 ## Specific items
 
@@ -104,6 +104,7 @@ _Last checked: 2026-10-18 10:37 (UTC)_
 
 ### Students
 
+- 2026-10-18 · $12.80 · [S$12.80 (U.P S$15) 30-Day Student eSIM 500GB (SG, MY, ID, TH, HK​) + 18GB (APAC, China, S. Korea, Japan​) @ Singtel](https://www.ozbargain.com.au/node/979455)
 - 2026-10-14 · price n/a · [10% off Ultimate Her, Him, Teens, Kids and Students Gift Cards (In-Store Only) @ Coles](https://www.ozbargain.com.au/node/978950)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 
