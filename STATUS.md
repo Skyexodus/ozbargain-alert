@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-19 10:12 (UTC)_
+_Last checked: 2026-10-19 17:01 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-19 10:12 (UTC)_
 
 ### Games
 
+- 2026-10-20 · price n/a · [[PC, Epic] Free - GetHigh.EXE @ Epic Games](https://www.ozbargain.com.au/node/979614)
+- 2026-10-20 · $99.00 · [[Switch 2] Fire Emblem: Fortune's Weave $99 (RRP $109.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979613)
 - 2026-10-19 · $26.98 · [Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation](https://www.ozbargain.com.au/node/979549)
 - 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
 - 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-19 10:12 (UTC)_
 - 2026-10-17 · $158.90 · [Palworld POCGe-BP01 Dawn of Palpagos Booster Box $158.90 Delivered @ Gameology Study of Games eBay](https://www.ozbargain.com.au/node/979300)
 - 2026-10-16 · $59.97 · [[PC, Steam] 007 First Light $59.97 @ Steam](https://www.ozbargain.com.au/node/979164)
 - 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
-- 2026-10-16 · $35.99 · [[PC, Steam] Unicef Bundle (Incl Peak, Blue Prince, Vampire Crawlers + More) $35.99 @ Planetplay](https://www.ozbargain.com.au/node/979155)
-- 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
 
 ### Drinks
 
@@ -123,6 +123,7 @@ _Last checked: 2026-10-19 10:12 (UTC)_
 
 ### Wine fridge
 
+- 2026-10-19 · price n/a · [Spend $2,500 on Eligible Penfolds Wines & 1 Bottle of Grange, Claim Free Grand Cru 42-Bottle Wine Fridge @ Liquorland](https://www.ozbargain.com.au/node/979601)
 - 2026-06-08 · $2,039.15 · [DIVIN 57-Can + 20-Bottle Beverage & Wine Fridge $2039.15 (15% off) & Bonus Insulated Wine Bag (Valued $36.50) + Delivery @ DIVIN](https://www.ozbargain.com.au/node/962555)
 - 2025-04-11 · price n/a · [15% off Wine Fridges, Cooler Bags & Glassware + Delivery @ DIVIN Australia](https://www.ozbargain.com.au/node/901424)
 - 2024-11-12 · price n/a · [15% off Wine Fridges, Cooler Bags & Glassware + Delivery @ DIVIN Australia](https://www.ozbargain.com.au/node/876352)
