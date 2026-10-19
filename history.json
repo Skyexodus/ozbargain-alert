@@ -388,6 +388,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU",
+        "link": "https://www.ozbargain.com.au/node/979522",
+        "price": 120.0,
+        "date": "2026-10-19",
+        "image": "https://files.ozbargain.com.au/n/22/979522l.jpg?h=e1ea34a2"
+      },
+      {
         "title": "Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs",
         "link": "https://www.ozbargain.com.au/node/979367",
         "price": null,
@@ -480,12 +487,6 @@
         "link": "https://www.ozbargain.com.au/node/976633",
         "price": 44.5,
         "date": "2026-09-27"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $59/Month, 1000/100 $75/Month for 6 Months (New and Existing Customers, $95/$110/Month Ongoing) @ Belong",
-        "link": "https://www.ozbargain.com.au/node/976371",
-        "price": 59.0,
-        "date": "2026-09-25"
       }
     ]
   },
