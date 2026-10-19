@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-19 04:28 (UTC)_
+_Last checked: 2026-10-19 10:12 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-19 04:28 (UTC)_
 
 ### SSD
 
+- 2026-10-19 · $300.00 · [Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung](https://www.ozbargain.com.au/node/979587)
 - 2026-10-18 · $664.08 · [Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/979416)
 - 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
 - 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
@@ -61,10 +62,10 @@ _Last checked: 2026-10-19 04:28 (UTC)_
 - 2026-10-09 · $2,898.00 · [Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/978396)
 - 2026-10-09 · $2,999.00 · [Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/978284)
 - 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
-- 2026-10-08 · $267.54 · [Crucial P510 1TB Gen5 NVMe SSD $267.54 Delivered @ Amazon DE via  AU](https://www.ozbargain.com.au/node/978130)
 
 ### NBN (home)
 
+- 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
 - 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
 - 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
 - 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-19 04:28 (UTC)_
 - 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
 - 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
 - 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
-- 2026-10-06 · $69.00 · [nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra](https://www.ozbargain.com.au/node/977865)
 
 ### Games
 
+- 2026-10-19 · $26.98 · [Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation](https://www.ozbargain.com.au/node/979549)
 - 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
 - 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
 - 2026-10-18 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979393)
@@ -87,10 +88,10 @@ _Last checked: 2026-10-19 04:28 (UTC)_
 - 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
 - 2026-10-16 · $35.99 · [[PC, Steam] Unicef Bundle (Incl Peak, Blue Prince, Vampire Crawlers + More) $35.99 @ Planetplay](https://www.ozbargain.com.au/node/979155)
 - 2026-10-16 · price n/a · [[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/979154)
-- 2026-10-15 · price n/a · [[PC, Steam] Free - Cyberfrags '69 @ Steam](https://www.ozbargain.com.au/node/979133)
 
 ### Drinks
 
+- 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 - 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
 - 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
 - 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-19 04:28 (UTC)_
 - 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
 - 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
 - 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
-- 2026-09-28 · price n/a · [Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)](https://www.ozbargain.com.au/node/976699)
 
 ### Students
 

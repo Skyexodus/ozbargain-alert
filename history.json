@@ -279,6 +279,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung",
+        "link": "https://www.ozbargain.com.au/node/979587",
+        "price": 300.0,
+        "date": "2026-10-19",
+        "image": "https://files.ozbargain.com.au/n/87/979587l.jpg?h=186a0d0d"
+      },
+      {
         "title": "Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/979416",
         "price": 664.08,
@@ -375,18 +382,18 @@
         "price": 289.43,
         "date": "2026-10-06",
         "image": "https://files.ozbargain.com.au/n/71/977871l.jpg?h=2a1bdeb4"
-      },
-      {
-        "title": "2TB Samsung 990 EVO Plus M.2 NVMe Gen4 SSD $589 + Postage or Free CnC Mt Gravatt @ Computer Alliance",
-        "link": "https://www.ozbargain.com.au/node/977841",
-        "price": 589.0,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/41/977841l.jpg?h=5b83a8c1"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU",
+        "link": "https://www.ozbargain.com.au/node/979571",
+        "price": 300.0,
+        "date": "2026-10-19",
+        "image": "https://files.ozbargain.com.au/n/71/979571l.jpg?h=e1ea34a2"
+      },
       {
         "title": "dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU",
         "link": "https://www.ozbargain.com.au/node/979522",
@@ -481,17 +488,18 @@
         "link": "https://www.ozbargain.com.au/node/976658",
         "price": 68.0,
         "date": "2026-09-28"
-      },
-      {
-        "title": "50% off nbn for 2 Months: 25/5 $44.50/M, 100/20 or 500/50 $49.50/M, 750/50 $59.50/M, 1000/100 $64.50/M (New Customers) @ Telstra",
-        "link": "https://www.ozbargain.com.au/node/976633",
-        "price": 44.5,
-        "date": "2026-09-27"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation",
+        "link": "https://www.ozbargain.com.au/node/979549",
+        "price": 26.98,
+        "date": "2026-10-19",
+        "image": "https://files.ozbargain.com.au/n/49/979549.jpg?h=d6314e38"
+      },
       {
         "title": "1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards",
         "link": "https://www.ozbargain.com.au/node/979472",
@@ -589,18 +597,18 @@
         "price": 4.87,
         "date": "2026-10-14",
         "image": "https://files.ozbargain.com.au/n/65/978865.jpg?h=0551f643"
-      },
-      {
-        "title": "[SUBS, PC, XSX] Battlefield 6 Added to Game Pass Ultimate & PC Game Pass via EA Play @ Xbox",
-        "link": "https://www.ozbargain.com.au/node/978860",
-        "price": null,
-        "date": "2026-10-14",
-        "image": "https://files.ozbargain.com.au/n/60/978860l.jpg?h=b33cc318"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/979557",
+        "price": 6.0,
+        "date": "2026-10-19",
+        "image": "https://files.ozbargain.com.au/n/57/979557l.jpg?h=fb1344ea"
+      },
       {
         "title": "[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)",
         "link": "https://www.ozbargain.com.au/node/979024",
@@ -691,12 +699,6 @@
         "link": "https://www.ozbargain.com.au/node/976558",
         "price": 20.0,
         "date": "2026-09-26"
-      },
-      {
-        "title": "$8.95 Small Quarter Pounder Meal + 6pc Chicken McNuggets (MyMacca's App Required) @ McDonald's",
-        "link": "https://www.ozbargain.com.au/node/976352",
-        "price": 8.95,
-        "date": "2026-09-25"
       }
     ]
   },
