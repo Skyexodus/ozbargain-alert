@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-20 00:38 (UTC)_
+_Last checked: 2026-10-20 05:20 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 
 ### HDD
 
+- 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
 - 2026-10-17 · $439.25 · [[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979328)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
@@ -48,10 +49,11 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 - 2026-09-06 · $326.50 · [Seagate Skyhawk 8TB 3.5" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/974118)
 - 2026-08-26 · $225.25 · [[Used] EMC 8TB WD HUH721008ALN600 3.5" 4Kn 7.2K SATA Enterprise HDD $225.25 ($212 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/972765)
 - 2026-07-31 · $404.60 · [Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/969728)
-- 2026-07-24 · $530.00 · [[Refurb] Seagate ST18000NM002J 18TB SATA HDD £237.50 + £39.66 Delivery (~A$530 + Applicable Duty & GST) @ Bargain Hardware](https://www.ozbargain.com.au/node/968935)
 
 ### SSD
 
+- 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
+- 2026-10-20 · $509.99 · [OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU](https://www.ozbargain.com.au/node/979652)
 - 2026-10-19 · $300.00 · [Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung](https://www.ozbargain.com.au/node/979587)
 - 2026-10-18 · $664.08 · [Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/979416)
 - 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
@@ -60,11 +62,11 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
 - 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
 - 2026-10-09 · $2,898.00 · [Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/978396)
-- 2026-10-09 · $2,999.00 · [Gaming PC: RTX 5070, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 750W PSU $2999 + Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/978284)
-- 2026-10-08 · $333.67 · [WD_BLACK SN850P 2TB NVMe M.2 SSD for PS5 (with Heatsink) $333.67 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/978162)
 
 ### NBN (home)
 
+- 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
+- 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
 - 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
 - 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
 - 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
@@ -73,11 +75,12 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 - 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 - 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
-- 2026-10-08 · $30.00 · [$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel](https://www.ozbargain.com.au/node/978192)
-- 2026-10-07 · $69.00 · [nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus](https://www.ozbargain.com.au/node/978039)
 
 ### Games
 
+- 2026-10-20 · $79.00 · [Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979683)
+- 2026-10-20 · $147.99 · [CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered](https://www.ozbargain.com.au/node/979678)
+- 2026-10-20 · $47.21 · [[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop](https://www.ozbargain.com.au/node/979668)
 - 2026-10-20 · $48.00 · [[Switch 2] Cyberpunk 2077 Ultimate Edition Digital $48.00 @ Nintendo eShop](https://www.ozbargain.com.au/node/979638)
 - 2026-10-20 · price n/a · [[PC, Epic] Free - GetHigh.EXE @ Epic Games](https://www.ozbargain.com.au/node/979614)
 - 2026-10-20 · $99.00 · [[Switch 2] Fire Emblem: Fortune's Weave $99 (RRP $109.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979613)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 - 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
 - 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
 - 2026-10-18 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979393)
-- 2026-10-17 · $6.99 · [70% Final Storewide Clearance VR Accessories for Quest 3, Quest 2, Valve Index, Rift S, PSVR2 + $6.99 Delivery @ Kronos VR](https://www.ozbargain.com.au/node/979326)
-- 2026-10-17 · $158.90 · [Palworld POCGe-BP01 Dawn of Palpagos Booster Box $158.90 Delivered @ Gameology Study of Games eBay](https://www.ozbargain.com.au/node/979300)
-- 2026-10-16 · $59.97 · [[PC, Steam] 007 First Light $59.97 @ Steam](https://www.ozbargain.com.au/node/979164)
 
 ### Drinks
 
@@ -110,6 +110,7 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 
 ### Electricity
 
+- 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
 - 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
 - 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
@@ -119,7 +120,6 @@ _Last checked: 2026-10-20 00:38 (UTC)_
 - 2026-09-24 · price n/a · [[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy](https://www.ozbargain.com.au/node/976330)
 - 2026-09-24 · $200.00 · [Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)](https://www.ozbargain.com.au/node/976341)
 - 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
-- 2026-09-17 · $150.00 · [Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex](https://www.ozbargain.com.au/node/975495)
 
 ### Wine fridge
 

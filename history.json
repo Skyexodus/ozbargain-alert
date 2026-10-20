@@ -186,6 +186,13 @@
   "HDD": {
     "deals": [
       {
+        "title": "fanxiang SSD 2TB 2.5\" SATA III SSD 550MB $251.78 + Delivery @ eBay",
+        "link": "https://www.ozbargain.com.au/node/979656",
+        "price": 251.78,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/56/979656l.jpg?h=bcae79a0"
+      },
+      {
         "title": "[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU",
         "link": "https://www.ozbargain.com.au/node/979328",
         "price": 439.25,
@@ -274,17 +281,25 @@
         "link": "https://www.ozbargain.com.au/node/965567",
         "price": 1499.0,
         "date": "2026-06-29"
-      },
-      {
-        "title": "Seagate IronWolf 6TB NAS HDD $278.92 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/964448",
-        "price": 278.92,
-        "date": "2026-06-21"
       }
     ]
   },
   "SSD": {
     "deals": [
+      {
+        "title": "fanxiang SSD 2TB 2.5\" SATA III SSD 550MB $251.78 + Delivery @ eBay",
+        "link": "https://www.ozbargain.com.au/node/979656",
+        "price": 251.78,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/56/979656l.jpg?h=bcae79a0"
+      },
+      {
+        "title": "OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/979652",
+        "price": 509.99,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/52/979652l.jpg?h=83aeac21"
+      },
       {
         "title": "Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung",
         "link": "https://www.ozbargain.com.au/node/979587",
@@ -375,25 +390,25 @@
         "price": 160.65,
         "date": "2026-10-06",
         "image": "https://files.ozbargain.com.au/n/32/977932l.jpg?h=558848a7"
-      },
-      {
-        "title": "[Refurb] Lenovo ThinkCentre M90q Tiny i5-10500t 16GB RAM 256GB SSD Win 11 Wi-Fi $299 @ Australian Computer Traders",
-        "link": "https://www.ozbargain.com.au/node/977881",
-        "price": 299.0,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/81/977881l.jpg?h=fa1ab670"
-      },
-      {
-        "title": "Samsung 9100 PRO 1TB  M.2 NVMe PCIe 5.0 SSD $289.43 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/977871",
-        "price": 289.43,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/71/977871l.jpg?h=2a1bdeb4"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms",
+        "link": "https://www.ozbargain.com.au/node/979663",
+        "price": 100.0,
+        "date": "2026-10-20",
+        "image": null
+      },
+      {
+        "title": "Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More",
+        "link": "https://www.ozbargain.com.au/node/979662",
+        "price": 100.0,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/62/979662l.jpg?h=4c656c1c"
+      },
       {
         "title": "Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU",
         "link": "https://www.ozbargain.com.au/node/979571",
@@ -483,23 +498,32 @@
         "link": "https://www.ozbargain.com.au/node/977478",
         "price": 30.0,
         "date": "2026-10-02"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $74/Month for 6 Months (New Customers, $95/Month Ongoing) @ Superloop",
-        "link": "https://www.ozbargain.com.au/node/977311",
-        "price": 74.0,
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Optus nbn 25/10 $68/M, 500/50 $84/M, 1000/100 $114/M for 12 Months, Stay 90 Days & Receive $250 Visa eGift Card @ Finder",
-        "link": "https://www.ozbargain.com.au/node/976658",
-        "price": 68.0,
-        "date": "2026-09-28"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/979683",
+        "price": 79.0,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/83/979683l.jpg?h=becda0b6"
+      },
+      {
+        "title": "CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered",
+        "link": "https://www.ozbargain.com.au/node/979678",
+        "price": 147.99,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/78/979678l.jpg?h=e0e7ed7c"
+      },
+      {
+        "title": "[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/979668",
+        "price": 47.21,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/68/979668l.jpg?h=29854272"
+      },
       {
         "title": "[Switch 2] Cyberpunk 2077 Ultimate Edition Digital $48.00 @ Nintendo eShop",
         "link": "https://www.ozbargain.com.au/node/979638",
@@ -583,27 +607,6 @@
         "price": 35.99,
         "date": "2026-10-16",
         "image": "https://files.ozbargain.com.au/n/55/979155l.jpg?h=5822e3a7"
-      },
-      {
-        "title": "[PC, Epic] Free - Sker Ritual & Home - A Unique Horror Adventure @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/979154",
-        "price": null,
-        "date": "2026-10-16",
-        "image": "https://files.ozbargain.com.au/n/54/979154l.jpg?h=323fb7b5"
-      },
-      {
-        "title": "[PC, Steam] Free - Cyberfrags '69 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/979133",
-        "price": null,
-        "date": "2026-10-15",
-        "image": "https://files.ozbargain.com.au/n/33/979133l.jpg?h=8ec4e566"
-      },
-      {
-        "title": "[Pre Order] Xbox Nano Controller $79.95 Delivered @ Xbox / Microsoft",
-        "link": "https://www.ozbargain.com.au/node/979029",
-        "price": 79.95,
-        "date": "2026-10-15",
-        "image": "https://files.ozbargain.com.au/n/29/979029.jpg?h=ff07c413"
       }
     ]
   },
@@ -792,6 +795,13 @@
   },
   "Electricity": {
     "deals": [
+      {
+        "title": "Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify",
+        "link": "https://www.ozbargain.com.au/node/979680",
+        "price": 100.0,
+        "date": "2026-10-20",
+        "image": "https://files.ozbargain.com.au/n/80/979680.jpg?h=c14bdf84"
+      },
       {
         "title": "Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards",
         "link": "https://www.ozbargain.com.au/node/979010",
