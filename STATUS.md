@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-20 05:20 (UTC)_
+_Last checked: 2026-10-20 10:13 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-20 05:20 (UTC)_
 
 ### Games
 
+- 2026-10-20 · $8.99 · [[PC, Steam] Hogwarts Legacy $8.99, Digital Deluxe Edition $9.99 @ Steam](https://www.ozbargain.com.au/node/979686)
 - 2026-10-20 · $79.00 · [Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979683)
 - 2026-10-20 · $147.99 · [CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered](https://www.ozbargain.com.au/node/979678)
 - 2026-10-20 · $47.21 · [[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop](https://www.ozbargain.com.au/node/979668)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-20 05:20 (UTC)_
 - 2026-10-19 · $26.98 · [Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation](https://www.ozbargain.com.au/node/979549)
 - 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
 - 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
-- 2026-10-18 · price n/a · [Shift Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979393)
 
 ### Drinks
 
