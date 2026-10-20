@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-19 21:30 (UTC)_
+_Last checked: 2026-10-20 00:38 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-19 21:30 (UTC)_
 
 ### Whisky
 
+- 2026-10-20 · $40.00 · [Liquorland: Upsized 22% Cashback (Maximum $40 Cashback Per Order, Coupon Usage & Exclusions Apply) @ TopCashback](https://www.ozbargain.com.au/node/979629)
 - 2026-10-18 · $220.00 · [2x Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $220 (Member's Price) Delivered/C&C @ Dan Murphy's](https://www.ozbargain.com.au/node/979394)
 - 2026-10-16 · $19.95 · [[QLD] 2 Free Tickets + $19.95 Admin Fee to Whiskymofo Brisbane 16 & 17 Oct at John Reid Pavilion @ Promotix](https://www.ozbargain.com.au/node/979190)
 - 2026-10-15 · $76.00 · [Dalwhinnie 15 Years Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Exc QLD, TAS, NT)](https://www.ozbargain.com.au/node/979150)
@@ -22,7 +23,6 @@ _Last checked: 2026-10-19 21:30 (UTC)_
 - 2026-09-05 · $75.00 · [20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online](https://www.ozbargain.com.au/node/973966)
 - 2026-09-05 · $76.05 · [Corowa Distilling Co Mad Dog Morgan Single Malt Aus Whisky 500 mL $76.05 + Delivery ($0 C&C) @ Dan Murphy's (Limited Locations)](https://www.ozbargain.com.au/node/974001)
 - 2026-08-30 · $0.00 · [10% off Red Wines, Whisky, Bourbon & Rum + Delivery ($0 C&C) @ Dan Murphy's Online & App](https://www.ozbargain.com.au/node/973261)
-- 2026-08-28 · $5.90 · [[QLD] Southern Comfort Original Whiskey 1L $5.90 C&C / in Limited Stores Only @ BWS](https://www.ozbargain.com.au/node/973125)
 
 ### NAS
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-19 21:30 (UTC)_
 
 ### Games
 
+- 2026-10-20 · $48.00 · [[Switch 2] Cyberpunk 2077 Ultimate Edition Digital $48.00 @ Nintendo eShop](https://www.ozbargain.com.au/node/979638)
 - 2026-10-20 · price n/a · [[PC, Epic] Free - GetHigh.EXE @ Epic Games](https://www.ozbargain.com.au/node/979614)
 - 2026-10-20 · $99.00 · [[Switch 2] Fire Emblem: Fortune's Weave $99 (RRP $109.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979613)
 - 2026-10-19 · $26.98 · [Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation](https://www.ozbargain.com.au/node/979549)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-19 21:30 (UTC)_
 - 2026-10-17 · $6.99 · [70% Final Storewide Clearance VR Accessories for Quest 3, Quest 2, Valve Index, Rift S, PSVR2 + $6.99 Delivery @ Kronos VR](https://www.ozbargain.com.au/node/979326)
 - 2026-10-17 · $158.90 · [Palworld POCGe-BP01 Dawn of Palpagos Booster Box $158.90 Delivered @ Gameology Study of Games eBay](https://www.ozbargain.com.au/node/979300)
 - 2026-10-16 · $59.97 · [[PC, Steam] 007 First Light $59.97 @ Steam](https://www.ozbargain.com.au/node/979164)
-- 2026-10-16 · $699.00 · [Nintendo Switch 2 Console $699 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979156)
 
 ### Drinks
 
