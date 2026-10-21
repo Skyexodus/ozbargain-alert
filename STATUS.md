@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-21 05:49 (UTC)_
+_Last checked: 2026-10-21 10:41 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-21 05:49 (UTC)_
 
 ### Games
 
+- 2026-10-21 · $9.49 · [[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation](https://www.ozbargain.com.au/node/979839)
+- 2026-10-21 · $82.06 · [Tony Hawk's Pro Skater 3+4 (Collector's) - Xbox $82.06 (RRP $99.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979829)
 - 2026-10-21 · $103.12 · [Japanese Pokémon Center Fukuoka Special Box US$103.12 + US$14 Ship (~A$167 Delivered) with Code @ AkibaDesk](https://www.ozbargain.com.au/node/979819)
 - 2026-10-21 · $54.40 · [[PS4] Final Fantasy I-VI Collection: Anniversary Edition $54.40 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979797)
 - 2026-10-21 · $250.00 · [Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)](https://www.ozbargain.com.au/node/979786)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-21 05:49 (UTC)_
 - 2026-10-20 · $79.00 · [Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979683)
 - 2026-10-20 · $147.99 · [CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered](https://www.ozbargain.com.au/node/979678)
 - 2026-10-20 · $47.21 · [[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop](https://www.ozbargain.com.au/node/979668)
-- 2026-10-20 · $48.00 · [[Switch 2] Cyberpunk 2077 Ultimate Edition Digital $48.00 @ Nintendo eShop](https://www.ozbargain.com.au/node/979638)
-- 2026-10-20 · price n/a · [[PC, Epic] Free - GetHigh.EXE @ Epic Games](https://www.ozbargain.com.au/node/979614)
 
 ### Drinks
 
