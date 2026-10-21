@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-20 22:32 (UTC)_
+_Last checked: 2026-10-21 00:55 (UTC)_
 
 ## Specific items
 
@@ -91,6 +91,7 @@ _Last checked: 2026-10-20 22:32 (UTC)_
 
 ### Drinks
 
+- 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 - 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
 - 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-20 22:32 (UTC)_
 - 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
 - 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
 - 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
-- 2026-09-29 · $1.65 · [[Prime] Schweppes 1.1L Drink Varieties $1.65, 4x 330ml Packs $4.50 + Delivery ($0 with Prime / $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/976982)
 
 ### Students
 
