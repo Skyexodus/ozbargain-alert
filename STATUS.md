@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-21 10:41 (UTC)_
+_Last checked: 2026-10-21 15:39 (UTC)_
 
 ## Specific items
 
@@ -91,6 +91,7 @@ _Last checked: 2026-10-21 10:41 (UTC)_
 
 ### Drinks
 
+- 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 - 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-21 10:41 (UTC)_
 - 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
 - 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
 - 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
-- 2026-09-29 · $21.00 · [[Prime] Pepsi Max No Sugar Soft Drink Can 375ml (Pack of 24) $21 ($18.90 Subscribe & Save) Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/976818)
 
 ### Students
 
@@ -110,6 +110,7 @@ _Last checked: 2026-10-21 10:41 (UTC)_
 
 ### Electricity
 
+- 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 - 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
 - 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
 - 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
@@ -119,7 +120,6 @@ _Last checked: 2026-10-21 10:41 (UTC)_
 - 2026-09-26 · $200.00 · [[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie](https://www.ozbargain.com.au/node/976508)
 - 2026-09-24 · price n/a · [[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy](https://www.ozbargain.com.au/node/976330)
 - 2026-09-24 · $200.00 · [Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)](https://www.ozbargain.com.au/node/976341)
-- 2026-09-19 · $200.00 · [Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU](https://www.ozbargain.com.au/node/975640)
 
 ### Wine fridge
 
