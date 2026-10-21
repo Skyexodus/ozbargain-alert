@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-21 00:55 (UTC)_
+_Last checked: 2026-10-21 05:49 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-21 00:55 (UTC)_
 
 ### SSD
 
+- 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
 - 2026-10-20 · $509.99 · [OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU](https://www.ozbargain.com.au/node/979652)
 - 2026-10-19 · $300.00 · [Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung](https://www.ozbargain.com.au/node/979587)
@@ -61,10 +62,10 @@ _Last checked: 2026-10-21 00:55 (UTC)_
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
 - 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
-- 2026-10-09 · $2,898.00 · [Gaming PC: R7 7800X3D, RX 9070 XT, 1TB Gen4 SSD, B650EM, 32GB 6000MHz CL30 RAM, 240mm AIO, Free Game $2898 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/978396)
 
 ### NBN (home)
 
+- 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
 - 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
 - 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
@@ -74,20 +75,19 @@ _Last checked: 2026-10-21 00:55 (UTC)_
 - 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
 - 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
-- 2026-10-10 · $100.00 · [Signup to Dodo nbn, Activate in 30 Days & Stay 60 Days for $100 Cashback (New Dodo Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/978459)
 
 ### Games
 
+- 2026-10-21 · $103.12 · [Japanese Pokémon Center Fukuoka Special Box US$103.12 + US$14 Ship (~A$167 Delivered) with Code @ AkibaDesk](https://www.ozbargain.com.au/node/979819)
+- 2026-10-21 · $54.40 · [[PS4] Final Fantasy I-VI Collection: Anniversary Edition $54.40 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979797)
+- 2026-10-21 · $250.00 · [Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)](https://www.ozbargain.com.au/node/979786)
+- 2026-10-21 · $6.23 · [[PS4] Bloodborne $6.23, Shadow of The Colossus $6.59 @ PlayStation Store](https://www.ozbargain.com.au/node/979783)
 - 2026-10-20 · $8.99 · [[PC, Steam] Hogwarts Legacy $8.99, Digital Deluxe Edition $9.99 @ Steam](https://www.ozbargain.com.au/node/979686)
 - 2026-10-20 · $79.00 · [Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979683)
 - 2026-10-20 · $147.99 · [CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered](https://www.ozbargain.com.au/node/979678)
 - 2026-10-20 · $47.21 · [[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop](https://www.ozbargain.com.au/node/979668)
 - 2026-10-20 · $48.00 · [[Switch 2] Cyberpunk 2077 Ultimate Edition Digital $48.00 @ Nintendo eShop](https://www.ozbargain.com.au/node/979638)
 - 2026-10-20 · price n/a · [[PC, Epic] Free - GetHigh.EXE @ Epic Games](https://www.ozbargain.com.au/node/979614)
-- 2026-10-20 · $99.00 · [[Switch 2] Fire Emblem: Fortune's Weave $99 (RRP $109.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979613)
-- 2026-10-19 · $26.98 · [Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation](https://www.ozbargain.com.au/node/979549)
-- 2026-10-19 · $70.00 · [1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/979472)
-- 2026-10-18 · $44.09 · [Gothic 1 Remake PC $44.09 @ Loaded](https://www.ozbargain.com.au/node/979435)
 
 ### Drinks
 
