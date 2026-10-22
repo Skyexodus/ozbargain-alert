@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-22 06:00 (UTC)_
+_Last checked: 2026-10-22 11:44 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-22 06:00 (UTC)_
 
 ### Games
 
+- 2026-10-22 · $219.95 · [[Pre Order, PC] World of Warcraft: Forever Collector's Edition $219.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979975)
+- 2026-10-22 · price n/a · [Blizzard - Fall Sale up to 50% off Selected Titles and Services](https://www.ozbargain.com.au/node/979965)
 - 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
 - 2026-10-22 · price n/a · [[PC, Epic] Free: Terraspace @ Epic Games](https://www.ozbargain.com.au/node/979890)
 - 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-22 06:00 (UTC)_
 - 2026-10-21 · $103.12 · [Japanese Pokémon Center Fukuoka Special Box US$103.12 + US$14 Ship (~A$167 Delivered) with Code @ AkibaDesk](https://www.ozbargain.com.au/node/979819)
 - 2026-10-21 · $54.40 · [[PS4] Final Fantasy I-VI Collection: Anniversary Edition $54.40 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979797)
 - 2026-10-21 · $250.00 · [Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)](https://www.ozbargain.com.au/node/979786)
-- 2026-10-21 · $6.23 · [[PS4] Bloodborne $6.23, Shadow of The Colossus $6.59 @ PlayStation Store](https://www.ozbargain.com.au/node/979783)
-- 2026-10-20 · $8.99 · [[PC, Steam] Hogwarts Legacy $8.99, Digital Deluxe Edition $9.99 @ Steam](https://www.ozbargain.com.au/node/979686)
 
 ### Drinks
 
