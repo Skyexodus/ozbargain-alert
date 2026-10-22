@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-22 00:59 (UTC)_
+_Last checked: 2026-10-22 06:00 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-22 00:59 (UTC)_
 
 ### SSD
 
+- 2026-10-22 · $1,649.99 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/979939)
 - 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
 - 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-22 00:59 (UTC)_
 - 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
 - 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
-- 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
 
 ### NBN (home)
 
