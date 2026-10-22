@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-21 19:38 (UTC)_
+_Last checked: 2026-10-22 00:59 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-21 19:38 (UTC)_
 
 ### SSD
 
+- 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
 - 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
 - 2026-10-20 · $509.99 · [OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU](https://www.ozbargain.com.au/node/979652)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-21 19:38 (UTC)_
 - 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
 - 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 - 2026-10-10 · $89.00 · [BIWIN M350 500GB NVMe PCIe 4.0 M.2 2280 SSD $89 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978465)
-- 2026-10-10 · $159.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/978464)
 
 ### NBN (home)
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-21 19:38 (UTC)_
 
 ### Games
 
+- 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
+- 2026-10-22 · price n/a · [[PC, Epic] Free: Terraspace @ Epic Games](https://www.ozbargain.com.au/node/979890)
+- 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
 - 2026-10-21 · $9.49 · [[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation](https://www.ozbargain.com.au/node/979839)
 - 2026-10-21 · $82.06 · [Tony Hawk's Pro Skater 3+4 (Collector's) - Xbox $82.06 (RRP $99.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979829)
 - 2026-10-21 · $103.12 · [Japanese Pokémon Center Fukuoka Special Box US$103.12 + US$14 Ship (~A$167 Delivered) with Code @ AkibaDesk](https://www.ozbargain.com.au/node/979819)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-21 19:38 (UTC)_
 - 2026-10-21 · $250.00 · [Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)](https://www.ozbargain.com.au/node/979786)
 - 2026-10-21 · $6.23 · [[PS4] Bloodborne $6.23, Shadow of The Colossus $6.59 @ PlayStation Store](https://www.ozbargain.com.au/node/979783)
 - 2026-10-20 · $8.99 · [[PC, Steam] Hogwarts Legacy $8.99, Digital Deluxe Edition $9.99 @ Steam](https://www.ozbargain.com.au/node/979686)
-- 2026-10-20 · $79.00 · [Nintendo Switch 2 Pro Controller | $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979683)
-- 2026-10-20 · $147.99 · [CRKD Gibson Les Paul White Pro Edition Guitar Controller $147.99 delivered](https://www.ozbargain.com.au/node/979678)
-- 2026-10-20 · $47.21 · [[Pre Order, Switch 2] Monster Hunter Wilds $47.21 (25% Off) @ Nintendo eShop](https://www.ozbargain.com.au/node/979668)
 
 ### Drinks
 

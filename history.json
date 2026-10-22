@@ -287,6 +287,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon",
+        "link": "https://www.ozbargain.com.au/node/979892",
+        "price": 1747.0,
+        "date": "2026-10-22",
+        "image": "https://files.ozbargain.com.au/n/92/979892l.jpg?h=cea5e8e1"
+      },
+      {
         "title": "[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave",
         "link": "https://www.ozbargain.com.au/node/979814",
         "price": 451.25,
@@ -383,13 +390,6 @@
         "price": 267.54,
         "date": "2026-10-08",
         "image": "https://files.ozbargain.com.au/n/30/978130l.jpg?h=97a253b0"
-      },
-      {
-        "title": "CORSAIR MP600 Elite 1TB M.2 PCIe Gen4 x4 NVMe SSD – White $239 Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/977966",
-        "price": 239.0,
-        "date": "2026-10-07",
-        "image": "https://files.ozbargain.com.au/n/66/977966l.jpg?h=c22257d1"
       }
     ]
   },
@@ -505,6 +505,27 @@
   "Games": {
     "deals": [
       {
+        "title": "PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)",
+        "link": "https://www.ozbargain.com.au/node/979897",
+        "price": 1399.0,
+        "date": "2026-10-22",
+        "image": "https://files.ozbargain.com.au/n/97/979897l.jpg?h=011b42c8"
+      },
+      {
+        "title": "[PC, Epic] Free: Terraspace @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/979890",
+        "price": null,
+        "date": "2026-10-22",
+        "image": "https://files.ozbargain.com.au/n/90/979890l.jpg?h=8d4b2e28"
+      },
+      {
+        "title": "SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software",
+        "link": "https://www.ozbargain.com.au/node/979886",
+        "price": null,
+        "date": "2026-10-22",
+        "image": "https://files.ozbargain.com.au/n/86/979886l.jpg?h=0eb051c1"
+      },
+      {
         "title": "[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation",
         "link": "https://www.ozbargain.com.au/node/979839",
         "price": 9.49,
@@ -587,27 +608,6 @@
         "price": null,
         "date": "2026-10-20",
         "image": "https://files.ozbargain.com.au/n/14/979614l.jpg?h=1c656fa9"
-      },
-      {
-        "title": "[Switch 2] Fire Emblem: Fortune's Weave $99 (RRP $109.95) Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/979613",
-        "price": 99.0,
-        "date": "2026-10-20",
-        "image": "https://files.ozbargain.com.au/n/13/979613l.jpg?h=4ace37a2"
-      },
-      {
-        "title": "Cyberpunk 2077 (Standard Ed For Xbox and Playstation) $26.98 (Ultimate Ed on Xbox) $47.99 Digital Download @Xbox and Playstation",
-        "link": "https://www.ozbargain.com.au/node/979549",
-        "price": 26.98,
-        "date": "2026-10-19",
-        "image": "https://files.ozbargain.com.au/n/49/979549.jpg?h=d6314e38"
-      },
-      {
-        "title": "1k English Pokémon Cards $70 (Was $75) + $11 Postage ($0 with Boardgame or NSW C&C) @ Bulk Cards",
-        "link": "https://www.ozbargain.com.au/node/979472",
-        "price": 70.0,
-        "date": "2026-10-19",
-        "image": null
       }
     ]
   },
