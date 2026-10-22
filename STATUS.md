@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-22 11:44 (UTC)_
+_Last checked: 2026-10-22 16:05 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-22 11:44 (UTC)_
 
 ### Games
 
+- 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
+- 2026-10-23 · price n/a · [[PC, Epic] Free - Sorry We’Re Closed @ Epic Games](https://www.ozbargain.com.au/node/980014)
+- 2026-10-23 · price n/a · [[Switch 2] Free DLC - Hitman: Absolution Nintendo Switch 2 Edition Upgrade Pack @ Nintendo eShop](https://www.ozbargain.com.au/node/980013)
 - 2026-10-22 · $219.95 · [[Pre Order, PC] World of Warcraft: Forever Collector's Edition $219.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979975)
 - 2026-10-22 · price n/a · [Blizzard - Fall Sale up to 50% off Selected Titles and Services](https://www.ozbargain.com.au/node/979965)
 - 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-22 11:44 (UTC)_
 - 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
 - 2026-10-21 · $9.49 · [[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation](https://www.ozbargain.com.au/node/979839)
 - 2026-10-21 · $82.06 · [Tony Hawk's Pro Skater 3+4 (Collector's) - Xbox $82.06 (RRP $99.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979829)
-- 2026-10-21 · $103.12 · [Japanese Pokémon Center Fukuoka Special Box US$103.12 + US$14 Ship (~A$167 Delivered) with Code @ AkibaDesk](https://www.ozbargain.com.au/node/979819)
-- 2026-10-21 · $54.40 · [[PS4] Final Fantasy I-VI Collection: Anniversary Edition $54.40 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979797)
-- 2026-10-21 · $250.00 · [Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)](https://www.ozbargain.com.au/node/979786)
 
 ### Drinks
 
