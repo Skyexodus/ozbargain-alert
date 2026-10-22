@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-22 20:03 (UTC)_
+_Last checked: 2026-10-22 23:20 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,8 @@ _Last checked: 2026-10-22 20:03 (UTC)_
 
 ### HDD
 
+- 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
+- 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
 - 2026-10-17 · $439.25 · [[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979328)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
@@ -47,11 +49,11 @@ _Last checked: 2026-10-22 20:03 (UTC)_
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
 - 2026-09-06 · $326.50 · [Seagate Skyhawk 8TB 3.5" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/974118)
-- 2026-08-26 · $225.25 · [[Used] EMC 8TB WD HUH721008ALN600 3.5" 4Kn 7.2K SATA Enterprise HDD $225.25 ($212 eBay Plus) Delivered @ ACT eBay](https://www.ozbargain.com.au/node/972765)
-- 2026-07-31 · $404.60 · [Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/969728)
 
 ### SSD
 
+- 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
+- 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 - 2026-10-22 · $1,649.99 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/979939)
 - 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
 - 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
@@ -60,11 +62,10 @@ _Last checked: 2026-10-22 20:03 (UTC)_
 - 2026-10-19 · $300.00 · [Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung](https://www.ozbargain.com.au/node/979587)
 - 2026-10-18 · $664.08 · [Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/979416)
 - 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
-- 2026-10-16 · $4,923.00 · [Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/979241)
-- 2026-10-12 · $405.02 · [Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/978619)
 
 ### NBN (home)
 
+- 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
 - 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-22 20:03 (UTC)_
 - 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
 - 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
 - 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
-- 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
 
 ### Games
 
+- 2026-10-23 · $7.49 · [[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop](https://www.ozbargain.com.au/node/980032)
 - 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
 - 2026-10-23 · price n/a · [[PC, Epic] Free - Sorry We’Re Closed @ Epic Games](https://www.ozbargain.com.au/node/980014)
 - 2026-10-23 · price n/a · [[Switch 2] Free DLC - Hitman: Absolution Nintendo Switch 2 Edition Upgrade Pack @ Nintendo eShop](https://www.ozbargain.com.au/node/980013)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-22 20:03 (UTC)_
 - 2026-10-22 · price n/a · [[PC, Epic] Free: Terraspace @ Epic Games](https://www.ozbargain.com.au/node/979890)
 - 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
 - 2026-10-21 · $9.49 · [[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation](https://www.ozbargain.com.au/node/979839)
-- 2026-10-21 · $82.06 · [Tony Hawk's Pro Skater 3+4 (Collector's) - Xbox $82.06 (RRP $99.99) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979829)
 
 ### Drinks
 
