@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-23 12:05 (UTC)_
+_Last checked: 2026-10-23 17:02 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-23 12:05 (UTC)_
 
 ### SSD
 
+- 2026-10-24 · $2,349.00 · [Apple MacBook Air 15" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980164)
 - 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
 - 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 - 2026-10-22 · $1,649.99 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/979939)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-23 12:05 (UTC)_
 - 2026-10-20 · $509.99 · [OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU](https://www.ozbargain.com.au/node/979652)
 - 2026-10-19 · $300.00 · [Sign up to Receive 2 x $50 off Voucher for $300 Spend @ Samsung](https://www.ozbargain.com.au/node/979587)
 - 2026-10-18 · $664.08 · [Lexar NM790 4TB SSD with Heatsink (Used – Like New), PS5 Pro Compatible $664.08 + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/979416)
-- 2026-10-17 · $389.00 · [PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY](https://www.ozbargain.com.au/node/979321)
 
 ### NBN (home)
 
