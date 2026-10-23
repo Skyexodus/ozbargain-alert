@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-22 23:20 (UTC)_
+_Last checked: 2026-10-23 01:41 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-22 23:20 (UTC)_
 
 ### Games
 
+- 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
 - 2026-10-23 · $7.49 · [[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop](https://www.ozbargain.com.au/node/980032)
 - 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
 - 2026-10-23 · price n/a · [[PC, Epic] Free - Sorry We’Re Closed @ Epic Games](https://www.ozbargain.com.au/node/980014)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-22 23:20 (UTC)_
 - 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
 - 2026-10-22 · price n/a · [[PC, Epic] Free: Terraspace @ Epic Games](https://www.ozbargain.com.au/node/979890)
 - 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
-- 2026-10-21 · $9.49 · [[PS5] Death Stranding Director’s Cut Digital Deluxe Edition $9.49 @ PlayStation](https://www.ozbargain.com.au/node/979839)
 
 ### Drinks
 
