@@ -2,6 +2,13 @@
   "Whisky": {
     "deals": [
       {
+        "title": "Archie Rose Single Malt Whisky $79.99 @ ALDI (Excl. QLD, SA)",
+        "link": "https://www.ozbargain.com.au/node/980115",
+        "price": 79.99,
+        "date": "2026-10-23",
+        "image": "https://files.ozbargain.com.au/n/15/980115l.jpg?h=26e3f64f"
+      },
+      {
         "title": "Liquorland: Upsized 22% Cashback (Maximum $40 Cashback Per Order, Coupon Usage & Exclusions Apply) @ TopCashback",
         "link": "https://www.ozbargain.com.au/node/979629",
         "price": 40.0,
@@ -507,6 +514,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/980095",
+        "price": 15.18,
+        "date": "2026-10-23",
+        "image": "https://files.ozbargain.com.au/n/95/980095l.jpg?h=c93e43b3"
+      },
+      {
+        "title": "[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/980092",
+        "price": 14.99,
+        "date": "2026-10-23",
+        "image": "https://files.ozbargain.com.au/n/92/980092l.jpg?h=60a3ba8e"
+      },
+      {
         "title": "[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop",
         "link": "https://www.ozbargain.com.au/node/980065",
         "price": 14.99,
@@ -596,20 +617,6 @@
         "price": 103.12,
         "date": "2026-10-21",
         "image": null
-      },
-      {
-        "title": "[PS4] Final Fantasy I-VI Collection: Anniversary Edition $54.40 Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/979797",
-        "price": 54.4,
-        "date": "2026-10-21",
-        "image": "https://files.ozbargain.com.au/n/97/979797l.jpg?h=c4c8c3ad"
-      },
-      {
-        "title": "Seagate 1TB Storage Expansion Card for Xbox Series X/S$250 @ Officeworks (in-Store Only, Limited Stock)",
-        "link": "https://www.ozbargain.com.au/node/979786",
-        "price": 250.0,
-        "date": "2026-10-21",
-        "image": "https://files.ozbargain.com.au/n/86/979786l.jpg?h=1a4b3402"
       }
     ]
   },

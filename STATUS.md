@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-23 01:41 (UTC)_
+_Last checked: 2026-10-23 06:34 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-23 01:41 (UTC)_
 
 ### Whisky
 
+- 2026-10-23 · $79.99 · [Archie Rose Single Malt Whisky $79.99 @ ALDI (Excl. QLD, SA)](https://www.ozbargain.com.au/node/980115)
 - 2026-10-20 · $40.00 · [Liquorland: Upsized 22% Cashback (Maximum $40 Cashback Per Order, Coupon Usage & Exclusions Apply) @ TopCashback](https://www.ozbargain.com.au/node/979629)
 - 2026-10-18 · $220.00 · [2x Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $220 (Member's Price) Delivered/C&C @ Dan Murphy's](https://www.ozbargain.com.au/node/979394)
 - 2026-10-16 · $19.95 · [[QLD] 2 Free Tickets + $19.95 Admin Fee to Whiskymofo Brisbane 16 & 17 Oct at John Reid Pavilion @ Promotix](https://www.ozbargain.com.au/node/979190)
@@ -22,7 +23,6 @@ _Last checked: 2026-10-23 01:41 (UTC)_
 - 2026-09-07 · $50.00 · [$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/974204)
 - 2026-09-05 · $75.00 · [20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online](https://www.ozbargain.com.au/node/973966)
 - 2026-09-05 · $76.05 · [Corowa Distilling Co Mad Dog Morgan Single Malt Aus Whisky 500 mL $76.05 + Delivery ($0 C&C) @ Dan Murphy's (Limited Locations)](https://www.ozbargain.com.au/node/974001)
-- 2026-08-30 · $0.00 · [10% off Red Wines, Whisky, Bourbon & Rum + Delivery ($0 C&C) @ Dan Murphy's Online & App](https://www.ozbargain.com.au/node/973261)
 
 ### NAS
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-23 01:41 (UTC)_
 
 ### Games
 
+- 2026-10-23 · $15.18 · [[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980095)
+- 2026-10-23 · $14.99 · [[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop](https://www.ozbargain.com.au/node/980092)
 - 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
 - 2026-10-23 · $7.49 · [[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop](https://www.ozbargain.com.au/node/980032)
 - 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-23 01:41 (UTC)_
 - 2026-10-22 · $219.95 · [[Pre Order, PC] World of Warcraft: Forever Collector's Edition $219.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979975)
 - 2026-10-22 · price n/a · [Blizzard - Fall Sale up to 50% off Selected Titles and Services](https://www.ozbargain.com.au/node/979965)
 - 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
-- 2026-10-22 · price n/a · [[PC, Epic] Free: Terraspace @ Epic Games](https://www.ozbargain.com.au/node/979890)
-- 2026-10-22 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/979886)
 
 ### Drinks
 
