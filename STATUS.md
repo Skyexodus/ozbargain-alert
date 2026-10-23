@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-23 06:34 (UTC)_
+_Last checked: 2026-10-23 12:05 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-23 06:34 (UTC)_
 
 ### Games
 
+- 2026-10-23 · $35.16 · [[Switch 2] MOUSE: P.I. For Hire $35.16 (20% Off, was $43.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980159)
 - 2026-10-23 · $15.18 · [[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980095)
 - 2026-10-23 · $14.99 · [[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop](https://www.ozbargain.com.au/node/980092)
 - 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-23 06:34 (UTC)_
 - 2026-10-23 · price n/a · [[Switch 2] Free DLC - Hitman: Absolution Nintendo Switch 2 Edition Upgrade Pack @ Nintendo eShop](https://www.ozbargain.com.au/node/980013)
 - 2026-10-22 · $219.95 · [[Pre Order, PC] World of Warcraft: Forever Collector's Edition $219.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/979975)
 - 2026-10-22 · price n/a · [Blizzard - Fall Sale up to 50% off Selected Titles and Services](https://www.ozbargain.com.au/node/979965)
-- 2026-10-22 · $1,399.00 · [PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)](https://www.ozbargain.com.au/node/979897)
 
 ### Drinks
 
