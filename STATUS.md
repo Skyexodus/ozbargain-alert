@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-24 21:05 (UTC)_
+_Last checked: 2026-10-24 23:09 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-24 21:05 (UTC)_
 
 ### Games
 
+- 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
 - 2026-10-25 · price n/a · [[PC, Epic] Free - MAFIA HOTEL @ Epic Games](https://www.ozbargain.com.au/node/980236)
 - 2026-10-24 · $2.44 · [[PC] 75% off Resident Evil Games, (1998) Resident Evil 2 $2.44 GOG Key @ Fanatical](https://www.ozbargain.com.au/node/980173)
 - 2026-10-24 · price n/a · [[XSX] Final Fantasy Remake Intergrade on Game Pass Premium](https://www.ozbargain.com.au/node/980169)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-24 21:05 (UTC)_
 - 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
 - 2026-10-23 · $7.49 · [[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop](https://www.ozbargain.com.au/node/980032)
 - 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
-- 2026-10-23 · price n/a · [[PC, Epic] Free - Sorry We’Re Closed @ Epic Games](https://www.ozbargain.com.au/node/980014)
 
 ### Drinks
 
