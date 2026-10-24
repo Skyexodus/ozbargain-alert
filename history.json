@@ -296,6 +296,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 - $3348.80 Shipped @ HP eBay",
+        "link": "https://www.ozbargain.com.au/node/980232",
+        "price": 3348.8,
+        "date": "2026-10-24",
+        "image": "https://files.ozbargain.com.au/n/32/980232l.jpg?h=2d5b799c"
+      },
+      {
         "title": "Apple MacBook Air 15\" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/980164",
         "price": 2349.0,
@@ -392,13 +399,6 @@
         "price": 89.0,
         "date": "2026-10-10",
         "image": "https://files.ozbargain.com.au/n/65/978465l.jpg?h=cdaa1bc9"
-      },
-      {
-        "title": "BIWIN Black Opal NV3500 1TB PCIe 3.0 NVMe M.2 2280 SSD $159 + Delivery ($0 C&C) @ Centre Com",
-        "link": "https://www.ozbargain.com.au/node/978464",
-        "price": 159.0,
-        "date": "2026-10-10",
-        "image": "https://files.ozbargain.com.au/n/64/978464l.jpg?h=71ea3978"
       }
     ]
   },
