@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-25 18:23 (UTC)_
+_Last checked: 2026-10-25 21:06 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-25 18:23 (UTC)_
 
 ### Games
 
+- 2026-10-26 · $39.00 · [Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/980339)
 - 2026-10-25 · $69.00 · [[PS5] Final Fantasy Resonance $69 + $10 Delivery (Free Pick Up in Store) @ Big W](https://www.ozbargain.com.au/node/980330)
 - 2026-10-25 · $728.00 · [Nintendo Switch 2 Console $728 Delivered @ Amazon AU ($691.60 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/980274)
 - 2026-10-25 · $24.72 · [[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop](https://www.ozbargain.com.au/node/980256)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-25 18:23 (UTC)_
 - 2026-10-24 · price n/a · [[XSX] Final Fantasy Remake Intergrade on Game Pass Premium](https://www.ozbargain.com.au/node/980169)
 - 2026-10-23 · $35.16 · [[Switch 2] MOUSE: P.I. For Hire $35.16 (20% Off, was $43.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980159)
 - 2026-10-23 · $15.18 · [[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980095)
-- 2026-10-23 · $14.99 · [[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop](https://www.ozbargain.com.au/node/980092)
 
 ### Drinks
 
