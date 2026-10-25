@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-25 06:16 (UTC)_
+_Last checked: 2026-10-25 11:46 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-10-25 06:16 (UTC)_
 
 ### NAS
 
+- 2026-10-25 · $1,360.00 · [Synology DiskStation DS1525neo+ 5-Bay NAS $1,360 Delivered (Metro) with Code @ Atomic Networks](https://www.ozbargain.com.au/node/980320)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
@@ -35,7 +36,6 @@ _Last checked: 2026-10-25 06:16 (UTC)_
 - 2026-09-29 · $1,019.99 · [[Prime] UGREEN DXP4800 Pro 4-Bay NAS $1,019.99 Delivered @ UGREEN GROUP LIMITED AU Amazon AU](https://www.ozbargain.com.au/node/976805)
 - 2026-09-01 · $587.99 · [Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/973482)
 - 2026-09-01 · $599.00 · [Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com](https://www.ozbargain.com.au/node/973533)
-- 2026-08-18 · $260.36 · [Youyeetoo Nest Disk NAS Mini PC w/ N150 & 12GB LPDDR5 US$260.36 with PayPal (~A$367) Delivered @  youyeetoo Official AliExpress](https://www.ozbargain.com.au/node/971828)
 
 ### HDD
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-25 06:16 (UTC)_
 
 ### Games
 
+- 2026-10-25 · $69.00 · [[PS5] Final Fantasy Resonance $69 + $10 Delivery (Free Pick Up in Store) @ Big W](https://www.ozbargain.com.au/node/980330)
 - 2026-10-25 · $728.00 · [Nintendo Switch 2 Console $728 Delivered @ Amazon AU ($691.60 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/980274)
 - 2026-10-25 · $24.72 · [[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop](https://www.ozbargain.com.au/node/980256)
 - 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-25 06:16 (UTC)_
 - 2026-10-23 · $35.16 · [[Switch 2] MOUSE: P.I. For Hire $35.16 (20% Off, was $43.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980159)
 - 2026-10-23 · $15.18 · [[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980095)
 - 2026-10-23 · $14.99 · [[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop](https://www.ozbargain.com.au/node/980092)
-- 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
 
 ### Drinks
 
