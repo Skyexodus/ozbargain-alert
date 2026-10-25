@@ -200,6 +200,13 @@
   "HDD": {
     "deals": [
       {
+        "title": "LaCie d2 Professional 10TB, External Hard Drive $574.80 (RRP $641.34) Delivered @ Amazon DE via AU",
+        "link": "https://www.ozbargain.com.au/node/980350",
+        "price": 574.8,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/50/980350l.jpg?h=ab22665a"
+      },
+      {
         "title": "Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU",
         "link": "https://www.ozbargain.com.au/node/980031",
         "price": 363.18,
@@ -291,17 +298,18 @@
         "link": "https://www.ozbargain.com.au/node/967991",
         "price": 502.9,
         "date": "2026-07-15"
-      },
-      {
-        "title": "[Refurb] WD Ultrastar DC HC530 14TB Enterprise SATA HDD (3.5\", CMR) $599.95 / $609.95 (3- / 12-Month Warranty) + Del @ Neology",
-        "link": "https://www.ozbargain.com.au/node/967492",
-        "price": 599.95,
-        "date": "2026-07-11"
       }
     ]
   },
   "SSD": {
     "deals": [
+      {
+        "title": "HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce",
+        "link": "https://www.ozbargain.com.au/node/980354",
+        "price": 999.0,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/54/980354l.jpg?h=111fe490"
+      },
       {
         "title": "Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU",
         "link": "https://www.ozbargain.com.au/node/980297",
@@ -399,18 +407,18 @@
         "price": 4923.0,
         "date": "2026-10-16",
         "image": "https://files.ozbargain.com.au/n/41/979241l.jpg?h=7e2ff91f"
-      },
-      {
-        "title": "Corsair MP700 PRO with Air Cooler 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD $405.02 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/978619",
-        "price": 405.02,
-        "date": "2026-10-12",
-        "image": "https://files.ozbargain.com.au/n/19/978619l.jpg?h=5b4e5b97"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim",
+        "link": "https://www.ozbargain.com.au/node/980347",
+        "price": 30.0,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/47/980347l.jpg?h=f4b31213"
+      },
       {
         "title": "nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin",
         "link": "https://www.ozbargain.com.au/node/980249",
@@ -508,13 +516,6 @@
         "price": 30.0,
         "date": "2026-10-08",
         "image": "https://files.ozbargain.com.au/n/92/978192.jpg?h=993f4e93"
-      },
-      {
-        "title": "nbn 500/50 $69/M for 6 Months, $10/M SubHub Streaming Credit, 34,000 Flybuys Points After 3 Months (New Customers) @ Optus",
-        "link": "https://www.ozbargain.com.au/node/978039",
-        "price": 69.0,
-        "date": "2026-10-07",
-        "image": "https://files.ozbargain.com.au/n/39/978039l.jpg?h=3808acc5"
       }
     ]
   },

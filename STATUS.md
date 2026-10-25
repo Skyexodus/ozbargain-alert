@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-25 21:06 (UTC)_
+_Last checked: 2026-10-25 23:14 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-10-25 21:06 (UTC)_
 
 ### HDD
 
+- 2026-10-26 · $574.80 · [LaCie d2 Professional 10TB, External Hard Drive $574.80 (RRP $641.34) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/980350)
 - 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
 - 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
@@ -48,10 +49,10 @@ _Last checked: 2026-10-25 21:06 (UTC)_
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 - 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
-- 2026-09-06 · $326.50 · [Seagate Skyhawk 8TB 3.5" SATA Hard Drive $326.50 (RRP $407.16) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/974118)
 
 ### SSD
 
+- 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
 - 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
 - 2026-10-24 · $3,348.80 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 - $3348.80 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980232)
 - 2026-10-24 · $2,349.00 · [Apple MacBook Air 15" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980164)
@@ -61,10 +62,10 @@ _Last checked: 2026-10-25 21:06 (UTC)_
 - 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
 - 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
 - 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
-- 2026-10-20 · $509.99 · [OSCOO 2TB SSD PCIe 5.0x4 M.2 2280 Seq. Up to 14000/13000 MB/s $509.99 Delivered @ Oscoo Store via Amazon AU](https://www.ozbargain.com.au/node/979652)
 
 ### NBN (home)
 
+- 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
@@ -74,7 +75,6 @@ _Last checked: 2026-10-25 21:06 (UTC)_
 - 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
 - 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
 - 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
-- 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
 
 ### Games
 
