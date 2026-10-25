@@ -405,6 +405,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin",
+        "link": "https://www.ozbargain.com.au/node/980249",
+        "price": 50.0,
+        "date": "2026-10-25",
+        "image": "https://files.ozbargain.com.au/n/49/980249l.jpg?h=bbeba199"
+      },
+      {
         "title": "[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs",
         "link": "https://www.ozbargain.com.au/node/980034",
         "price": null,
@@ -501,18 +508,18 @@
         "price": 69.0,
         "date": "2026-10-07",
         "image": "https://files.ozbargain.com.au/n/39/978039l.jpg?h=3808acc5"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $69/Month, 750/50 $79/Month, 1000/100 $89/Month for 6 Months (New Customers) @ Telstra",
-        "link": "https://www.ozbargain.com.au/node/977865",
-        "price": 69.0,
-        "date": "2026-10-06",
-        "image": "https://files.ozbargain.com.au/n/65/977865l.jpg?h=f3049020"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/980256",
+        "price": 24.72,
+        "date": "2026-10-25",
+        "image": "https://files.ozbargain.com.au/n/56/980256l.jpg?h=6056702e"
+      },
       {
         "title": "Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/980244",
@@ -610,13 +617,6 @@
         "price": null,
         "date": "2026-10-22",
         "image": "https://files.ozbargain.com.au/n/65/979965l.jpg?h=8548d5c9"
-      },
-      {
-        "title": "PlayStation PS5 Pro Console, $1399 + Free Delivery @ Telstra (Back Order 1-2 weeks)",
-        "link": "https://www.ozbargain.com.au/node/979897",
-        "price": 1399.0,
-        "date": "2026-10-22",
-        "image": "https://files.ozbargain.com.au/n/97/979897l.jpg?h=011b42c8"
       }
     ]
   },

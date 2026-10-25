@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-24 23:09 (UTC)_
+_Last checked: 2026-10-25 01:10 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-24 23:09 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-24 23:09 (UTC)_
 - 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
 - 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
 - 2026-10-12 · $82.00 · [nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/978661)
-- 2026-10-12 · $69.00 · [Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder](https://www.ozbargain.com.au/node/978655)
 
 ### Games
 
+- 2026-10-25 · $24.72 · [[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop](https://www.ozbargain.com.au/node/980256)
 - 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
 - 2026-10-25 · price n/a · [[PC, Epic] Free - MAFIA HOTEL @ Epic Games](https://www.ozbargain.com.au/node/980236)
 - 2026-10-24 · $2.44 · [[PC] 75% off Resident Evil Games, (1998) Resident Evil 2 $2.44 GOG Key @ Fanatical](https://www.ozbargain.com.au/node/980173)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-24 23:09 (UTC)_
 - 2026-10-23 · $14.99 · [[Switch, Switch 2] Cult of The Lamb $14.99 (60% off), Switch 2 Edition Upgrade Pack - Free @ Nintendo eShop](https://www.ozbargain.com.au/node/980092)
 - 2026-10-23 · $14.99 · [[Switch 2] Fast Fusion $14.99 (was $22.50) @ Nintendo eShop](https://www.ozbargain.com.au/node/980065)
 - 2026-10-23 · $7.49 · [[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop](https://www.ozbargain.com.au/node/980032)
-- 2026-10-23 · price n/a · [[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games](https://www.ozbargain.com.au/node/980015)
 
 ### Drinks
 
