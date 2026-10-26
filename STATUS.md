@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-26 13:32 (UTC)_
+_Last checked: 2026-10-26 19:33 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-26 13:32 (UTC)_
 
 ### Games
 
+- 2026-10-27 · $483.65 · [Meta Quest 3S 128GB | VR Headset $483.65 (RRP $569) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980473)
 - 2026-10-26 · $10.99 · [[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU](https://www.ozbargain.com.au/node/980419)
 - 2026-10-26 · $7.59 · [[XSX] Nobody Wants to Die $7.59 @ Xbox](https://www.ozbargain.com.au/node/980416)
 - 2026-10-26 · $79.00 · [[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical](https://www.ozbargain.com.au/node/980401)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-26 13:32 (UTC)_
 - 2026-10-25 · $24.72 · [[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop](https://www.ozbargain.com.au/node/980256)
 - 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
 - 2026-10-25 · price n/a · [[PC, Epic] Free - MAFIA HOTEL @ Epic Games](https://www.ozbargain.com.au/node/980236)
-- 2026-10-24 · $2.44 · [[PC] 75% off Resident Evil Games, (1998) Resident Evil 2 $2.44 GOG Key @ Fanatical](https://www.ozbargain.com.au/node/980173)
 
 ### Drinks
 
