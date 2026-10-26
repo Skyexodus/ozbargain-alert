@@ -522,6 +522,27 @@
   "Games": {
     "deals": [
       {
+        "title": "[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU",
+        "link": "https://www.ozbargain.com.au/node/980419",
+        "price": 10.99,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/19/980419l.jpg?h=e2931b6f"
+      },
+      {
+        "title": "[XSX] Nobody Wants to Die $7.59 @ Xbox",
+        "link": "https://www.ozbargain.com.au/node/980416",
+        "price": 7.59,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/16/980416.jpg?h=e2709298"
+      },
+      {
+        "title": "[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical",
+        "link": "https://www.ozbargain.com.au/node/980401",
+        "price": 79.0,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/01/980401l.jpg?h=f4aff7ad"
+      },
+      {
         "title": "Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards",
         "link": "https://www.ozbargain.com.au/node/980339",
         "price": 39.0,
@@ -604,32 +625,18 @@
         "price": 14.99,
         "date": "2026-10-23",
         "image": "https://files.ozbargain.com.au/n/65/980065l.jpg?h=2856e3a7"
-      },
-      {
-        "title": "[Switch] Inscryption $7.49 (Was $30) @ Nintendo eShop",
-        "link": "https://www.ozbargain.com.au/node/980032",
-        "price": 7.49,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/32/980032l.jpg?h=8e23b4a5"
-      },
-      {
-        "title": "[Android, Epic] Free - Home - A Unique Horror Adventure @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/980015",
-        "price": null,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/15/980015l.jpg?h=62d6aed1"
-      },
-      {
-        "title": "[PC, Epic] Free - Sorry We’Re Closed @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/980014",
-        "price": null,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/14/980014l.jpg?h=323fb7b5"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/980423",
+        "price": 7.0,
+        "date": "2026-10-26",
+        "image": "https://files.ozbargain.com.au/n/23/980423l.jpg?h=2c81e27d"
+      },
       {
         "title": "Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)",
         "link": "https://www.ozbargain.com.au/node/979863",
@@ -723,12 +730,6 @@
         "link": "https://www.ozbargain.com.au/node/976711",
         "price": 2.5,
         "date": "2026-09-28"
-      },
-      {
-        "title": "[Vic] Nongshim Shin Ramyun Varieties 4/5 Pack from $2, Boss Coffee 4 Pack $4 @ Cheaper Buy Miles (Fitzroy)",
-        "link": "https://www.ozbargain.com.au/node/976610",
-        "price": 2.0,
-        "date": "2026-09-27"
       }
     ]
   },

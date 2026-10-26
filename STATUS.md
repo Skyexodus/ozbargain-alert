@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-26 01:19 (UTC)_
+_Last checked: 2026-10-26 06:32 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-10-26 01:19 (UTC)_
 
 ### Games
 
+- 2026-10-26 · $10.99 · [[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU](https://www.ozbargain.com.au/node/980419)
+- 2026-10-26 · $7.59 · [[XSX] Nobody Wants to Die $7.59 @ Xbox](https://www.ozbargain.com.au/node/980416)
+- 2026-10-26 · $79.00 · [[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical](https://www.ozbargain.com.au/node/980401)
 - 2026-10-26 · $39.00 · [Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/980339)
 - 2026-10-25 · $69.00 · [[PS5] Final Fantasy Resonance $69 + $10 Delivery (Free Pick Up in Store) @ Big W](https://www.ozbargain.com.au/node/980330)
 - 2026-10-25 · $728.00 · [Nintendo Switch 2 Console $728 Delivered @ Amazon AU ($691.60 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/980274)
@@ -85,12 +88,10 @@ _Last checked: 2026-10-26 01:19 (UTC)_
 - 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
 - 2026-10-25 · price n/a · [[PC, Epic] Free - MAFIA HOTEL @ Epic Games](https://www.ozbargain.com.au/node/980236)
 - 2026-10-24 · $2.44 · [[PC] 75% off Resident Evil Games, (1998) Resident Evil 2 $2.44 GOG Key @ Fanatical](https://www.ozbargain.com.au/node/980173)
-- 2026-10-24 · price n/a · [[XSX] Final Fantasy Remake Intergrade on Game Pass Premium](https://www.ozbargain.com.au/node/980169)
-- 2026-10-23 · $35.16 · [[Switch 2] MOUSE: P.I. For Hire $35.16 (20% Off, was $43.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980159)
-- 2026-10-23 · $15.18 · [[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop](https://www.ozbargain.com.au/node/980095)
 
 ### Drinks
 
+- 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-26 01:19 (UTC)_
 - 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
 - 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
 - 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
-- 2026-10-05 · $4.00 · [½ Price: Ho Mai Spring Roll or Entertainer Pack 750g $4.00 @ Woolworths + 249 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/977785)
 
 ### Students
 
