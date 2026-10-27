@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-27 08:15 (UTC)_
+_Last checked: 2026-10-27 14:39 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-27 08:15 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-27 08:15 (UTC)_
 - 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
 - 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
 - 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
-- 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
 
 ### Games
 
+- 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
 - 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
 - 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
 - 2026-10-27 · $59.00 · [SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target](https://www.ozbargain.com.au/node/980507)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-27 08:15 (UTC)_
 - 2026-10-26 · $7.59 · [[XSX] Nobody Wants to Die $7.59 @ Xbox](https://www.ozbargain.com.au/node/980416)
 - 2026-10-26 · $79.00 · [[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical](https://www.ozbargain.com.au/node/980401)
 - 2026-10-26 · $39.00 · [Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/980339)
-- 2026-10-25 · $69.00 · [[PS5] Final Fantasy Resonance $69 + $10 Delivery (Free Pick Up in Store) @ Big W](https://www.ozbargain.com.au/node/980330)
 
 ### Drinks
 
