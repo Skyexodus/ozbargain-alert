@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-27 02:20 (UTC)_
+_Last checked: 2026-10-27 08:15 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-27 02:20 (UTC)_
 
 ### SSD
 
+- 2026-10-27 · $3,749.00 · [ASUS ROG Strix G16 G615LP-TS202W; 16" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980587)
 - 2026-10-27 · $2,599.99 · [Apple 15" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/980494)
 - 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
 - 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-27 02:20 (UTC)_
 - 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 - 2026-10-22 · $1,649.99 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/979939)
 - 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
-- 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
 
 ### NBN (home)
 

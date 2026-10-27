@@ -304,6 +304,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "ASUS ROG Strix G16 G615LP-TS202W; 16\" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/980587",
+        "price": 3749.0,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/87/980587l.jpg?h=0f3fb419"
+      },
+      {
         "title": "Apple 15\" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)",
         "link": "https://www.ozbargain.com.au/node/980494",
         "price": 2599.99,
@@ -400,13 +407,6 @@
         "price": 664.08,
         "date": "2026-10-18",
         "image": "https://files.ozbargain.com.au/n/16/979416l.jpg?h=6d7b2acd"
-      },
-      {
-        "title": "PNY CS2241 2TB PCIe Gen4 M.2 NVMe SSD $389 + $12 shipping $391 Delivered @MSY",
-        "link": "https://www.ozbargain.com.au/node/979321",
-        "price": 389.0,
-        "date": "2026-10-17",
-        "image": "https://files.ozbargain.com.au/n/21/979321l.jpg?h=d3b88959"
       }
     ]
   },
