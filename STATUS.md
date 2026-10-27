@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-26 23:20 (UTC)_
+_Last checked: 2026-10-27 02:20 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-26 23:20 (UTC)_
 
 ### SSD
 
+- 2026-10-27 · $2,599.99 · [Apple 15" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/980494)
 - 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
 - 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
 - 2026-10-24 · $3,348.80 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 - $3348.80 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980232)
@@ -61,10 +62,10 @@ _Last checked: 2026-10-26 23:20 (UTC)_
 - 2026-10-22 · $1,649.99 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/979939)
 - 2026-10-22 · $1,747.00 · [2026 Macbook Air 13 inch M5 (16 GB RAM/512 GB SSD)  $1747 Delievered @ Amazon](https://www.ozbargain.com.au/node/979892)
 - 2026-10-21 · $451.25 · [[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave](https://www.ozbargain.com.au/node/979814)
-- 2026-10-20 · $251.78 · [fanxiang SSD 2TB 2.5" SATA III SSD 550MB $251.78 + Delivery @ eBay](https://www.ozbargain.com.au/node/979656)
 
 ### NBN (home)
 
+- 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
@@ -74,10 +75,12 @@ _Last checked: 2026-10-26 23:20 (UTC)_
 - 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
 - 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
 - 2026-10-17 · price n/a · [Free: Up to 15% Upload Speed Boost for nbn @ nbn via ISPs](https://www.ozbargain.com.au/node/979367)
-- 2026-10-14 · price n/a · [Free NordVPN Standard with Eligible Flip Internet Plans (New & Existing Customers) @ Flip](https://www.ozbargain.com.au/node/978924)
 
 ### Games
 
+- 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
+- 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
+- 2026-10-27 · $59.00 · [SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target](https://www.ozbargain.com.au/node/980507)
 - 2026-10-27 · $499.00 · [Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)](https://www.ozbargain.com.au/node/980491)
 - 2026-10-27 · $483.65 · [Meta Quest 3S 128GB | VR Headset $483.65 (RRP $569) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980473)
 - 2026-10-26 · $10.99 · [[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU](https://www.ozbargain.com.au/node/980419)
@@ -85,9 +88,6 @@ _Last checked: 2026-10-26 23:20 (UTC)_
 - 2026-10-26 · $79.00 · [[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical](https://www.ozbargain.com.au/node/980401)
 - 2026-10-26 · $39.00 · [Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/980339)
 - 2026-10-25 · $69.00 · [[PS5] Final Fantasy Resonance $69 + $10 Delivery (Free Pick Up in Store) @ Big W](https://www.ozbargain.com.au/node/980330)
-- 2026-10-25 · $728.00 · [Nintendo Switch 2 Console $728 Delivered @ Amazon AU ($691.60 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/980274)
-- 2026-10-25 · $24.72 · [[Switch/Switch 2] System Shock 2: 25th Anniversary Remaster $24.72 @ Nintendo eShop](https://www.ozbargain.com.au/node/980256)
-- 2026-10-25 · $46.10 · [Dragon Quest III HD-2D Remake for Nintendo Switch $46.10 (further 13% discount buy 2 eligible products) @ Amazon AU](https://www.ozbargain.com.au/node/980244)
 
 ### Drinks
 

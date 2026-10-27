@@ -304,6 +304,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Apple 15\" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)",
+        "link": "https://www.ozbargain.com.au/node/980494",
+        "price": 2599.99,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/94/980494l.jpg?h=88fa5998"
+      },
+      {
         "title": "HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce",
         "link": "https://www.ozbargain.com.au/node/980354",
         "price": 999.0,
@@ -400,18 +407,18 @@
         "price": 389.0,
         "date": "2026-10-17",
         "image": "https://files.ozbargain.com.au/n/21/979321l.jpg?h=d3b88959"
-      },
-      {
-        "title": "Gaming PC: AMD 9800X3D, Asus RTX 5080, B850M, 64GB C30 RAM, 1TB SSD, 850W G $4923 | 32GB RAM $4099 + Del ($0 NSW C&C) @ UMKLOGIX",
-        "link": "https://www.ozbargain.com.au/node/979241",
-        "price": 4923.0,
-        "date": "2026-10-16",
-        "image": "https://files.ozbargain.com.au/n/41/979241l.jpg?h=7e2ff91f"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms",
+        "link": "https://www.ozbargain.com.au/node/980497",
+        "price": 87.0,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/97/980497l.jpg?h=d028eb58"
+      },
       {
         "title": "nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim",
         "link": "https://www.ozbargain.com.au/node/980347",
@@ -509,18 +516,32 @@
         "price": 100.0,
         "date": "2026-10-10",
         "image": "https://files.ozbargain.com.au/n/59/978459l.jpg?h=e1ea34a2"
-      },
-      {
-        "title": "$30/Month off Any nbn Plan for 6 Months (New Customers) @ Spintel",
-        "link": "https://www.ozbargain.com.au/node/978192",
-        "price": 30.0,
-        "date": "2026-10-08",
-        "image": "https://files.ozbargain.com.au/n/92/978192.jpg?h=993f4e93"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store",
+        "link": "https://www.ozbargain.com.au/node/980519",
+        "price": null,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/19/980519l.jpg?h=3d6120aa"
+      },
+      {
+        "title": "[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/980513",
+        "price": 27.48,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/13/980513.jpg?h=3789a4fd"
+      },
+      {
+        "title": "SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target",
+        "link": "https://www.ozbargain.com.au/node/980507",
+        "price": 59.0,
+        "date": "2026-10-27",
+        "image": "https://files.ozbargain.com.au/n/07/980507l.jpg?h=59456e1b"
+      },
       {
         "title": "Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)",
         "link": "https://www.ozbargain.com.au/node/980491",
@@ -604,27 +625,6 @@
         "price": 2.44,
         "date": "2026-10-24",
         "image": "https://files.ozbargain.com.au/n/73/980173l.jpg?h=7029977d"
-      },
-      {
-        "title": "[XSX] Final Fantasy Remake Intergrade on Game Pass Premium",
-        "link": "https://www.ozbargain.com.au/node/980169",
-        "price": null,
-        "date": "2026-10-24",
-        "image": "https://files.ozbargain.com.au/n/69/980169.jpg?h=0e3d9029"
-      },
-      {
-        "title": "[Switch 2] MOUSE: P.I. For Hire $35.16 (20% Off, was $43.95) @ Nintendo eShop",
-        "link": "https://www.ozbargain.com.au/node/980159",
-        "price": 35.16,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/59/980159l.jpg?h=bb4b9fe5"
-      },
-      {
-        "title": "[Switch] Horizon Chase 2 - $15.18 (60% off, was $37.95) @ Nintendo eShop",
-        "link": "https://www.ozbargain.com.au/node/980095",
-        "price": 15.18,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/95/980095l.jpg?h=c93e43b3"
       }
     ]
   },
