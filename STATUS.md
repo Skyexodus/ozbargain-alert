@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-27 19:40 (UTC)_
+_Last checked: 2026-10-27 23:14 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-27 19:40 (UTC)_
 
 ### Games
 
+- 2026-10-28 · $70.27 · [SteelSeries Arctis Nova Pro X Wired Multi-System Gaming Wired Headset $70.27 (RRP $565) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980629)
 - 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
 - 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
 - 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-27 19:40 (UTC)_
 - 2026-10-26 · $10.99 · [[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU](https://www.ozbargain.com.au/node/980419)
 - 2026-10-26 · $7.59 · [[XSX] Nobody Wants to Die $7.59 @ Xbox](https://www.ozbargain.com.au/node/980416)
 - 2026-10-26 · $79.00 · [[PC, Steam, Pre Order] Phantom Blade Zero: Standard Edition $79 @ Fanatical](https://www.ozbargain.com.au/node/980401)
-- 2026-10-26 · $39.00 · [Flesh and Blood Bulk - 1000+ English Cards $39 + $11 Postage ($0 With any Boardgame or NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/980339)
 
 ### Drinks
 
