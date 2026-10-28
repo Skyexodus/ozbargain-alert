@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-28 08:52 (UTC)_
+_Last checked: 2026-10-28 15:48 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-28 08:52 (UTC)_
 
 ### Games
 
+- 2026-10-28 · price n/a · [[PC] Free - Asleep: Act 1 @ Steam](https://www.ozbargain.com.au/node/980751)
+- 2026-10-28 · $105.83 · [SteelSeries Arctis Nova 3P Wireless Gaming Headset $105.83 (RRP $229) Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980750)
 - 2026-10-28 · $97.53 · [Japanese Pokémon Center Tohoku Special Box + Pikachu Promo Card US$97.53 + US$14 Delivery (~A$159 Delivered) @ MintBoon](https://www.ozbargain.com.au/node/980724)
 - 2026-10-28 · $70.27 · [SteelSeries Arctis Nova Pro X Wired Multi-System Gaming Wired Headset $70.27 (RRP $565) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980629)
 - 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-28 08:52 (UTC)_
 - 2026-10-27 · $59.00 · [SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target](https://www.ozbargain.com.au/node/980507)
 - 2026-10-27 · $499.00 · [Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)](https://www.ozbargain.com.au/node/980491)
 - 2026-10-27 · $483.65 · [Meta Quest 3S 128GB | VR Headset $483.65 (RRP $569) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980473)
-- 2026-10-26 · $10.99 · [[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU](https://www.ozbargain.com.au/node/980419)
-- 2026-10-26 · $7.59 · [[XSX] Nobody Wants to Die $7.59 @ Xbox](https://www.ozbargain.com.au/node/980416)
 
 ### Drinks
 
