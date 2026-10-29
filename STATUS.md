@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-29 00:24 (UTC)_
+_Last checked: 2026-10-29 06:16 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-10-29 00:24 (UTC)_
 
 ### SSD
 
+- 2026-10-29 · $687.04 · [[Used] IdeaPad 5x 2-in-1 Snapdragon X 14" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet](https://www.ozbargain.com.au/node/980830)
+- 2026-10-29 · $31,489.00 · [[Back Order] Mac Studio: M5 Ultra 36C CPU, 80C GPU, 512GB RAM from $31489 for 1TB SSD Model Delivered @ Apple Education](https://www.ozbargain.com.au/node/980818)
 - 2026-10-28 · $240.00 · [[Refurb] Lenovo ThinkCentre M70q Tiny PC (i5-10400T, 16GB RAM, 256GB NVMe SSD, Win 11 Pro) $240 Delivered @ Bufferstock](https://www.ozbargain.com.au/node/980662)
 - 2026-10-28 · $10,223.40 · [Custom Built Y70 Touch Gaming PC (Intel i9-14900k, GeForce RTX 5090, 64GB Ddr5, 2TB PCIe SSD + 6TB) $10,223.40 + Shipping](https://www.ozbargain.com.au/node/980650)
 - 2026-10-27 · $3,749.00 · [ASUS ROG Strix G16 G615LP-TS202W; 16" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980587)
@@ -60,8 +62,6 @@ _Last checked: 2026-10-29 00:24 (UTC)_
 - 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
 - 2026-10-24 · $3,348.80 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 - $3348.80 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980232)
 - 2026-10-24 · $2,349.00 · [Apple MacBook Air 15" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980164)
-- 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
-- 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-29 00:24 (UTC)_
 
 ### Games
 
+- 2026-10-29 · price n/a · [[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation](https://www.ozbargain.com.au/node/980849)
+- 2026-10-29 · $799.95 · [Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition $799.95 Delivered @ Nintendo Store](https://www.ozbargain.com.au/node/980815)
 - 2026-10-29 · $319.00 · [[Pre Order] AYN Odin 3: 8+128GB US$319 (~A$452), 12+256GB US$419 (~A$594), 16+512GB US$479 (~A$679) + Del (PayPal Only) @ AYN](https://www.ozbargain.com.au/node/980794)
 - 2026-10-28 · price n/a · [[PC] Free - Asleep: Act 1 @ Steam](https://www.ozbargain.com.au/node/980751)
 - 2026-10-28 · $105.83 · [SteelSeries Arctis Nova 3P Wireless Gaming Headset $105.83 (RRP $229) Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980750)
@@ -86,11 +88,10 @@ _Last checked: 2026-10-29 00:24 (UTC)_
 - 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
 - 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
 - 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
-- 2026-10-27 · $59.00 · [SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target](https://www.ozbargain.com.au/node/980507)
-- 2026-10-27 · $499.00 · [Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)](https://www.ozbargain.com.au/node/980491)
 
 ### Drinks
 
+- 2026-10-29 · $52.50 · [Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980827)
 - 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
@@ -100,7 +101,6 @@ _Last checked: 2026-10-29 00:24 (UTC)_
 - 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
 - 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
 - 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
-- 2026-10-09 · price n/a · [Free 250ml Red Bull Energy Drink Can on $50 Minimum Spend @ Woolworths](https://www.ozbargain.com.au/node/978324)
 
 ### Students
 
