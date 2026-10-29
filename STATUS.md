@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-28 20:36 (UTC)_
+_Last checked: 2026-10-29 00:24 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-28 20:36 (UTC)_
 
 ### Whisky
 
+- 2026-10-29 · $84.99 · [[Prime] Singleton of Dufftown 15 Years Old 40.0% Speyside Single Malt Scotch Whisky 700ml $84.99 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980782)
 - 2026-10-23 · $79.99 · [Archie Rose Single Malt Whisky $79.99 @ ALDI (Excl. QLD, SA)](https://www.ozbargain.com.au/node/980115)
 - 2026-10-20 · $40.00 · [Liquorland: Upsized 22% Cashback (Maximum $40 Cashback Per Order, Coupon Usage & Exclusions Apply) @ TopCashback](https://www.ozbargain.com.au/node/979629)
 - 2026-10-18 · $220.00 · [2x Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $220 (Member's Price) Delivered/C&C @ Dan Murphy's](https://www.ozbargain.com.au/node/979394)
@@ -22,7 +23,6 @@ _Last checked: 2026-10-28 20:36 (UTC)_
 - 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
 - 2026-09-07 · $50.00 · [$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/974204)
 - 2026-09-05 · $75.00 · [20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online](https://www.ozbargain.com.au/node/973966)
-- 2026-09-05 · $76.05 · [Corowa Distilling Co Mad Dog Morgan Single Malt Aus Whisky 500 mL $76.05 + Delivery ($0 C&C) @ Dan Murphy's (Limited Locations)](https://www.ozbargain.com.au/node/974001)
 
 ### NAS
 
@@ -78,6 +78,7 @@ _Last checked: 2026-10-28 20:36 (UTC)_
 
 ### Games
 
+- 2026-10-29 · $319.00 · [[Pre Order] AYN Odin 3: 8+128GB US$319 (~A$452), 12+256GB US$419 (~A$594), 16+512GB US$479 (~A$679) + Del (PayPal Only) @ AYN](https://www.ozbargain.com.au/node/980794)
 - 2026-10-28 · price n/a · [[PC] Free - Asleep: Act 1 @ Steam](https://www.ozbargain.com.au/node/980751)
 - 2026-10-28 · $105.83 · [SteelSeries Arctis Nova 3P Wireless Gaming Headset $105.83 (RRP $229) Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980750)
 - 2026-10-28 · $97.53 · [Japanese Pokémon Center Tohoku Special Box + Pikachu Promo Card US$97.53 + US$14 Delivery (~A$159 Delivered) @ MintBoon](https://www.ozbargain.com.au/node/980724)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-28 20:36 (UTC)_
 - 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
 - 2026-10-27 · $59.00 · [SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target](https://www.ozbargain.com.au/node/980507)
 - 2026-10-27 · $499.00 · [Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)](https://www.ozbargain.com.au/node/980491)
-- 2026-10-27 · $483.65 · [Meta Quest 3S 128GB | VR Headset $483.65 (RRP $569) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980473)
 
 ### Drinks
 
