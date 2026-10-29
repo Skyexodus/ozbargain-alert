@@ -2,6 +2,13 @@
   "Whisky": {
     "deals": [
       {
+        "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
+        "link": "https://www.ozbargain.com.au/node/980873",
+        "price": 108.0,
+        "date": "2026-10-29",
+        "image": "https://files.ozbargain.com.au/n/73/980873l.jpg?h=e30a2da9"
+      },
+      {
         "title": "[Prime] Singleton of Dufftown 15 Years Old 40.0% Speyside Single Malt Scotch Whisky 700ml $84.99 Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/980782",
         "price": 84.99,
@@ -90,12 +97,6 @@
         "link": "https://www.ozbargain.com.au/node/972264",
         "price": 27.0,
         "date": "2026-08-22"
-      },
-      {
-        "title": "BWS: 22% Cashback ($20 Cap Per Order) @ ShopBack",
-        "link": "https://www.ozbargain.com.au/node/971009",
-        "price": 20.0,
-        "date": "2026-08-12"
       }
     ]
   },
@@ -414,6 +415,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel",
+        "link": "https://www.ozbargain.com.au/node/980875",
+        "price": 59.99,
+        "date": "2026-10-29",
+        "image": "https://files.ozbargain.com.au/n/75/980875l.jpg?h=d263faf3"
+      },
+      {
         "title": "Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack",
         "link": "https://www.ozbargain.com.au/node/980618",
         "price": 300.0,
@@ -510,18 +518,18 @@
         "price": 69.0,
         "date": "2026-10-12",
         "image": "https://files.ozbargain.com.au/n/55/978655.jpg?h=9042a3fc"
-      },
-      {
-        "title": "[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband",
-        "link": "https://www.ozbargain.com.au/node/978566",
-        "price": 69.0,
-        "date": "2026-10-11",
-        "image": "https://files.ozbargain.com.au/n/66/978566l.jpg?h=2affd08c"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart",
+        "link": "https://www.ozbargain.com.au/node/980857",
+        "price": 649.0,
+        "date": "2026-10-29",
+        "image": "https://files.ozbargain.com.au/n/57/980857l.jpg?h=79cc4f66"
+      },
       {
         "title": "[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation",
         "link": "https://www.ozbargain.com.au/node/980849",
@@ -619,13 +627,6 @@
         "price": 10.99,
         "date": "2026-10-26",
         "image": "https://files.ozbargain.com.au/n/19/980419l.jpg?h=e2931b6f"
-      },
-      {
-        "title": "[XSX] Nobody Wants to Die $7.59 @ Xbox",
-        "link": "https://www.ozbargain.com.au/node/980416",
-        "price": 7.59,
-        "date": "2026-10-26",
-        "image": "https://files.ozbargain.com.au/n/16/980416.jpg?h=e2709298"
       }
     ]
   },

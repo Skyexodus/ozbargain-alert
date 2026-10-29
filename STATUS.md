@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-29 06:16 (UTC)_
+_Last checked: 2026-10-29 13:20 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-10-29 06:16 (UTC)_
 
 ### Whisky
 
+- 2026-10-29 · $108.00 · [Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's](https://www.ozbargain.com.au/node/980873)
 - 2026-10-29 · $84.99 · [[Prime] Singleton of Dufftown 15 Years Old 40.0% Speyside Single Malt Scotch Whisky 700ml $84.99 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980782)
 - 2026-10-23 · $79.99 · [Archie Rose Single Malt Whisky $79.99 @ ALDI (Excl. QLD, SA)](https://www.ozbargain.com.au/node/980115)
 - 2026-10-20 · $40.00 · [Liquorland: Upsized 22% Cashback (Maximum $40 Cashback Per Order, Coupon Usage & Exclusions Apply) @ TopCashback](https://www.ozbargain.com.au/node/979629)
@@ -22,7 +23,6 @@ _Last checked: 2026-10-29 06:16 (UTC)_
 - 2026-09-10 · price n/a · [[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel](https://www.ozbargain.com.au/node/974499)
 - 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
 - 2026-09-07 · $50.00 · [$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/974204)
-- 2026-09-05 · $75.00 · [20% off Liquor (Max Discount $75 Per Order, 2 Redemptions Per Person) + Delivery ($0 C&C) @ Liquorland via Coles Online](https://www.ozbargain.com.au/node/973966)
 
 ### NAS
 
@@ -65,6 +65,7 @@ _Last checked: 2026-10-29 06:16 (UTC)_
 
 ### NBN (home)
 
+- 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
@@ -74,10 +75,10 @@ _Last checked: 2026-10-29 06:16 (UTC)_
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
 - 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
 - 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
-- 2026-10-19 · $120.00 · [dodo: $120 Cashback for nbn, $70 Cashback ($25 Profit over 3 Months) for Postpaid Mobile (New/Return Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979522)
 
 ### Games
 
+- 2026-10-29 · $649.00 · [Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart](https://www.ozbargain.com.au/node/980857)
 - 2026-10-29 · price n/a · [[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation](https://www.ozbargain.com.au/node/980849)
 - 2026-10-29 · $799.95 · [Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition $799.95 Delivered @ Nintendo Store](https://www.ozbargain.com.au/node/980815)
 - 2026-10-29 · $319.00 · [[Pre Order] AYN Odin 3: 8+128GB US$319 (~A$452), 12+256GB US$419 (~A$594), 16+512GB US$479 (~A$679) + Del (PayPal Only) @ AYN](https://www.ozbargain.com.au/node/980794)
@@ -87,7 +88,6 @@ _Last checked: 2026-10-29 06:16 (UTC)_
 - 2026-10-28 · $70.27 · [SteelSeries Arctis Nova Pro X Wired Multi-System Gaming Wired Headset $70.27 (RRP $565) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980629)
 - 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
 - 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
-- 2026-10-27 · $27.48 · [[XSX] Mortal Kombat 1: Definitive Edition $27.48 @ Xbox Store](https://www.ozbargain.com.au/node/980513)
 
 ### Drinks
 
