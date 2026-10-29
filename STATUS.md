@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-29 13:20 (UTC)_
+_Last checked: 2026-10-29 19:07 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-29 13:20 (UTC)_
 
 ### SSD
 
+- 2026-10-30 · $178.00 · [SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks](https://www.ozbargain.com.au/node/980898)
 - 2026-10-29 · $687.04 · [[Used] IdeaPad 5x 2-in-1 Snapdragon X 14" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet](https://www.ozbargain.com.au/node/980830)
 - 2026-10-29 · $31,489.00 · [[Back Order] Mac Studio: M5 Ultra 36C CPU, 80C GPU, 512GB RAM from $31489 for 1TB SSD Model Delivered @ Apple Education](https://www.ozbargain.com.au/node/980818)
 - 2026-10-28 · $240.00 · [[Refurb] Lenovo ThinkCentre M70q Tiny PC (i5-10400T, 16GB RAM, 256GB NVMe SSD, Win 11 Pro) $240 Delivered @ Bufferstock](https://www.ozbargain.com.au/node/980662)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-29 13:20 (UTC)_
 - 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
 - 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
 - 2026-10-24 · $3,348.80 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 - $3348.80 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980232)
-- 2026-10-24 · $2,349.00 · [Apple MacBook Air 15" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980164)
 
 ### NBN (home)
 
@@ -78,16 +78,16 @@ _Last checked: 2026-10-29 13:20 (UTC)_
 
 ### Games
 
+- 2026-10-30 · price n/a · [[PC, Linux, Steam] Free - Hexologic @ Steam](https://www.ozbargain.com.au/node/980897)
+- 2026-10-30 · price n/a · [[Android, Epic] Free - Galaxy Kart @ Epic Games](https://www.ozbargain.com.au/node/980895)
+- 2026-10-30 · price n/a · [[PC, Epic] Free - Flotsam @ Epic Games](https://www.ozbargain.com.au/node/980893)
+- 2026-10-30 · $99.00 · [DualSense Wireless Controller - PlayStation 5 - All Colours $99 (RRP $134.95) + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/980889)
 - 2026-10-29 · $649.00 · [Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart](https://www.ozbargain.com.au/node/980857)
 - 2026-10-29 · price n/a · [[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation](https://www.ozbargain.com.au/node/980849)
 - 2026-10-29 · $799.95 · [Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition $799.95 Delivered @ Nintendo Store](https://www.ozbargain.com.au/node/980815)
 - 2026-10-29 · $319.00 · [[Pre Order] AYN Odin 3: 8+128GB US$319 (~A$452), 12+256GB US$419 (~A$594), 16+512GB US$479 (~A$679) + Del (PayPal Only) @ AYN](https://www.ozbargain.com.au/node/980794)
 - 2026-10-28 · price n/a · [[PC] Free - Asleep: Act 1 @ Steam](https://www.ozbargain.com.au/node/980751)
 - 2026-10-28 · $105.83 · [SteelSeries Arctis Nova 3P Wireless Gaming Headset $105.83 (RRP $229) Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980750)
-- 2026-10-28 · $97.53 · [Japanese Pokémon Center Tohoku Special Box + Pikachu Promo Card US$97.53 + US$14 Delivery (~A$159 Delivered) @ MintBoon](https://www.ozbargain.com.au/node/980724)
-- 2026-10-28 · $70.27 · [SteelSeries Arctis Nova Pro X Wired Multi-System Gaming Wired Headset $70.27 (RRP $565) Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980629)
-- 2026-10-27 · $49.00 · [Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980612)
-- 2026-10-27 · price n/a · [[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store](https://www.ozbargain.com.au/node/980519)
 
 ### Drinks
 

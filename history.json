@@ -306,6 +306,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks",
+        "link": "https://www.ozbargain.com.au/node/980898",
+        "price": 178.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/98/980898l.jpg?h=7e7b4118"
+      },
+      {
         "title": "[Used] IdeaPad 5x 2-in-1 Snapdragon X 14\" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet",
         "link": "https://www.ozbargain.com.au/node/980830",
         "price": 687.04,
@@ -402,13 +409,6 @@
         "price": 1747.0,
         "date": "2026-10-22",
         "image": "https://files.ozbargain.com.au/n/92/979892l.jpg?h=cea5e8e1"
-      },
-      {
-        "title": "[Back Order] Lexar NM990 2TB PCIe 5.0 NVMe M.2 SSD $451.25 + Free Shipping @ Mwave",
-        "link": "https://www.ozbargain.com.au/node/979814",
-        "price": 451.25,
-        "date": "2026-10-21",
-        "image": "https://files.ozbargain.com.au/n/14/979814l.jpg?h=cfd9ce3d"
       }
     ]
   },
@@ -524,6 +524,34 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Linux, Steam] Free - Hexologic @ Steam",
+        "link": "https://www.ozbargain.com.au/node/980897",
+        "price": null,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/97/980897l.jpg?h=0bbe253a"
+      },
+      {
+        "title": "[Android, Epic] Free - Galaxy Kart @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/980895",
+        "price": null,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/95/980895l.jpg?h=3a4eab1b"
+      },
+      {
+        "title": "[PC, Epic] Free - Flotsam @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/980893",
+        "price": null,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/93/980893l.jpg?h=10c86844"
+      },
+      {
+        "title": "DualSense Wireless Controller - PlayStation 5 - All Colours $99 (RRP $134.95) + Delivery ($0 with Prime) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/980889",
+        "price": 99.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/89/980889l.jpg?h=164807fd"
+      },
+      {
         "title": "Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart",
         "link": "https://www.ozbargain.com.au/node/980857",
         "price": 649.0,
@@ -599,34 +627,6 @@
         "price": 27.48,
         "date": "2026-10-27",
         "image": "https://files.ozbargain.com.au/n/13/980513.jpg?h=3789a4fd"
-      },
-      {
-        "title": "SanDisk 256GB MicroSD Express Card for Nintendo Switch 2 $59 ($49 after $10 Newsletter Sign-up Code) + Delivery ($0 C&C) @Target",
-        "link": "https://www.ozbargain.com.au/node/980507",
-        "price": 59.0,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/07/980507l.jpg?h=59456e1b"
-      },
-      {
-        "title": "Xbox Series S 512GB Console $499 Delivered @ Telstra via App (Telstra ID Required)",
-        "link": "https://www.ozbargain.com.au/node/980491",
-        "price": 499.0,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/91/980491l.jpg?h=50adb205"
-      },
-      {
-        "title": "Meta Quest 3S 128GB | VR Headset $483.65 (RRP $569) Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980473",
-        "price": 483.65,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/73/980473l.jpg?h=c9c17e18"
-      },
-      {
-        "title": "[PS4, PS5] Resident Evil 2, Resident Evil 3 $10.99; Resident Evil 4 $13.73 @ Playstation AU",
-        "link": "https://www.ozbargain.com.au/node/980419",
-        "price": 10.99,
-        "date": "2026-10-26",
-        "image": "https://files.ozbargain.com.au/n/19/980419l.jpg?h=e2931b6f"
       }
     ]
   },
