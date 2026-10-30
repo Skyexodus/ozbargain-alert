@@ -306,6 +306,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech",
+        "link": "https://www.ozbargain.com.au/node/980936",
+        "price": 4565.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/36/980936l.jpg?h=1d36e9ff"
+      },
+      {
         "title": "Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY",
         "link": "https://www.ozbargain.com.au/node/980907",
         "price": 699.0,
@@ -402,13 +409,6 @@
         "price": 609.99,
         "date": "2026-10-23",
         "image": "https://files.ozbargain.com.au/n/30/980030l.jpg?h=875b7529"
-      },
-      {
-        "title": "Apple MacBook Air 13\" M5 16GB RAM 512GB SSD $1,649.99 ($350 off) Delivered @ Costco (Membership Required)",
-        "link": "https://www.ozbargain.com.au/node/979939",
-        "price": 1649.99,
-        "date": "2026-10-22",
-        "image": "https://files.ozbargain.com.au/n/39/979939l.jpg?h=88fa5998"
       }
     ]
   },
@@ -524,6 +524,20 @@
   "Games": {
     "deals": [
       {
+        "title": "Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/980935",
+        "price": 10.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/35/980935l.jpg?h=51c73024"
+      },
+      {
+        "title": "Pokemon GO Plus + $69 Delivered/C&C @ BIG W",
+        "link": "https://www.ozbargain.com.au/node/980930",
+        "price": 69.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/30/980930l.jpg?h=3e3b0a36"
+      },
+      {
         "title": "[PC] Free Games: Family Manners, Molokaust,Lights on My Screen,Civimax,Hellbound: Reign of El Diablo, Going For Nuts @ IndieGala",
         "link": "https://www.ozbargain.com.au/node/980916",
         "price": null,
@@ -613,20 +627,6 @@
         "price": 70.27,
         "date": "2026-10-28",
         "image": "https://files.ozbargain.com.au/n/29/980629l.jpg?h=7f542c8c"
-      },
-      {
-        "title": "Nintendo Switch 2 Joy-Con 2 Right - Light Red $49 (RRP $79.95) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980612",
-        "price": 49.0,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/12/980612l.jpg?h=aaed2f30"
-      },
-      {
-        "title": "[iOS, macOS, iPadOS] Dark and Dangerous Games—up to 90% off @ Apple App Store",
-        "link": "https://www.ozbargain.com.au/node/980519",
-        "price": null,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/19/980519l.jpg?h=3d6120aa"
       }
     ]
   },

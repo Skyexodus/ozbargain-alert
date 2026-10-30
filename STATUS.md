@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-29 23:17 (UTC)_
+_Last checked: 2026-10-30 02:42 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-29 23:17 (UTC)_
 
 ### SSD
 
+- 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
 - 2026-10-30 · $699.00 · [Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY](https://www.ozbargain.com.au/node/980907)
 - 2026-10-30 · $178.00 · [SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks](https://www.ozbargain.com.au/node/980898)
 - 2026-10-29 · $687.04 · [[Used] IdeaPad 5x 2-in-1 Snapdragon X 14" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet](https://www.ozbargain.com.au/node/980830)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-29 23:17 (UTC)_
 - 2026-10-27 · $3,749.00 · [ASUS ROG Strix G16 G615LP-TS202W; 16" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980587)
 - 2026-10-27 · $2,599.99 · [Apple 15" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/980494)
 - 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
-- 2026-10-25 · $272.29 · [Western Digital WD Black SN850P NVMe M.2 2TB SSD for PS5 $272.29 Delivered @ Amazon Germany via AU](https://www.ozbargain.com.au/node/980297)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-29 23:17 (UTC)_
 
 ### Games
 
+- 2026-10-30 · $10.00 · [Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980935)
+- 2026-10-30 · $69.00 · [Pokemon GO Plus + $69 Delivered/C&C @ BIG W](https://www.ozbargain.com.au/node/980930)
 - 2026-10-30 · price n/a · [[PC] Free Games: Family Manners, Molokaust,Lights on My Screen,Civimax,Hellbound: Reign of El Diablo, Going For Nuts @ IndieGala](https://www.ozbargain.com.au/node/980916)
 - 2026-10-30 · price n/a · [[PC, Linux, Steam] Free - Hexologic @ Steam](https://www.ozbargain.com.au/node/980897)
 - 2026-10-30 · price n/a · [[Android, Epic] Free - Galaxy Kart @ Epic Games](https://www.ozbargain.com.au/node/980895)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-29 23:17 (UTC)_
 - 2026-10-29 · $649.00 · [Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart](https://www.ozbargain.com.au/node/980857)
 - 2026-10-29 · price n/a · [[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation](https://www.ozbargain.com.au/node/980849)
 - 2026-10-29 · $799.95 · [Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition $799.95 Delivered @ Nintendo Store](https://www.ozbargain.com.au/node/980815)
-- 2026-10-29 · $319.00 · [[Pre Order] AYN Odin 3: 8+128GB US$319 (~A$452), 12+256GB US$419 (~A$594), 16+512GB US$479 (~A$679) + Del (PayPal Only) @ AYN](https://www.ozbargain.com.au/node/980794)
-- 2026-10-28 · price n/a · [[PC] Free - Asleep: Act 1 @ Steam](https://www.ozbargain.com.au/node/980751)
 
 ### Drinks
 
