@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-30 02:42 (UTC)_
+_Last checked: 2026-10-30 09:04 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-30 02:42 (UTC)_
 
 ### SSD
 
+- 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
 - 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
 - 2026-10-30 · $699.00 · [Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY](https://www.ozbargain.com.au/node/980907)
 - 2026-10-30 · $178.00 · [SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks](https://www.ozbargain.com.au/node/980898)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-30 02:42 (UTC)_
 - 2026-10-28 · $10,223.40 · [Custom Built Y70 Touch Gaming PC (Intel i9-14900k, GeForce RTX 5090, 64GB Ddr5, 2TB PCIe SSD + 6TB) $10,223.40 + Shipping](https://www.ozbargain.com.au/node/980650)
 - 2026-10-27 · $3,749.00 · [ASUS ROG Strix G16 G615LP-TS202W; 16" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980587)
 - 2026-10-27 · $2,599.99 · [Apple 15" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/980494)
-- 2026-10-26 · $999.00 · [HP Pro Mini 400 G9 Mini PC i5-14500t, 16GB RAM, 512GB SSD Damaged Box $999 + More HP Desktops Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/980354)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-30 02:42 (UTC)_
 
 ### Games
 
+- 2026-10-30 · price n/a · [[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free](https://www.ozbargain.com.au/node/980967)
+- 2026-10-30 · $69.00 · [[Pre Order] Retroid Pocket Classic Handheld 6GB+128GB US$69 + US$20 Delivery (~A$132.21 Delivered) with PayPal Only @ Retroid](https://www.ozbargain.com.au/node/980963)
 - 2026-10-30 · $10.00 · [Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980935)
 - 2026-10-30 · $69.00 · [Pokemon GO Plus + $69 Delivered/C&C @ BIG W](https://www.ozbargain.com.au/node/980930)
 - 2026-10-30 · price n/a · [[PC] Free Games: Family Manners, Molokaust,Lights on My Screen,Civimax,Hellbound: Reign of El Diablo, Going For Nuts @ IndieGala](https://www.ozbargain.com.au/node/980916)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-30 02:42 (UTC)_
 - 2026-10-30 · price n/a · [[PC, Epic] Free - Flotsam @ Epic Games](https://www.ozbargain.com.au/node/980893)
 - 2026-10-30 · $99.00 · [DualSense Wireless Controller - PlayStation 5 - All Colours $99 (RRP $134.95) + Delivery ($0 with Prime) @ Amazon AU](https://www.ozbargain.com.au/node/980889)
 - 2026-10-29 · $649.00 · [Nintendo Switch 2 + Mario Kart World Bundle $649 @ Kmart](https://www.ozbargain.com.au/node/980857)
-- 2026-10-29 · price n/a · [[PS Plus, PS5, PS4] PS+ Essential Nov Games : Dead Island 2, Tomb Raider IV–VI Remastered, Monster Train 2 @ Playstation](https://www.ozbargain.com.au/node/980849)
-- 2026-10-29 · $799.95 · [Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition $799.95 Delivered @ Nintendo Store](https://www.ozbargain.com.au/node/980815)
 
 ### Drinks
 

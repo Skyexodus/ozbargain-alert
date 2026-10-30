@@ -306,6 +306,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay",
+        "link": "https://www.ozbargain.com.au/node/980977",
+        "price": 2879.2,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/77/980977l.jpg?h=2d5b799c"
+      },
+      {
         "title": "Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech",
         "link": "https://www.ozbargain.com.au/node/980936",
         "price": 4565.0,
@@ -402,13 +409,6 @@
         "price": 363.18,
         "date": "2026-10-23",
         "image": "https://files.ozbargain.com.au/n/31/980031l.jpg?h=c7890d78"
-      },
-      {
-        "title": "TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980030",
-        "price": 609.99,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/30/980030l.jpg?h=875b7529"
       }
     ]
   },
@@ -524,6 +524,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free",
+        "link": "https://www.ozbargain.com.au/node/980967",
+        "price": null,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/67/980967l.jpg?h=55918106"
+      },
+      {
+        "title": "[Pre Order] Retroid Pocket Classic Handheld 6GB+128GB US$69 + US$20 Delivery (~A$132.21 Delivered) with PayPal Only @ Retroid",
+        "link": "https://www.ozbargain.com.au/node/980963",
+        "price": 69.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/63/980963l.jpg?h=66e55d0b"
+      },
+      {
         "title": "Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/980935",
         "price": 10.0,
@@ -613,20 +627,6 @@
         "price": 105.83,
         "date": "2026-10-28",
         "image": "https://files.ozbargain.com.au/n/50/980750l.jpg?h=9531d841"
-      },
-      {
-        "title": "Japanese Pokémon Center Tohoku Special Box + Pikachu Promo Card US$97.53 + US$14 Delivery (~A$159 Delivered) @ MintBoon",
-        "link": "https://www.ozbargain.com.au/node/980724",
-        "price": 97.53,
-        "date": "2026-10-28",
-        "image": "https://files.ozbargain.com.au/n/24/980724l.jpg?h=97101f2c"
-      },
-      {
-        "title": "SteelSeries Arctis Nova Pro X Wired Multi-System Gaming Wired Headset $70.27 (RRP $565) Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/980629",
-        "price": 70.27,
-        "date": "2026-10-28",
-        "image": "https://files.ozbargain.com.au/n/29/980629l.jpg?h=7f542c8c"
       }
     ]
   },
