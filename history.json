@@ -306,6 +306,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target",
+        "link": "https://www.ozbargain.com.au/node/980999",
+        "price": 949.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/99/980999l.jpg?h=92fd91b1"
+      },
+      {
         "title": "HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay",
         "link": "https://www.ozbargain.com.au/node/980977",
         "price": 2879.2,
@@ -402,13 +409,6 @@
         "price": 2349.0,
         "date": "2026-10-24",
         "image": "https://files.ozbargain.com.au/n/64/980164l.jpg?h=1ab7f7c1"
-      },
-      {
-        "title": "Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/980031",
-        "price": 363.18,
-        "date": "2026-10-23",
-        "image": "https://files.ozbargain.com.au/n/31/980031l.jpg?h=c7890d78"
       }
     ]
   },
@@ -524,6 +524,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC] Free -  A New Beginning: Final Cut  @ GOG",
+        "link": "https://www.ozbargain.com.au/node/981019",
+        "price": null,
+        "date": "2026-10-31",
+        "image": "https://files.ozbargain.com.au/n/19/981019.jpg?h=ea6ad6be"
+      },
+      {
+        "title": "Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target",
+        "link": "https://www.ozbargain.com.au/node/980999",
+        "price": 949.0,
+        "date": "2026-10-30",
+        "image": "https://files.ozbargain.com.au/n/99/980999l.jpg?h=92fd91b1"
+      },
+      {
         "title": "[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free",
         "link": "https://www.ozbargain.com.au/node/980967",
         "price": null,
@@ -613,20 +627,6 @@
         "price": 319.0,
         "date": "2026-10-29",
         "image": "https://files.ozbargain.com.au/n/94/980794l.jpg?h=7e1ea47a"
-      },
-      {
-        "title": "[PC] Free - Asleep: Act 1 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/980751",
-        "price": null,
-        "date": "2026-10-28",
-        "image": "https://files.ozbargain.com.au/n/51/980751l.jpg?h=87092ddf"
-      },
-      {
-        "title": "SteelSeries Arctis Nova 3P Wireless Gaming Headset $105.83 (RRP $229) Delivered @ Amazon Germany via AU",
-        "link": "https://www.ozbargain.com.au/node/980750",
-        "price": 105.83,
-        "date": "2026-10-28",
-        "image": "https://files.ozbargain.com.au/n/50/980750l.jpg?h=9531d841"
       }
     ]
   },
