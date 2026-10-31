@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-31 05:31 (UTC)_
+_Last checked: 2026-10-31 11:13 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-31 05:31 (UTC)_
 
 ### Games
 
+- 2026-10-31 · $152.15 · [Razer Basilisk V4 HyperSpeed Wireless Gaming Mouse $152.15 Delivered ($148.57 for eBay Plus Members) @ Razer eBay](https://www.ozbargain.com.au/node/981092)
+- 2026-10-31 · price n/a · [[PC, Steam] Free - Colleccct @ Steam](https://www.ozbargain.com.au/node/981072)
 - 2026-10-31 · price n/a · [[PC] Free -  A New Beginning: Final Cut  @ GOG](https://www.ozbargain.com.au/node/981019)
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · price n/a · [[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free](https://www.ozbargain.com.au/node/980967)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-31 05:31 (UTC)_
 - 2026-10-30 · $69.00 · [Pokemon GO Plus + $69 Delivered/C&C @ BIG W](https://www.ozbargain.com.au/node/980930)
 - 2026-10-30 · price n/a · [[PC] Free Games: Family Manners, Molokaust,Lights on My Screen,Civimax,Hellbound: Reign of El Diablo, Going For Nuts @ IndieGala](https://www.ozbargain.com.au/node/980916)
 - 2026-10-30 · price n/a · [[PC, Linux, Steam] Free - Hexologic @ Steam](https://www.ozbargain.com.au/node/980897)
-- 2026-10-30 · price n/a · [[Android, Epic] Free - Galaxy Kart @ Epic Games](https://www.ozbargain.com.au/node/980895)
-- 2026-10-30 · price n/a · [[PC, Epic] Free - Flotsam @ Epic Games](https://www.ozbargain.com.au/node/980893)
 
 ### Drinks
 
