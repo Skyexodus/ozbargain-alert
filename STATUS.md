@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-31 20:05 (UTC)_
+_Last checked: 2026-10-31 23:20 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-31 20:05 (UTC)_
 
 ### Games
 
+- 2026-11-01 · $11.38 · [[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop](https://www.ozbargain.com.au/node/981118)
+- 2026-11-01 · $99.00 · [Trak Racer Folding Wheel Stand FS3 V2 $99 + Delivery @ Trak Racer](https://www.ozbargain.com.au/node/981116)
 - 2026-11-01 · price n/a · [[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games](https://www.ozbargain.com.au/node/981106)
 - 2026-10-31 · $152.15 · [Razer Basilisk V4 HyperSpeed Wireless Gaming Mouse $152.15 Delivered ($148.57 for eBay Plus Members) @ Razer eBay](https://www.ozbargain.com.au/node/981092)
 - 2026-10-31 · price n/a · [[PC, Steam] Free - Colleccct @ Steam](https://www.ozbargain.com.au/node/981072)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-31 20:05 (UTC)_
 - 2026-10-30 · price n/a · [[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free](https://www.ozbargain.com.au/node/980967)
 - 2026-10-30 · $69.00 · [[Pre Order] Retroid Pocket Classic Handheld 6GB+128GB US$69 + US$20 Delivery (~A$132.21 Delivered) with PayPal Only @ Retroid](https://www.ozbargain.com.au/node/980963)
 - 2026-10-30 · $10.00 · [Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980935)
-- 2026-10-30 · $69.00 · [Pokemon GO Plus + $69 Delivered/C&C @ BIG W](https://www.ozbargain.com.au/node/980930)
-- 2026-10-30 · price n/a · [[PC] Free Games: Family Manners, Molokaust,Lights on My Screen,Civimax,Hellbound: Reign of El Diablo, Going For Nuts @ IndieGala](https://www.ozbargain.com.au/node/980916)
 
 ### Drinks
 
