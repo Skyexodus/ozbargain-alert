@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-31 00:02 (UTC)_
+_Last checked: 2026-10-31 05:31 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-10-31 00:02 (UTC)_
 
 ### SSD
 
+- 2026-10-31 · $3,999.20 · [HP Omen MAX 16" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/981063)
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
 - 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
@@ -61,7 +62,6 @@ _Last checked: 2026-10-31 00:02 (UTC)_
 - 2026-10-29 · $31,489.00 · [[Back Order] Mac Studio: M5 Ultra 36C CPU, 80C GPU, 512GB RAM from $31489 for 1TB SSD Model Delivered @ Apple Education](https://www.ozbargain.com.au/node/980818)
 - 2026-10-28 · $240.00 · [[Refurb] Lenovo ThinkCentre M70q Tiny PC (i5-10400T, 16GB RAM, 256GB NVMe SSD, Win 11 Pro) $240 Delivered @ Bufferstock](https://www.ozbargain.com.au/node/980662)
 - 2026-10-28 · $10,223.40 · [Custom Built Y70 Touch Gaming PC (Intel i9-14900k, GeForce RTX 5090, 64GB Ddr5, 2TB PCIe SSD + 6TB) $10,223.40 + Shipping](https://www.ozbargain.com.au/node/980650)
-- 2026-10-27 · $3,749.00 · [ASUS ROG Strix G16 G615LP-TS202W; 16" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980587)
 
 ### NBN (home)
 

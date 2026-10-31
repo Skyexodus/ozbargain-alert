@@ -306,6 +306,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "HP Omen MAX 16\" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay",
+        "link": "https://www.ozbargain.com.au/node/981063",
+        "price": 3999.2,
+        "date": "2026-10-31",
+        "image": "https://files.ozbargain.com.au/n/63/981063l.jpg?h=eb640707"
+      },
+      {
         "title": "Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target",
         "link": "https://www.ozbargain.com.au/node/980999",
         "price": 949.0,
@@ -402,13 +409,6 @@
         "price": 3348.8,
         "date": "2026-10-24",
         "image": "https://files.ozbargain.com.au/n/32/980232l.jpg?h=2d5b799c"
-      },
-      {
-        "title": "Apple MacBook Air 15\" M5 (10-Core CPU, 10-Core GPU, 16GB RAM, 1TB SSD, Midnight) $2,349 Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980164",
-        "price": 2349.0,
-        "date": "2026-10-24",
-        "image": "https://files.ozbargain.com.au/n/64/980164l.jpg?h=1ab7f7c1"
       }
     ]
   },
