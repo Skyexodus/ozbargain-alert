@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-01 02:28 (UTC)_
+_Last checked: 2026-11-01 09:37 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-01 02:28 (UTC)_
 
 ### Games
 
+- 2026-11-01 · $2.99 · [[PC] Tomb Raider GOTY $2.99, Rise of the Tomb Raider: 20 Year Celebration $4.49 @ GOG](https://www.ozbargain.com.au/node/981181)
+- 2026-11-01 · $20.33 · [8BitDo Ultimate 2C Wireless Gaming Controller US$20.33 (~A$29.66) Delivered @ 8Bitdo Official Store via AliExpress](https://www.ozbargain.com.au/node/981179)
+- 2026-11-01 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981157)
 - 2026-11-01 · $29.74 · [The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive](https://www.ozbargain.com.au/node/981138)
 - 2026-11-01 · $59.97 · [[PC, XSX] 007 First Light - Standard Edition - $59.97 @ Xbox Store](https://www.ozbargain.com.au/node/981133)
 - 2026-11-01 · $11.38 · [[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop](https://www.ozbargain.com.au/node/981118)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-01 02:28 (UTC)_
 - 2026-11-01 · price n/a · [[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games](https://www.ozbargain.com.au/node/981106)
 - 2026-10-31 · $152.15 · [Razer Basilisk V4 HyperSpeed Wireless Gaming Mouse $152.15 Delivered ($148.57 for eBay Plus Members) @ Razer eBay](https://www.ozbargain.com.au/node/981092)
 - 2026-10-31 · price n/a · [[PC, Steam] Free - Colleccct @ Steam](https://www.ozbargain.com.au/node/981072)
-- 2026-10-31 · price n/a · [[PC] Free -  A New Beginning: Final Cut  @ GOG](https://www.ozbargain.com.au/node/981019)
-- 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
-- 2026-10-30 · price n/a · [[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free](https://www.ozbargain.com.au/node/980967)
 
 ### Drinks
 
