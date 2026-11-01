@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-01 09:37 (UTC)_
+_Last checked: 2026-11-01 16:23 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-01 09:37 (UTC)_
 
 ### Games
 
+- 2026-11-01 · $3.75 · [GOG Full Throttle Remastered $3.75](https://www.ozbargain.com.au/node/981203)
 - 2026-11-01 · $2.99 · [[PC] Tomb Raider GOTY $2.99, Rise of the Tomb Raider: 20 Year Celebration $4.49 @ GOG](https://www.ozbargain.com.au/node/981181)
 - 2026-11-01 · $20.33 · [8BitDo Ultimate 2C Wireless Gaming Controller US$20.33 (~A$29.66) Delivered @ 8Bitdo Official Store via AliExpress](https://www.ozbargain.com.au/node/981179)
 - 2026-11-01 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981157)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-01 09:37 (UTC)_
 - 2026-11-01 · $99.00 · [Trak Racer Folding Wheel Stand FS3 V2 $99 + Delivery @ Trak Racer](https://www.ozbargain.com.au/node/981116)
 - 2026-11-01 · price n/a · [[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games](https://www.ozbargain.com.au/node/981106)
 - 2026-10-31 · $152.15 · [Razer Basilisk V4 HyperSpeed Wireless Gaming Mouse $152.15 Delivered ($148.57 for eBay Plus Members) @ Razer eBay](https://www.ozbargain.com.au/node/981092)
-- 2026-10-31 · price n/a · [[PC, Steam] Free - Colleccct @ Steam](https://www.ozbargain.com.au/node/981072)
 
 ### Drinks
 
