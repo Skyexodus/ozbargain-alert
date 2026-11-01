@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-10-31 23:20 (UTC)_
+_Last checked: 2026-11-01 02:28 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-10-31 23:20 (UTC)_
 
 ### Games
 
+- 2026-11-01 · $29.74 · [The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive](https://www.ozbargain.com.au/node/981138)
+- 2026-11-01 · $59.97 · [[PC, XSX] 007 First Light - Standard Edition - $59.97 @ Xbox Store](https://www.ozbargain.com.au/node/981133)
 - 2026-11-01 · $11.38 · [[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop](https://www.ozbargain.com.au/node/981118)
 - 2026-11-01 · $99.00 · [Trak Racer Folding Wheel Stand FS3 V2 $99 + Delivery @ Trak Racer](https://www.ozbargain.com.au/node/981116)
 - 2026-11-01 · price n/a · [[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games](https://www.ozbargain.com.au/node/981106)
@@ -86,8 +88,6 @@ _Last checked: 2026-10-31 23:20 (UTC)_
 - 2026-10-31 · price n/a · [[PC] Free -  A New Beginning: Final Cut  @ GOG](https://www.ozbargain.com.au/node/981019)
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · price n/a · [[PC, Steam, Epic, Microsoft Store, and Xbox/PC Game Pass] Football Manager 2027 - Play for Free](https://www.ozbargain.com.au/node/980967)
-- 2026-10-30 · $69.00 · [[Pre Order] Retroid Pocket Classic Handheld 6GB+128GB US$69 + US$20 Delivery (~A$132.21 Delivered) with PayPal Only @ Retroid](https://www.ozbargain.com.au/node/980963)
-- 2026-10-30 · $10.00 · [Powerwave PS5 Controller Phone Mount $10 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980935)
 
 ### Drinks
 
