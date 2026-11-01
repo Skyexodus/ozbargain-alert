@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-01 20:42 (UTC)_
+_Last checked: 2026-11-01 23:57 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-01 20:42 (UTC)_
 
 ### Games
 
+- 2026-11-02 · $269.37 · [Retroid Pocket Nova 12GB Retro Handheld US$269.37 (~A$393.08) with PayPal Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/981239)
+- 2026-11-02 · price n/a · [[PC, Epic] Free: Highway Driving, Maze - The Amazing Labyrinth, Balloon Strike, Dark Mystery, Math Fun @ Epic Games](https://www.ozbargain.com.au/node/981232)
 - 2026-11-02 · $39.51 · [Anbernic RG28XX Retro Handheld Game Console 2.83-inch IPS Screen US$39.51 (~A$56.21) @ Anbernic Official Store AliExpress](https://www.ozbargain.com.au/node/981228)
 - 2026-11-01 · $3.75 · [GOG Full Throttle Remastered $3.75](https://www.ozbargain.com.au/node/981203)
 - 2026-11-01 · $2.99 · [[PC] Tomb Raider GOTY $2.99, Rise of the Tomb Raider: 20 Year Celebration $4.49 @ GOG](https://www.ozbargain.com.au/node/981181)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-01 20:42 (UTC)_
 - 2026-11-01 · $29.74 · [The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive](https://www.ozbargain.com.au/node/981138)
 - 2026-11-01 · $59.97 · [[PC, XSX] 007 First Light - Standard Edition - $59.97 @ Xbox Store](https://www.ozbargain.com.au/node/981133)
 - 2026-11-01 · $11.38 · [[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop](https://www.ozbargain.com.au/node/981118)
-- 2026-11-01 · $99.00 · [Trak Racer Folding Wheel Stand FS3 V2 $99 + Delivery @ Trak Racer](https://www.ozbargain.com.au/node/981116)
-- 2026-11-01 · price n/a · [[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games](https://www.ozbargain.com.au/node/981106)
 
 ### Drinks
 
