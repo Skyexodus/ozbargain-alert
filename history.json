@@ -417,6 +417,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra",
+        "link": "https://www.ozbargain.com.au/node/981368",
+        "price": 49.0,
+        "date": "2026-11-03",
+        "image": "https://files.ozbargain.com.au/n/68/981368l.jpg?h=fbd71d05"
+      },
+      {
         "title": "nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim",
         "link": "https://www.ozbargain.com.au/node/981364",
         "price": 50.0,
@@ -513,18 +520,32 @@
         "price": null,
         "date": "2026-10-14",
         "image": "https://files.ozbargain.com.au/n/24/978924l.jpg?h=c5175b80"
-      },
-      {
-        "title": "nbn FTTP or HFC 500/50 $82/M Carbon Network & Static IPv4, $84/M ABB Direct Network (New and Existing Customers) @ Carbon Comms",
-        "link": "https://www.ozbargain.com.au/node/978661",
-        "price": 82.0,
-        "date": "2026-10-12",
-        "image": "https://files.ozbargain.com.au/n/61/978661l.jpg?h=67567ae9"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/981381",
+        "price": 26.1,
+        "date": "2026-11-03",
+        "image": "https://files.ozbargain.com.au/n/81/981381l.jpg?h=172b5491"
+      },
+      {
+        "title": "SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software",
+        "link": "https://www.ozbargain.com.au/node/981375",
+        "price": null,
+        "date": "2026-11-03",
+        "image": null
+      },
+      {
+        "title": "[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/981371",
+        "price": 13.99,
+        "date": "2026-11-03",
+        "image": "https://files.ozbargain.com.au/n/71/981371l.jpg?h=c2c7205d"
+      },
       {
         "title": "[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle",
         "link": "https://www.ozbargain.com.au/node/981354",
@@ -608,27 +629,6 @@
         "price": 20.33,
         "date": "2026-11-01",
         "image": "https://files.ozbargain.com.au/n/79/981179l.jpg?h=6e03aacb"
-      },
-      {
-        "title": "SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software",
-        "link": "https://www.ozbargain.com.au/node/981157",
-        "price": null,
-        "date": "2026-11-01",
-        "image": null
-      },
-      {
-        "title": "The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive",
-        "link": "https://www.ozbargain.com.au/node/981138",
-        "price": 29.74,
-        "date": "2026-11-01",
-        "image": "https://files.ozbargain.com.au/n/38/981138l.jpg?h=2d0edbe4"
-      },
-      {
-        "title": "[PC, XSX] 007 First Light - Standard Edition - $59.97 @ Xbox Store",
-        "link": "https://www.ozbargain.com.au/node/981133",
-        "price": 59.97,
-        "date": "2026-11-01",
-        "image": "https://files.ozbargain.com.au/n/33/981133.jpg?h=dbfb799f"
       }
     ]
   },

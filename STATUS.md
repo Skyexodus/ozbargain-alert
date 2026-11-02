@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-02 13:53 (UTC)_
+_Last checked: 2026-11-02 22:38 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-02 13:53 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
 - 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
 - 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
@@ -74,10 +75,12 @@ _Last checked: 2026-11-02 13:53 (UTC)_
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
-- 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
 
 ### Games
 
+- 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
+- 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
+- 2026-11-03 · $13.99 · [[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop](https://www.ozbargain.com.au/node/981371)
 - 2026-11-02 · $17.00 · [[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle](https://www.ozbargain.com.au/node/981354)
 - 2026-11-02 · price n/a · [SHiFT Code for Borderlands 4 - "Mint Chipset" Vault Hunter Skin for Loveless @ Gearbox Software](https://www.ozbargain.com.au/node/981340)
 - 2026-11-02 · price n/a · [[PC, Epic] Free: Funtoon's World, Mountain Racing, Super Kids Racing - Mini Edition @ Epic Games](https://www.ozbargain.com.au/node/981332)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-02 13:53 (UTC)_
 - 2026-11-02 · $41.49 · [GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress](https://www.ozbargain.com.au/node/981296)
 - 2026-11-02 · $66.95 · [Yu-Gi-Oh OCG Original Artwork Collection Booster Box US$66.95 (~A$98.94) Delivered @ CardDreamer99 Store via AliExpress](https://www.ozbargain.com.au/node/981267)
 - 2026-11-02 · $269.37 · [Retroid Pocket Nova 12GB Retro Handheld US$269.37 (~A$393.08) with PayPal Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/981239)
-- 2026-11-02 · price n/a · [[PC, Epic] Free: Highway Driving, Maze - The Amazing Labyrinth, Balloon Strike, Dark Mystery, Math Fun @ Epic Games](https://www.ozbargain.com.au/node/981232)
-- 2026-11-02 · $39.51 · [Anbernic RG28XX Retro Handheld Game Console 2.83-inch IPS Screen US$39.51 (~A$56.21) @ Anbernic Official Store AliExpress](https://www.ozbargain.com.au/node/981228)
-- 2026-11-01 · $3.75 · [GOG Full Throttle Remastered $3.75](https://www.ozbargain.com.au/node/981203)
 
 ### Drinks
 
