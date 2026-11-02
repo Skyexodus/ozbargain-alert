@@ -1,12 +1,12 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-01 23:57 (UTC)_
+_Last checked: 2026-11-02 05:46 (UTC)_
 
 ## Specific items
 
 | Item | 2-yr lowest | Latest price | Previous price | Deals (2 yrs) |
 |---|---|---|---|---|
-| Turtle Wax Ceramic Spray | **$21.82 (2024-11-01) [link](https://www.ozbargain.com.au/node/874490)** | $31.84 (2026-03-16) [link](https://www.ozbargain.com.au/node/951900) | $34.79 (2025-12-26) [link](https://www.ozbargain.com.au/node/941946) | 7 |
+| Turtle Wax Ceramic Spray | **$24.75 (2024-11-29) [link](https://www.ozbargain.com.au/node/881336)** | $31.84 (2026-03-16) [link](https://www.ozbargain.com.au/node/951900) | $34.79 (2025-12-26) [link](https://www.ozbargain.com.au/node/941946) | 7 |
 | Ultraboost | **$125.00 (2025-02-07) [link](https://www.ozbargain.com.au/node/892503)** | $125.00 (2025-02-07) [link](https://www.ozbargain.com.au/node/892503) | — | 1 |
 
 ## Groups
@@ -39,6 +39,7 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 
 ### HDD
 
+- 2026-11-02 · $759.96 · [WD 20TB Elements Desktop External Hard Drive - USB 3.0, Black (International Version) $759.96 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/981299)
 - 2026-10-26 · $574.80 · [LaCie d2 Professional 10TB, External Hard Drive $574.80 (RRP $641.34) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/980350)
 - 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
 - 2026-10-23 · $609.99 · [TEAMGROUP T-Force Vulcan Z SLC Cache 3D NAND QLC 2.5 Inch SATA III Internal SSD 4TB $609.99 Delivered @ Teamgroup via Amazon AU](https://www.ozbargain.com.au/node/980030)
@@ -48,10 +49,12 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 - 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
-- 2026-10-06 · $874.27 · [[Prime] Seagate Expansion Desktop 24TB External Hard Drive $874.27 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/977897)
 
 ### SSD
 
+- 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
+- 2026-11-02 · $2,199.00 · [Lenovo Yoga 7i 2-in-1 Aura Edition 16" Gen 11 Laptop: Intel Ultra 7 355, 32GB RAM, 1TB SSD, Intel iGPU $2199 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981274)
+- 2026-11-02 · $3,699.00 · [Lenovo Yoga Pro 9i Aura Edition (16", Gen 11) Laptop: Intel Ultra 7 356H, 32GB RAM, 1TB SSD, RTX 5060 $3699 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981273)
 - 2026-10-31 · $3,999.20 · [HP Omen MAX 16" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/981063)
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
@@ -59,9 +62,6 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 - 2026-10-30 · $699.00 · [Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY](https://www.ozbargain.com.au/node/980907)
 - 2026-10-30 · $178.00 · [SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks](https://www.ozbargain.com.au/node/980898)
 - 2026-10-29 · $687.04 · [[Used] IdeaPad 5x 2-in-1 Snapdragon X 14" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet](https://www.ozbargain.com.au/node/980830)
-- 2026-10-29 · $31,489.00 · [[Back Order] Mac Studio: M5 Ultra 36C CPU, 80C GPU, 512GB RAM from $31489 for 1TB SSD Model Delivered @ Apple Education](https://www.ozbargain.com.au/node/980818)
-- 2026-10-28 · $240.00 · [[Refurb] Lenovo ThinkCentre M70q Tiny PC (i5-10400T, 16GB RAM, 256GB NVMe SSD, Win 11 Pro) $240 Delivered @ Bufferstock](https://www.ozbargain.com.au/node/980662)
-- 2026-10-28 · $10,223.40 · [Custom Built Y70 Touch Gaming PC (Intel i9-14900k, GeForce RTX 5090, 64GB Ddr5, 2TB PCIe SSD + 6TB) $10,223.40 + Shipping](https://www.ozbargain.com.au/node/980650)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 
 ### Games
 
+- 2026-11-02 · $41.49 · [GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress](https://www.ozbargain.com.au/node/981296)
+- 2026-11-02 · $66.95 · [Yu-Gi-Oh OCG Original Artwork Collection Booster Box US$66.95 (~A$98.94) Delivered @ CardDreamer99 Store via AliExpress](https://www.ozbargain.com.au/node/981267)
 - 2026-11-02 · $269.37 · [Retroid Pocket Nova 12GB Retro Handheld US$269.37 (~A$393.08) with PayPal Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/981239)
 - 2026-11-02 · price n/a · [[PC, Epic] Free: Highway Driving, Maze - The Amazing Labyrinth, Balloon Strike, Dark Mystery, Math Fun @ Epic Games](https://www.ozbargain.com.au/node/981232)
 - 2026-11-02 · $39.51 · [Anbernic RG28XX Retro Handheld Game Console 2.83-inch IPS Screen US$39.51 (~A$56.21) @ Anbernic Official Store AliExpress](https://www.ozbargain.com.au/node/981228)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 - 2026-11-01 · $20.33 · [8BitDo Ultimate 2C Wireless Gaming Controller US$20.33 (~A$29.66) Delivered @ 8Bitdo Official Store via AliExpress](https://www.ozbargain.com.au/node/981179)
 - 2026-11-01 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981157)
 - 2026-11-01 · $29.74 · [The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive](https://www.ozbargain.com.au/node/981138)
-- 2026-11-01 · $59.97 · [[PC, XSX] 007 First Light - Standard Edition - $59.97 @ Xbox Store](https://www.ozbargain.com.au/node/981133)
-- 2026-11-01 · $11.38 · [[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop](https://www.ozbargain.com.au/node/981118)
 
 ### Drinks
 
@@ -110,6 +110,7 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 
 ### Electricity
 
+- 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
 - 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 - 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
 - 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
@@ -119,7 +120,6 @@ _Last checked: 2026-11-01 23:57 (UTC)_
 - 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
 - 2026-09-26 · $200.00 · [[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie](https://www.ozbargain.com.au/node/976508)
 - 2026-09-24 · price n/a · [[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy](https://www.ozbargain.com.au/node/976330)
-- 2026-09-24 · $200.00 · [Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)](https://www.ozbargain.com.au/node/976341)
 
 ### Wine fridge
 
