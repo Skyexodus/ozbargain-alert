@@ -2,6 +2,13 @@
   "Whisky": {
     "deals": [
       {
+        "title": "[Prime] Singleton of Dufftown 15 Years Old 40% Speyside Single Malt Scotch Whisky 700ml $79.99 Delivered @ Amazon AU (Excl. NT)",
+        "link": "https://www.ozbargain.com.au/node/981362",
+        "price": 79.99,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/62/981362l.jpg?h=00937ea3"
+      },
+      {
         "title": "Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's",
         "link": "https://www.ozbargain.com.au/node/980873",
         "price": 108.0,
@@ -91,12 +98,6 @@
         "link": "https://www.ozbargain.com.au/node/973125",
         "price": 5.9,
         "date": "2026-08-28"
-      },
-      {
-        "title": "Jack Daniels & Cola 330ml Bottle 24-Pack $27 (Was $130) @ Liquorland via Coles (Select Locations)",
-        "link": "https://www.ozbargain.com.au/node/972264",
-        "price": 27.0,
-        "date": "2026-08-22"
       }
     ]
   },
@@ -307,6 +308,20 @@
   "SSD": {
     "deals": [
       {
+        "title": "Apple MacBook Air 13\" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree",
+        "link": "https://www.ozbargain.com.au/node/981360",
+        "price": 1660.0,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/60/981360l.jpg?h=6dbef8bc"
+      },
+      {
+        "title": "Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX",
+        "link": "https://www.ozbargain.com.au/node/981338",
+        "price": 2699.0,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/38/981338l.jpg?h=6ed0c04a"
+      },
+      {
         "title": "[Refurb] Toshiba Dynabook X30L-K 13.3\" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay",
         "link": "https://www.ozbargain.com.au/node/981315",
         "price": 674.1,
@@ -396,25 +411,18 @@
         "price": 10223.4,
         "date": "2026-10-28",
         "image": "https://files.ozbargain.com.au/n/50/980650l.jpg?h=7edbc817"
-      },
-      {
-        "title": "ASUS ROG Strix G16 G615LP-TS202W; 16\" 2.5KWQXGA, Ultra 9, 32GB DDR5, 1TB SSD, RTX 5070 $3,749 (RRP$4,999) Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980587",
-        "price": 3749.0,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/87/980587l.jpg?h=0f3fb419"
-      },
-      {
-        "title": "Apple 15\" MacBook Air: M5 Chip with 10‑Core CPU & GPU, 24GB RAM, 1TB SSD $2599.99 Delivered @ Costco (Membership Required)",
-        "link": "https://www.ozbargain.com.au/node/980494",
-        "price": 2599.99,
-        "date": "2026-10-27",
-        "image": "https://files.ozbargain.com.au/n/94/980494l.jpg?h=88fa5998"
       }
     ]
   },
   "NBN (home)": {
     "deals": [
+      {
+        "title": "nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim",
+        "link": "https://www.ozbargain.com.au/node/981364",
+        "price": 50.0,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/64/981364l.jpg?h=288aa6f5"
+      },
       {
         "title": "nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel",
         "link": "https://www.ozbargain.com.au/node/980875",
@@ -512,18 +520,39 @@
         "price": 82.0,
         "date": "2026-10-12",
         "image": "https://files.ozbargain.com.au/n/61/978661l.jpg?h=67567ae9"
-      },
-      {
-        "title": "Join Optus nbn 100/20 or 500/50 ($69/Month for 6 Months), Stay 90 Days & Receive $250 Visa eGift Card @ Finder",
-        "link": "https://www.ozbargain.com.au/node/978655",
-        "price": 69.0,
-        "date": "2026-10-12",
-        "image": "https://files.ozbargain.com.au/n/55/978655.jpg?h=9042a3fc"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle",
+        "link": "https://www.ozbargain.com.au/node/981354",
+        "price": 17.0,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/54/981354l.jpg?h=2ed980c9"
+      },
+      {
+        "title": "SHiFT Code for Borderlands 4 - \"Mint Chipset\" Vault Hunter Skin for Loveless @ Gearbox Software",
+        "link": "https://www.ozbargain.com.au/node/981340",
+        "price": null,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/40/981340l.jpg?h=b6efe08a"
+      },
+      {
+        "title": "[PC, Epic] Free: Funtoon's World, Mountain Racing, Super Kids Racing - Mini Edition @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/981332",
+        "price": null,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/32/981332l.jpg?h=4a6bc299"
+      },
+      {
+        "title": "[PC, Steam] Sonic Racing: CrossWorlds $22.18 @ Fanatical",
+        "link": "https://www.ozbargain.com.au/node/981329",
+        "price": 22.18,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/29/981329l.jpg?h=68f2a51d"
+      },
       {
         "title": "GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress",
         "link": "https://www.ozbargain.com.au/node/981296",
@@ -600,39 +629,18 @@
         "price": 59.97,
         "date": "2026-11-01",
         "image": "https://files.ozbargain.com.au/n/33/981133.jpg?h=dbfb799f"
-      },
-      {
-        "title": "[Switch] Viewfinder $11.38 (70% off) @ Nintendo eShop",
-        "link": "https://www.ozbargain.com.au/node/981118",
-        "price": 11.38,
-        "date": "2026-11-01",
-        "image": "https://files.ozbargain.com.au/n/18/981118l.jpg?h=ee6c09ec"
-      },
-      {
-        "title": "Trak Racer Folding Wheel Stand FS3 V2 $99 + Delivery @ Trak Racer",
-        "link": "https://www.ozbargain.com.au/node/981116",
-        "price": 99.0,
-        "date": "2026-11-01",
-        "image": "https://files.ozbargain.com.au/n/16/981116l.jpg?h=6b752994"
-      },
-      {
-        "title": "[PC, Epic] Free - Gladiator: Blades of Fury, Quiztopia : The Ultimate Trivia @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/981106",
-        "price": null,
-        "date": "2026-11-01",
-        "image": "https://files.ozbargain.com.au/n/06/981106l.jpg?h=00b6fe1d"
-      },
-      {
-        "title": "Razer Basilisk V4 HyperSpeed Wireless Gaming Mouse $152.15 Delivered ($148.57 for eBay Plus Members) @ Razer eBay",
-        "link": "https://www.ozbargain.com.au/node/981092",
-        "price": 152.15,
-        "date": "2026-10-31",
-        "image": "https://files.ozbargain.com.au/n/92/981092l.jpg?h=5fd94d11"
       }
     ]
   },
   "Drinks": {
     "deals": [
+      {
+        "title": "½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths",
+        "link": "https://www.ozbargain.com.au/node/981326",
+        "price": 6.75,
+        "date": "2026-11-02",
+        "image": "https://files.ozbargain.com.au/n/26/981326l.jpg?h=953a0aed"
+      },
       {
         "title": "Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/980827",
@@ -728,12 +736,6 @@
         "link": "https://www.ozbargain.com.au/node/976982",
         "price": 1.65,
         "date": "2026-09-29"
-      },
-      {
-        "title": "Buy One Strawberry, Lychee, Mango or Passionfruit Drink, Get One Free @ Chatime (App Required)",
-        "link": "https://www.ozbargain.com.au/node/976699",
-        "price": null,
-        "date": "2026-09-28"
       }
     ]
   },

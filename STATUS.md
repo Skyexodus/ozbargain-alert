@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-02 05:46 (UTC)_
+_Last checked: 2026-11-02 13:53 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 
 ### Whisky
 
+- 2026-11-02 · $79.99 · [[Prime] Singleton of Dufftown 15 Years Old 40% Speyside Single Malt Scotch Whisky 700ml $79.99 Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981362)
 - 2026-10-29 · $108.00 · [Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's](https://www.ozbargain.com.au/node/980873)
 - 2026-10-29 · $84.99 · [[Prime] Singleton of Dufftown 15 Years Old 40.0% Speyside Single Malt Scotch Whisky 700ml $84.99 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980782)
 - 2026-10-23 · $79.99 · [Archie Rose Single Malt Whisky $79.99 @ ALDI (Excl. QLD, SA)](https://www.ozbargain.com.au/node/980115)
@@ -22,7 +23,6 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 - 2026-10-15 · $76.00 · [Dalwhinnie 15 Years Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Exc QLD, TAS, NT)](https://www.ozbargain.com.au/node/979150)
 - 2026-09-10 · price n/a · [[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel](https://www.ozbargain.com.au/node/974499)
 - 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
-- 2026-09-07 · $50.00 · [$10 off $50 Spend on Selected Alcoholic Drinks + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/974204)
 
 ### NAS
 
@@ -52,6 +52,8 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 
 ### SSD
 
+- 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
+- 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
 - 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
 - 2026-11-02 · $2,199.00 · [Lenovo Yoga 7i 2-in-1 Aura Edition 16" Gen 11 Laptop: Intel Ultra 7 355, 32GB RAM, 1TB SSD, Intel iGPU $2199 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981274)
 - 2026-11-02 · $3,699.00 · [Lenovo Yoga Pro 9i Aura Edition (16", Gen 11) Laptop: Intel Ultra 7 356H, 32GB RAM, 1TB SSD, RTX 5060 $3699 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981273)
@@ -60,11 +62,10 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 - 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
 - 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
 - 2026-10-30 · $699.00 · [Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY](https://www.ozbargain.com.au/node/980907)
-- 2026-10-30 · $178.00 · [SanDisk 1TB Extreme Portable SSD Sky Blue $178 C&C / in Limited Stores Only @ Officeworks](https://www.ozbargain.com.au/node/980898)
-- 2026-10-29 · $687.04 · [[Used] IdeaPad 5x 2-in-1 Snapdragon X 14" OLED Touch Laptop (Scratch N Dent) 16GB RAM, 512GB SSD $687.04 Shipped @ Lenovo Outlet](https://www.ozbargain.com.au/node/980830)
 
 ### NBN (home)
 
+- 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
 - 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
@@ -74,23 +75,23 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 - 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
 - 2026-10-20 · $100.00 · [Signup for More nbn, Activate within 1 Month & Get $100 Bill Credit (CommBank Customers Only) @ More](https://www.ozbargain.com.au/node/979662)
-- 2026-10-19 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for NBN Home Internet (New Optus Customers) @ TopCashback AU](https://www.ozbargain.com.au/node/979571)
 
 ### Games
 
+- 2026-11-02 · $17.00 · [[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle](https://www.ozbargain.com.au/node/981354)
+- 2026-11-02 · price n/a · [SHiFT Code for Borderlands 4 - "Mint Chipset" Vault Hunter Skin for Loveless @ Gearbox Software](https://www.ozbargain.com.au/node/981340)
+- 2026-11-02 · price n/a · [[PC, Epic] Free: Funtoon's World, Mountain Racing, Super Kids Racing - Mini Edition @ Epic Games](https://www.ozbargain.com.au/node/981332)
+- 2026-11-02 · $22.18 · [[PC, Steam] Sonic Racing: CrossWorlds $22.18 @ Fanatical](https://www.ozbargain.com.au/node/981329)
 - 2026-11-02 · $41.49 · [GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress](https://www.ozbargain.com.au/node/981296)
 - 2026-11-02 · $66.95 · [Yu-Gi-Oh OCG Original Artwork Collection Booster Box US$66.95 (~A$98.94) Delivered @ CardDreamer99 Store via AliExpress](https://www.ozbargain.com.au/node/981267)
 - 2026-11-02 · $269.37 · [Retroid Pocket Nova 12GB Retro Handheld US$269.37 (~A$393.08) with PayPal Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/981239)
 - 2026-11-02 · price n/a · [[PC, Epic] Free: Highway Driving, Maze - The Amazing Labyrinth, Balloon Strike, Dark Mystery, Math Fun @ Epic Games](https://www.ozbargain.com.au/node/981232)
 - 2026-11-02 · $39.51 · [Anbernic RG28XX Retro Handheld Game Console 2.83-inch IPS Screen US$39.51 (~A$56.21) @ Anbernic Official Store AliExpress](https://www.ozbargain.com.au/node/981228)
 - 2026-11-01 · $3.75 · [GOG Full Throttle Remastered $3.75](https://www.ozbargain.com.au/node/981203)
-- 2026-11-01 · $2.99 · [[PC] Tomb Raider GOTY $2.99, Rise of the Tomb Raider: 20 Year Celebration $4.49 @ GOG](https://www.ozbargain.com.au/node/981181)
-- 2026-11-01 · $20.33 · [8BitDo Ultimate 2C Wireless Gaming Controller US$20.33 (~A$29.66) Delivered @ 8Bitdo Official Store via AliExpress](https://www.ozbargain.com.au/node/981179)
-- 2026-11-01 · price n/a · [SHiFT Code for Borderlands 4 - Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981157)
-- 2026-11-01 · $29.74 · [The Tank Acrylic Graded Slab Case $29.74 (15% off) + $9.99 Post (Free Penshurst NSW Pickup) @ CardSurvive](https://www.ozbargain.com.au/node/981138)
 
 ### Drinks
 
+- 2026-11-02 · $6.75 · [½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/981326)
 - 2026-10-29 · $52.50 · [Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980827)
 - 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-02 05:46 (UTC)_
 - 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
 - 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
 - 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
-- 2026-10-09 · $5.99 · [Monster Energy Drink Zero Ultra, Strawberry Dreams, Lando Norris, Fantasy Ruby Red 4x 500ml $5.99 @ Spud Shed Ballajura](https://www.ozbargain.com.au/node/978379)
 
 ### Students
 
