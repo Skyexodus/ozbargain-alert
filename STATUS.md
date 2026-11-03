@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-03 03:42 (UTC)_
+_Last checked: 2026-11-03 11:24 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 
 ### SSD
 
+- 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
 - 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
 - 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
 - 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
 - 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
-- 2026-10-30 · $699.00 · [Klevv 4TB Cras C910G PCIe 4.0 NVMe M.2 2280 SSD $699, $711 Delivered @MSY](https://www.ozbargain.com.au/node/980907)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 
 ### Games
 
+- 2026-11-03 · $23.09 · [[PC, Steam] Persona 3 Reload $23.09 @ Loaded](https://www.ozbargain.com.au/node/981484)
 - 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
 - 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
 - 2026-11-03 · $13.99 · [[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop](https://www.ozbargain.com.au/node/981371)
@@ -87,10 +88,11 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 - 2026-11-02 · $22.18 · [[PC, Steam] Sonic Racing: CrossWorlds $22.18 @ Fanatical](https://www.ozbargain.com.au/node/981329)
 - 2026-11-02 · $41.49 · [GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress](https://www.ozbargain.com.au/node/981296)
 - 2026-11-02 · $66.95 · [Yu-Gi-Oh OCG Original Artwork Collection Booster Box US$66.95 (~A$98.94) Delivered @ CardDreamer99 Store via AliExpress](https://www.ozbargain.com.au/node/981267)
-- 2026-11-02 · $269.37 · [Retroid Pocket Nova 12GB Retro Handheld US$269.37 (~A$393.08) with PayPal Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/981239)
 
 ### Drinks
 
+- 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
+- 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
 - 2026-11-02 · $6.75 · [½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/981326)
 - 2026-10-29 · $52.50 · [Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980827)
 - 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
@@ -99,8 +101,6 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 - 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
 - 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
-- 2026-10-12 · $6.25 · [½ Price: Destination Italy Pizza 380-425g $6.25 @ Coles + 202 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/978686)
-- 2026-10-12 · $19.99 · [[WA] Pepsi Max or Solo 30 Cans 375ml $19.99 @ Spudshed Ballajura](https://www.ozbargain.com.au/node/978666)
 
 ### Students
 
@@ -110,6 +110,8 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 
 ### Electricity
 
+- 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
+- 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
 - 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
 - 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 - 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
@@ -118,8 +120,6 @@ _Last checked: 2026-11-03 03:42 (UTC)_
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 - 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
-- 2026-09-26 · $200.00 · [[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie](https://www.ozbargain.com.au/node/976508)
-- 2026-09-24 · price n/a · [[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy](https://www.ozbargain.com.au/node/976330)
 
 ### Wine fridge
 
