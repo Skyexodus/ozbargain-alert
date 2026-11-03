@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-03 11:24 (UTC)_
+_Last checked: 2026-11-03 18:35 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-03 11:24 (UTC)_
 
 ### Games
 
+- 2026-11-04 · $9.89 · [[PC, Epic] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Epic Games](https://www.ozbargain.com.au/node/981526)
+- 2026-11-04 · $11.25 · [[Switch] Boomerang Fu $11.25 @ Nintendo eShop](https://www.ozbargain.com.au/node/981525)
+- 2026-11-03 · $11.07 · [[PC, Steam] SANABI $11.07 (49% off) @ Fanatical](https://www.ozbargain.com.au/node/981513)
 - 2026-11-03 · $23.09 · [[PC, Steam] Persona 3 Reload $23.09 @ Loaded](https://www.ozbargain.com.au/node/981484)
 - 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
 - 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-03 11:24 (UTC)_
 - 2026-11-02 · $17.00 · [[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle](https://www.ozbargain.com.au/node/981354)
 - 2026-11-02 · price n/a · [SHiFT Code for Borderlands 4 - "Mint Chipset" Vault Hunter Skin for Loveless @ Gearbox Software](https://www.ozbargain.com.au/node/981340)
 - 2026-11-02 · price n/a · [[PC, Epic] Free: Funtoon's World, Mountain Racing, Super Kids Racing - Mini Edition @ Epic Games](https://www.ozbargain.com.au/node/981332)
-- 2026-11-02 · $22.18 · [[PC, Steam] Sonic Racing: CrossWorlds $22.18 @ Fanatical](https://www.ozbargain.com.au/node/981329)
-- 2026-11-02 · $41.49 · [GameSir G8 Plus Gamepad for Nintendo Switch 1/2, PC, Phone US$41.49 (~A$59.19) Delivered @ Player Choice Store via AliExpress](https://www.ozbargain.com.au/node/981296)
-- 2026-11-02 · $66.95 · [Yu-Gi-Oh OCG Original Artwork Collection Booster Box US$66.95 (~A$98.94) Delivered @ CardDreamer99 Store via AliExpress](https://www.ozbargain.com.au/node/981267)
 
 ### Drinks
 
