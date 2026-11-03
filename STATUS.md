@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-03 18:35 (UTC)_
+_Last checked: 2026-11-03 23:40 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-03 18:35 (UTC)_
 
 ### Games
 
+- 2026-11-04 · $20.95 · [[PC, Steam] Humble Choice Nov - Mafia: TOC, Outer Worlds 2 (Battle.net), Shinobi: AoV, Yakuza 6 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/981527)
 - 2026-11-04 · $9.89 · [[PC, Epic] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Epic Games](https://www.ozbargain.com.au/node/981526)
 - 2026-11-04 · $11.25 · [[Switch] Boomerang Fu $11.25 @ Nintendo eShop](https://www.ozbargain.com.au/node/981525)
 - 2026-11-03 · $11.07 · [[PC, Steam] SANABI $11.07 (49% off) @ Fanatical](https://www.ozbargain.com.au/node/981513)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-03 18:35 (UTC)_
 - 2026-11-03 · $13.99 · [[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop](https://www.ozbargain.com.au/node/981371)
 - 2026-11-02 · $17.00 · [[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle](https://www.ozbargain.com.au/node/981354)
 - 2026-11-02 · price n/a · [SHiFT Code for Borderlands 4 - "Mint Chipset" Vault Hunter Skin for Loveless @ Gearbox Software](https://www.ozbargain.com.au/node/981340)
-- 2026-11-02 · price n/a · [[PC, Epic] Free: Funtoon's World, Mountain Racing, Super Kids Racing - Mini Edition @ Epic Games](https://www.ozbargain.com.au/node/981332)
 
 ### Drinks
 
