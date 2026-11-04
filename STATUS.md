@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-04 03:20 (UTC)_
+_Last checked: 2026-11-04 11:19 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-04 03:20 (UTC)_
 
 ### SSD
 
+- 2026-11-04 · $569.00 · [KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 SSD $569 + Delivery ($0 NSW C&C) @ Mwave](https://www.ozbargain.com.au/node/981619)
 - 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
 - 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
 - 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
@@ -61,10 +62,10 @@ _Last checked: 2026-11-04 03:20 (UTC)_
 - 2026-10-31 · $3,999.20 · [HP Omen MAX 16" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/981063)
 - 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
 - 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
-- 2026-10-30 · $4,565.00 · [Gaming PC: RTX5080, AMD 7800X3D, 32GB CL30 RAM, 1TB G4 SSD, B850, 850W PLAT PSU $4565+ Del ($0 Headset with VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/980936)
 
 ### NBN (home)
 
+- 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
 - 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
 - 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
 - 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
@@ -74,10 +75,10 @@ _Last checked: 2026-11-04 03:20 (UTC)_
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 - 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
-- 2026-10-20 · $100.00 · [nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms](https://www.ozbargain.com.au/node/979663)
 
 ### Games
 
+- 2026-11-04 · price n/a · [[PC, Steam] Free - Letter Quest: Grimm's Journey Remast (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/981665)
 - 2026-11-04 · $1.10 · [[Android] Despotism 3K $1.10 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/981562)
 - 2026-11-04 · $20.95 · [[PC, Steam] Humble Choice Nov - Mafia: TOC, Outer Worlds 2 (Battle.net), Shinobi: AoV, Yakuza 6 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/981527)
 - 2026-11-04 · $9.89 · [[PC, Epic] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Epic Games](https://www.ozbargain.com.au/node/981526)
@@ -87,10 +88,10 @@ _Last checked: 2026-11-04 03:20 (UTC)_
 - 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
 - 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
 - 2026-11-03 · $13.99 · [[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop](https://www.ozbargain.com.au/node/981371)
-- 2026-11-02 · $17.00 · [[PC, Steam] Discount Code for Humble Choice Oct - $17 @ Humble Bundle](https://www.ozbargain.com.au/node/981354)
 
 ### Drinks
 
+- 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
 - 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
 - 2026-11-02 · $6.75 · [½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/981326)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-04 03:20 (UTC)_
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 - 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
-- 2026-10-13 · $20.90 · [[NSW, QLD] Original Pad Thai + 600ml Drink $20.90 C&C Only (Minimum $25 Delivery Order) @ P'Nut Asian Kitchen](https://www.ozbargain.com.au/node/978838)
 
 ### Students
 
