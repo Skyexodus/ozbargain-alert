@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-04 11:19 (UTC)_
+_Last checked: 2026-11-04 18:43 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-04 11:19 (UTC)_
 
 ### Games
 
+- 2026-11-05 · $37.99 · [Redragon M612 PRO RGB Gaming Mouse $37.99 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981674)
 - 2026-11-04 · price n/a · [[PC, Steam] Free - Letter Quest: Grimm's Journey Remast (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/981665)
 - 2026-11-04 · $1.10 · [[Android] Despotism 3K $1.10 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/981562)
 - 2026-11-04 · $20.95 · [[PC, Steam] Humble Choice Nov - Mafia: TOC, Outer Worlds 2 (Battle.net), Shinobi: AoV, Yakuza 6 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/981527)
@@ -87,10 +88,10 @@ _Last checked: 2026-11-04 11:19 (UTC)_
 - 2026-11-03 · $23.09 · [[PC, Steam] Persona 3 Reload $23.09 @ Loaded](https://www.ozbargain.com.au/node/981484)
 - 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
 - 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
-- 2026-11-03 · $13.99 · [[Switch 2] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Nintendo eShop](https://www.ozbargain.com.au/node/981371)
 
 ### Drinks
 
+- 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
 - 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-04 11:19 (UTC)_
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 - 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
-- 2026-10-15 · price n/a · [[VIC] 100 Free Potato Gems, 200 Free Red Bull Infusions from 7am Friday (16/10) @ Soul Origin (Epping)](https://www.ozbargain.com.au/node/979024)
 
 ### Students
 
