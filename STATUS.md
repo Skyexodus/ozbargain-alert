@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-04 18:43 (UTC)_
+_Last checked: 2026-11-04 23:57 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-11-04 18:43 (UTC)_
 
 ### SSD
 
+- 2026-11-05 · $279.00 · [[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders](https://www.ozbargain.com.au/node/981711)
+- 2026-11-05 · $153.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 SSD $153 Delivered @ Centrecom](https://www.ozbargain.com.au/node/981694)
 - 2026-11-04 · $569.00 · [KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 SSD $569 + Delivery ($0 NSW C&C) @ Mwave](https://www.ozbargain.com.au/node/981619)
 - 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
 - 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
@@ -60,8 +62,6 @@ _Last checked: 2026-11-04 18:43 (UTC)_
 - 2026-11-02 · $2,199.00 · [Lenovo Yoga 7i 2-in-1 Aura Edition 16" Gen 11 Laptop: Intel Ultra 7 355, 32GB RAM, 1TB SSD, Intel iGPU $2199 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981274)
 - 2026-11-02 · $3,699.00 · [Lenovo Yoga Pro 9i Aura Edition (16", Gen 11) Laptop: Intel Ultra 7 356H, 32GB RAM, 1TB SSD, RTX 5060 $3699 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981273)
 - 2026-10-31 · $3,999.20 · [HP Omen MAX 16" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/981063)
-- 2026-10-30 · $949.00 · [Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target](https://www.ozbargain.com.au/node/980999)
-- 2026-10-30 · $2,879.20 · [HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay](https://www.ozbargain.com.au/node/980977)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-04 18:43 (UTC)_
 
 ### Games
 
+- 2026-11-05 · $27.98 · [[PS5] Silent Hill f $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981706)
+- 2026-11-05 · $58.24 · [[PS5] 007 First Light Deluxe Edition $58.24 @ PlayStation AU](https://www.ozbargain.com.au/node/981698)
 - 2026-11-05 · $37.99 · [Redragon M612 PRO RGB Gaming Mouse $37.99 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981674)
 - 2026-11-04 · price n/a · [[PC, Steam] Free - Letter Quest: Grimm's Journey Remast (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/981665)
 - 2026-11-04 · $1.10 · [[Android] Despotism 3K $1.10 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/981562)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-04 18:43 (UTC)_
 - 2026-11-04 · $11.25 · [[Switch] Boomerang Fu $11.25 @ Nintendo eShop](https://www.ozbargain.com.au/node/981525)
 - 2026-11-03 · $11.07 · [[PC, Steam] SANABI $11.07 (49% off) @ Fanatical](https://www.ozbargain.com.au/node/981513)
 - 2026-11-03 · $23.09 · [[PC, Steam] Persona 3 Reload $23.09 @ Loaded](https://www.ozbargain.com.au/node/981484)
-- 2026-11-03 · $26.10 · [EA Sports: Madden NFL 26; Xbox Series X, $26.10 (RRP $50.69) +Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981381)
-- 2026-11-03 · price n/a · [SHiFT Code for Borderlands 1, 2, The Pre-Sequel, 3 & 4 - 20 Golden Keys @ Gearbox Software](https://www.ozbargain.com.au/node/981375)
 
 ### Drinks
 
