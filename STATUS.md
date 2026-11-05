@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-05 06:26 (UTC)_
+_Last checked: 2026-11-05 14:53 (UTC)_
 
 ## Specific items
 
@@ -78,19 +78,20 @@ _Last checked: 2026-11-05 06:26 (UTC)_
 
 ### Games
 
+- 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
+- 2026-11-05 · $319.79 · [[Pre Order] AYN Thor Base 8GB+128GB US$319.79 (~A$460) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/981805)
+- 2026-11-05 · $281.73 · [Japanese ONE PIECE Premium Card Collection Kumamoto Special (10 DON!! Cards) US$281.73 Delivered (~A$402) @ MintBoon](https://www.ozbargain.com.au/node/981791)
+- 2026-11-05 · $49.16 · [[PC, Mog Station, XP Loyalty, Preorder] Final Fantasy XIV Evercold $49.16 ($47.69 with 3% off Coupon) @ Green Man Gaming](https://www.ozbargain.com.au/node/981785)
 - 2026-11-05 · $27.98 · [[PS5] Silent Hill 2 $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981772)
 - 2026-11-05 · $2.99 · [[iOS] Trailmarks, Solo Travel Quiz Game $2.99 (Was $9.99) @ Apple Store](https://www.ozbargain.com.au/node/981757)
 - 2026-11-05 · $61.53 · [[Switch] Sid Meier's Civilization VII $61.53 + Delivery @ Playasia](https://www.ozbargain.com.au/node/981740)
 - 2026-11-05 · $71.96 · [[PC, Steam] Control Resonant $71.96 @ Steam](https://www.ozbargain.com.au/node/981732)
 - 2026-11-05 · $27.98 · [[PS5] Silent Hill f $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981706)
 - 2026-11-05 · $58.24 · [[PS5] 007 First Light Deluxe Edition $58.24 @ PlayStation AU](https://www.ozbargain.com.au/node/981698)
-- 2026-11-05 · $37.99 · [Redragon M612 PRO RGB Gaming Mouse $37.99 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981674)
-- 2026-11-04 · price n/a · [[PC, Steam] Free - Letter Quest: Grimm's Journey Remast (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/981665)
-- 2026-11-04 · $1.10 · [[Android] Despotism 3K $1.10 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/981562)
-- 2026-11-04 · $20.95 · [[PC, Steam] Humble Choice Nov - Mafia: TOC, Outer Worlds 2 (Battle.net), Shinobi: AoV, Yakuza 6 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/981527)
 
 ### Drinks
 
+- 2026-11-06 · $1.00 · [Store Brand 1.25L Soft Drinks $1 (Was $1.15) @ Coles & Woolworths](https://www.ozbargain.com.au/node/981827)
 - 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
 - 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-05 06:26 (UTC)_
 - 2026-10-29 · $52.50 · [Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980827)
 - 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
-- 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
 
 ### Students
 
