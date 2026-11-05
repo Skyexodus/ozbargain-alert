@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-05 14:53 (UTC)_
+_Last checked: 2026-11-05 21:23 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-05 14:53 (UTC)_
 
 ### Games
 
+- 2026-11-06 · $7.49 · [[PC, GOG] Road Rash: 30th Anniversary Edition - $7.49](https://www.ozbargain.com.au/node/981842)
+- 2026-11-06 · price n/a · [[Prime, PC, Epic] Free - WRC Generations, Squirrel with a Gun, Jurassic World Evolution 2, Radiolight, Clem + More @ Amazon Luna](https://www.ozbargain.com.au/node/981840)
+- 2026-11-06 · price n/a · [[Android, Epic] Free - Chants of Sennaar @ Epic Games](https://www.ozbargain.com.au/node/981837)
+- 2026-11-06 · price n/a · [[PC, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/981836)
 - 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
 - 2026-11-05 · $319.79 · [[Pre Order] AYN Thor Base 8GB+128GB US$319.79 (~A$460) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/981805)
 - 2026-11-05 · $281.73 · [Japanese ONE PIECE Premium Card Collection Kumamoto Special (10 DON!! Cards) US$281.73 Delivered (~A$402) @ MintBoon](https://www.ozbargain.com.au/node/981791)
 - 2026-11-05 · $49.16 · [[PC, Mog Station, XP Loyalty, Preorder] Final Fantasy XIV Evercold $49.16 ($47.69 with 3% off Coupon) @ Green Man Gaming](https://www.ozbargain.com.au/node/981785)
 - 2026-11-05 · $27.98 · [[PS5] Silent Hill 2 $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981772)
 - 2026-11-05 · $2.99 · [[iOS] Trailmarks, Solo Travel Quiz Game $2.99 (Was $9.99) @ Apple Store](https://www.ozbargain.com.au/node/981757)
-- 2026-11-05 · $61.53 · [[Switch] Sid Meier's Civilization VII $61.53 + Delivery @ Playasia](https://www.ozbargain.com.au/node/981740)
-- 2026-11-05 · $71.96 · [[PC, Steam] Control Resonant $71.96 @ Steam](https://www.ozbargain.com.au/node/981732)
-- 2026-11-05 · $27.98 · [[PS5] Silent Hill f $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981706)
-- 2026-11-05 · $58.24 · [[PS5] 007 First Light Deluxe Edition $58.24 @ PlayStation AU](https://www.ozbargain.com.au/node/981698)
 
 ### Drinks
 
