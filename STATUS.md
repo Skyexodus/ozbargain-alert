@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-04 23:57 (UTC)_
+_Last checked: 2026-11-05 06:26 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-04 23:57 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
 - 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
 - 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
@@ -74,23 +75,23 @@ _Last checked: 2026-11-04 23:57 (UTC)_
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 - 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
-- 2026-10-21 · $81.99 · [nbn 750/50 $81.99/M for 12-Months, $71.99/M for 3-Months then $86.99/M for 24-Months (Existing SL/Exetel/ABB Customers) @ Arctel](https://www.ozbargain.com.au/node/979810)
 
 ### Games
 
+- 2026-11-05 · $27.98 · [[PS5] Silent Hill 2 $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981772)
+- 2026-11-05 · $2.99 · [[iOS] Trailmarks, Solo Travel Quiz Game $2.99 (Was $9.99) @ Apple Store](https://www.ozbargain.com.au/node/981757)
+- 2026-11-05 · $61.53 · [[Switch] Sid Meier's Civilization VII $61.53 + Delivery @ Playasia](https://www.ozbargain.com.au/node/981740)
+- 2026-11-05 · $71.96 · [[PC, Steam] Control Resonant $71.96 @ Steam](https://www.ozbargain.com.au/node/981732)
 - 2026-11-05 · $27.98 · [[PS5] Silent Hill f $27.98 @ PlayStation AU](https://www.ozbargain.com.au/node/981706)
 - 2026-11-05 · $58.24 · [[PS5] 007 First Light Deluxe Edition $58.24 @ PlayStation AU](https://www.ozbargain.com.au/node/981698)
 - 2026-11-05 · $37.99 · [Redragon M612 PRO RGB Gaming Mouse $37.99 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/981674)
 - 2026-11-04 · price n/a · [[PC, Steam] Free - Letter Quest: Grimm's Journey Remast (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/981665)
 - 2026-11-04 · $1.10 · [[Android] Despotism 3K $1.10 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/981562)
 - 2026-11-04 · $20.95 · [[PC, Steam] Humble Choice Nov - Mafia: TOC, Outer Worlds 2 (Battle.net), Shinobi: AoV, Yakuza 6 + More $20.95 @ Humble Bundle](https://www.ozbargain.com.au/node/981527)
-- 2026-11-04 · $9.89 · [[PC, Epic] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Epic Games](https://www.ozbargain.com.au/node/981526)
-- 2026-11-04 · $11.25 · [[Switch] Boomerang Fu $11.25 @ Nintendo eShop](https://www.ozbargain.com.au/node/981525)
-- 2026-11-03 · $11.07 · [[PC, Steam] SANABI $11.07 (49% off) @ Fanatical](https://www.ozbargain.com.au/node/981513)
-- 2026-11-03 · $23.09 · [[PC, Steam] Persona 3 Reload $23.09 @ Loaded](https://www.ozbargain.com.au/node/981484)
 
 ### Drinks
 
+- 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
 - 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-04 23:57 (UTC)_
 - 2026-10-26 · $7.00 · [½ Price: Haagen-Dazs Ice Cream Tub 420mL-457mL $7.00 @ Coles + 243 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/980423)
 - 2026-10-21 · $16.00 · [Kirks Soft Drink Multipack Cans 375ml 20pk $16 ($15.20 Subscribe & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/979863)
 - 2026-10-21 · $2.00 · [½ Price: Suntory Boss Iced Coffee 237ml Varieties $2ea @ Woolworths](https://www.ozbargain.com.au/node/979753)
-- 2026-10-19 · $6.00 · [½ Price: Tegel Take Outs Buttermilk/Karaage/Korean Chicken Tenders 360-400g $6 @ Woolworths + 237 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/979557)
 
 ### Students
 
