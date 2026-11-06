@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-06 01:43 (UTC)_
+_Last checked: 2026-11-06 08:33 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-06 01:43 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-06 · $100.00 · [Switch to an Eligible TPG nbn Plan, Stay until Feb 26 & Get a $100 Digital Visa Card @ Finder](https://www.ozbargain.com.au/node/981934)
 - 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
 - 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
@@ -74,10 +75,10 @@ _Last checked: 2026-11-06 01:43 (UTC)_
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 - 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
-- 2026-10-23 · price n/a · [[VIC] Free Upgrade from nbn Fixed Wireless to FTTP (19,000 Homes, Selected Locations) @ nbn Co via ISPs](https://www.ozbargain.com.au/node/980034)
 
 ### Games
 
+- 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
 - 2026-11-06 · $21.00 · [Magic The Gathering - Teenage Mutant Ninja Turtles Booster Tin $21 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/981884)
 - 2026-11-06 · $1,274.15 · [BWT Alpine Formula One™ Team TRA Hybrid Racing Simulator 15% Off @ $1,274.15 Plus Shipping @Trak Racer AU](https://www.ozbargain.com.au/node/981852)
 - 2026-11-06 · $7.49 · [[PC, GOG] Road Rash: 30th Anniversary Edition - $7.49](https://www.ozbargain.com.au/node/981842)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-06 01:43 (UTC)_
 - 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
 - 2026-11-05 · $319.79 · [[Pre Order] AYN Thor Base 8GB+128GB US$319.79 (~A$460) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/981805)
 - 2026-11-05 · $281.73 · [Japanese ONE PIECE Premium Card Collection Kumamoto Special (10 DON!! Cards) US$281.73 Delivered (~A$402) @ MintBoon](https://www.ozbargain.com.au/node/981791)
-- 2026-11-05 · $49.16 · [[PC, Mog Station, XP Loyalty, Preorder] Final Fantasy XIV Evercold $49.16 ($47.69 with 3% off Coupon) @ Green Man Gaming](https://www.ozbargain.com.au/node/981785)
 
 ### Drinks
 
