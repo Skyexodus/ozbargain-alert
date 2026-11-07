@@ -526,6 +526,13 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC,GOG] Alan Wake 90% off $1.75 @ GOG",
+        "link": "https://www.ozbargain.com.au/node/982068",
+        "price": 1.75,
+        "date": "2026-11-07",
+        "image": "https://files.ozbargain.com.au/n/68/982068l.jpg?h=0c514be1"
+      },
+      {
         "title": "The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/982021",
         "price": 19.95,
@@ -622,13 +629,6 @@
         "price": 2.99,
         "date": "2026-11-05",
         "image": "https://files.ozbargain.com.au/n/57/981757l.jpg?h=54313ed9"
-      },
-      {
-        "title": "[Switch] Sid Meier's Civilization VII $61.53 + Delivery @ Playasia",
-        "link": "https://www.ozbargain.com.au/node/981740",
-        "price": 61.53,
-        "date": "2026-11-05",
-        "image": "https://files.ozbargain.com.au/n/40/981740l.jpg?h=97c7df6a"
       }
     ]
   },
@@ -825,6 +825,13 @@
   "Electricity": {
     "deals": [
       {
+        "title": "Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex",
+        "link": "https://www.ozbargain.com.au/node/982065",
+        "price": 225.0,
+        "date": "2026-11-07",
+        "image": "https://files.ozbargain.com.au/n/65/982065l.jpg?h=21bf3047"
+      },
+      {
         "title": "[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy",
         "link": "https://www.ozbargain.com.au/node/981487",
         "price": 150.0,
@@ -916,12 +923,6 @@
         "link": "https://www.ozbargain.com.au/node/975640",
         "price": 200.0,
         "date": "2026-09-19"
-      },
-      {
-        "title": "Switch Energy to Engie & Stay 30 Days for Prepaid Visa eGift Cards: $150 Electricity, $150 Gas @ Econnex",
-        "link": "https://www.ozbargain.com.au/node/975495",
-        "price": 150.0,
-        "date": "2026-09-17"
       }
     ]
   },

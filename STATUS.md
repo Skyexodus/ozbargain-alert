@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-07 07:18 (UTC)_
+_Last checked: 2026-11-07 14:11 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-07 07:18 (UTC)_
 
 ### Games
 
+- 2026-11-07 · $1.75 · [[PC,GOG] Alan Wake 90% off $1.75 @ GOG](https://www.ozbargain.com.au/node/982068)
 - 2026-11-07 · $19.95 · [The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982021)
 - 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
 - 2026-11-06 · $21.00 · [Magic The Gathering - Teenage Mutant Ninja Turtles Booster Tin $21 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/981884)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-07 07:18 (UTC)_
 - 2026-11-06 · price n/a · [[Android, Epic] Free - Chants of Sennaar @ Epic Games](https://www.ozbargain.com.au/node/981837)
 - 2026-11-06 · price n/a · [[PC, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/981836)
 - 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
-- 2026-11-05 · $319.79 · [[Pre Order] AYN Thor Base 8GB+128GB US$319.79 (~A$460) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/981805)
 
 ### Drinks
 
@@ -110,6 +110,7 @@ _Last checked: 2026-11-07 07:18 (UTC)_
 
 ### Electricity
 
+- 2026-11-07 · $225.00 · [Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex](https://www.ozbargain.com.au/node/982065)
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
 - 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
 - 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
@@ -119,7 +120,6 @@ _Last checked: 2026-11-07 07:18 (UTC)_
 - 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 - 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
-- 2026-09-28 · price n/a · [Get up to $150 Visa Gift Card & Up to $300 in Bill Credit for Signing up to AGL Electricity and Gas @ Finder](https://www.ozbargain.com.au/node/976663)
 
 ### Wine fridge
 
