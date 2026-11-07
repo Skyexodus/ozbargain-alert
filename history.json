@@ -825,6 +825,13 @@
   "Electricity": {
     "deals": [
       {
+        "title": "[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards",
+        "link": "https://www.ozbargain.com.au/node/982084",
+        "price": 150.0,
+        "date": "2026-11-08",
+        "image": "https://files.ozbargain.com.au/n/84/982084l.jpg?h=53e100c4"
+      },
+      {
         "title": "Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex",
         "link": "https://www.ozbargain.com.au/node/982065",
         "price": 225.0,
@@ -917,12 +924,6 @@
         "link": "https://www.ozbargain.com.au/node/976341",
         "price": 200.0,
         "date": "2026-09-24"
-      },
-      {
-        "title": "Switch with Econnex & Stay 45 Days for Cashback: $200 Electricity, $120 Gas, $120 Broadband @ TopCashback AU",
-        "link": "https://www.ozbargain.com.au/node/975640",
-        "price": 200.0,
-        "date": "2026-09-19"
       }
     ]
   },

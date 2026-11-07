@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-07 18:51 (UTC)_
+_Last checked: 2026-11-07 22:32 (UTC)_
 
 ## Specific items
 
@@ -110,6 +110,7 @@ _Last checked: 2026-11-07 18:51 (UTC)_
 
 ### Electricity
 
+- 2026-11-08 · $150.00 · [[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards](https://www.ozbargain.com.au/node/982084)
 - 2026-11-07 · $225.00 · [Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex](https://www.ozbargain.com.au/node/982065)
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
 - 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
@@ -119,7 +120,6 @@ _Last checked: 2026-11-07 18:51 (UTC)_
 - 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
 - 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
 - 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
-- 2026-10-05 · $170.00 · [Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU](https://www.ozbargain.com.au/node/977763)
 
 ### Wine fridge
 
