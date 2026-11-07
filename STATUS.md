@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-07 01:12 (UTC)_
+_Last checked: 2026-11-07 07:18 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-07 01:12 (UTC)_
 
 ### Games
 
+- 2026-11-07 · $19.95 · [The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982021)
 - 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
 - 2026-11-06 · $21.00 · [Magic The Gathering - Teenage Mutant Ninja Turtles Booster Tin $21 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/981884)
 - 2026-11-06 · $1,274.15 · [BWT Alpine Formula One™ Team TRA Hybrid Racing Simulator 15% Off @ $1,274.15 Plus Shipping @Trak Racer AU](https://www.ozbargain.com.au/node/981852)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-07 01:12 (UTC)_
 - 2026-11-06 · price n/a · [[PC, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/981836)
 - 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
 - 2026-11-05 · $319.79 · [[Pre Order] AYN Thor Base 8GB+128GB US$319.79 (~A$460) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/981805)
-- 2026-11-05 · $281.73 · [Japanese ONE PIECE Premium Card Collection Kumamoto Special (10 DON!! Cards) US$281.73 Delivered (~A$402) @ MintBoon](https://www.ozbargain.com.au/node/981791)
 
 ### Drinks
 
