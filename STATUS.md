@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-08 19:41 (UTC)_
+_Last checked: 2026-11-08 23:11 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-08 19:41 (UTC)_
 
 ### Games
 
+- 2026-11-09 · $159.00 · [1000 English Pokémon Cards (Yellow Bordered Only) $159 + $11 Postage ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/982174)
 - 2026-11-08 · $202.41 · [Retroid Pocket Duo Lite 6GB+64GB A$202.41 Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/982155)
 - 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
 - 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-08 19:41 (UTC)_
 - 2026-11-06 · $21.00 · [Magic The Gathering - Teenage Mutant Ninja Turtles Booster Tin $21 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/981884)
 - 2026-11-06 · $1,274.15 · [BWT Alpine Formula One™ Team TRA Hybrid Racing Simulator 15% Off @ $1,274.15 Plus Shipping @Trak Racer AU](https://www.ozbargain.com.au/node/981852)
 - 2026-11-06 · $7.49 · [[PC, GOG] Road Rash: 30th Anniversary Edition - $7.49](https://www.ozbargain.com.au/node/981842)
-- 2026-11-06 · price n/a · [[Prime, PC, Epic] Free - WRC Generations, Squirrel with a Gun, Jurassic World Evolution 2, Radiolight, Clem + More @ Amazon Luna](https://www.ozbargain.com.au/node/981840)
 
 ### Drinks
 
