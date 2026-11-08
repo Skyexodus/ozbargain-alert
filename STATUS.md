@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-08 01:48 (UTC)_
+_Last checked: 2026-11-08 08:06 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-08 01:48 (UTC)_
 
 ### Games
 
+- 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
+- 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
 - 2026-11-07 · $1.75 · [[PC,GOG] Alan Wake 90% off $1.75 @ GOG](https://www.ozbargain.com.au/node/982068)
 - 2026-11-07 · $19.95 · [The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982021)
 - 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-08 01:48 (UTC)_
 - 2026-11-06 · $7.49 · [[PC, GOG] Road Rash: 30th Anniversary Edition - $7.49](https://www.ozbargain.com.au/node/981842)
 - 2026-11-06 · price n/a · [[Prime, PC, Epic] Free - WRC Generations, Squirrel with a Gun, Jurassic World Evolution 2, Radiolight, Clem + More @ Amazon Luna](https://www.ozbargain.com.au/node/981840)
 - 2026-11-06 · price n/a · [[Android, Epic] Free - Chants of Sennaar @ Epic Games](https://www.ozbargain.com.au/node/981837)
-- 2026-11-06 · price n/a · [[PC, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/981836)
-- 2026-11-05 · $1,638.00 · [[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W](https://www.ozbargain.com.au/node/981818)
 
 ### Drinks
 
