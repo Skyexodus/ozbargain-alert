@@ -526,6 +526,20 @@
   "Games": {
     "deals": [
       {
+        "title": "40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing",
+        "link": "https://www.ozbargain.com.au/node/982296",
+        "price": 87.15,
+        "date": "2026-11-09",
+        "image": "https://files.ozbargain.com.au/n/96/982296l.jpg?h=c29b1bf7"
+      },
+      {
+        "title": "[PC, Steam] Peak $5.65 @ Fanatical",
+        "link": "https://www.ozbargain.com.au/node/982291",
+        "price": 5.65,
+        "date": "2026-11-09",
+        "image": "https://files.ozbargain.com.au/n/91/982291l.jpg?h=4113e460"
+      },
+      {
         "title": "[PC, Steam] Free - Demon Sighting, Growtopia, Missile Input, WarSpawn, Wane's @ Steam",
         "link": "https://www.ozbargain.com.au/node/982266",
         "price": null,
@@ -615,20 +629,6 @@
         "price": null,
         "date": "2026-11-06",
         "image": "https://files.ozbargain.com.au/n/37/981837l.jpg?h=b8e7bd23"
-      },
-      {
-        "title": "[PC, Epic] Free - Knightica @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/981836",
-        "price": null,
-        "date": "2026-11-06",
-        "image": "https://files.ozbargain.com.au/n/36/981836l.jpg?h=323fb7b5"
-      },
-      {
-        "title": "[Pre Order] PlayStation 5 Pro Bundle $1638 Delivered @ BIG W",
-        "link": "https://www.ozbargain.com.au/node/981818",
-        "price": 1638.0,
-        "date": "2026-11-05",
-        "image": "https://files.ozbargain.com.au/n/18/981818l.jpg?h=51690df5"
       }
     ]
   },
