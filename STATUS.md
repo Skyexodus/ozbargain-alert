@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-09 02:44 (UTC)_
+_Last checked: 2026-11-09 10:25 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-09 02:44 (UTC)_
 
 ### SSD
 
+- 2026-11-09 · $96.99 · [CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress](https://www.ozbargain.com.au/node/982275)
 - 2026-11-06 · $1,998.00 · [Acer Helios Neo 16S Gaming Laptop (356H, 32GB RAM, 1TB SSD, RTX 5060) $1998 + Delivery ($0 to Metro/ C&C) @ Harvey Norman](https://www.ozbargain.com.au/node/981861)
 - 2026-11-05 · $279.00 · [[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders](https://www.ozbargain.com.au/node/981711)
 - 2026-11-05 · $153.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 SSD $153 Delivered @ Centrecom](https://www.ozbargain.com.au/node/981694)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-09 02:44 (UTC)_
 - 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
 - 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
 - 2026-11-02 · $2,199.00 · [Lenovo Yoga 7i 2-in-1 Aura Edition 16" Gen 11 Laptop: Intel Ultra 7 355, 32GB RAM, 1TB SSD, Intel iGPU $2199 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981274)
-- 2026-11-02 · $3,699.00 · [Lenovo Yoga Pro 9i Aura Edition (16", Gen 11) Laptop: Intel Ultra 7 356H, 32GB RAM, 1TB SSD, RTX 5060 $3699 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981273)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-09 02:44 (UTC)_
 
 ### Games
 
+- 2026-11-09 · price n/a · [[PC, Steam] Free - Demon Sighting, Growtopia, Missile Input, WarSpawn, Wane's @ Steam](https://www.ozbargain.com.au/node/982266)
 - 2026-11-09 · $159.00 · [1000 English Pokémon Cards (Yellow Bordered Only) $159 + $11 Postage ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/982174)
 - 2026-11-08 · $202.41 · [Retroid Pocket Duo Lite 6GB+64GB A$202.41 Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/982155)
 - 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
@@ -87,10 +88,10 @@ _Last checked: 2026-11-09 02:44 (UTC)_
 - 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
 - 2026-11-06 · $21.00 · [Magic The Gathering - Teenage Mutant Ninja Turtles Booster Tin $21 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/981884)
 - 2026-11-06 · $1,274.15 · [BWT Alpine Formula One™ Team TRA Hybrid Racing Simulator 15% Off @ $1,274.15 Plus Shipping @Trak Racer AU](https://www.ozbargain.com.au/node/981852)
-- 2026-11-06 · $7.49 · [[PC, GOG] Road Rash: 30th Anniversary Edition - $7.49](https://www.ozbargain.com.au/node/981842)
 
 ### Drinks
 
+- 2026-11-09 · $2.60 · [½ Price: Heinz Ketchup or Barbeque Sauce 500mL $2.60, Sirena Tuna & Beans 170g $2.35 @ Coles + 215 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/982256)
 - 2026-11-09 · $9.93 · [Sorbent Toilet Paper 45pk $9.93, Schweppes Cans 30pk $17.25 + Delivery ($0 with $40 & Uber One) + Service Fee @ Coles Uber Eats](https://www.ozbargain.com.au/node/982199)
 - 2026-11-06 · $52.50 · [Monster Energy Drink Original Zero Sugar 24x 500ml $52.50 ($49.87 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981960)
 - 2026-11-06 · $1.00 · [Store Brand 1.25L Soft Drinks $1 (Was $1.15) @ Coles & Woolworths](https://www.ozbargain.com.au/node/981827)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-09 02:44 (UTC)_
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
 - 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
 - 2026-11-02 · $6.75 · [½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/981326)
-- 2026-10-29 · $52.50 · [Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/980827)
 
 ### Students
 
