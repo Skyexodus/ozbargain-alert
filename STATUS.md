@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-10 03:25 (UTC)_
+_Last checked: 2026-11-10 11:37 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-10 03:25 (UTC)_
 
 ### Games
 
+- 2026-11-10 · price n/a · [[PC, VR, Steam] Free - The Rig: A Starmap to Murder @ Steam](https://www.ozbargain.com.au/node/982419)
 - 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
 - 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
 - 2026-11-09 · $5.65 · [[PC, Steam] Peak $5.65 @ Fanatical](https://www.ozbargain.com.au/node/982291)
@@ -87,10 +88,10 @@ _Last checked: 2026-11-10 03:25 (UTC)_
 - 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
 - 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
 - 2026-11-07 · $1.75 · [[PC,GOG] Alan Wake 90% off $1.75 @ GOG](https://www.ozbargain.com.au/node/982068)
-- 2026-11-07 · $19.95 · [The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982021)
 
 ### Drinks
 
+- 2026-11-10 · $26.00 · [Pepsi Max, Sunkist, Solo, Schweppes Lemonade 30x 375ml Cans $26 ($24.70 Sub & Save) + Del ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982421)
 - 2026-11-09 · $2.60 · [½ Price: Heinz Ketchup or Barbeque Sauce 500mL $2.60, Sirena Tuna & Beans 170g $2.35 @ Coles + 215 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/982256)
 - 2026-11-09 · $9.93 · [Sorbent Toilet Paper 45pk $9.93, Schweppes Cans 30pk $17.25 + Delivery ($0 with $40 & Uber One) + Service Fee @ Coles Uber Eats](https://www.ozbargain.com.au/node/982199)
 - 2026-11-06 · $52.50 · [Monster Energy Drink Original Zero Sugar 24x 500ml $52.50 ($49.87 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981960)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-10 03:25 (UTC)_
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
 - 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
-- 2026-11-02 · $6.75 · [½ Price: Four’N Twenty Angus Pies 700g $6.75 @ Woolworths + 201 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/981326)
 
 ### Students
 
