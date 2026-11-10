@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-10 18:50 (UTC)_
+_Last checked: 2026-11-10 23:49 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-10 18:50 (UTC)_
 
 ### SSD
 
+- 2026-11-11 · $275.00 · [Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec](https://www.ozbargain.com.au/node/982500)
 - 2026-11-09 · $96.99 · [CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress](https://www.ozbargain.com.au/node/982275)
 - 2026-11-06 · $1,998.00 · [Acer Helios Neo 16S Gaming Laptop (356H, 32GB RAM, 1TB SSD, RTX 5060) $1998 + Delivery ($0 to Metro/ C&C) @ Harvey Norman](https://www.ozbargain.com.au/node/981861)
 - 2026-11-05 · $279.00 · [[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders](https://www.ozbargain.com.au/node/981711)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-10 18:50 (UTC)_
 - 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
 - 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
 - 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
-- 2026-11-02 · $2,199.00 · [Lenovo Yoga 7i 2-in-1 Aura Edition 16" Gen 11 Laptop: Intel Ultra 7 355, 32GB RAM, 1TB SSD, Intel iGPU $2199 Delivered @ Lenovo](https://www.ozbargain.com.au/node/981274)
 
 ### NBN (home)
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-10 18:50 (UTC)_
 
 ### Games
 
+- 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
+- 2026-11-11 · $100.00 · [Bonus Nintendo Switch 2 & $100 JB GC with Purchase of Google Pixel 11 Pro $1645.61, Pro XL $1861.11 + Del ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982504)
+- 2026-11-11 · $1,149.00 · [MOZA Porsche Mission R Steering Wheel $1149 Delivered @ Centrecom](https://www.ozbargain.com.au/node/982497)
+- 2026-11-11 · price n/a · [Trak Racer Extrusion Cockpit 15% Off Black Friday November & GET RE2 Recline Seat for 50% off Plus Shipping @ Trak Racer AU](https://www.ozbargain.com.au/node/982495)
 - 2026-11-10 · $599.00 · [½ Price: Moza Vision GS Wheel $599 (Was $1199) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Centre Com](https://www.ozbargain.com.au/node/982458)
 - 2026-11-10 · price n/a · [[PC, VR, Steam] Free - The Rig: A Starmap to Murder @ Steam](https://www.ozbargain.com.au/node/982419)
 - 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
 - 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
 - 2026-11-09 · $5.65 · [[PC, Steam] Peak $5.65 @ Fanatical](https://www.ozbargain.com.au/node/982291)
 - 2026-11-09 · price n/a · [[PC, Steam] Free - Demon Sighting, Growtopia, Missile Input, WarSpawn, Wane's @ Steam](https://www.ozbargain.com.au/node/982266)
-- 2026-11-09 · $159.00 · [1000 English Pokémon Cards (Yellow Bordered Only) $159 + $11 Postage ($0 NSW C&C) @ Bulk Cards](https://www.ozbargain.com.au/node/982174)
-- 2026-11-08 · $202.41 · [Retroid Pocket Duo Lite 6GB+64GB A$202.41 Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/982155)
-- 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
-- 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
 
 ### Drinks
 
