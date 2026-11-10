@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-09 20:58 (UTC)_
+_Last checked: 2026-11-10 03:25 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-09 20:58 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-10 · $250.00 · [Join Optus nbn, Stay Connected for a Minimum of 90 Days & Get $250 Cashback (Includes BYO Plans, New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/982343)
 - 2026-11-06 · $100.00 · [Switch to an Eligible TPG nbn Plan, Stay until Feb 26 & Get a $100 Digital Visa Card @ Finder](https://www.ozbargain.com.au/node/981934)
 - 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
@@ -74,10 +75,10 @@ _Last checked: 2026-11-09 20:58 (UTC)_
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 - 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
-- 2026-10-25 · $50.00 · [nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin](https://www.ozbargain.com.au/node/980249)
 
 ### Games
 
+- 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
 - 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
 - 2026-11-09 · $5.65 · [[PC, Steam] Peak $5.65 @ Fanatical](https://www.ozbargain.com.au/node/982291)
 - 2026-11-09 · price n/a · [[PC, Steam] Free - Demon Sighting, Growtopia, Missile Input, WarSpawn, Wane's @ Steam](https://www.ozbargain.com.au/node/982266)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-09 20:58 (UTC)_
 - 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
 - 2026-11-07 · $1.75 · [[PC,GOG] Alan Wake 90% off $1.75 @ GOG](https://www.ozbargain.com.au/node/982068)
 - 2026-11-07 · $19.95 · [The Crew Mission Deep Sea Game $19.95 (RRP $24.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982021)
-- 2026-11-06 · price n/a · [[Switch, Switch 2] Poké Ball Pattern Vivillon for Pokémon Legends: Z-A via in-Game Mystery Gift](https://www.ozbargain.com.au/node/981931)
 
 ### Drinks
 
