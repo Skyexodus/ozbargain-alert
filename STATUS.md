@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-10 11:37 (UTC)_
+_Last checked: 2026-11-10 18:50 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-10 11:37 (UTC)_
 
 ### Games
 
+- 2026-11-10 · $599.00 · [½ Price: Moza Vision GS Wheel $599 (Was $1199) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Centre Com](https://www.ozbargain.com.au/node/982458)
 - 2026-11-10 · price n/a · [[PC, VR, Steam] Free - The Rig: A Starmap to Murder @ Steam](https://www.ozbargain.com.au/node/982419)
 - 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
 - 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-10 11:37 (UTC)_
 - 2026-11-08 · $202.41 · [Retroid Pocket Duo Lite 6GB+64GB A$202.41 Delivered @ Retroid Official Store via AliExpress](https://www.ozbargain.com.au/node/982155)
 - 2026-11-08 · $5.00 · [MTG the hobbit booster $5 (RRP $11) @Target Morley](https://www.ozbargain.com.au/node/982143)
 - 2026-11-08 · $1,049.95 · [PlayStation 5 Disc Edition Console (Slim) $1049.95 Delivered @ The Gamesmen via Everyday Market](https://www.ozbargain.com.au/node/982122)
-- 2026-11-07 · $1.75 · [[PC,GOG] Alan Wake 90% off $1.75 @ GOG](https://www.ozbargain.com.au/node/982068)
 
 ### Drinks
 
