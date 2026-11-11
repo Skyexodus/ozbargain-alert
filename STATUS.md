@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-11 03:28 (UTC)_
+_Last checked: 2026-11-11 11:23 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-11 03:28 (UTC)_
 
 ### Games
 
+- 2026-11-11 · $221.61 · [PlayStation 5 DualSense Edge Wireless Controller $221.61 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982618)
+- 2026-11-11 · $467.86 · [[Pre Order] AYN Odin 3 16/512GB US$467.86 (~A$684) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/982610)
+- 2026-11-11 · $25.81 · [PlayStation 5 DualSense Charging Station $25.81 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982607)
+- 2026-11-11 · price n/a · [[PC, Steam] Free - Sadball @ Steam](https://www.ozbargain.com.au/node/982590)
 - 2026-11-11 · price n/a · [10% off Nintendo eShop Gift Cards (In-Store Only) @ ALDI](https://www.ozbargain.com.au/node/982546)
 - 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
 - 2026-11-11 · $100.00 · [Bonus Nintendo Switch 2 & $100 JB GC with Purchase of Google Pixel 11 Pro $1645.61, Pro XL $1861.11 + Del ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982504)
 - 2026-11-11 · $1,149.00 · [MOZA Porsche Mission R Steering Wheel $1149 Delivered @ Centrecom](https://www.ozbargain.com.au/node/982497)
 - 2026-11-11 · price n/a · [Trak Racer Extrusion Cockpit 15% Off Black Friday November & GET RE2 Recline Seat for 50% off Plus Shipping @ Trak Racer AU](https://www.ozbargain.com.au/node/982495)
 - 2026-11-10 · $599.00 · [½ Price: Moza Vision GS Wheel $599 (Was $1199) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Centre Com](https://www.ozbargain.com.au/node/982458)
-- 2026-11-10 · price n/a · [[PC, VR, Steam] Free - The Rig: A Starmap to Murder @ Steam](https://www.ozbargain.com.au/node/982419)
-- 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
-- 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
-- 2026-11-09 · $5.65 · [[PC, Steam] Peak $5.65 @ Fanatical](https://www.ozbargain.com.au/node/982291)
 
 ### Drinks
 
