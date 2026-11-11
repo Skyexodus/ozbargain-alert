@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-10 23:49 (UTC)_
+_Last checked: 2026-11-11 03:28 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-10 23:49 (UTC)_
 
 ### Games
 
+- 2026-11-11 · price n/a · [10% off Nintendo eShop Gift Cards (In-Store Only) @ ALDI](https://www.ozbargain.com.au/node/982546)
 - 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
 - 2026-11-11 · $100.00 · [Bonus Nintendo Switch 2 & $100 JB GC with Purchase of Google Pixel 11 Pro $1645.61, Pro XL $1861.11 + Del ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982504)
 - 2026-11-11 · $1,149.00 · [MOZA Porsche Mission R Steering Wheel $1149 Delivered @ Centrecom](https://www.ozbargain.com.au/node/982497)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-10 23:49 (UTC)_
 - 2026-11-10 · $728.00 · [Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)](https://www.ozbargain.com.au/node/982360)
 - 2026-11-09 · $87.15 · [40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing](https://www.ozbargain.com.au/node/982296)
 - 2026-11-09 · $5.65 · [[PC, Steam] Peak $5.65 @ Fanatical](https://www.ozbargain.com.au/node/982291)
-- 2026-11-09 · price n/a · [[PC, Steam] Free - Demon Sighting, Growtopia, Missile Input, WarSpawn, Wane's @ Steam](https://www.ozbargain.com.au/node/982266)
 
 ### Drinks
 
