@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-11 11:23 (UTC)_
+_Last checked: 2026-11-11 18:50 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-11 11:23 (UTC)_
 
 ### Games
 
+- 2026-11-12 · price n/a · [SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software](https://www.ozbargain.com.au/node/982646)
+- 2026-11-11 · $62.99 · [MAYFLASH Arcade Stick F101 for Nintendo Switch/PC/PS3/Android/Neogeo Mini $62.99 Delivered @ PassioneCollections AU Amazon AU](https://www.ozbargain.com.au/node/982629)
 - 2026-11-11 · $221.61 · [PlayStation 5 DualSense Edge Wireless Controller $221.61 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982618)
 - 2026-11-11 · $467.86 · [[Pre Order] AYN Odin 3 16/512GB US$467.86 (~A$684) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/982610)
 - 2026-11-11 · $25.81 · [PlayStation 5 DualSense Charging Station $25.81 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982607)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-11 11:23 (UTC)_
 - 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
 - 2026-11-11 · $100.00 · [Bonus Nintendo Switch 2 & $100 JB GC with Purchase of Google Pixel 11 Pro $1645.61, Pro XL $1861.11 + Del ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982504)
 - 2026-11-11 · $1,149.00 · [MOZA Porsche Mission R Steering Wheel $1149 Delivered @ Centrecom](https://www.ozbargain.com.au/node/982497)
-- 2026-11-11 · price n/a · [Trak Racer Extrusion Cockpit 15% Off Black Friday November & GET RE2 Recline Seat for 50% off Plus Shipping @ Trak Racer AU](https://www.ozbargain.com.au/node/982495)
-- 2026-11-10 · $599.00 · [½ Price: Moza Vision GS Wheel $599 (Was $1199) + Delivery ($0 to Metro Areas/ C&C/ in-Store) @ Centre Com](https://www.ozbargain.com.au/node/982458)
 
 ### Drinks
 
