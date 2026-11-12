@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-11 18:50 (UTC)_
+_Last checked: 2026-11-12 01:08 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-11 18:50 (UTC)_
 
 ### SSD
 
+- 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
 - 2026-11-11 · $275.00 · [Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec](https://www.ozbargain.com.au/node/982500)
 - 2026-11-09 · $96.99 · [CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress](https://www.ozbargain.com.au/node/982275)
 - 2026-11-06 · $1,998.00 · [Acer Helios Neo 16S Gaming Laptop (356H, 32GB RAM, 1TB SSD, RTX 5060) $1998 + Delivery ($0 to Metro/ C&C) @ Harvey Norman](https://www.ozbargain.com.au/node/981861)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-11 18:50 (UTC)_
 - 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
 - 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
 - 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
-- 2026-11-02 · $674.10 · [[Refurb] Toshiba Dynabook X30L-K 13.3" Touch Laptop i7-1270P 32GB 1TB SSD $674.10 ($659.12 eBay+) Delivered @ Max Direct eBay](https://www.ozbargain.com.au/node/981315)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-11 18:50 (UTC)_
 
 ### Games
 
+- 2026-11-12 · $79.00 · [[Switch 2] Pikmin 4 + Dandori Academy $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/982693)
+- 2026-11-12 · $58.75 · [[DashPass] Xbox Wireless Controller $58.75 (White/Black) / $62.70 (Red/Green/Blue/Pink) Delivered @ DoorDash (First Order Only)](https://www.ozbargain.com.au/node/982680)
 - 2026-11-12 · price n/a · [SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software](https://www.ozbargain.com.au/node/982646)
 - 2026-11-11 · $62.99 · [MAYFLASH Arcade Stick F101 for Nintendo Switch/PC/PS3/Android/Neogeo Mini $62.99 Delivered @ PassioneCollections AU Amazon AU](https://www.ozbargain.com.au/node/982629)
 - 2026-11-11 · $221.61 · [PlayStation 5 DualSense Edge Wireless Controller $221.61 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982618)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-11 18:50 (UTC)_
 - 2026-11-11 · price n/a · [[PC, Steam] Free - Sadball @ Steam](https://www.ozbargain.com.au/node/982590)
 - 2026-11-11 · price n/a · [10% off Nintendo eShop Gift Cards (In-Store Only) @ ALDI](https://www.ozbargain.com.au/node/982546)
 - 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
-- 2026-11-11 · $100.00 · [Bonus Nintendo Switch 2 & $100 JB GC with Purchase of Google Pixel 11 Pro $1645.61, Pro XL $1861.11 + Del ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982504)
-- 2026-11-11 · $1,149.00 · [MOZA Porsche Mission R Steering Wheel $1149 Delivered @ Centrecom](https://www.ozbargain.com.au/node/982497)
 
 ### Drinks
 

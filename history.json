@@ -308,6 +308,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman",
+        "link": "https://www.ozbargain.com.au/node/982711",
+        "price": 788.0,
+        "date": "2026-11-12",
+        "image": "https://files.ozbargain.com.au/n/11/982711.jpg?h=66961719"
+      },
+      {
         "title": "Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec",
         "link": "https://www.ozbargain.com.au/node/982500",
         "price": 275.0,
@@ -404,13 +411,6 @@
         "price": 949.0,
         "date": "2026-10-30",
         "image": "https://files.ozbargain.com.au/n/99/980999l.jpg?h=92fd91b1"
-      },
-      {
-        "title": "HP OMEN 35L Liquid Cooler AMD Ryzen 7 9800X3D 16GB DDR5 1TB SSD RTX 5070 $2,879.20 Shipped @ HP eBay",
-        "link": "https://www.ozbargain.com.au/node/980977",
-        "price": 2879.2,
-        "date": "2026-10-30",
-        "image": "https://files.ozbargain.com.au/n/77/980977l.jpg?h=2d5b799c"
       }
     ]
   },
@@ -526,6 +526,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[Switch 2] Pikmin 4 + Dandori Academy $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target",
+        "link": "https://www.ozbargain.com.au/node/982693",
+        "price": 79.0,
+        "date": "2026-11-12",
+        "image": "https://files.ozbargain.com.au/n/93/982693l.jpg?h=a4a971dc"
+      },
+      {
+        "title": "[DashPass] Xbox Wireless Controller $58.75 (White/Black) / $62.70 (Red/Green/Blue/Pink) Delivered @ DoorDash (First Order Only)",
+        "link": "https://www.ozbargain.com.au/node/982680",
+        "price": 58.75,
+        "date": "2026-11-12",
+        "image": "https://files.ozbargain.com.au/n/80/982680l.jpg?h=03756924"
+      },
+      {
         "title": "SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software",
         "link": "https://www.ozbargain.com.au/node/982646",
         "price": null,
@@ -615,20 +629,6 @@
         "price": null,
         "date": "2026-11-10",
         "image": "https://files.ozbargain.com.au/n/19/982419l.jpg?h=91adba20"
-      },
-      {
-        "title": "Nintendo Switch 2 Console $728 ($698 with EB World Plus) + Delivery ($0 C&C) @ EB Games (Price Beat $691.60 @ Officeworks)",
-        "link": "https://www.ozbargain.com.au/node/982360",
-        "price": 728.0,
-        "date": "2026-11-10",
-        "image": "https://files.ozbargain.com.au/n/60/982360l.jpg?h=341dcd10"
-      },
-      {
-        "title": "40% off New Subscriptions, 30% off Renewals (12M US$87.15 (~A$126), 24M US$155.75 (~A$225)) @ iRacing",
-        "link": "https://www.ozbargain.com.au/node/982296",
-        "price": 87.15,
-        "date": "2026-11-09",
-        "image": "https://files.ozbargain.com.au/n/96/982296l.jpg?h=c29b1bf7"
       }
     ]
   },
