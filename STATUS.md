@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-12 16:55 (UTC)_
+_Last checked: 2026-11-12 22:38 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-12 16:55 (UTC)_
 
 ### Games
 
+- 2026-11-13 · $10.99 · [[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop](https://www.ozbargain.com.au/node/982862)
+- 2026-11-13 · price n/a · [[iOS, iPadOS] Free: Camping With Grandpa (Was A$4.99) @ Apple App Store](https://www.ozbargain.com.au/node/982856)
+- 2026-11-13 · price n/a · [[Switch, Switch 2] Free - Shiny Xerneas for Pokémon Legends: Z-A and Furniture for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/982852)
 - 2026-11-13 · price n/a · [[Android, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/982845)
 - 2026-11-13 · price n/a · [[PC, Android, Epic] Free - Alien: Isolation & Mark of the Deep @ Epic Games](https://www.ozbargain.com.au/node/982844)
 - 2026-11-12 · $49.97 · [[PS5] 007 First Light $49.97 @ PlayStation AU](https://www.ozbargain.com.au/node/982836)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-12 16:55 (UTC)_
 - 2026-11-12 · price n/a · [[PC, Steam] Free - Catto Pew Pew! OG EDITION @ Steam](https://www.ozbargain.com.au/node/982818)
 - 2026-11-12 · $739.00 · [Nintendo Switch 2 Sports Resort Bundle $739 Delivered / C&C / in-Store @ BIG W ($702.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/982805)
 - 2026-11-12 · $117.20 · [Pokémon Center Set "Mega Symphonia" (Japanese, 2 Booster Boxes + Sleeves + Deck Case) US$117.20 (~A$167) + Delivery @ MintBoon](https://www.ozbargain.com.au/node/982798)
-- 2026-11-12 · $29.00 · [PlayStation 5 DualSence Charge Station $29 + Delivery ($0 C&C/In-Store) @ Officeworks & JB Hi-Fi](https://www.ozbargain.com.au/node/982763)
-- 2026-11-12 · $79.00 · [[Switch 2] Pikmin 4 + Dandori Academy $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/982693)
-- 2026-11-12 · $58.75 · [[DashPass] Xbox Wireless Controller $58.75 (White/Black) / $62.70 (Red/Green/Blue/Pink) Delivered @ DoorDash (First Order Only)](https://www.ozbargain.com.au/node/982680)
 
 ### Drinks
 
@@ -111,6 +111,8 @@ _Last checked: 2026-11-12 16:55 (UTC)_
 
 ### Electricity
 
+- 2026-11-13 · $0.00 · [[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy](https://www.ozbargain.com.au/node/982865)
+- 2026-11-13 · $300.00 · [Switch SME Electricity to Origin Energy and get a $300 Gift Card @ Econnex](https://www.ozbargain.com.au/node/982851)
 - 2026-11-08 · $150.00 · [[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards](https://www.ozbargain.com.au/node/982084)
 - 2026-11-07 · $225.00 · [Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex](https://www.ozbargain.com.au/node/982065)
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
@@ -119,8 +121,6 @@ _Last checked: 2026-11-12 16:55 (UTC)_
 - 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 - 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
 - 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
-- 2026-10-14 · $20.00 · [[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop](https://www.ozbargain.com.au/node/978944)
-- 2026-10-09 · price n/a · [Referee & Referrer Each Get $10 off Per Month for 20 Months @ Amber Electric](https://www.ozbargain.com.au/node/978342)
 
 ### Wine fridge
 

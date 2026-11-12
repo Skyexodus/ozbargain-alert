@@ -527,6 +527,27 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop",
+        "link": "https://www.ozbargain.com.au/node/982862",
+        "price": 10.99,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/62/982862l.jpg?h=9926aa81"
+      },
+      {
+        "title": "[iOS, iPadOS] Free: Camping With Grandpa (Was A$4.99) @ Apple App Store",
+        "link": "https://www.ozbargain.com.au/node/982856",
+        "price": null,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/56/982856l.jpg?h=dea79db6"
+      },
+      {
+        "title": "[Switch, Switch 2] Free - Shiny Xerneas for Pokémon Legends: Z-A and Furniture for Pokémon Pokopia via in-Game Mystery Gift",
+        "link": "https://www.ozbargain.com.au/node/982852",
+        "price": null,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/52/982852l.jpg?h=253059e4"
+      },
+      {
         "title": "[Android, Epic] Free - Knightica @ Epic Games",
         "link": "https://www.ozbargain.com.au/node/982845",
         "price": null,
@@ -609,27 +630,6 @@
         "price": 62.99,
         "date": "2026-11-11",
         "image": "https://files.ozbargain.com.au/n/29/982629l.jpg?h=e9db4d4b"
-      },
-      {
-        "title": "PlayStation 5 DualSense Edge Wireless Controller $221.61 + Delivery ($0 C&C) @ JB Hi-Fi",
-        "link": "https://www.ozbargain.com.au/node/982618",
-        "price": 221.61,
-        "date": "2026-11-11",
-        "image": "https://files.ozbargain.com.au/n/18/982618l.jpg?h=5f573586"
-      },
-      {
-        "title": "[Pre Order] AYN Odin 3 16/512GB US$467.86 (~A$684) with PayPal Delivered @ AYN Official Store AliExpress",
-        "link": "https://www.ozbargain.com.au/node/982610",
-        "price": 467.86,
-        "date": "2026-11-11",
-        "image": "https://files.ozbargain.com.au/n/10/982610l.jpg?h=9e2915ef"
-      },
-      {
-        "title": "PlayStation 5 DualSense Charging Station $25.81 + Delivery ($0 C&C) @ JB Hi-Fi",
-        "link": "https://www.ozbargain.com.au/node/982607",
-        "price": 25.81,
-        "date": "2026-11-11",
-        "image": "https://files.ozbargain.com.au/n/07/982607l.jpg?h=02881d55"
       }
     ]
   },
@@ -833,6 +833,20 @@
   "Electricity": {
     "deals": [
       {
+        "title": "[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy",
+        "link": "https://www.ozbargain.com.au/node/982865",
+        "price": 0.0,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/65/982865l.jpg?h=456016fc"
+      },
+      {
+        "title": "Switch SME Electricity to Origin Energy and get a $300 Gift Card @ Econnex",
+        "link": "https://www.ozbargain.com.au/node/982851",
+        "price": 300.0,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/51/982851l.jpg?h=65891f07"
+      },
+      {
         "title": "[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards",
         "link": "https://www.ozbargain.com.au/node/982084",
         "price": 150.0,
@@ -920,18 +934,6 @@
         "link": "https://www.ozbargain.com.au/node/976508",
         "price": 200.0,
         "date": "2026-09-26"
-      },
-      {
-        "title": "[NSW, SA, VIC, QLD] Battery Starter Plan Peak Feed-in Tariff: 26.5¢–29.0¢ Per kWh @ Origin Energy",
-        "link": "https://www.ozbargain.com.au/node/976330",
-        "price": null,
-        "date": "2026-09-24"
-      },
-      {
-        "title": "Switch & Stay 90 Days for Bonus Prepaid Visa eGift Card: Electricity $200, Gas $100, Internet $100 @ Econnex (Excl NT, Ergon Q)",
-        "link": "https://www.ozbargain.com.au/node/976341",
-        "price": 200.0,
-        "date": "2026-09-24"
       }
     ]
   },
