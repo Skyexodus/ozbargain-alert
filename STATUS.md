@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-12 01:08 (UTC)_
+_Last checked: 2026-11-12 08:19 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-12 01:08 (UTC)_
 
 ### Games
 
+- 2026-11-12 · $117.20 · [Pokémon Center Set "Mega Symphonia" (Japanese, 2 Booster Boxes + Sleeves + Deck Case) US$117.20 (~A$167) + Delivery @ MintBoon](https://www.ozbargain.com.au/node/982798)
+- 2026-11-12 · $29.00 · [PlayStation 5 DualSence Charge Station $29 + Delivery ($0 C&C/In-Store) @ Officeworks & JB Hi-Fi](https://www.ozbargain.com.au/node/982763)
 - 2026-11-12 · $79.00 · [[Switch 2] Pikmin 4 + Dandori Academy $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/982693)
 - 2026-11-12 · $58.75 · [[DashPass] Xbox Wireless Controller $58.75 (White/Black) / $62.70 (Red/Green/Blue/Pink) Delivered @ DoorDash (First Order Only)](https://www.ozbargain.com.au/node/982680)
 - 2026-11-12 · price n/a · [SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software](https://www.ozbargain.com.au/node/982646)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-12 01:08 (UTC)_
 - 2026-11-11 · $467.86 · [[Pre Order] AYN Odin 3 16/512GB US$467.86 (~A$684) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/982610)
 - 2026-11-11 · $25.81 · [PlayStation 5 DualSense Charging Station $25.81 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982607)
 - 2026-11-11 · price n/a · [[PC, Steam] Free - Sadball @ Steam](https://www.ozbargain.com.au/node/982590)
-- 2026-11-11 · price n/a · [10% off Nintendo eShop Gift Cards (In-Store Only) @ ALDI](https://www.ozbargain.com.au/node/982546)
-- 2026-11-11 · $157.76 · [SteelSeries Arctis Nova 5 Wireless Multi-System Gaming Headset $157.76 (RRP $299) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/982505)
 
 ### Drinks
 
