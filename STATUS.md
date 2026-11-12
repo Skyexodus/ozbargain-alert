@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-12 08:19 (UTC)_
+_Last checked: 2026-11-12 16:55 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-11-12 08:19 (UTC)_
 
 ### HDD
 
+- 2026-11-13 · $439.98 · [Swann 3K Wired NVR + 6x Dome Cameras w/ 1TB HDD $439.98 @ Costco (Membership Required)](https://www.ozbargain.com.au/node/982848)
 - 2026-11-02 · $759.96 · [WD 20TB Elements Desktop External Hard Drive - USB 3.0, Black (International Version) $759.96 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/981299)
 - 2026-10-26 · $574.80 · [LaCie d2 Professional 10TB, External Hard Drive $574.80 (RRP $641.34) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/980350)
 - 2026-10-23 · $363.18 · [Crucial P310 2280 PCIe Gen4 3D NAND NVMe M.2 Internal SSD 2TB $363.18 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/980031)
@@ -48,7 +49,6 @@ _Last checked: 2026-11-12 08:19 (UTC)_
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
 - 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
-- 2026-10-06 · $164.78 · [Western Digital WD Red Plus 4TB 3.5" NAS HDD SATA III NAS Hard Drive $164.78 Delivered @ Amazon US via AU](https://www.ozbargain.com.au/node/977933)
 
 ### SSD
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-12 08:19 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-12 · $99.00 · [nbn FTTP or HFC 1000/100 $99/Month Ongoing (New Customers) @ Superloop](https://www.ozbargain.com.au/node/982829)
 - 2026-11-10 · $250.00 · [Join Optus nbn, Stay Connected for a Minimum of 90 Days & Get $250 Cashback (Includes BYO Plans, New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/982343)
 - 2026-11-06 · $100.00 · [Switch to an Eligible TPG nbn Plan, Stay until Feb 26 & Get a $100 Digital Visa Card @ Finder](https://www.ozbargain.com.au/node/981934)
 - 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
@@ -74,20 +75,19 @@ _Last checked: 2026-11-12 08:19 (UTC)_
 - 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 - 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
-- 2026-10-26 · $30.00 · [nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/980347)
 
 ### Games
 
+- 2026-11-13 · price n/a · [[Android, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/982845)
+- 2026-11-13 · price n/a · [[PC, Android, Epic] Free - Alien: Isolation & Mark of the Deep @ Epic Games](https://www.ozbargain.com.au/node/982844)
+- 2026-11-12 · $49.97 · [[PS5] 007 First Light $49.97 @ PlayStation AU](https://www.ozbargain.com.au/node/982836)
+- 2026-11-12 · $15.90 · [GameSir X5 Lite USB-C Mobile Gaming Controller Wasabi US$15.90 (~A$23.24) Delivered @ Player Choice Store AliExpress](https://www.ozbargain.com.au/node/982834)
+- 2026-11-12 · price n/a · [[PC, Steam] Free - Catto Pew Pew! OG EDITION @ Steam](https://www.ozbargain.com.au/node/982818)
+- 2026-11-12 · $739.00 · [Nintendo Switch 2 Sports Resort Bundle $739 Delivered / C&C / in-Store @ BIG W ($702.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/982805)
 - 2026-11-12 · $117.20 · [Pokémon Center Set "Mega Symphonia" (Japanese, 2 Booster Boxes + Sleeves + Deck Case) US$117.20 (~A$167) + Delivery @ MintBoon](https://www.ozbargain.com.au/node/982798)
 - 2026-11-12 · $29.00 · [PlayStation 5 DualSence Charge Station $29 + Delivery ($0 C&C/In-Store) @ Officeworks & JB Hi-Fi](https://www.ozbargain.com.au/node/982763)
 - 2026-11-12 · $79.00 · [[Switch 2] Pikmin 4 + Dandori Academy $79 ($69 after $10 Newsletter Sign-up Voucher) Delivered/C&C @ Target](https://www.ozbargain.com.au/node/982693)
 - 2026-11-12 · $58.75 · [[DashPass] Xbox Wireless Controller $58.75 (White/Black) / $62.70 (Red/Green/Blue/Pink) Delivered @ DoorDash (First Order Only)](https://www.ozbargain.com.au/node/982680)
-- 2026-11-12 · price n/a · [SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software](https://www.ozbargain.com.au/node/982646)
-- 2026-11-11 · $62.99 · [MAYFLASH Arcade Stick F101 for Nintendo Switch/PC/PS3/Android/Neogeo Mini $62.99 Delivered @ PassioneCollections AU Amazon AU](https://www.ozbargain.com.au/node/982629)
-- 2026-11-11 · $221.61 · [PlayStation 5 DualSense Edge Wireless Controller $221.61 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982618)
-- 2026-11-11 · $467.86 · [[Pre Order] AYN Odin 3 16/512GB US$467.86 (~A$684) with PayPal Delivered @ AYN Official Store AliExpress](https://www.ozbargain.com.au/node/982610)
-- 2026-11-11 · $25.81 · [PlayStation 5 DualSense Charging Station $25.81 + Delivery ($0 C&C) @ JB Hi-Fi](https://www.ozbargain.com.au/node/982607)
-- 2026-11-11 · price n/a · [[PC, Steam] Free - Sadball @ Steam](https://www.ozbargain.com.au/node/982590)
 
 ### Drinks
 
@@ -104,6 +104,7 @@ _Last checked: 2026-11-12 08:19 (UTC)_
 
 ### Students
 
+- 2026-11-13 · $2.50 · [[Targeted] Student Edge - $2.50 Loyalty Bonus (Mobile Verification, Surname & App Required)](https://www.ozbargain.com.au/node/982849)
 - 2026-10-18 · $12.80 · [S$12.80 (U.P S$15) 30-Day Student eSIM 500GB (SG, MY, ID, TH, HK​) + 18GB (APAC, China, S. Korea, Japan​) @ Singtel](https://www.ozbargain.com.au/node/979455)
 - 2026-10-14 · price n/a · [10% off Ultimate Her, Him, Teens, Kids and Students Gift Cards (In-Store Only) @ Coles](https://www.ozbargain.com.au/node/978950)
 - 2026-10-11 · $69.00 · [[UNiDAYS] nbn 500/50 or 100/20 $69/M, 50/20 $65/M for 6 Months & 50% off Mobile for 3 Months (New Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/978566)
