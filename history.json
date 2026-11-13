@@ -527,6 +527,13 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam] Sniper Elite 5 $6.99 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/983050",
+        "price": 6.99,
+        "date": "2026-11-14",
+        "image": "https://files.ozbargain.com.au/n/50/983050l.jpg?h=319730c6"
+      },
+      {
         "title": "GameSir Nova Lite Wireless Gamepad Purple US$15.88 (~A$23.37) Delivered @ GameSir Global Store AliExpress",
         "link": "https://www.ozbargain.com.au/node/983036",
         "price": 15.88,
@@ -623,13 +630,6 @@
         "price": 117.2,
         "date": "2026-11-12",
         "image": "https://files.ozbargain.com.au/n/98/982798l.jpg?h=cee78511"
-      },
-      {
-        "title": "PlayStation 5 DualSence Charge Station $29 + Delivery ($0 C&C/In-Store) @ Officeworks & JB Hi-Fi",
-        "link": "https://www.ozbargain.com.au/node/982763",
-        "price": 29.0,
-        "date": "2026-11-12",
-        "image": "https://files.ozbargain.com.au/n/63/982763l.jpg?h=60f83e00"
       }
     ]
   },
@@ -833,6 +833,13 @@
   "Electricity": {
     "deals": [
       {
+        "title": "[QLD] Sign up for Electricity and Get $300 Credit after 6 Months @ Sumo",
+        "link": "https://www.ozbargain.com.au/node/983052",
+        "price": 300.0,
+        "date": "2026-11-14",
+        "image": "https://files.ozbargain.com.au/n/52/983052l.jpg?h=f6397efd"
+      },
+      {
         "title": "[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy",
         "link": "https://www.ozbargain.com.au/node/982865",
         "price": 0.0,
@@ -928,12 +935,6 @@
         "link": "https://www.ozbargain.com.au/node/976663",
         "price": null,
         "date": "2026-09-28"
-      },
-      {
-        "title": "[NSW, VIC] $200 Credit for Gas and $200 Credit for Electricty on First Bill + Free 1 Year My NRMA Membership @ Engie",
-        "link": "https://www.ozbargain.com.au/node/976508",
-        "price": 200.0,
-        "date": "2026-09-26"
       }
     ]
   },

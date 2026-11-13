@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-13 18:09 (UTC)_
+_Last checked: 2026-11-13 23:35 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-13 18:09 (UTC)_
 
 ### Games
 
+- 2026-11-14 · $6.99 · [[PC, Steam] Sniper Elite 5 $6.99 @ Steam](https://www.ozbargain.com.au/node/983050)
 - 2026-11-13 · $15.88 · [GameSir Nova Lite Wireless Gamepad Purple US$15.88 (~A$23.37) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/983036)
 - 2026-11-13 · $4.49 · [[PC] Metro Exodus Enhanced Edition $4.49 @ GOG](https://www.ozbargain.com.au/node/983027)
 - 2026-11-13 · $668.00 · [Thrustmaster T598, Direct Axial Drive Force Feedback Racing Wheel for PS5, PS4, PC - $668 (RRP $849.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/982978)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-13 18:09 (UTC)_
 - 2026-11-13 · price n/a · [[Switch, Switch 2] Free - Shiny Xerneas for Pokémon Legends: Z-A and Furniture for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/982852)
 - 2026-11-13 · price n/a · [[Android, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/982845)
 - 2026-11-13 · price n/a · [[PC, Android, Epic] Free - Alien: Isolation & Mark of the Deep @ Epic Games](https://www.ozbargain.com.au/node/982844)
-- 2026-11-12 · $49.97 · [[PS5] 007 First Light $49.97 @ PlayStation AU](https://www.ozbargain.com.au/node/982836)
 
 ### Drinks
 
@@ -111,6 +111,7 @@ _Last checked: 2026-11-13 18:09 (UTC)_
 
 ### Electricity
 
+- 2026-11-14 · $300.00 · [[QLD] Sign up for Electricity and Get $300 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/983052)
 - 2026-11-13 · $0.00 · [[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy](https://www.ozbargain.com.au/node/982865)
 - 2026-11-13 · $300.00 · [Switch SME Electricity to Origin Energy and get a $300 Gift Card @ Econnex](https://www.ozbargain.com.au/node/982851)
 - 2026-11-08 · $150.00 · [[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards](https://www.ozbargain.com.au/node/982084)
@@ -120,7 +121,6 @@ _Last checked: 2026-11-13 18:09 (UTC)_
 - 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
 - 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 - 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
-- 2026-10-15 · $225.00 · [Switch to Momentum Energy: Get $225 Resi Elec, $150 Resi Gas, $350 SME Elec & $250 SME Gas in eGift Cards](https://www.ozbargain.com.au/node/979010)
 
 ### Wine fridge
 
