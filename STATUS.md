@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-13 02:55 (UTC)_
+_Last checked: 2026-11-13 10:43 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-13 02:55 (UTC)_
 
 ### SSD
 
+- 2026-11-13 · $1,949.99 · [Apple 2026 MacBook Air 15" M5, 16GB RAM, 512GB SSD $1949.99, AirPods Pro 3 $289.99, iPad Air 11" 2026 $949.99 Delivered @ Costco](https://www.ozbargain.com.au/node/982982)
 - 2026-11-13 · $4,299.00 · [Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs](https://www.ozbargain.com.au/node/982897)
 - 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
 - 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-13 02:55 (UTC)_
 - 2026-11-05 · $279.00 · [[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders](https://www.ozbargain.com.au/node/981711)
 - 2026-11-05 · $153.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 SSD $153 Delivered @ Centrecom](https://www.ozbargain.com.au/node/981694)
 - 2026-11-04 · $569.00 · [KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 SSD $569 + Delivery ($0 NSW C&C) @ Mwave](https://www.ozbargain.com.au/node/981619)
-- 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-13 02:55 (UTC)_
 
 ### Games
 
+- 2026-11-13 · $668.00 · [Thrustmaster T598, Direct Axial Drive Force Feedback Racing Wheel for PS5, PS4, PC - $668 (RRP $849.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/982978)
 - 2026-11-13 · $29.59 · [[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam](https://www.ozbargain.com.au/node/982900)
 - 2026-11-13 · $10.99 · [[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop](https://www.ozbargain.com.au/node/982862)
 - 2026-11-13 · price n/a · [[iOS, iPadOS] Free: Camping With Grandpa (Was A$4.99) @ Apple App Store](https://www.ozbargain.com.au/node/982856)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-13 02:55 (UTC)_
 - 2026-11-12 · $49.97 · [[PS5] 007 First Light $49.97 @ PlayStation AU](https://www.ozbargain.com.au/node/982836)
 - 2026-11-12 · $15.90 · [GameSir X5 Lite USB-C Mobile Gaming Controller Wasabi US$15.90 (~A$23.24) Delivered @ Player Choice Store AliExpress](https://www.ozbargain.com.au/node/982834)
 - 2026-11-12 · price n/a · [[PC, Steam] Free - Catto Pew Pew! OG EDITION @ Steam](https://www.ozbargain.com.au/node/982818)
-- 2026-11-12 · $739.00 · [Nintendo Switch 2 Sports Resort Bundle $739 Delivered / C&C / in-Store @ BIG W ($702.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/982805)
 
 ### Drinks
 

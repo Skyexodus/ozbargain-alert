@@ -309,6 +309,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Apple 2026 MacBook Air 15\" M5, 16GB RAM, 512GB SSD $1949.99, AirPods Pro 3 $289.99, iPad Air 11\" 2026 $949.99 Delivered @ Costco",
+        "link": "https://www.ozbargain.com.au/node/982982",
+        "price": 1949.99,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/82/982982l.jpg?h=21943f59"
+      },
+      {
         "title": "Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs",
         "link": "https://www.ozbargain.com.au/node/982897",
         "price": 4299.0,
@@ -405,13 +412,6 @@
         "price": 2199.0,
         "date": "2026-11-02",
         "image": "https://files.ozbargain.com.au/n/74/981274l.jpg?h=e8e6d61b"
-      },
-      {
-        "title": "Lenovo Yoga Pro 9i Aura Edition (16\", Gen 11) Laptop: Intel Ultra 7 356H, 32GB RAM, 1TB SSD, RTX 5060 $3699 Delivered @ Lenovo",
-        "link": "https://www.ozbargain.com.au/node/981273",
-        "price": 3699.0,
-        "date": "2026-11-02",
-        "image": "https://files.ozbargain.com.au/n/73/981273l.jpg?h=2b8f2d64"
       }
     ]
   },
@@ -527,6 +527,13 @@
   "Games": {
     "deals": [
       {
+        "title": "Thrustmaster T598, Direct Axial Drive Force Feedback Racing Wheel for PS5, PS4, PC - $668 (RRP $849.95) Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/982978",
+        "price": 668.0,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/78/982978l.jpg?h=d60af4b4"
+      },
+      {
         "title": "[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam",
         "link": "https://www.ozbargain.com.au/node/982900",
         "price": 29.59,
@@ -623,13 +630,6 @@
         "price": 58.75,
         "date": "2026-11-12",
         "image": "https://files.ozbargain.com.au/n/80/982680l.jpg?h=03756924"
-      },
-      {
-        "title": "SHiFT Code for All Borderlands Franchise Games - 5 Golden/Skeleton Keys @ Gearbox Software",
-        "link": "https://www.ozbargain.com.au/node/982646",
-        "price": null,
-        "date": "2026-11-12",
-        "image": null
       }
     ]
   },
