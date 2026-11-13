@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-13 10:43 (UTC)_
+_Last checked: 2026-11-13 18:09 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-13 10:43 (UTC)_
 
 ### Games
 
+- 2026-11-13 · $15.88 · [GameSir Nova Lite Wireless Gamepad Purple US$15.88 (~A$23.37) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/983036)
+- 2026-11-13 · $4.49 · [[PC] Metro Exodus Enhanced Edition $4.49 @ GOG](https://www.ozbargain.com.au/node/983027)
 - 2026-11-13 · $668.00 · [Thrustmaster T598, Direct Axial Drive Force Feedback Racing Wheel for PS5, PS4, PC - $668 (RRP $849.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/982978)
 - 2026-11-13 · $29.59 · [[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam](https://www.ozbargain.com.au/node/982900)
 - 2026-11-13 · $10.99 · [[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop](https://www.ozbargain.com.au/node/982862)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-13 10:43 (UTC)_
 - 2026-11-13 · price n/a · [[Android, Epic] Free - Knightica @ Epic Games](https://www.ozbargain.com.au/node/982845)
 - 2026-11-13 · price n/a · [[PC, Android, Epic] Free - Alien: Isolation & Mark of the Deep @ Epic Games](https://www.ozbargain.com.au/node/982844)
 - 2026-11-12 · $49.97 · [[PS5] 007 First Light $49.97 @ PlayStation AU](https://www.ozbargain.com.au/node/982836)
-- 2026-11-12 · $15.90 · [GameSir X5 Lite USB-C Mobile Gaming Controller Wasabi US$15.90 (~A$23.24) Delivered @ Player Choice Store AliExpress](https://www.ozbargain.com.au/node/982834)
-- 2026-11-12 · price n/a · [[PC, Steam] Free - Catto Pew Pew! OG EDITION @ Steam](https://www.ozbargain.com.au/node/982818)
 
 ### Drinks
 
