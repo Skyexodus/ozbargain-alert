@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-12 22:38 (UTC)_
+_Last checked: 2026-11-13 02:55 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-11-12 22:38 (UTC)_
 
 ### SSD
 
+- 2026-11-13 · $4,299.00 · [Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs](https://www.ozbargain.com.au/node/982897)
+- 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
 - 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
 - 2026-11-11 · $275.00 · [Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec](https://www.ozbargain.com.au/node/982500)
 - 2026-11-09 · $96.99 · [CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress](https://www.ozbargain.com.au/node/982275)
@@ -60,8 +62,6 @@ _Last checked: 2026-11-12 22:38 (UTC)_
 - 2026-11-05 · $153.00 · [BIWIN Black Opal NV3500 1TB PCIe 3.0 SSD $153 Delivered @ Centrecom](https://www.ozbargain.com.au/node/981694)
 - 2026-11-04 · $569.00 · [KLEVV CRAS C910G 4TB PCIe 4.0 NVMe M.2 SSD $569 + Delivery ($0 NSW C&C) @ Mwave](https://www.ozbargain.com.au/node/981619)
 - 2026-11-03 · $1,799.00 · [Microsoft Surface Laptop 7 13.8" with Snapdragon X Plus (10-Core), 16GB RAM, 512GB SSD $1799 Delivered / NSW C&C @ JW Computers](https://www.ozbargain.com.au/node/981483)
-- 2026-11-02 · $1,660.00 · [Apple MacBook Air 13" M5 16GB RAM 512GB SSD $1,660 Delivered @ Skytree](https://www.ozbargain.com.au/node/981360)
-- 2026-11-02 · $2,699.00 · [Gaming PC: AMD R5-9600X, Gigabyte RTX 5070 Eagle, B650EM Mobo, 32GB RAM, 1TB SSD, 850W PSU $2699 + Del ($0 NSW C&C) @ UMKLOGIX](https://www.ozbargain.com.au/node/981338)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-12 22:38 (UTC)_
 
 ### Games
 
+- 2026-11-13 · $29.59 · [[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam](https://www.ozbargain.com.au/node/982900)
 - 2026-11-13 · $10.99 · [[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop](https://www.ozbargain.com.au/node/982862)
 - 2026-11-13 · price n/a · [[iOS, iPadOS] Free: Camping With Grandpa (Was A$4.99) @ Apple App Store](https://www.ozbargain.com.au/node/982856)
 - 2026-11-13 · price n/a · [[Switch, Switch 2] Free - Shiny Xerneas for Pokémon Legends: Z-A and Furniture for Pokémon Pokopia via in-Game Mystery Gift](https://www.ozbargain.com.au/node/982852)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-12 22:38 (UTC)_
 - 2026-11-12 · $15.90 · [GameSir X5 Lite USB-C Mobile Gaming Controller Wasabi US$15.90 (~A$23.24) Delivered @ Player Choice Store AliExpress](https://www.ozbargain.com.au/node/982834)
 - 2026-11-12 · price n/a · [[PC, Steam] Free - Catto Pew Pew! OG EDITION @ Steam](https://www.ozbargain.com.au/node/982818)
 - 2026-11-12 · $739.00 · [Nintendo Switch 2 Sports Resort Bundle $739 Delivered / C&C / in-Store @ BIG W ($702.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/982805)
-- 2026-11-12 · $117.20 · [Pokémon Center Set "Mega Symphonia" (Japanese, 2 Booster Boxes + Sleeves + Deck Case) US$117.20 (~A$167) + Delivery @ MintBoon](https://www.ozbargain.com.au/node/982798)
 
 ### Drinks
 

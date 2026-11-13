@@ -309,6 +309,20 @@
   "SSD": {
     "deals": [
       {
+        "title": "Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs",
+        "link": "https://www.ozbargain.com.au/node/982897",
+        "price": 4299.0,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/97/982897l.jpg?h=f4e3feeb"
+      },
+      {
+        "title": "WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan",
+        "link": "https://www.ozbargain.com.au/node/982881",
+        "price": 29.0,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/81/982881l.jpg?h=88533422"
+      },
+      {
         "title": "Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman",
         "link": "https://www.ozbargain.com.au/node/982711",
         "price": 788.0,
@@ -398,20 +412,6 @@
         "price": 3699.0,
         "date": "2026-11-02",
         "image": "https://files.ozbargain.com.au/n/73/981273l.jpg?h=2b8f2d64"
-      },
-      {
-        "title": "HP Omen MAX 16\" OLED Gaming Laptop: Intel Ultra 9 275HX CPU, 32GB RAM, 1TB SSD, RTX 5080 GPU $3999.20 Delivered @ HP eBay",
-        "link": "https://www.ozbargain.com.au/node/981063",
-        "price": 3999.2,
-        "date": "2026-10-31",
-        "image": "https://files.ozbargain.com.au/n/63/981063l.jpg?h=eb640707"
-      },
-      {
-        "title": "Xbox Series X Console 1TB SSD Disc $949 Delivered / C&C / In-Store @ Target",
-        "link": "https://www.ozbargain.com.au/node/980999",
-        "price": 949.0,
-        "date": "2026-10-30",
-        "image": "https://files.ozbargain.com.au/n/99/980999l.jpg?h=92fd91b1"
       }
     ]
   },
@@ -527,6 +527,13 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam",
+        "link": "https://www.ozbargain.com.au/node/982900",
+        "price": 29.59,
+        "date": "2026-11-13",
+        "image": "https://files.ozbargain.com.au/n/00/982900l.jpg?h=56d45301"
+      },
+      {
         "title": "[PC, Steam, Switch] BALL x PIT $10.99 @ Steam & Nintendo eShop",
         "link": "https://www.ozbargain.com.au/node/982862",
         "price": 10.99,
@@ -623,13 +630,6 @@
         "price": null,
         "date": "2026-11-12",
         "image": null
-      },
-      {
-        "title": "MAYFLASH Arcade Stick F101 for Nintendo Switch/PC/PS3/Android/Neogeo Mini $62.99 Delivered @ PassioneCollections AU Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/982629",
-        "price": 62.99,
-        "date": "2026-11-11",
-        "image": "https://files.ozbargain.com.au/n/29/982629l.jpg?h=e9db4d4b"
       }
     ]
   },
