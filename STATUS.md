@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-14 16:53 (UTC)_
+_Last checked: 2026-11-14 21:11 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-14 16:53 (UTC)_
 
 ### Games
 
+- 2026-11-15 · price n/a · [[iOS, Android] Free 10 Max Mushroom @ Pokémon GO](https://www.ozbargain.com.au/node/983190)
 - 2026-11-15 · $792.69 · [[Business] Nintendo Switch 2 Console - Zelda 40th Anniversary Edition $792.69 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983187)
 - 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
 - 2026-11-14 · $114.00 · [[PS5, XSX] Grand Theft Auto VI (Code in Box) $114 (Inner Circle Discount) + Shipping ($0 C&C) @ Big W](https://www.ozbargain.com.au/node/983172)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-14 16:53 (UTC)_
 - 2026-11-14 · price n/a · [[PC, Mac, Steam] Free - The Bazaar @ Steam](https://www.ozbargain.com.au/node/983157)
 - 2026-11-14 · $3.59 · [(PC) Far Cry 3 - Blood Dragon $3.59 @ Ubisoft](https://www.ozbargain.com.au/node/983153)
 - 2026-11-14 · $9.89 · [[PC, Steam] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Humble Bundle](https://www.ozbargain.com.au/node/983140)
-- 2026-11-14 · $6.99 · [[PC, Steam] Sniper Elite 5 $6.99 @ Steam](https://www.ozbargain.com.au/node/983050)
 
 ### Drinks
 
