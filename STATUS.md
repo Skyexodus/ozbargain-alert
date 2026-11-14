@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-14 10:54 (UTC)_
+_Last checked: 2026-11-14 16:53 (UTC)_
 
 ## Specific items
 
@@ -78,19 +78,20 @@ _Last checked: 2026-11-14 10:54 (UTC)_
 
 ### Games
 
+- 2026-11-15 · $792.69 · [[Business] Nintendo Switch 2 Console - Zelda 40th Anniversary Edition $792.69 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983187)
+- 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
+- 2026-11-14 · $114.00 · [[PS5, XSX] Grand Theft Auto VI (Code in Box) $114 (Inner Circle Discount) + Shipping ($0 C&C) @ Big W](https://www.ozbargain.com.au/node/983172)
+- 2026-11-14 · $8.00 · [Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition Upgrade Pack $8@JB HiFi](https://www.ozbargain.com.au/node/983168)
 - 2026-11-14 · $89.00 · [[Switch 2] The Legend of Zelda: Ocarina of Time $89 + Delivery Only ($0 to Metro/ $99 Regional Order) @ Big W](https://www.ozbargain.com.au/node/983159)
 - 2026-11-14 · $119.00 · [[Kogan First] GTA VI PreOrder $119 - Free Shipping - PS5 and Xbox](https://www.ozbargain.com.au/node/983158)
 - 2026-11-14 · price n/a · [[PC, Mac, Steam] Free - The Bazaar @ Steam](https://www.ozbargain.com.au/node/983157)
 - 2026-11-14 · $3.59 · [(PC) Far Cry 3 - Blood Dragon $3.59 @ Ubisoft](https://www.ozbargain.com.au/node/983153)
 - 2026-11-14 · $9.89 · [[PC, Steam] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Humble Bundle](https://www.ozbargain.com.au/node/983140)
 - 2026-11-14 · $6.99 · [[PC, Steam] Sniper Elite 5 $6.99 @ Steam](https://www.ozbargain.com.au/node/983050)
-- 2026-11-13 · $15.88 · [GameSir Nova Lite Wireless Gamepad Purple US$15.88 (~A$23.37) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/983036)
-- 2026-11-13 · $4.49 · [[PC] Metro Exodus Enhanced Edition $4.49 @ GOG](https://www.ozbargain.com.au/node/983027)
-- 2026-11-13 · $668.00 · [Thrustmaster T598, Direct Axial Drive Force Feedback Racing Wheel for PS5, PS4, PC - $668 (RRP $849.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/982978)
-- 2026-11-13 · $29.59 · [[PC, Steam] Slay The Spire 2 $29.59 ($26.63 if You Own Slay The Spire) @ Steam](https://www.ozbargain.com.au/node/982900)
 
 ### Drinks
 
+- 2026-11-14 · $4.00 · [[VIC] 2x Cheeseburgers, Small Drink & Chips for $4 @ McDonald's Ringwood/Croydon/Kilsyth/Bayswater/Boronia/Wantirna/Mooroolbark](https://www.ozbargain.com.au/node/983173)
 - 2026-11-10 · $26.00 · [Pepsi Max, Sunkist, Solo, Schweppes Lemonade 30x 375ml Cans $26 ($24.70 Sub & Save) + Del ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982421)
 - 2026-11-09 · $2.60 · [½ Price: Heinz Ketchup or Barbeque Sauce 500mL $2.60, Sirena Tuna & Beans 170g $2.35 @ Coles + 215 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/982256)
 - 2026-11-09 · $9.93 · [Sorbent Toilet Paper 45pk $9.93, Schweppes Cans 30pk $17.25 + Delivery ($0 with $40 & Uber One) + Service Fee @ Coles Uber Eats](https://www.ozbargain.com.au/node/982199)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-14 10:54 (UTC)_
 - 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 - 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
-- 2026-11-03 · $8.95 · [[VIC, NSW] Big Carl Combo $8.95, Free Drink/Coffee w/Purchase @ Carl’s Jr (Elizabeth St, Kelso, Melton, Campbellfield, Tarneit)](https://www.ozbargain.com.au/node/981458)
 
 ### Students
 
