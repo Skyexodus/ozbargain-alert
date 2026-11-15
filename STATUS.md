@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-15 15:03 (UTC)_
+_Last checked: 2026-11-15 20:22 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-15 15:03 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-16 · $69.00 · [nbn FFTP/HFC: 500/50 $69/M, 1000/100 $99/M for 6 Months (New & Existing Upgrading Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/983280)
 - 2026-11-12 · $99.00 · [nbn FTTP or HFC 1000/100 $99/Month Ongoing (New Customers) @ Superloop](https://www.ozbargain.com.au/node/982829)
 - 2026-11-10 · $250.00 · [Join Optus nbn, Stay Connected for a Minimum of 90 Days & Get $250 Cashback (Includes BYO Plans, New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/982343)
 - 2026-11-06 · $100.00 · [Switch to an Eligible TPG nbn Plan, Stay until Feb 26 & Get a $100 Digital Visa Card @ Finder](https://www.ozbargain.com.au/node/981934)
@@ -74,10 +75,11 @@ _Last checked: 2026-11-15 15:03 (UTC)_
 - 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
 - 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
 - 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
-- 2026-10-27 · $87.00 · [Business nbn: 250/100 Bronze $87/M, 500/200 Gold $103/M, 1000/400 Gold $125/M (New & Existing Customers) & More @ Carbon Comms](https://www.ozbargain.com.au/node/980497)
 
 ### Games
 
+- 2026-11-16 · $35.98 · [[PC, Steam] Kingdom Come: Deliverance II $35.98 (Was $89.95) @ Humble Bundle](https://www.ozbargain.com.au/node/983281)
+- 2026-11-16 · $79.00 · [PlayStation 5 DualSense Controllers $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983279)
 - 2026-11-16 · $79.00 · [PS5 DualSense Controllers $79 + Postage @ JB Hi Fi](https://www.ozbargain.com.au/node/983271)
 - 2026-11-15 · $49.00 · [Final Fantasy Tactice Ivalice Chronicles [PS5] [Switch] $49.00 @JB Hi Fi, Elden Ring Nightreign [PS5] $19.00, Suikoden [PS5] $40](https://www.ozbargain.com.au/node/983263)
 - 2026-11-15 · $244.58 · [JBL Quantum 910P Console Wireless + GTA VI - $244.58 for both](https://www.ozbargain.com.au/node/983224)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-15 15:03 (UTC)_
 - 2026-11-15 · price n/a · [[iOS, Android] Free 10 Max Mushroom @ Pokémon GO](https://www.ozbargain.com.au/node/983190)
 - 2026-11-15 · $792.69 · [[Business] Nintendo Switch 2 Console - Zelda 40th Anniversary Edition $792.69 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983187)
 - 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
-- 2026-11-14 · $114.00 · [[PS5, XSX] Grand Theft Auto VI (Code in Box) $114 (Inner Circle Discount) + Shipping ($0 C&C) @ Big W](https://www.ozbargain.com.au/node/983172)
-- 2026-11-14 · $8.00 · [Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition Upgrade Pack $8@JB HiFi](https://www.ozbargain.com.au/node/983168)
 
 ### Drinks
 

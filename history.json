@@ -418,6 +418,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn FFTP/HFC: 500/50 $69/M, 1000/100 $99/M for 6 Months (New & Existing Upgrading Customers) @ Aussie Broadband",
+        "link": "https://www.ozbargain.com.au/node/983280",
+        "price": 69.0,
+        "date": "2026-11-16",
+        "image": "https://files.ozbargain.com.au/n/80/983280l.jpg?h=6528acc3"
+      },
+      {
         "title": "nbn FTTP or HFC 1000/100 $99/Month Ongoing (New Customers) @ Superloop",
         "link": "https://www.ozbargain.com.au/node/982829",
         "price": 99.0,
@@ -514,18 +521,25 @@
         "price": 81.99,
         "date": "2026-10-21",
         "image": "https://files.ozbargain.com.au/n/10/979810l.jpg?h=27797bb4"
-      },
-      {
-        "title": "nbn FTTP or HFC 1000/100 $100/M Carbon Network & Static IPv4, $103/M ABB Direct Network (New/Existing Customers) @ Carbon Comms",
-        "link": "https://www.ozbargain.com.au/node/979663",
-        "price": 100.0,
-        "date": "2026-10-20",
-        "image": null
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PC, Steam] Kingdom Come: Deliverance II $35.98 (Was $89.95) @ Humble Bundle",
+        "link": "https://www.ozbargain.com.au/node/983281",
+        "price": 35.98,
+        "date": "2026-11-16",
+        "image": "https://files.ozbargain.com.au/n/81/983281l.jpg?h=2ed980c9"
+      },
+      {
+        "title": "PlayStation 5 DualSense Controllers $79 Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/983279",
+        "price": 79.0,
+        "date": "2026-11-16",
+        "image": "https://files.ozbargain.com.au/n/79/983279l.jpg?h=a878431f"
+      },
       {
         "title": "PS5 DualSense Controllers $79 + Postage @ JB Hi Fi",
         "link": "https://www.ozbargain.com.au/node/983271",
@@ -616,20 +630,6 @@
         "price": null,
         "date": "2026-11-14",
         "image": "https://files.ozbargain.com.au/n/57/983157l.jpg?h=b160c5ca"
-      },
-      {
-        "title": "(PC) Far Cry 3 - Blood Dragon $3.59 @ Ubisoft",
-        "link": "https://www.ozbargain.com.au/node/983153",
-        "price": 3.59,
-        "date": "2026-11-14",
-        "image": "https://files.ozbargain.com.au/n/53/983153l.jpg?h=739a681a"
-      },
-      {
-        "title": "[PC, Steam] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Humble Bundle",
-        "link": "https://www.ozbargain.com.au/node/983140",
-        "price": 9.89,
-        "date": "2026-11-14",
-        "image": "https://files.ozbargain.com.au/n/40/983140l.jpg?h=2ed980c9"
       }
     ]
   },
