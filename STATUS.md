@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-14 21:11 (UTC)_
+_Last checked: 2026-11-15 01:06 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-14 21:11 (UTC)_
 
 ### Games
 
+- 2026-11-15 · $244.58 · [JBL Quantum 910P Console Wireless + GTA VI - $244.58 for both](https://www.ozbargain.com.au/node/983224)
+- 2026-11-15 · $5.99 · [(PC) Tom Clancy's Splinter Cell: Blacklist $5.99 @ Ubisoft](https://www.ozbargain.com.au/node/983218)
+- 2026-11-15 · $4.29 · [[PC] Call of Juarez: Gunslinger $4.29 @ GOG](https://www.ozbargain.com.au/node/983217)
 - 2026-11-15 · price n/a · [[iOS, Android] Free 10 Max Mushroom @ Pokémon GO](https://www.ozbargain.com.au/node/983190)
 - 2026-11-15 · $792.69 · [[Business] Nintendo Switch 2 Console - Zelda 40th Anniversary Edition $792.69 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983187)
 - 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-14 21:11 (UTC)_
 - 2026-11-14 · $8.00 · [Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition Upgrade Pack $8@JB HiFi](https://www.ozbargain.com.au/node/983168)
 - 2026-11-14 · $89.00 · [[Switch 2] The Legend of Zelda: Ocarina of Time $89 + Delivery Only ($0 to Metro/ $99 Regional Order) @ Big W](https://www.ozbargain.com.au/node/983159)
 - 2026-11-14 · $119.00 · [[Kogan First] GTA VI PreOrder $119 - Free Shipping - PS5 and Xbox](https://www.ozbargain.com.au/node/983158)
-- 2026-11-14 · price n/a · [[PC, Mac, Steam] Free - The Bazaar @ Steam](https://www.ozbargain.com.au/node/983157)
-- 2026-11-14 · $3.59 · [(PC) Far Cry 3 - Blood Dragon $3.59 @ Ubisoft](https://www.ozbargain.com.au/node/983153)
-- 2026-11-14 · $9.89 · [[PC, Steam] Final Fantasy VII Remake Intergrade $9.89, Final Fantasy VII Rebirth $11.24 @ Humble Bundle](https://www.ozbargain.com.au/node/983140)
 
 ### Drinks
 
