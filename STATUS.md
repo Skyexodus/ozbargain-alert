@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-15 07:49 (UTC)_
+_Last checked: 2026-11-15 15:03 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-15 07:49 (UTC)_
 
 ### Games
 
+- 2026-11-16 · $79.00 · [PS5 DualSense Controllers $79 + Postage @ JB Hi Fi](https://www.ozbargain.com.au/node/983271)
+- 2026-11-15 · $49.00 · [Final Fantasy Tactice Ivalice Chronicles [PS5] [Switch] $49.00 @JB Hi Fi, Elden Ring Nightreign [PS5] $19.00, Suikoden [PS5] $40](https://www.ozbargain.com.au/node/983263)
 - 2026-11-15 · $244.58 · [JBL Quantum 910P Console Wireless + GTA VI - $244.58 for both](https://www.ozbargain.com.au/node/983224)
 - 2026-11-15 · $5.99 · [(PC) Tom Clancy's Splinter Cell: Blacklist $5.99 @ Ubisoft](https://www.ozbargain.com.au/node/983218)
 - 2026-11-15 · $4.29 · [[PC] Call of Juarez: Gunslinger $4.29 @ GOG](https://www.ozbargain.com.au/node/983217)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-15 07:49 (UTC)_
 - 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
 - 2026-11-14 · $114.00 · [[PS5, XSX] Grand Theft Auto VI (Code in Box) $114 (Inner Circle Discount) + Shipping ($0 C&C) @ Big W](https://www.ozbargain.com.au/node/983172)
 - 2026-11-14 · $8.00 · [Xenoblade Chronicles: Definitive Edition – Nintendo Switch 2 Edition Upgrade Pack $8@JB HiFi](https://www.ozbargain.com.au/node/983168)
-- 2026-11-14 · $89.00 · [[Switch 2] The Legend of Zelda: Ocarina of Time $89 + Delivery Only ($0 to Metro/ $99 Regional Order) @ Big W](https://www.ozbargain.com.au/node/983159)
-- 2026-11-14 · $119.00 · [[Kogan First] GTA VI PreOrder $119 - Free Shipping - PS5 and Xbox](https://www.ozbargain.com.au/node/983158)
 
 ### Drinks
 
