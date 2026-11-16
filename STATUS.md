@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-16 00:12 (UTC)_
+_Last checked: 2026-11-16 06:47 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,9 @@ _Last checked: 2026-11-16 00:12 (UTC)_
 
 ### SSD
 
+- 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
+- 2026-11-16 · $1,499.00 · [HP OmniBook 7 Aero Laptop: 13.3" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983393)
+- 2026-11-16 · $2,999.00 · [HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983392)
 - 2026-11-14 · $3,531.00 · [Apple MacBook Pro 14-Inch: M6 Chip with 12‑Core CPU and 12‑Core GPU, 32GB, 1TB SSD - Silver $3531 ($3354 OW PB) + Delivery](https://www.ozbargain.com.au/node/983131)
 - 2026-11-14 · $458.14 · [Firebat F1 Mini PC AMD Ryzen 5 7640hs 24GB RAM 512GB SSD US$458.14 (~A$679.02) Delivered @ Firebat Factory Store AliExpress](https://www.ozbargain.com.au/node/983130)
 - 2026-11-13 · $1,949.99 · [Apple 2026 MacBook Air 15" M5, 16GB RAM, 512GB SSD $1949.99, AirPods Pro 3 $289.99, iPad Air 11" 2026 $949.99 Delivered @ Costco](https://www.ozbargain.com.au/node/982982)
@@ -59,12 +62,11 @@ _Last checked: 2026-11-16 00:12 (UTC)_
 - 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
 - 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
 - 2026-11-11 · $275.00 · [Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec](https://www.ozbargain.com.au/node/982500)
-- 2026-11-09 · $96.99 · [CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress](https://www.ozbargain.com.au/node/982275)
-- 2026-11-06 · $1,998.00 · [Acer Helios Neo 16S Gaming Laptop (356H, 32GB RAM, 1TB SSD, RTX 5060) $1998 + Delivery ($0 to Metro/ C&C) @ Harvey Norman](https://www.ozbargain.com.au/node/981861)
-- 2026-11-05 · $279.00 · [[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders](https://www.ozbargain.com.au/node/981711)
 
 ### NBN (home)
 
+- 2026-11-16 · $45.99 · [nbn 25/10 $45.99/M for 6 Months, 750/50 $80/M or 1000/100 $90/M for 12-Months, Eero 7 $0 After 18-Months (New Customer) @ Arctel](https://www.ozbargain.com.au/node/983398)
+- 2026-11-16 · $60.99 · [nbn FTTP/HFC 500/50 $60.99/Month for 6 Months ($92.99 Ongoing) + $100 Visa Gift Card (New Customers) @ Dodo via Finder](https://www.ozbargain.com.au/node/983386)
 - 2026-11-16 · $69.00 · [nbn FFTP/HFC: 500/50 $69/M, 1000/100 $99/M for 6 Months (New & Existing Upgrading Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/983280)
 - 2026-11-12 · $99.00 · [nbn FTTP or HFC 1000/100 $99/Month Ongoing (New Customers) @ Superloop](https://www.ozbargain.com.au/node/982829)
 - 2026-11-10 · $250.00 · [Join Optus nbn, Stay Connected for a Minimum of 90 Days & Get $250 Cashback (Includes BYO Plans, New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/982343)
@@ -73,24 +75,23 @@ _Last checked: 2026-11-16 00:12 (UTC)_
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
 - 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
 - 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
-- 2026-10-29 · $59.99 · [nbn 500/50 $59.99/M for 6-Months Then $77.99/M for 18-Months, eero 7 Router $0 if You Stay for 24-Months + $10 Delivery @ Arctel](https://www.ozbargain.com.au/node/980875)
-- 2026-10-28 · $300.00 · [Optus: $300 Cashback for 5G Home Internet, $250 Cashback for nbn Home Internet (New Optus Customers) @ ShopBack](https://www.ozbargain.com.au/node/980618)
 
 ### Games
 
+- 2026-11-16 · $99.00 · [[PS5] Select Games 2 for $99 (Ghost of Yotei, Astro Bot, Gran Turismo 7, TLOU Part 1 & More) + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/983417)
+- 2026-11-16 · $719.00 · [Nintendo Switch 2 Sports Resort Bundle $719 Delivered / C&C / in-Store @ BIG W ($683.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/983410)
+- 2026-11-16 · $57.91 · [[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983381)
+- 2026-11-16 · $37.31 · [[PS5] Lies of P $37.31 (RRP $59.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983371)
 - 2026-11-16 · $499.00 · [PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)](https://www.ozbargain.com.au/node/983311)
 - 2026-11-16 · $55.00 · [[Switch 2] Metroid Prime 4: Beyond $55 + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983307)
 - 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35 (Sold Out), Ghost of Yotei $59 (Sold Out), Death Stranding 2 $57 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983305)
 - 2026-11-16 · $74.00 · [PlayStation 5 DualSense Wireless Controllers $74 (Price Check Button) + Delivery ($0 C&C) @ The Good Guys](https://www.ozbargain.com.au/node/983302)
 - 2026-11-16 · $49.00 · [[Switch 2] Granblue Fantasy: Relink - Endless Ragnarok $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/983297)
 - 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35, Astro Bot $59 & More + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983291)
-- 2026-11-16 · $39.00 · [[PS5] Saros $39 + Delivery ($0 OnePass/C&C/in Store) @ Target / JB Hi-FI (C&C)](https://www.ozbargain.com.au/node/983285)
-- 2026-11-16 · $35.98 · [[PC, Steam] Kingdom Come: Deliverance II $35.98 (Was $89.95) @ Humble Bundle](https://www.ozbargain.com.au/node/983281)
-- 2026-11-16 · $79.00 · [PlayStation 5 DualSense Controllers $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983279)
-- 2026-11-16 · $79.00 · [PS5 DualSense Controllers $79 + Postage @ JB Hi Fi](https://www.ozbargain.com.au/node/983271)
 
 ### Drinks
 
+- 2026-11-16 · $2.85 · [½ Price: Philadelphia Cream Cheese Block 250g $2.85 @ Coles + 239 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/983415)
 - 2026-11-14 · $4.00 · [[VIC] 2x Cheeseburgers, Small Drink & Chips for $4 @ McDonald's Ringwood/Croydon/Kilsyth/Bayswater/Boronia/Wantirna/Mooroolbark](https://www.ozbargain.com.au/node/983173)
 - 2026-11-10 · $26.00 · [Pepsi Max, Sunkist, Solo, Schweppes Lemonade 30x 375ml Cans $26 ($24.70 Sub & Save) + Del ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982421)
 - 2026-11-09 · $2.60 · [½ Price: Heinz Ketchup or Barbeque Sauce 500mL $2.60, Sirena Tuna & Beans 170g $2.35 @ Coles + 215 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/982256)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-16 00:12 (UTC)_
 - 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
 - 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 - 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
-- 2026-11-03 · $7.35 · [1/2 Price Suntory Boss Iced Coffee Varieties 237ml 4-Pack $7.35 @ Coles](https://www.ozbargain.com.au/node/981496)
 
 ### Students
 
