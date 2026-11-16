@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-15 20:22 (UTC)_
+_Last checked: 2026-11-16 00:12 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-15 20:22 (UTC)_
 
 ### Games
 
+- 2026-11-16 · $499.00 · [PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)](https://www.ozbargain.com.au/node/983311)
+- 2026-11-16 · $55.00 · [[Switch 2] Metroid Prime 4: Beyond $55 + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983307)
+- 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35 (Sold Out), Ghost of Yotei $59 (Sold Out), Death Stranding 2 $57 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983305)
+- 2026-11-16 · $74.00 · [PlayStation 5 DualSense Wireless Controllers $74 (Price Check Button) + Delivery ($0 C&C) @ The Good Guys](https://www.ozbargain.com.au/node/983302)
+- 2026-11-16 · $49.00 · [[Switch 2] Granblue Fantasy: Relink - Endless Ragnarok $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/983297)
+- 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35, Astro Bot $59 & More + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983291)
+- 2026-11-16 · $39.00 · [[PS5] Saros $39 + Delivery ($0 OnePass/C&C/in Store) @ Target / JB Hi-FI (C&C)](https://www.ozbargain.com.au/node/983285)
 - 2026-11-16 · $35.98 · [[PC, Steam] Kingdom Come: Deliverance II $35.98 (Was $89.95) @ Humble Bundle](https://www.ozbargain.com.au/node/983281)
 - 2026-11-16 · $79.00 · [PlayStation 5 DualSense Controllers $79 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983279)
 - 2026-11-16 · $79.00 · [PS5 DualSense Controllers $79 + Postage @ JB Hi Fi](https://www.ozbargain.com.au/node/983271)
-- 2026-11-15 · $49.00 · [Final Fantasy Tactice Ivalice Chronicles [PS5] [Switch] $49.00 @JB Hi Fi, Elden Ring Nightreign [PS5] $19.00, Suikoden [PS5] $40](https://www.ozbargain.com.au/node/983263)
-- 2026-11-15 · $244.58 · [JBL Quantum 910P Console Wireless + GTA VI - $244.58 for both](https://www.ozbargain.com.au/node/983224)
-- 2026-11-15 · $5.99 · [(PC) Tom Clancy's Splinter Cell: Blacklist $5.99 @ Ubisoft](https://www.ozbargain.com.au/node/983218)
-- 2026-11-15 · $4.29 · [[PC] Call of Juarez: Gunslinger $4.29 @ GOG](https://www.ozbargain.com.au/node/983217)
-- 2026-11-15 · price n/a · [[iOS, Android] Free 10 Max Mushroom @ Pokémon GO](https://www.ozbargain.com.au/node/983190)
-- 2026-11-15 · $792.69 · [[Business] Nintendo Switch 2 Console - Zelda 40th Anniversary Edition $792.69 + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983187)
-- 2026-11-15 · $120.41 · [[PS5] Grand Theft Auto VI $120.41 Delivered @ EB Games eBay](https://www.ozbargain.com.au/node/983183)
 
 ### Drinks
 
@@ -111,6 +111,7 @@ _Last checked: 2026-11-15 20:22 (UTC)_
 
 ### Electricity
 
+- 2026-11-16 · $4,284.00 · [[VIC, NSW] GreenVolt Pro 24.5kWh Home Battery Installed from $4,284 + Free 8kW Inverter Upgrade @ Green ESS](https://www.ozbargain.com.au/node/983321)
 - 2026-11-14 · $300.00 · [[QLD] Sign up for Electricity and Get $300 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/983052)
 - 2026-11-13 · $0.00 · [[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy](https://www.ozbargain.com.au/node/982865)
 - 2026-11-13 · $300.00 · [Switch SME Electricity to Origin Energy and get a $300 Gift Card @ Econnex](https://www.ozbargain.com.au/node/982851)
@@ -120,7 +121,6 @@ _Last checked: 2026-11-15 20:22 (UTC)_
 - 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
 - 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
 - 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
-- 2026-10-20 · $100.00 · [Up to $200 in Visa eGift Cards on Eligible Online Energy Switches ($100 Electricity + $100 Gas) @ Switchify](https://www.ozbargain.com.au/node/979680)
 
 ### Wine fridge
 
