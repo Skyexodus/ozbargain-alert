@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-16 06:47 (UTC)_
+_Last checked: 2026-11-16 16:30 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-16 06:47 (UTC)_
 
 ### Games
 
+- 2026-11-17 · price n/a · [[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO](https://www.ozbargain.com.au/node/983508)
+- 2026-11-17 · $46.75 · [[Switch 2] Metroid Prime 4: Beyond $46.75 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983503)
+- 2026-11-17 · $99.95 · [Riffmaster Wireless Guitar Controller for Xbox Series, Xbox One & PC $99.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983500)
+- 2026-11-17 · $12.10 · [8BitDo Ultimate 2C Bluetooth Controller for Switch/Switch 2 - Blue $12.10 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983477)
 - 2026-11-16 · $99.00 · [[PS5] Select Games 2 for $99 (Ghost of Yotei, Astro Bot, Gran Turismo 7, TLOU Part 1 & More) + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/983417)
 - 2026-11-16 · $719.00 · [Nintendo Switch 2 Sports Resort Bundle $719 Delivered / C&C / in-Store @ BIG W ($683.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/983410)
 - 2026-11-16 · $57.91 · [[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983381)
 - 2026-11-16 · $37.31 · [[PS5] Lies of P $37.31 (RRP $59.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983371)
 - 2026-11-16 · $499.00 · [PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)](https://www.ozbargain.com.au/node/983311)
 - 2026-11-16 · $55.00 · [[Switch 2] Metroid Prime 4: Beyond $55 + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983307)
-- 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35 (Sold Out), Ghost of Yotei $59 (Sold Out), Death Stranding 2 $57 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983305)
-- 2026-11-16 · $74.00 · [PlayStation 5 DualSense Wireless Controllers $74 (Price Check Button) + Delivery ($0 C&C) @ The Good Guys](https://www.ozbargain.com.au/node/983302)
-- 2026-11-16 · $49.00 · [[Switch 2] Granblue Fantasy: Relink - Endless Ragnarok $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/983297)
-- 2026-11-16 · $35.00 · [[PS5] Marvel Tokon: Fighting Souls $35, Astro Bot $59 & More + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983291)
 
 ### Drinks
 
