@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-17 08:24 (UTC)_
+_Last checked: 2026-11-17 17:47 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-17 08:24 (UTC)_
 
 ### SSD
 
+- 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
 - 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
 - 2026-11-16 · $1,499.00 · [HP OmniBook 7 Aero Laptop: 13.3" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983393)
 - 2026-11-16 · $2,999.00 · [HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983392)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-17 08:24 (UTC)_
 - 2026-11-13 · $4,299.00 · [Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs](https://www.ozbargain.com.au/node/982897)
 - 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
 - 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
-- 2026-11-11 · $275.00 · [Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec](https://www.ozbargain.com.au/node/982500)
 
 ### NBN (home)
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-17 08:24 (UTC)_
 
 ### Games
 
+- 2026-11-18 · $48.11 · [[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU](https://www.ozbargain.com.au/node/983795)
 - 2026-11-17 · price n/a · [SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software](https://www.ozbargain.com.au/node/983720)
 - 2026-11-17 · $37.00 · [[PC Steam] Humble Survival Bundle: Lotr: Return to Moria, Palworld, Subnautica below Zero, V Rising + More $37 @ Humble Bundle](https://www.ozbargain.com.au/node/983715)
 - 2026-11-17 · $37.79 · [[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded](https://www.ozbargain.com.au/node/983578)
@@ -87,10 +88,10 @@ _Last checked: 2026-11-17 08:24 (UTC)_
 - 2026-11-17 · $12.10 · [8BitDo Ultimate 2C Bluetooth Controller for Switch/Switch 2 - Blue $12.10 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983477)
 - 2026-11-16 · $99.00 · [[PS5] Select Games 2 for $99 (Ghost of Yotei, Astro Bot, Gran Turismo 7, TLOU Part 1 & More) + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/983417)
 - 2026-11-16 · $719.00 · [Nintendo Switch 2 Sports Resort Bundle $719 Delivered / C&C / in-Store @ BIG W ($683.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/983410)
-- 2026-11-16 · $57.91 · [[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983381)
 
 ### Drinks
 
+- 2026-11-17 · $57.50 · [Monster Energy Drink Juice Bad Apple 24x 500ml $57.50 ($54.62 Sub & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983762)
 - 2026-11-16 · $2.85 · [½ Price: Philadelphia Cream Cheese Block 250g $2.85 @ Coles + 239 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/983415)
 - 2026-11-14 · $4.00 · [[VIC] 2x Cheeseburgers, Small Drink & Chips for $4 @ McDonald's Ringwood/Croydon/Kilsyth/Bayswater/Boronia/Wantirna/Mooroolbark](https://www.ozbargain.com.au/node/983173)
 - 2026-11-10 · $26.00 · [Pepsi Max, Sunkist, Solo, Schweppes Lemonade 30x 375ml Cans $26 ($24.70 Sub & Save) + Del ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/982421)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-17 08:24 (UTC)_
 - 2026-11-06 · $1.00 · [Store Brand 1.25L Soft Drinks $1 (Was $1.15) @ Coles & Woolworths](https://www.ozbargain.com.au/node/981827)
 - 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
 - 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
-- 2026-11-04 · $10.00 · [$10 Hungry Jacks Whopper Medium Value Meal (RRP $17.75), $10 Pizza Hut Large Pizza @ Uber Eats](https://www.ozbargain.com.au/node/981615)
 
 ### Students
 
