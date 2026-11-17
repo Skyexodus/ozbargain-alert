@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-16 16:30 (UTC)_
+_Last checked: 2026-11-17 00:28 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-11-16 16:30 (UTC)_
 
 ### NAS
 
+- 2026-11-17 · $399.98 · [TerraMaster F2-425 2-Bay NAS Intel X86 QuadCore CPU, 4GB RAM, $399.98 (RRP $499.99) Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/983572)
 - 2026-10-25 · $1,360.00 · [Synology DiskStation DS1525neo+ 5-Bay NAS $1,360 Delivered (Metro) with Code @ Atomic Networks](https://www.ozbargain.com.au/node/980320)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
@@ -35,7 +36,6 @@ _Last checked: 2026-11-16 16:30 (UTC)_
 - 2026-09-30 · $547.49 · [[Prime] TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $547.49 ($527.49 with Zip) Shipped @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/977155)
 - 2026-09-29 · $1,019.99 · [[Prime] UGREEN DXP4800 Pro 4-Bay NAS $1,019.99 Delivered @ UGREEN GROUP LIMITED AU Amazon AU](https://www.ozbargain.com.au/node/976805)
 - 2026-09-01 · $587.99 · [Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/973482)
-- 2026-09-01 · $599.00 · [Asustor Flashtor 6 FS6706T, 6 Bay SSD NAS Storage $599 + Delivery ($0 C&C/ in-Store) @ PLE, Umart, Centre Com](https://www.ozbargain.com.au/node/973533)
 
 ### HDD
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-16 16:30 (UTC)_
 
 ### Games
 
+- 2026-11-17 · $37.79 · [[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded](https://www.ozbargain.com.au/node/983578)
 - 2026-11-17 · price n/a · [[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO](https://www.ozbargain.com.au/node/983508)
 - 2026-11-17 · $46.75 · [[Switch 2] Metroid Prime 4: Beyond $46.75 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983503)
 - 2026-11-17 · $99.95 · [Riffmaster Wireless Guitar Controller for Xbox Series, Xbox One & PC $99.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983500)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-16 16:30 (UTC)_
 - 2026-11-16 · $57.91 · [[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983381)
 - 2026-11-16 · $37.31 · [[PS5] Lies of P $37.31 (RRP $59.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983371)
 - 2026-11-16 · $499.00 · [PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)](https://www.ozbargain.com.au/node/983311)
-- 2026-11-16 · $55.00 · [[Switch 2] Metroid Prime 4: Beyond $55 + Delivery ($0 OnePass/C&C/in Store) @ Target](https://www.ozbargain.com.au/node/983307)
 
 ### Drinks
 

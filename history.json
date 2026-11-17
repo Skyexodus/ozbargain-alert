@@ -104,6 +104,13 @@
   "NAS": {
     "deals": [
       {
+        "title": "TerraMaster F2-425 2-Bay NAS Intel X86 QuadCore CPU, 4GB RAM, $399.98 (RRP $499.99) Delivered @ TerraMaster Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/983572",
+        "price": 399.98,
+        "date": "2026-11-17",
+        "image": "https://files.ozbargain.com.au/n/72/983572l.jpg?h=f6dbb41d"
+      },
+      {
         "title": "Synology DiskStation DS1525neo+ 5-Bay NAS $1,360 Delivered (Metro) with Code @ Atomic Networks",
         "link": "https://www.ozbargain.com.au/node/980320",
         "price": 1360.0,
@@ -191,12 +198,6 @@
         "link": "https://www.ozbargain.com.au/node/971283",
         "price": 847.99,
         "date": "2026-08-13"
-      },
-      {
-        "title": "Terramaster F4 4 Bay SSD NAS Storage $671.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/971068",
-        "price": 671.99,
-        "date": "2026-08-12"
       }
     ]
   },
@@ -527,6 +528,13 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded",
+        "link": "https://www.ozbargain.com.au/node/983578",
+        "price": 37.79,
+        "date": "2026-11-17",
+        "image": "https://files.ozbargain.com.au/n/78/983578l.jpg?h=91df781d"
+      },
+      {
         "title": "[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO",
         "link": "https://www.ozbargain.com.au/node/983508",
         "price": null,
@@ -623,13 +631,6 @@
         "price": 35.0,
         "date": "2026-11-16",
         "image": "https://files.ozbargain.com.au/n/91/983291l.jpg?h=3b28f727"
-      },
-      {
-        "title": "[PS5] Saros $39 + Delivery ($0 OnePass/C&C/in Store) @ Target / JB Hi-FI (C&C)",
-        "link": "https://www.ozbargain.com.au/node/983285",
-        "price": 39.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/85/983285l.jpg?h=5ed5f935"
       }
     ]
   },
