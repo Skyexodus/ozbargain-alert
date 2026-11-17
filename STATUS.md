@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-17 00:28 (UTC)_
+_Last checked: 2026-11-17 08:24 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-17 00:28 (UTC)_
 
 ### Games
 
+- 2026-11-17 · price n/a · [SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software](https://www.ozbargain.com.au/node/983720)
+- 2026-11-17 · $37.00 · [[PC Steam] Humble Survival Bundle: Lotr: Return to Moria, Palworld, Subnautica below Zero, V Rising + More $37 @ Humble Bundle](https://www.ozbargain.com.au/node/983715)
 - 2026-11-17 · $37.79 · [[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded](https://www.ozbargain.com.au/node/983578)
 - 2026-11-17 · price n/a · [[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO](https://www.ozbargain.com.au/node/983508)
 - 2026-11-17 · $46.75 · [[Switch 2] Metroid Prime 4: Beyond $46.75 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983503)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-17 00:28 (UTC)_
 - 2026-11-16 · $99.00 · [[PS5] Select Games 2 for $99 (Ghost of Yotei, Astro Bot, Gran Turismo 7, TLOU Part 1 & More) + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/983417)
 - 2026-11-16 · $719.00 · [Nintendo Switch 2 Sports Resort Bundle $719 Delivered / C&C / in-Store @ BIG W ($683.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/983410)
 - 2026-11-16 · $57.91 · [[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983381)
-- 2026-11-16 · $37.31 · [[PS5] Lies of P $37.31 (RRP $59.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU](https://www.ozbargain.com.au/node/983371)
-- 2026-11-16 · $499.00 · [PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)](https://www.ozbargain.com.au/node/983311)
 
 ### Drinks
 
