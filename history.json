@@ -419,6 +419,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "nbn FTTP or HFC 500/50 $69/month for 6 Months  (New Customers, $99/Month Ongoing) @ Superloop",
+        "link": "https://www.ozbargain.com.au/node/983857",
+        "price": 69.0,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/57/983857l.jpg?h=3d8203c4"
+      },
+      {
         "title": "nbn 25/10 $45.99/M for 6 Months, 750/50 $80/M or 1000/100 $90/M for 12-Months, Eero 7 $0 After 18-Months (New Customer) @ Arctel",
         "link": "https://www.ozbargain.com.au/node/983398",
         "price": 45.99,
@@ -515,18 +522,46 @@
         "price": 30.0,
         "date": "2026-10-26",
         "image": "https://files.ozbargain.com.au/n/47/980347l.jpg?h=f4b31213"
-      },
-      {
-        "title": "nbn or OptiComm 25/10 $50/M, 50/20 $64/M, 500/50 $59/M, 1000/100 $89/M for 6 Months (New & Moving Customers) @ Origin",
-        "link": "https://www.ozbargain.com.au/node/980249",
-        "price": 50.0,
-        "date": "2026-10-25",
-        "image": "https://files.ozbargain.com.au/n/49/980249l.jpg?h=bbeba199"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PC, Steam] Marathon Deluxe Edition $40.47 (55% off) @ Steam",
+        "link": "https://www.ozbargain.com.au/node/983854",
+        "price": 40.47,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/54/983854l.jpg?h=5ce04626"
+      },
+      {
+        "title": "[iOS, Android, Subs] Free with Netflix - Monster Hunter Rise @ Apple App & Google Play Store",
+        "link": "https://www.ozbargain.com.au/node/983850",
+        "price": null,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/50/983850l.jpg?h=7e0d8640"
+      },
+      {
+        "title": "Sony INZONE H9 II Wireless Gaming Headset $279 (RRP $449) + Delivery ($0 to Metro/ C&C) @ Scorptec",
+        "link": "https://www.ozbargain.com.au/node/983829",
+        "price": 279.0,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/29/983829l.jpg?h=95376bac"
+      },
+      {
+        "title": "[PS5, XSX, Switch 2] EA Sports FC 27 $49 + Delivery ($0 OnePass/$60 Spend/C&C/ in Store) @ Target",
+        "link": "https://www.ozbargain.com.au/node/983817",
+        "price": 49.0,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/17/983817l.jpg?h=ae73f8ac"
+      },
+      {
+        "title": "Xbox Wireless Controller (Red/White/Black/Pink) $69 Delivered ($59 after Newsletter Voucher) @ Target",
+        "link": "https://www.ozbargain.com.au/node/983816",
+        "price": 69.0,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/16/983816l.jpg?h=04754b1e"
+      },
       {
         "title": "[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU",
         "link": "https://www.ozbargain.com.au/node/983795",
@@ -596,41 +631,6 @@
         "price": 719.0,
         "date": "2026-11-16",
         "image": "https://files.ozbargain.com.au/n/10/983410l.jpg?h=b1d061ab"
-      },
-      {
-        "title": "[XSX] Elden Ring: Shadow of The Erdtree $57.91 + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/983381",
-        "price": 57.91,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/81/983381l.jpg?h=1931baf1"
-      },
-      {
-        "title": "[PS5] Lies of P $37.31 (RRP $59.95) + Delivery ($0 Prime/$59 Spend) @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/983371",
-        "price": 37.31,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/71/983371l.jpg?h=a5d9b44b"
-      },
-      {
-        "title": "PlayStation VR2 PSVR2 $499 @ Big W ($469 with Woolworths Everyday Market)",
-        "link": "https://www.ozbargain.com.au/node/983311",
-        "price": 499.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/11/983311l.jpg?h=c4664d6b"
-      },
-      {
-        "title": "[Switch 2] Metroid Prime 4: Beyond $55 + Delivery ($0 OnePass/C&C/in Store) @ Target",
-        "link": "https://www.ozbargain.com.au/node/983307",
-        "price": 55.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/07/983307l.jpg?h=1cf593e1"
-      },
-      {
-        "title": "[PS5] Marvel Tokon: Fighting Souls $35 (Sold Out), Ghost of Yotei $59 (Sold Out), Death Stranding 2 $57 Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/983305",
-        "price": 35.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/05/983305l.jpg?h=47b20bb5"
       }
     ]
   },

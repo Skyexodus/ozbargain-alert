@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-17 17:47 (UTC)_
+_Last checked: 2026-11-18 00:02 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-17 17:47 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-18 · $69.00 · [nbn FTTP or HFC 500/50 $69/month for 6 Months  (New Customers, $99/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/983857)
 - 2026-11-16 · $45.99 · [nbn 25/10 $45.99/M for 6 Months, 750/50 $80/M or 1000/100 $90/M for 12-Months, Eero 7 $0 After 18-Months (New Customer) @ Arctel](https://www.ozbargain.com.au/node/983398)
 - 2026-11-16 · $60.99 · [nbn FTTP/HFC 500/50 $60.99/Month for 6 Months ($92.99 Ongoing) + $100 Visa Gift Card (New Customers) @ Dodo via Finder](https://www.ozbargain.com.au/node/983386)
 - 2026-11-16 · $69.00 · [nbn FFTP/HFC: 500/50 $69/M, 1000/100 $99/M for 6 Months (New & Existing Upgrading Customers) @ Aussie Broadband](https://www.ozbargain.com.au/node/983280)
@@ -74,20 +75,19 @@ _Last checked: 2026-11-17 17:47 (UTC)_
 - 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
 - 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
-- 2026-11-02 · $50.00 · [nbn 500/50 $50/Month for 6 Months (New Customers) @ amaysim](https://www.ozbargain.com.au/node/981364)
 
 ### Games
 
+- 2026-11-18 · $40.47 · [[PC, Steam] Marathon Deluxe Edition $40.47 (55% off) @ Steam](https://www.ozbargain.com.au/node/983854)
+- 2026-11-18 · price n/a · [[iOS, Android, Subs] Free with Netflix - Monster Hunter Rise @ Apple App & Google Play Store](https://www.ozbargain.com.au/node/983850)
+- 2026-11-18 · $279.00 · [Sony INZONE H9 II Wireless Gaming Headset $279 (RRP $449) + Delivery ($0 to Metro/ C&C) @ Scorptec](https://www.ozbargain.com.au/node/983829)
+- 2026-11-18 · $49.00 · [[PS5, XSX, Switch 2] EA Sports FC 27 $49 + Delivery ($0 OnePass/$60 Spend/C&C/ in Store) @ Target](https://www.ozbargain.com.au/node/983817)
+- 2026-11-18 · $69.00 · [Xbox Wireless Controller (Red/White/Black/Pink) $69 Delivered ($59 after Newsletter Voucher) @ Target](https://www.ozbargain.com.au/node/983816)
 - 2026-11-18 · $48.11 · [[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU](https://www.ozbargain.com.au/node/983795)
 - 2026-11-17 · price n/a · [SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software](https://www.ozbargain.com.au/node/983720)
 - 2026-11-17 · $37.00 · [[PC Steam] Humble Survival Bundle: Lotr: Return to Moria, Palworld, Subnautica below Zero, V Rising + More $37 @ Humble Bundle](https://www.ozbargain.com.au/node/983715)
 - 2026-11-17 · $37.79 · [[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded](https://www.ozbargain.com.au/node/983578)
 - 2026-11-17 · price n/a · [[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO](https://www.ozbargain.com.au/node/983508)
-- 2026-11-17 · $46.75 · [[Switch 2] Metroid Prime 4: Beyond $46.75 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983503)
-- 2026-11-17 · $99.95 · [Riffmaster Wireless Guitar Controller for Xbox Series, Xbox One & PC $99.95 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/983500)
-- 2026-11-17 · $12.10 · [8BitDo Ultimate 2C Bluetooth Controller for Switch/Switch 2 - Blue $12.10 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983477)
-- 2026-11-16 · $99.00 · [[PS5] Select Games 2 for $99 (Ghost of Yotei, Astro Bot, Gran Turismo 7, TLOU Part 1 & More) + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/983417)
-- 2026-11-16 · $719.00 · [Nintendo Switch 2 Sports Resort Bundle $719 Delivered / C&C / in-Store @ BIG W ($683.05 Price Beat @ Officeworks)](https://www.ozbargain.com.au/node/983410)
 
 ### Drinks
 
