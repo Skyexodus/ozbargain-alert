@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-18 16:35 (UTC)_
+_Last checked: 2026-11-18 23:07 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-18 16:35 (UTC)_
 
 ### Games
 
+- 2026-11-19 · $49.00 · [[PS5] Silent Hill f Day One Edition $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/984092)
+- 2026-11-19 · $796.09 · [Logitech G RS50 System for PlayStation/PC $796.09 (RRP $1,199.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984062)
 - 2026-11-19 · $109.00 · [Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W](https://www.ozbargain.com.au/node/984026)
 - 2026-11-19 · $49.00 · [Razer Kishi V2 for iPhone with Lightning Port $49 + Delivery ($0 Prime/ $59 Spend) @ GizmoGrove AU via Amazon AU](https://www.ozbargain.com.au/node/984014)
 - 2026-11-18 · $49.95 · [[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen](https://www.ozbargain.com.au/node/983997)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-18 16:35 (UTC)_
 - 2026-11-18 · $279.00 · [Sony INZONE H9 II Wireless Gaming Headset $279 (RRP $449) + Delivery ($0 to Metro/ C&C) @ Scorptec](https://www.ozbargain.com.au/node/983829)
 - 2026-11-18 · $49.00 · [[PS5, XSX, Switch 2] EA Sports FC 27 $49 + Delivery ($0 OnePass/$60 Spend/C&C/ in Store) @ Target](https://www.ozbargain.com.au/node/983817)
 - 2026-11-18 · $69.00 · [Xbox Wireless Controller (Red/White/Black/Pink) $69 Delivered ($59 after Newsletter Voucher) @ Target](https://www.ozbargain.com.au/node/983816)
-- 2026-11-18 · $48.11 · [[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU](https://www.ozbargain.com.au/node/983795)
-- 2026-11-17 · price n/a · [SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software](https://www.ozbargain.com.au/node/983720)
 
 ### Drinks
 
