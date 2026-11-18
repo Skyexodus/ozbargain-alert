@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-18 07:18 (UTC)_
+_Last checked: 2026-11-18 16:35 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-18 07:18 (UTC)_
 
 ### Games
 
+- 2026-11-19 · $109.00 · [Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W](https://www.ozbargain.com.au/node/984026)
+- 2026-11-19 · $49.00 · [Razer Kishi V2 for iPhone with Lightning Port $49 + Delivery ($0 Prime/ $59 Spend) @ GizmoGrove AU via Amazon AU](https://www.ozbargain.com.au/node/984014)
+- 2026-11-18 · $49.95 · [[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen](https://www.ozbargain.com.au/node/983997)
 - 2026-11-18 · $40.47 · [[PC, Steam] Marathon Deluxe Edition $40.47 (55% off) @ Steam](https://www.ozbargain.com.au/node/983854)
 - 2026-11-18 · price n/a · [[iOS, Android, Subs] Free with Netflix - Monster Hunter Rise @ Apple App & Google Play Store](https://www.ozbargain.com.au/node/983850)
 - 2026-11-18 · $279.00 · [Sony INZONE H9 II Wireless Gaming Headset $279 (RRP $449) + Delivery ($0 to Metro/ C&C) @ Scorptec](https://www.ozbargain.com.au/node/983829)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-18 07:18 (UTC)_
 - 2026-11-18 · $69.00 · [Xbox Wireless Controller (Red/White/Black/Pink) $69 Delivered ($59 after Newsletter Voucher) @ Target](https://www.ozbargain.com.au/node/983816)
 - 2026-11-18 · $48.11 · [[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU](https://www.ozbargain.com.au/node/983795)
 - 2026-11-17 · price n/a · [SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software](https://www.ozbargain.com.au/node/983720)
-- 2026-11-17 · $37.00 · [[PC Steam] Humble Survival Bundle: Lotr: Return to Moria, Palworld, Subnautica below Zero, V Rising + More $37 @ Humble Bundle](https://www.ozbargain.com.au/node/983715)
-- 2026-11-17 · $37.79 · [[PC, Steam] Clair Obscur: Expedition 33 $37.79 @ Loaded](https://www.ozbargain.com.au/node/983578)
-- 2026-11-17 · price n/a · [[iOS, Android] Free Crocs X Pokemon Avatar Clothing @ Pokémon GO](https://www.ozbargain.com.au/node/983508)
 
 ### Drinks
 
@@ -104,6 +104,7 @@ _Last checked: 2026-11-18 07:18 (UTC)_
 
 ### Students
 
+- 2026-11-18 · $203.15 · [Shokz Openrun Pro 2 $203.15 Delivered (15% Student Beans Discount Required) @ Shokz AU](https://www.ozbargain.com.au/node/984008)
 - 2026-11-13 · $2.50 · [[Targeted] Student Edge - $2.50 Loyalty Bonus (Mobile Verification, Surname & App Required)](https://www.ozbargain.com.au/node/982849)
 - 2026-10-18 · $12.80 · [S$12.80 (U.P S$15) 30-Day Student eSIM 500GB (SG, MY, ID, TH, HK​) + 18GB (APAC, China, S. Korea, Japan​) @ Singtel](https://www.ozbargain.com.au/node/979455)
 - 2026-10-14 · price n/a · [10% off Ultimate Her, Him, Teens, Kids and Students Gift Cards (In-Store Only) @ Coles](https://www.ozbargain.com.au/node/978950)
