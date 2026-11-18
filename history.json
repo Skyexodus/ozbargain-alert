@@ -310,6 +310,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "HP OmniBook 7 Aero Laptop: 13.3\" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU",
+        "link": "https://www.ozbargain.com.au/node/983919",
+        "price": 1439.1,
+        "date": "2026-11-18",
+        "image": "https://files.ozbargain.com.au/n/19/983919l.jpg?h=24a4bde0"
+      },
+      {
         "title": "GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU",
         "link": "https://www.ozbargain.com.au/node/983787",
         "price": 279.14,
@@ -406,13 +413,6 @@
         "price": 279.0,
         "date": "2026-11-05",
         "image": "https://files.ozbargain.com.au/n/11/981711l.jpg?h=cf5bed23"
-      },
-      {
-        "title": "BIWIN Black Opal NV3500 1TB PCIe 3.0 SSD $153 Delivered @ Centrecom",
-        "link": "https://www.ozbargain.com.au/node/981694",
-        "price": 153.0,
-        "date": "2026-11-05",
-        "image": "https://files.ozbargain.com.au/n/94/981694l.jpg?h=71ea3978"
       }
     ]
   },

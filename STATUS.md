@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-18 00:02 (UTC)_
+_Last checked: 2026-11-18 07:18 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-18 00:02 (UTC)_
 
 ### SSD
 
+- 2026-11-18 · $1,439.10 · [HP OmniBook 7 Aero Laptop: 13.3" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU](https://www.ozbargain.com.au/node/983919)
 - 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
 - 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
 - 2026-11-16 · $1,499.00 · [HP OmniBook 7 Aero Laptop: 13.3" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983393)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-18 00:02 (UTC)_
 - 2026-11-13 · $1,949.99 · [Apple 2026 MacBook Air 15" M5, 16GB RAM, 512GB SSD $1949.99, AirPods Pro 3 $289.99, iPad Air 11" 2026 $949.99 Delivered @ Costco](https://www.ozbargain.com.au/node/982982)
 - 2026-11-13 · $4,299.00 · [Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs](https://www.ozbargain.com.au/node/982897)
 - 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
-- 2026-11-12 · $788.00 · [Acer Swift Air 14-Inch Core 5-320/8GB/512GB SSD Laptop - $788 - $660 off! @Harvey Norman](https://www.ozbargain.com.au/node/982711)
 
 ### NBN (home)
 
