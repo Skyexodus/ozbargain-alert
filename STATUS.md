@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-19 13:29 (UTC)_
+_Last checked: 2026-11-19 21:44 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-19 13:29 (UTC)_
 
 ### Games
 
+- 2026-11-20 · $199.00 · [Thrustmaster T128 Racing Wheel for PS & PC $199 (was $369) @ Target Black Friday Early Access (OnePass)](https://www.ozbargain.com.au/node/984337)
+- 2026-11-20 · $9.99 · [It Takes Two $9.99 @ Steam](https://www.ozbargain.com.au/node/984333)
+- 2026-11-20 · $4.49 · [[PC, Steam] Command & Conquer Remastered Collection $4.49, Command & Conquer The Ultimate Collection $11.28 @ Steam](https://www.ozbargain.com.au/node/984328)
+- 2026-11-20 · price n/a · [[Android, Epic] Free - Lonesome Village @ Epic Games](https://www.ozbargain.com.au/node/984323)
+- 2026-11-20 · price n/a · [[PC, Epic] Free - Bread and Fred @ Epic Games](https://www.ozbargain.com.au/node/984322)
 - 2026-11-19 · $19.99 · [[PC, Steam] Star Wars Outlaws $19.99 (80% off) @ Steam](https://www.ozbargain.com.au/node/984291)
 - 2026-11-19 · price n/a · [Nintendo Switch Online (+ Expansion Pack) - 3 Bonus Months with 12 Month Membership with Auto Renewal Turned on @ Nintendo](https://www.ozbargain.com.au/node/984279)
 - 2026-11-19 · $268.98 · [Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac $268.98 (RRP $549.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984179)
 - 2026-11-19 · $49.00 · [[PS5] Star Wars Zero Company $49 + Delivery ($0 C&C/ in Store) @ BIG W](https://www.ozbargain.com.au/node/984176)
 - 2026-11-19 · $44.00 · [[PS5, XSX, Switch, Switch 2] EA Sports FC 27 $44 + Delivery ($0 C&C/ in Store) @ Big W / Amazon AU (PS5 Only)](https://www.ozbargain.com.au/node/984153)
-- 2026-11-19 · $49.00 · [[PS5] Silent Hill f Day One Edition $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/984092)
-- 2026-11-19 · $796.09 · [Logitech G RS50 System for PlayStation/PC $796.09 (RRP $1,199.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984062)
-- 2026-11-19 · $109.00 · [Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W](https://www.ozbargain.com.au/node/984026)
-- 2026-11-19 · $49.00 · [Razer Kishi V2 for iPhone with Lightning Port $49 + Delivery ($0 Prime/ $59 Spend) @ GizmoGrove AU via Amazon AU](https://www.ozbargain.com.au/node/984014)
-- 2026-11-18 · $49.95 · [[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen](https://www.ozbargain.com.au/node/983997)
 
 ### Drinks
 
