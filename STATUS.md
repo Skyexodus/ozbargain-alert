@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-18 23:07 (UTC)_
+_Last checked: 2026-11-19 04:10 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-18 23:07 (UTC)_
 
 ### Games
 
+- 2026-11-19 · $268.98 · [Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac $268.98 (RRP $549.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984179)
+- 2026-11-19 · $49.00 · [[PS5] Star Wars Zero Company $49 + Delivery ($0 C&C/ in Store) @ BIG W](https://www.ozbargain.com.au/node/984176)
+- 2026-11-19 · $44.00 · [[PS5, XSX, Switch, Switch 2] EA Sports FC 27 $44 + Delivery ($0 C&C/ in Store) @ Big W / Amazon AU (PS5 Only)](https://www.ozbargain.com.au/node/984153)
 - 2026-11-19 · $49.00 · [[PS5] Silent Hill f Day One Edition $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi](https://www.ozbargain.com.au/node/984092)
 - 2026-11-19 · $796.09 · [Logitech G RS50 System for PlayStation/PC $796.09 (RRP $1,199.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984062)
 - 2026-11-19 · $109.00 · [Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W](https://www.ozbargain.com.au/node/984026)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-18 23:07 (UTC)_
 - 2026-11-18 · $49.95 · [[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen](https://www.ozbargain.com.au/node/983997)
 - 2026-11-18 · $40.47 · [[PC, Steam] Marathon Deluxe Edition $40.47 (55% off) @ Steam](https://www.ozbargain.com.au/node/983854)
 - 2026-11-18 · price n/a · [[iOS, Android, Subs] Free with Netflix - Monster Hunter Rise @ Apple App & Google Play Store](https://www.ozbargain.com.au/node/983850)
-- 2026-11-18 · $279.00 · [Sony INZONE H9 II Wireless Gaming Headset $279 (RRP $449) + Delivery ($0 to Metro/ C&C) @ Scorptec](https://www.ozbargain.com.au/node/983829)
-- 2026-11-18 · $49.00 · [[PS5, XSX, Switch 2] EA Sports FC 27 $49 + Delivery ($0 OnePass/$60 Spend/C&C/ in Store) @ Target](https://www.ozbargain.com.au/node/983817)
-- 2026-11-18 · $69.00 · [Xbox Wireless Controller (Red/White/Black/Pink) $69 Delivered ($59 after Newsletter Voucher) @ Target](https://www.ozbargain.com.au/node/983816)
 
 ### Drinks
 
