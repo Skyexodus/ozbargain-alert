@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-19 04:10 (UTC)_
+_Last checked: 2026-11-19 13:29 (UTC)_
 
 ## Specific items
 
@@ -39,6 +39,7 @@ _Last checked: 2026-11-19 04:10 (UTC)_
 
 ### HDD
 
+- 2026-11-19 · $699.15 · [Seagate STNP16000400 16TB Expansion Desktop Hard Drive MicroB to USB-C $699.15 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/984300)
 - 2026-11-13 · $439.98 · [Swann 3K Wired NVR + 6x Dome Cameras w/ 1TB HDD $439.98 @ Costco (Membership Required)](https://www.ozbargain.com.au/node/982848)
 - 2026-11-02 · $759.96 · [WD 20TB Elements Desktop External Hard Drive - USB 3.0, Black (International Version) $759.96 Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/981299)
 - 2026-10-26 · $574.80 · [LaCie d2 Professional 10TB, External Hard Drive $574.80 (RRP $641.34) Delivered @ Amazon DE via AU](https://www.ozbargain.com.au/node/980350)
@@ -48,10 +49,12 @@ _Last checked: 2026-11-19 04:10 (UTC)_
 - 2026-10-17 · $439.25 · [[Prime] Western Digital WD Red Plus 8TB CMR 3.5 inch Hard Drive $439.25 (RRP $479.26) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979328)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
 - 2026-10-15 · $1,000.00 · [Unifi & NAS Specials under $1,000: UCG-Max $408, U7 Pro XGS $534, Synology DS225+ $598 + Shipping @ Atomic Networks](https://www.ozbargain.com.au/node/979030)
-- 2026-10-13 · $454.40 · [WD Red Plus 8TB Internal Hard Drive $454.40 Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/978741)
 
 ### SSD
 
+- 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
+- 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
+- 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
 - 2026-11-18 · $1,439.10 · [HP OmniBook 7 Aero Laptop: 13.3" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU](https://www.ozbargain.com.au/node/983919)
 - 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
 - 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
@@ -59,9 +62,6 @@ _Last checked: 2026-11-19 04:10 (UTC)_
 - 2026-11-16 · $2,999.00 · [HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983392)
 - 2026-11-14 · $3,531.00 · [Apple MacBook Pro 14-Inch: M6 Chip with 12‑Core CPU and 12‑Core GPU, 32GB, 1TB SSD - Silver $3531 ($3354 OW PB) + Delivery](https://www.ozbargain.com.au/node/983131)
 - 2026-11-14 · $458.14 · [Firebat F1 Mini PC AMD Ryzen 5 7640hs 24GB RAM 512GB SSD US$458.14 (~A$679.02) Delivered @ Firebat Factory Store AliExpress](https://www.ozbargain.com.au/node/983130)
-- 2026-11-13 · $1,949.99 · [Apple 2026 MacBook Air 15" M5, 16GB RAM, 512GB SSD $1949.99, AirPods Pro 3 $289.99, iPad Air 11" 2026 $949.99 Delivered @ Costco](https://www.ozbargain.com.au/node/982982)
-- 2026-11-13 · $4,299.00 · [Gaming PC: Core Ultra 7 270K Plus, RTX 5080 16GB, 32GB DDR5, 1TB Gen4 SSD + 2 Free Games $4299 Delivered @Radium PCs](https://www.ozbargain.com.au/node/982897)
-- 2026-11-13 · $29.00 · [WD Blue SA510 SATA SSD M.2 2280 - 250GB $29 Delivered @ Australian Computer Traders via Kogan](https://www.ozbargain.com.au/node/982881)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-19 04:10 (UTC)_
 
 ### Games
 
+- 2026-11-19 · $19.99 · [[PC, Steam] Star Wars Outlaws $19.99 (80% off) @ Steam](https://www.ozbargain.com.au/node/984291)
+- 2026-11-19 · price n/a · [Nintendo Switch Online (+ Expansion Pack) - 3 Bonus Months with 12 Month Membership with Auto Renewal Turned on @ Nintendo](https://www.ozbargain.com.au/node/984279)
 - 2026-11-19 · $268.98 · [Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac $268.98 (RRP $549.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984179)
 - 2026-11-19 · $49.00 · [[PS5] Star Wars Zero Company $49 + Delivery ($0 C&C/ in Store) @ BIG W](https://www.ozbargain.com.au/node/984176)
 - 2026-11-19 · $44.00 · [[PS5, XSX, Switch, Switch 2] EA Sports FC 27 $44 + Delivery ($0 C&C/ in Store) @ Big W / Amazon AU (PS5 Only)](https://www.ozbargain.com.au/node/984153)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-19 04:10 (UTC)_
 - 2026-11-19 · $109.00 · [Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W](https://www.ozbargain.com.au/node/984026)
 - 2026-11-19 · $49.00 · [Razer Kishi V2 for iPhone with Lightning Port $49 + Delivery ($0 Prime/ $59 Spend) @ GizmoGrove AU via Amazon AU](https://www.ozbargain.com.au/node/984014)
 - 2026-11-18 · $49.95 · [[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen](https://www.ozbargain.com.au/node/983997)
-- 2026-11-18 · $40.47 · [[PC, Steam] Marathon Deluxe Edition $40.47 (55% off) @ Steam](https://www.ozbargain.com.au/node/983854)
-- 2026-11-18 · price n/a · [[iOS, Android, Subs] Free with Netflix - Monster Hunter Rise @ Apple App & Google Play Store](https://www.ozbargain.com.au/node/983850)
 
 ### Drinks
 

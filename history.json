@@ -204,6 +204,13 @@
   "HDD": {
     "deals": [
       {
+        "title": "Seagate STNP16000400 16TB Expansion Desktop Hard Drive MicroB to USB-C $699.15 Delivered @ Amazon DE via AU",
+        "link": "https://www.ozbargain.com.au/node/984300",
+        "price": 699.15,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/00/984300l.jpg?h=947a86fb"
+      },
+      {
         "title": "Swann 3K Wired NVR + 6x Dome Cameras w/ 1TB HDD $439.98 @ Costco (Membership Required)",
         "link": "https://www.ozbargain.com.au/node/982848",
         "price": 439.98,
@@ -298,17 +305,32 @@
         "link": "https://www.ozbargain.com.au/node/972765",
         "price": 225.25,
         "date": "2026-08-26"
-      },
-      {
-        "title": "Seagate IronWolf Pro 8TB NAS Internal Hard Drive $404.60 Delivered @ Amazon UK via AU",
-        "link": "https://www.ozbargain.com.au/node/969728",
-        "price": 404.6,
-        "date": "2026-07-31"
       }
     ]
   },
   "SSD": {
     "deals": [
+      {
+        "title": "Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec",
+        "link": "https://www.ozbargain.com.au/node/984294",
+        "price": 99.0,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/94/984294l.jpg?h=5814bdd6"
+      },
+      {
+        "title": "Acer Predator Helios Neo 16S AI 16\" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman",
+        "link": "https://www.ozbargain.com.au/node/984284",
+        "price": 3298.0,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/84/984284l.jpg?h=9291bfc4"
+      },
+      {
+        "title": "[Refurb] MacBook Pro 14\" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First",
+        "link": "https://www.ozbargain.com.au/node/984274",
+        "price": 803.16,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/74/984274l.jpg?h=cebae216"
+      },
       {
         "title": "HP OmniBook 7 Aero Laptop: 13.3\" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU",
         "link": "https://www.ozbargain.com.au/node/983919",
@@ -392,27 +414,6 @@
         "price": 275.0,
         "date": "2026-11-11",
         "image": "https://files.ozbargain.com.au/n/00/982500l.jpg?h=3229fa8a"
-      },
-      {
-        "title": "CUSU NV3500Q 1TB PCIe 3.0 NVMe M.2 SSD US$96.99 (~A$141.55) Delivered @ CUSU Official Store AliExpress",
-        "link": "https://www.ozbargain.com.au/node/982275",
-        "price": 96.99,
-        "date": "2026-11-09",
-        "image": "https://files.ozbargain.com.au/n/75/982275l.jpg?h=4a193814"
-      },
-      {
-        "title": "Acer Helios Neo 16S Gaming Laptop (356H, 32GB RAM, 1TB SSD, RTX 5060) $1998 + Delivery ($0 to Metro/ C&C) @ Harvey Norman",
-        "link": "https://www.ozbargain.com.au/node/981861",
-        "price": 1998.0,
-        "date": "2026-11-06",
-        "image": "https://files.ozbargain.com.au/n/61/981861l.jpg?h=2f1ab6e7"
-      },
-      {
-        "title": "[Used] HP EliteBook 830 G8 Intel i7 1185G7 16GB RAM 512GB SSD Win11 $279 Delivered @ Australian Computer Traders",
-        "link": "https://www.ozbargain.com.au/node/981711",
-        "price": 279.0,
-        "date": "2026-11-05",
-        "image": "https://files.ozbargain.com.au/n/11/981711l.jpg?h=cf5bed23"
       }
     ]
   },
@@ -528,6 +529,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam] Star Wars Outlaws $19.99 (80% off) @ Steam",
+        "link": "https://www.ozbargain.com.au/node/984291",
+        "price": 19.99,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/91/984291l.jpg?h=784afa9c"
+      },
+      {
+        "title": "Nintendo Switch Online (+ Expansion Pack) - 3 Bonus Months with 12 Month Membership with Auto Renewal Turned on @ Nintendo",
+        "link": "https://www.ozbargain.com.au/node/984279",
+        "price": null,
+        "date": "2026-11-19",
+        "image": "https://files.ozbargain.com.au/n/79/984279l.jpg?h=2e16bacc"
+      },
+      {
         "title": "Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac $268.98 (RRP $549.95) Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/984179",
         "price": 268.98,
@@ -617,20 +632,6 @@
         "price": 69.0,
         "date": "2026-11-18",
         "image": "https://files.ozbargain.com.au/n/16/983816l.jpg?h=04754b1e"
-      },
-      {
-        "title": "[PS5] Death Stranding 2: On The Beach $48.11 (RRP $59.40) + Delivery ($0 with Prime/ $59 Spend) @ Amazon Germany via AU",
-        "link": "https://www.ozbargain.com.au/node/983795",
-        "price": 48.11,
-        "date": "2026-11-18",
-        "image": "https://files.ozbargain.com.au/n/95/983795l.jpg?h=f99d30e0"
-      },
-      {
-        "title": "SHiFT Code for Borderlands 4 - 4 Weapon Skins @ Gearbox Software",
-        "link": "https://www.ozbargain.com.au/node/983720",
-        "price": null,
-        "date": "2026-11-17",
-        "image": "https://files.ozbargain.com.au/n/20/983720l.jpg?h=3461ea7a"
       }
     ]
   },
