@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-20 02:40 (UTC)_
+_Last checked: 2026-11-20 10:36 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-20 02:40 (UTC)_
 
 ### Games
 
+- 2026-11-20 · $19.00 · [[PS5] Borderlands 4 $19 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/984516)
+- 2026-11-20 · price n/a · [[PC, Steam] Free - Mineral Madness @ Steam](https://www.ozbargain.com.au/node/984509)
 - 2026-11-20 · $64.00 · [Xbox Wireless Controller - Carbon Black $64 + Delivery ($0 C&C) @ PLE](https://www.ozbargain.com.au/node/984417)
 - 2026-11-20 · $0.00 · [[Android] Free: "Data Defense" $0 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/984401)
 - 2026-11-20 · $4.43 · [[XB1, XSX] R-Type Dimensions $4.43 @ Xbox Store](https://www.ozbargain.com.au/node/984394)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-20 02:40 (UTC)_
 - 2026-11-20 · $199.00 · [Thrustmaster T128 Racing Wheel for PS & PC $199 (was $369) @ Target Black Friday Early Access (OnePass)](https://www.ozbargain.com.au/node/984337)
 - 2026-11-20 · $9.99 · [It Takes Two $9.99 @ Steam](https://www.ozbargain.com.au/node/984333)
 - 2026-11-20 · $4.49 · [[PC, Steam] Command & Conquer Remastered Collection $4.49, Command & Conquer The Ultimate Collection $11.28 @ Steam](https://www.ozbargain.com.au/node/984328)
-- 2026-11-20 · price n/a · [[Android, Epic] Free - Lonesome Village @ Epic Games](https://www.ozbargain.com.au/node/984323)
-- 2026-11-20 · price n/a · [[PC, Epic] Free - Bread and Fred @ Epic Games](https://www.ozbargain.com.au/node/984322)
 
 ### Drinks
 
