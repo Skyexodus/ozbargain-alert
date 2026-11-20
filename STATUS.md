@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-20 10:36 (UTC)_
+_Last checked: 2026-11-20 18:49 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,8 @@ _Last checked: 2026-11-20 10:36 (UTC)_
 
 ### SSD
 
+- 2026-11-20 · $725.00 · [Lexar NM790 4TB PCIe 4.0 NVMe M.2 2280 SSD $725 Delivered (SMS Coupon Code Required) @ Mwave](https://www.ozbargain.com.au/node/984546)
+- 2026-11-20 · $375.03 · [Lexar NM1090 2TB SSD PCle Gen5x4 NVMe, M.2 2280 $375.03 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984536)
 - 2026-11-20 · $2,199.00 · [Lenovo Legion 5i 15.3" WQXGA OLED Laptop: Ultra 7 251HX, RTX 5060, 16GB RAM, 512GB SSD $2199 (RRP $2999) @ Scorptec](https://www.ozbargain.com.au/node/984400)
 - 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
 - 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
@@ -60,8 +62,6 @@ _Last checked: 2026-11-20 10:36 (UTC)_
 - 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
 - 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
 - 2026-11-16 · $1,499.00 · [HP OmniBook 7 Aero Laptop: 13.3" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983393)
-- 2026-11-16 · $2,999.00 · [HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983392)
-- 2026-11-14 · $3,531.00 · [Apple MacBook Pro 14-Inch: M6 Chip with 12‑Core CPU and 12‑Core GPU, 32GB, 1TB SSD - Silver $3531 ($3354 OW PB) + Delivery](https://www.ozbargain.com.au/node/983131)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-20 10:36 (UTC)_
 
 ### Games
 
+- 2026-11-20 · $9.99 · [[Switch] LEGO Star Wars: The Skywalker Saga Deluxe Edition & Hogwarts Legacy: Deluxe Edition $9.99 Each @ Nintendo eShop](https://www.ozbargain.com.au/node/984548)
+- 2026-11-20 · $48.00 · [[Switch 2] Orbitals $48 @ Nintendo eShop](https://www.ozbargain.com.au/node/984545)
 - 2026-11-20 · $19.00 · [[PS5] Borderlands 4 $19 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/984516)
 - 2026-11-20 · price n/a · [[PC, Steam] Free - Mineral Madness @ Steam](https://www.ozbargain.com.au/node/984509)
 - 2026-11-20 · $64.00 · [Xbox Wireless Controller - Carbon Black $64 + Delivery ($0 C&C) @ PLE](https://www.ozbargain.com.au/node/984417)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-20 10:36 (UTC)_
 - 2026-11-20 · $109.92 · [Xbox Wireless Controller Forza Horizon 6 Limited Edition $109.92 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/984388)
 - 2026-11-20 · $2.99 · [[XB360, XB1, XSX] Skate 3 $2.99 (Was $29.95, 90% Off) @ Xbox Store](https://www.ozbargain.com.au/node/984377)
 - 2026-11-20 · $199.00 · [Thrustmaster T128 Racing Wheel for PS & PC $199 (was $369) @ Target Black Friday Early Access (OnePass)](https://www.ozbargain.com.au/node/984337)
-- 2026-11-20 · $9.99 · [It Takes Two $9.99 @ Steam](https://www.ozbargain.com.au/node/984333)
-- 2026-11-20 · $4.49 · [[PC, Steam] Command & Conquer Remastered Collection $4.49, Command & Conquer The Ultimate Collection $11.28 @ Steam](https://www.ozbargain.com.au/node/984328)
 
 ### Drinks
 
