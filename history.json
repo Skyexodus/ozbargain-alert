@@ -311,6 +311,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Lenovo Legion 5i 15.3\" WQXGA OLED Laptop: Ultra 7 251HX, RTX 5060, 16GB RAM, 512GB SSD $2199 (RRP $2999) @ Scorptec",
+        "link": "https://www.ozbargain.com.au/node/984400",
+        "price": 2199.0,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/00/984400l.jpg?h=50f4362f"
+      },
+      {
         "title": "Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec",
         "link": "https://www.ozbargain.com.au/node/984294",
         "price": 99.0,
@@ -407,13 +414,6 @@
         "price": 788.0,
         "date": "2026-11-12",
         "image": "https://files.ozbargain.com.au/n/11/982711.jpg?h=66961719"
-      },
-      {
-        "title": "Teamgroup 1TB T-Force G70 PRO 1TB PCIe Gen4 NVMe SSD $275 + Delivery ($0 to Metro / C&C) @ Scorptec",
-        "link": "https://www.ozbargain.com.au/node/982500",
-        "price": 275.0,
-        "date": "2026-11-11",
-        "image": "https://files.ozbargain.com.au/n/00/982500l.jpg?h=3229fa8a"
       }
     ]
   },
@@ -529,6 +529,41 @@
   "Games": {
     "deals": [
       {
+        "title": "Xbox Wireless Controller - Carbon Black $64 + Delivery ($0 C&C) @ PLE",
+        "link": "https://www.ozbargain.com.au/node/984417",
+        "price": 64.0,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/17/984417l.jpg?h=8fab61fb"
+      },
+      {
+        "title": "[Android] Free: \"Data Defense\" $0 (Was $5.49) @ Google Play Store",
+        "link": "https://www.ozbargain.com.au/node/984401",
+        "price": 0.0,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/01/984401l.jpg?h=c49c4cb1"
+      },
+      {
+        "title": "[XB1, XSX] R-Type Dimensions $4.43 @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/984394",
+        "price": 4.43,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/94/984394.jpg?h=077dedc8"
+      },
+      {
+        "title": "Xbox Wireless Controller Forza Horizon 6 Limited Edition $109.92 Delivered @ Amazon UK via AU",
+        "link": "https://www.ozbargain.com.au/node/984388",
+        "price": 109.92,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/88/984388l.jpg?h=be0a8f4b"
+      },
+      {
+        "title": "[XB360, XB1, XSX] Skate 3 $2.99 (Was $29.95, 90% Off) @ Xbox Store",
+        "link": "https://www.ozbargain.com.au/node/984377",
+        "price": 2.99,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/77/984377.jpg?h=760ae486"
+      },
+      {
         "title": "Thrustmaster T128 Racing Wheel for PS & PC $199 (was $369) @ Target Black Friday Early Access (OnePass)",
         "link": "https://www.ozbargain.com.au/node/984337",
         "price": 199.0,
@@ -597,41 +632,6 @@
         "price": 44.0,
         "date": "2026-11-19",
         "image": "https://files.ozbargain.com.au/n/53/984153l.jpg?h=8ee94102"
-      },
-      {
-        "title": "[PS5] Silent Hill f Day One Edition $49 + Delivery ($0 C&C/In-Store) @ JB Hi-Fi",
-        "link": "https://www.ozbargain.com.au/node/984092",
-        "price": 49.0,
-        "date": "2026-11-19",
-        "image": "https://files.ozbargain.com.au/n/92/984092l.jpg?h=b4088bd2"
-      },
-      {
-        "title": "Logitech G RS50 System for PlayStation/PC $796.09 (RRP $1,199.95) Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/984062",
-        "price": 796.09,
-        "date": "2026-11-19",
-        "image": "https://files.ozbargain.com.au/n/62/984062l.jpg?h=aaa72cc4"
-      },
-      {
-        "title": "Nintendo Switch 2 Joy-Con 2 Purple/Green $109 + Delivery ($0 to Metro / C&C) @ BIG W",
-        "link": "https://www.ozbargain.com.au/node/984026",
-        "price": 109.0,
-        "date": "2026-11-19",
-        "image": "https://files.ozbargain.com.au/n/26/984026l.jpg?h=7c4ebdca"
-      },
-      {
-        "title": "Razer Kishi V2 for iPhone with Lightning Port $49 + Delivery ($0 Prime/ $59 Spend) @ GizmoGrove AU via Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/984014",
-        "price": 49.0,
-        "date": "2026-11-19",
-        "image": "https://files.ozbargain.com.au/n/14/984014l.jpg?h=7ab58092"
-      },
-      {
-        "title": "[Switch] Sid Meier's Civilization VII $49.95 + Delivery @ The Gamesmen",
-        "link": "https://www.ozbargain.com.au/node/983997",
-        "price": 49.95,
-        "date": "2026-11-18",
-        "image": "https://files.ozbargain.com.au/n/97/983997l.jpg?h=4f8baabd"
       }
     ]
   },
@@ -842,6 +842,13 @@
   "Electricity": {
     "deals": [
       {
+        "title": "Up to 15,000 Bonus Qantas Points with Qantas Red Saver Plan (New Connections) + 2 Points/$1 Paid On Time @ Red Energy",
+        "link": "https://www.ozbargain.com.au/node/984423",
+        "price": 1.0,
+        "date": "2026-11-20",
+        "image": "https://files.ozbargain.com.au/n/23/984423l.jpg?h=39fd9ac8"
+      },
+      {
         "title": "[VIC, NSW] GreenVolt Pro 24.5kWh Home Battery Installed from $4,284 + Free 8kW Inverter Upgrade @ Green ESS",
         "link": "https://www.ozbargain.com.au/node/983321",
         "price": 4284.0,
@@ -938,13 +945,6 @@
         "price": null,
         "date": "2026-10-09",
         "image": "https://files.ozbargain.com.au/n/42/978342l.jpg?h=e0083f3f"
-      },
-      {
-        "title": "Switch with Econnex (Stay 45 Days Energy, 90 Days Internet) for Cashback: $170 Electricity, $120 Gas/Internet @ TopCashback AU",
-        "link": "https://www.ozbargain.com.au/node/977763",
-        "price": 170.0,
-        "date": "2026-10-05",
-        "image": "https://files.ozbargain.com.au/n/63/977763l.jpg?h=e1ea34a2"
       }
     ]
   },

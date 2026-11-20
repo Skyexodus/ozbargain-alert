@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-19 21:44 (UTC)_
+_Last checked: 2026-11-20 02:40 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-19 21:44 (UTC)_
 
 ### SSD
 
+- 2026-11-20 · $2,199.00 · [Lenovo Legion 5i 15.3" WQXGA OLED Laptop: Ultra 7 251HX, RTX 5060, 16GB RAM, 512GB SSD $2199 (RRP $2999) @ Scorptec](https://www.ozbargain.com.au/node/984400)
 - 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
 - 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
 - 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-19 21:44 (UTC)_
 - 2026-11-16 · $1,499.00 · [HP OmniBook 7 Aero Laptop: 13.3" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983393)
 - 2026-11-16 · $2,999.00 · [HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983392)
 - 2026-11-14 · $3,531.00 · [Apple MacBook Pro 14-Inch: M6 Chip with 12‑Core CPU and 12‑Core GPU, 32GB, 1TB SSD - Silver $3531 ($3354 OW PB) + Delivery](https://www.ozbargain.com.au/node/983131)
-- 2026-11-14 · $458.14 · [Firebat F1 Mini PC AMD Ryzen 5 7640hs 24GB RAM 512GB SSD US$458.14 (~A$679.02) Delivered @ Firebat Factory Store AliExpress](https://www.ozbargain.com.au/node/983130)
 
 ### NBN (home)
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-19 21:44 (UTC)_
 
 ### Games
 
+- 2026-11-20 · $64.00 · [Xbox Wireless Controller - Carbon Black $64 + Delivery ($0 C&C) @ PLE](https://www.ozbargain.com.au/node/984417)
+- 2026-11-20 · $0.00 · [[Android] Free: "Data Defense" $0 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/984401)
+- 2026-11-20 · $4.43 · [[XB1, XSX] R-Type Dimensions $4.43 @ Xbox Store](https://www.ozbargain.com.au/node/984394)
+- 2026-11-20 · $109.92 · [Xbox Wireless Controller Forza Horizon 6 Limited Edition $109.92 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/984388)
+- 2026-11-20 · $2.99 · [[XB360, XB1, XSX] Skate 3 $2.99 (Was $29.95, 90% Off) @ Xbox Store](https://www.ozbargain.com.au/node/984377)
 - 2026-11-20 · $199.00 · [Thrustmaster T128 Racing Wheel for PS & PC $199 (was $369) @ Target Black Friday Early Access (OnePass)](https://www.ozbargain.com.au/node/984337)
 - 2026-11-20 · $9.99 · [It Takes Two $9.99 @ Steam](https://www.ozbargain.com.au/node/984333)
 - 2026-11-20 · $4.49 · [[PC, Steam] Command & Conquer Remastered Collection $4.49, Command & Conquer The Ultimate Collection $11.28 @ Steam](https://www.ozbargain.com.au/node/984328)
 - 2026-11-20 · price n/a · [[Android, Epic] Free - Lonesome Village @ Epic Games](https://www.ozbargain.com.au/node/984323)
 - 2026-11-20 · price n/a · [[PC, Epic] Free - Bread and Fred @ Epic Games](https://www.ozbargain.com.au/node/984322)
-- 2026-11-19 · $19.99 · [[PC, Steam] Star Wars Outlaws $19.99 (80% off) @ Steam](https://www.ozbargain.com.au/node/984291)
-- 2026-11-19 · price n/a · [Nintendo Switch Online (+ Expansion Pack) - 3 Bonus Months with 12 Month Membership with Auto Renewal Turned on @ Nintendo](https://www.ozbargain.com.au/node/984279)
-- 2026-11-19 · $268.98 · [Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac $268.98 (RRP $549.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984179)
-- 2026-11-19 · $49.00 · [[PS5] Star Wars Zero Company $49 + Delivery ($0 C&C/ in Store) @ BIG W](https://www.ozbargain.com.au/node/984176)
-- 2026-11-19 · $44.00 · [[PS5, XSX, Switch, Switch 2] EA Sports FC 27 $44 + Delivery ($0 C&C/ in Store) @ Big W / Amazon AU (PS5 Only)](https://www.ozbargain.com.au/node/984153)
 
 ### Drinks
 
@@ -112,6 +112,7 @@ _Last checked: 2026-11-19 21:44 (UTC)_
 
 ### Electricity
 
+- 2026-11-20 · $1.00 · [Up to 15,000 Bonus Qantas Points with Qantas Red Saver Plan (New Connections) + 2 Points/$1 Paid On Time @ Red Energy](https://www.ozbargain.com.au/node/984423)
 - 2026-11-16 · $4,284.00 · [[VIC, NSW] GreenVolt Pro 24.5kWh Home Battery Installed from $4,284 + Free 8kW Inverter Upgrade @ Green ESS](https://www.ozbargain.com.au/node/983321)
 - 2026-11-14 · $300.00 · [[QLD] Sign up for Electricity and Get $300 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/983052)
 - 2026-11-13 · $0.00 · [[VIC] Black Friday: Free 8kW Inverter Upgrade with 24.5kWh Home Battery, $0 Hardware + $1,800 Standard Install @ Fig Energy](https://www.ozbargain.com.au/node/982865)
@@ -121,7 +122,6 @@ _Last checked: 2026-11-19 21:44 (UTC)_
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
 - 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
 - 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
-- 2026-10-21 · $5,000.00 · [[VIC] Sungrow 30kWh SBH300 Solar Battery + 10kW Hybrid Inverter (Single or 3-Phase) $5000 Installed (No VPP Required) @Hytech](https://www.ozbargain.com.au/node/979866)
 
 ### Wine fridge
 
