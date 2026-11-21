@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-21 00:23 (UTC)_
+_Last checked: 2026-11-21 07:36 (UTC)_
 
 ## Specific items
 
@@ -104,6 +104,7 @@ _Last checked: 2026-11-21 00:23 (UTC)_
 
 ### Students
 
+- 2026-11-21 · price n/a · [[NSW] FREE End-Of-Year Pool Party For High School Students (Friday 11/12) @ Victoria Park Pool, Camperdown, SYD](https://www.ozbargain.com.au/node/984637)
 - 2026-11-18 · $203.15 · [Shokz Openrun Pro 2 $203.15 Delivered (15% Student Beans Discount Required) @ Shokz AU](https://www.ozbargain.com.au/node/984008)
 - 2026-11-13 · $2.50 · [[Targeted] Student Edge - $2.50 Loyalty Bonus (Mobile Verification, Surname & App Required)](https://www.ozbargain.com.au/node/982849)
 - 2026-10-18 · $12.80 · [S$12.80 (U.P S$15) 30-Day Student eSIM 500GB (SG, MY, ID, TH, HK​) + 18GB (APAC, China, S. Korea, Japan​) @ Singtel](https://www.ozbargain.com.au/node/979455)
