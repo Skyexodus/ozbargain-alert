@@ -529,6 +529,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC, Steam] Pentiment $7.48 (75% off) @ Steam",
+        "link": "https://www.ozbargain.com.au/node/984579",
+        "price": 7.48,
+        "date": "2026-11-21",
+        "image": "https://files.ozbargain.com.au/n/79/984579l.jpg?h=13b9cc05"
+      },
+      {
+        "title": "$15 off $85 Spend, Legend of Zelda Ocarina of Time $95 ($80 with Email Code) @ Target (Email)",
+        "link": "https://www.ozbargain.com.au/node/984560",
+        "price": 85.0,
+        "date": "2026-11-21",
+        "image": "https://files.ozbargain.com.au/n/60/984560l.jpg?h=1a8802d1"
+      },
+      {
         "title": "[Switch] LEGO Star Wars: The Skywalker Saga Deluxe Edition & Hogwarts Legacy: Deluxe Edition $9.99 Each @ Nintendo eShop",
         "link": "https://www.ozbargain.com.au/node/984548",
         "price": 9.99,
@@ -618,20 +632,6 @@
         "price": null,
         "date": "2026-11-20",
         "image": "https://files.ozbargain.com.au/n/23/984323l.jpg?h=8ddaf5ce"
-      },
-      {
-        "title": "[PC, Epic] Free - Bread and Fred @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/984322",
-        "price": null,
-        "date": "2026-11-20",
-        "image": "https://files.ozbargain.com.au/n/22/984322l.jpg?h=323fb7b5"
-      },
-      {
-        "title": "[PC, Steam] Star Wars Outlaws $19.99 (80% off) @ Steam",
-        "link": "https://www.ozbargain.com.au/node/984291",
-        "price": 19.99,
-        "date": "2026-11-19",
-        "image": "https://files.ozbargain.com.au/n/91/984291l.jpg?h=784afa9c"
       }
     ]
   },
