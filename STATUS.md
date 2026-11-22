@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-22 08:18 (UTC)_
+_Last checked: 2026-11-22 16:27 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-22 08:18 (UTC)_
 
 ### Games
 
+- 2026-11-23 · $59.00 · [[PS5, XSX, Switch 2] LEGO Batman Legacy of The Dark Knight $59 (PS5 & Switch 2) $64 (XSX) + Delivery ($0 C&C/ in-Store) @ JBHiFi](https://www.ozbargain.com.au/node/984830)
+- 2026-11-23 · $58.25 · [[PC, XSX] 007 First Light - Deluxe Edition - $58.25 @ Xbox Store](https://www.ozbargain.com.au/node/984828)
 - 2026-11-22 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Star Fox $59, Splatoon Raiders $69, Pokémon Pokopia $79, Fire Emblem: FW $85 @ Target](https://www.ozbargain.com.au/node/984769)
 - 2026-11-22 · $629.00 · [Nintendo Switch 2 Console + Mario Kart World Bundle $629 Delivered / C&C / in-Store @ Target](https://www.ozbargain.com.au/node/984768)
 - 2026-11-22 · $2.50 · [Gamegenic Star Wars: Unlimited OBI-Wan Kenobi / Darth Maul 60pk Art Sleeves $2.50ea + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/984767)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-22 08:18 (UTC)_
 - 2026-11-22 · $8.65 · [[XP Loyalty, PC, Steam] FINAL FANTASY VII REBIRTH $8.65 @ Green Man Gaming](https://www.ozbargain.com.au/node/984747)
 - 2026-11-22 · $13.99 · [[XSX/PC] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Xbox](https://www.ozbargain.com.au/node/984745)
 - 2026-11-22 · $779.20 · [PlayStation 5 Disc Console $779.2 Delivered ($999 RRP) @ BIG W via Woolworths Marketplace](https://www.ozbargain.com.au/node/984724)
-- 2026-11-21 · $7.48 · [[PC, Steam] Pentiment $7.48 (75% off) @ Steam](https://www.ozbargain.com.au/node/984579)
-- 2026-11-21 · $85.00 · [$15 off $85 Spend, Legend of Zelda Ocarina of Time $95 ($80 with Email Code) @ Target (Email)](https://www.ozbargain.com.au/node/984560)
 
 ### Drinks
 
