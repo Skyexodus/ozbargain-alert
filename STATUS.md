@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-22 16:27 (UTC)_
+_Last checked: 2026-11-22 21:57 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-22 16:27 (UTC)_
 
 ### SSD
 
+- 2026-11-23 · $169.00 · [Gigabyte 1TB NVMe M.2 SSD (G440E1TB) $169 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/984837)
 - 2026-11-22 · $469.00 · [Kingston Fury Renegade with Heatsink 2TB M.2 2280 NVMe PCIe 4.0 SSD $469 (Free C&C, Metro Delivery) (Was $999) @ Scorptec](https://www.ozbargain.com.au/node/984760)
 - 2026-11-20 · $725.00 · [Lexar NM790 4TB PCIe 4.0 NVMe M.2 2280 SSD $725 Delivered (SMS Coupon Code Required) @ Mwave](https://www.ozbargain.com.au/node/984546)
 - 2026-11-20 · $375.03 · [Lexar NM1090 2TB SSD PCle Gen5x4 NVMe, M.2 2280 $375.03 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984536)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-22 16:27 (UTC)_
 - 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
 - 2026-11-18 · $1,439.10 · [HP OmniBook 7 Aero Laptop: 13.3" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU](https://www.ozbargain.com.au/node/983919)
 - 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
-- 2026-11-16 · $3,899.20 · [HP OMEN MAX 16" OLED Gaming Laptop: Intel Core Ultra 9 275HX, RTX 5080, 32GB RAM, 1TB SSD $3899.20 Delivered @ HP eBay](https://www.ozbargain.com.au/node/983394)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-22 16:27 (UTC)_
 
 ### Games
 
+- 2026-11-23 · $79.00 · [Donkey Kong Bananza - Nintendo Switch 2 $79 Delivered @ Amazon AU and Target](https://www.ozbargain.com.au/node/984846)
+- 2026-11-23 · $59.00 · [Diablo IV: Age of Hatred Collection $59 (Switch 2) + Delivery ($0 C&C/In-Store) @ JB-HiFi](https://www.ozbargain.com.au/node/984836)
 - 2026-11-23 · $59.00 · [[PS5, XSX, Switch 2] LEGO Batman Legacy of The Dark Knight $59 (PS5 & Switch 2) $64 (XSX) + Delivery ($0 C&C/ in-Store) @ JBHiFi](https://www.ozbargain.com.au/node/984830)
 - 2026-11-23 · $58.25 · [[PC, XSX] 007 First Light - Deluxe Edition - $58.25 @ Xbox Store](https://www.ozbargain.com.au/node/984828)
 - 2026-11-22 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Star Fox $59, Splatoon Raiders $69, Pokémon Pokopia $79, Fire Emblem: FW $85 @ Target](https://www.ozbargain.com.au/node/984769)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-22 16:27 (UTC)_
 - 2026-11-22 · $629.00 · [Nintendo Switch 2 + Mario Kart World Bundle $629 @ Kmart](https://www.ozbargain.com.au/node/984763)
 - 2026-11-22 · $47.67 · [[PS Plus, PS5] Dying Light: The Beast $47.67 (Was $105.95) @ PlayStation Store](https://www.ozbargain.com.au/node/984756)
 - 2026-11-22 · $8.65 · [[XP Loyalty, PC, Steam] FINAL FANTASY VII REBIRTH $8.65 @ Green Man Gaming](https://www.ozbargain.com.au/node/984747)
-- 2026-11-22 · $13.99 · [[XSX/PC] Final Fantasy VII Remake Intergrade $13.99, Final Fantasy VII Rebirth $12.74 @ Xbox](https://www.ozbargain.com.au/node/984745)
-- 2026-11-22 · $779.20 · [PlayStation 5 Disc Console $779.2 Delivered ($999 RRP) @ BIG W via Woolworths Marketplace](https://www.ozbargain.com.au/node/984724)
 
 ### Drinks
 
