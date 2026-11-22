@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-21 21:09 (UTC)_
+_Last checked: 2026-11-22 01:19 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-21 21:09 (UTC)_
 
 ### Games
 
+- 2026-11-22 · $779.20 · [PlayStation 5 Disc Console $779.2 Delivered ($999 RRP) @ BIG W via Woolworths Marketplace](https://www.ozbargain.com.au/node/984724)
 - 2026-11-21 · $7.48 · [[PC, Steam] Pentiment $7.48 (75% off) @ Steam](https://www.ozbargain.com.au/node/984579)
 - 2026-11-21 · $85.00 · [$15 off $85 Spend, Legend of Zelda Ocarina of Time $95 ($80 with Email Code) @ Target (Email)](https://www.ozbargain.com.au/node/984560)
 - 2026-11-20 · $9.99 · [[Switch] LEGO Star Wars: The Skywalker Saga Deluxe Edition & Hogwarts Legacy: Deluxe Edition $9.99 Each @ Nintendo eShop](https://www.ozbargain.com.au/node/984548)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-21 21:09 (UTC)_
 - 2026-11-20 · $64.00 · [Xbox Wireless Controller - Carbon Black $64 + Delivery ($0 C&C) @ PLE](https://www.ozbargain.com.au/node/984417)
 - 2026-11-20 · $0.00 · [[Android] Free: "Data Defense" $0 (Was $5.49) @ Google Play Store](https://www.ozbargain.com.au/node/984401)
 - 2026-11-20 · $4.43 · [[XB1, XSX] R-Type Dimensions $4.43 @ Xbox Store](https://www.ozbargain.com.au/node/984394)
-- 2026-11-20 · $109.92 · [Xbox Wireless Controller Forza Horizon 6 Limited Edition $109.92 Delivered @ Amazon UK via AU](https://www.ozbargain.com.au/node/984388)
 
 ### Drinks
 
