@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-22 21:57 (UTC)_
+_Last checked: 2026-11-23 02:29 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-22 21:57 (UTC)_
 
 ### Games
 
+- 2026-11-23 · $89.00 · [[PS5] Select Games 2 for $89 (Astro Bot, Ghost of Yotei, Spider-Man 2 + More) + $8 Reg Del ($0 to Metro/ C&C/ In-Store) @ BIG W](https://www.ozbargain.com.au/node/984920)
+- 2026-11-23 · $247.46 · [[eBay Plus] Pokemon TCG Chaos Rising Booster Box (36 Packs) $247.46 Delivered @ Gameology eBay](https://www.ozbargain.com.au/node/984919)
 - 2026-11-23 · $79.00 · [Donkey Kong Bananza - Nintendo Switch 2 $79 Delivered @ Amazon AU and Target](https://www.ozbargain.com.au/node/984846)
 - 2026-11-23 · $59.00 · [Diablo IV: Age of Hatred Collection $59 (Switch 2) + Delivery ($0 C&C/In-Store) @ JB-HiFi](https://www.ozbargain.com.au/node/984836)
 - 2026-11-23 · $59.00 · [[PS5, XSX, Switch 2] LEGO Batman Legacy of The Dark Knight $59 (PS5 & Switch 2) $64 (XSX) + Delivery ($0 C&C/ in-Store) @ JBHiFi](https://www.ozbargain.com.au/node/984830)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-22 21:57 (UTC)_
 - 2026-11-22 · $629.00 · [Nintendo Switch 2 Console + Mario Kart World Bundle $629 Delivered / C&C / in-Store @ Target](https://www.ozbargain.com.au/node/984768)
 - 2026-11-22 · $2.50 · [Gamegenic Star Wars: Unlimited OBI-Wan Kenobi / Darth Maul 60pk Art Sleeves $2.50ea + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/984767)
 - 2026-11-22 · $629.00 · [Nintendo Switch 2 + Mario Kart World Bundle $629 @ Kmart](https://www.ozbargain.com.au/node/984763)
-- 2026-11-22 · $47.67 · [[PS Plus, PS5] Dying Light: The Beast $47.67 (Was $105.95) @ PlayStation Store](https://www.ozbargain.com.au/node/984756)
-- 2026-11-22 · $8.65 · [[XP Loyalty, PC, Steam] FINAL FANTASY VII REBIRTH $8.65 @ Green Man Gaming](https://www.ozbargain.com.au/node/984747)
 
 ### Drinks
 
