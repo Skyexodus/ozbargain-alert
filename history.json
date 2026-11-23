@@ -638,6 +638,13 @@
   "Drinks": {
     "deals": [
       {
+        "title": "Sunkist Orange 1.25L $1.65 + Delivery ($0 Prime/$59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/985091",
+        "price": 1.65,
+        "date": "2026-11-24",
+        "image": "https://files.ozbargain.com.au/n/91/985091l.jpg?h=26dcbece"
+      },
+      {
         "title": "Monster Energy Drink Juice Bad Apple 24x 500ml $57.50 ($54.62 Sub & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/983762",
         "price": 57.5,
@@ -734,13 +741,6 @@
         "price": 6.75,
         "date": "2026-11-02",
         "image": "https://files.ozbargain.com.au/n/26/981326l.jpg?h=953a0aed"
-      },
-      {
-        "title": "Monster Energy Drink Zero Ultra 24 x 500ml $52.50 ($49.87 Subscribe & Save) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/980827",
-        "price": 52.5,
-        "date": "2026-10-29",
-        "image": "https://files.ozbargain.com.au/n/27/980827l.jpg?h=23435e75"
       }
     ]
   },

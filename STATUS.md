@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-23 11:09 (UTC)_
+_Last checked: 2026-11-23 22:39 (UTC)_
 
 ## Specific items
 
@@ -91,6 +91,7 @@ _Last checked: 2026-11-23 11:09 (UTC)_
 
 ### Drinks
 
+- 2026-11-24 · $1.65 · [Sunkist Orange 1.25L $1.65 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/985091)
 - 2026-11-17 · $57.50 · [Monster Energy Drink Juice Bad Apple 24x 500ml $57.50 ($54.62 Sub & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983762)
 - 2026-11-16 · $2.85 · [½ Price: Philadelphia Cream Cheese Block 250g $2.85 @ Coles + 239 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/983415)
 - 2026-11-14 · $4.00 · [[VIC] 2x Cheeseburgers, Small Drink & Chips for $4 @ McDonald's Ringwood/Croydon/Kilsyth/Bayswater/Boronia/Wantirna/Mooroolbark](https://www.ozbargain.com.au/node/983173)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-23 11:09 (UTC)_
 - 2026-11-06 · $52.50 · [Monster Energy Drink Original Zero Sugar 24x 500ml $52.50 ($49.87 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981960)
 - 2026-11-06 · $1.00 · [Store Brand 1.25L Soft Drinks $1 (Was $1.15) @ Coles & Woolworths](https://www.ozbargain.com.au/node/981827)
 - 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
-- 2026-11-05 · $45.00 · [Pepsi Max, Sunkist or Solo Zero Sugar, Mountain Dew 24x 375ml Cans - 2 for $45 ($41.04 Subscribe & Save) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/981681)
 
 ### Students
 
