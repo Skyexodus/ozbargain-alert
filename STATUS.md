@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-23 22:39 (UTC)_
+_Last checked: 2026-11-24 06:26 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 
 ### SSD
 
+- 2026-11-24 · $979.00 · [Apple MacBook Neo 13″ Laptop (A18 Pro, 8GB RAM, 256GB SSD) $979 Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/985154)
 - 2026-11-23 · $169.00 · [Gigabyte 1TB NVMe M.2 SSD (G440E1TB) $169 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/984837)
 - 2026-11-22 · $469.00 · [Kingston Fury Renegade with Heatsink 2TB M.2 2280 NVMe PCIe 4.0 SSD $469 (Free C&C, Metro Delivery) (Was $999) @ Scorptec](https://www.ozbargain.com.au/node/984760)
 - 2026-11-20 · $725.00 · [Lexar NM790 4TB PCIe 4.0 NVMe M.2 2280 SSD $725 Delivered (SMS Coupon Code Required) @ Mwave](https://www.ozbargain.com.au/node/984546)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 - 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
 - 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
 - 2026-11-18 · $1,439.10 · [HP OmniBook 7 Aero Laptop: 13.3" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU](https://www.ozbargain.com.au/node/983919)
-- 2026-11-17 · $279.14 · [GMKtec G5S Mini PC Intel Celeron N5095 8GB LPDDR4 128GB SSD $279.14 (Was $328.40) Delivered @ GMKtec-AUS Amazon AU](https://www.ozbargain.com.au/node/983787)
 
 ### NBN (home)
 
@@ -91,6 +91,7 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 
 ### Drinks
 
+- 2026-11-24 · $15.99 · [Kirks Creamy Soda, Lemon Squash, Pasito, SF Pasito 20x 375ml $15.99 ($15.19 S&S) + Del ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/985196)
 - 2026-11-24 · $1.65 · [Sunkist Orange 1.25L $1.65 + Delivery ($0 Prime/$59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/985091)
 - 2026-11-17 · $57.50 · [Monster Energy Drink Juice Bad Apple 24x 500ml $57.50 ($54.62 Sub & Save) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/983762)
 - 2026-11-16 · $2.85 · [½ Price: Philadelphia Cream Cheese Block 250g $2.85 @ Coles + 239 More @ Coles and Woolworths](https://www.ozbargain.com.au/node/983415)
@@ -100,7 +101,6 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 - 2026-11-09 · $9.93 · [Sorbent Toilet Paper 45pk $9.93, Schweppes Cans 30pk $17.25 + Delivery ($0 with $40 & Uber One) + Service Fee @ Coles Uber Eats](https://www.ozbargain.com.au/node/982199)
 - 2026-11-06 · $52.50 · [Monster Energy Drink Original Zero Sugar 24x 500ml $52.50 ($49.87 S&S) + Delivery ($0 Prime/ $59 Spend) @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981960)
 - 2026-11-06 · $1.00 · [Store Brand 1.25L Soft Drinks $1 (Was $1.15) @ Coles & Woolworths](https://www.ozbargain.com.au/node/981827)
-- 2026-11-05 · $0.00 · [Faction Labs Ultra Loaded Sample Pack $0 + $9.95 Shipping (Valued at $79.95) @ Faction Labs](https://www.ozbargain.com.au/node/981765)
 
 ### Students
 
@@ -113,6 +113,7 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 
 ### Electricity
 
+- 2026-11-24 · $250.00 · [Momentum Energy Switch: up to $1,050 eGift Cards ($250 Resi Elec, $200 Resi Gas VIC, $350 SME Elec, $250 SME Gas) @ Econnex](https://www.ozbargain.com.au/node/985207)
 - 2026-11-20 · $1.00 · [Up to 15,000 Bonus Qantas Points with Qantas Red Saver Plan (New Connections) + 2 Points/$1 Paid On Time @ Red Energy](https://www.ozbargain.com.au/node/984423)
 - 2026-11-16 · $4,284.00 · [[VIC, NSW] GreenVolt Pro 24.5kWh Home Battery Installed from $4,284 + Free 8kW Inverter Upgrade @ Green ESS](https://www.ozbargain.com.au/node/983321)
 - 2026-11-14 · $300.00 · [[QLD] Sign up for Electricity and Get $300 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/983052)
@@ -122,7 +123,6 @@ _Last checked: 2026-11-23 22:39 (UTC)_
 - 2026-11-07 · $225.00 · [Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex](https://www.ozbargain.com.au/node/982065)
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
 - 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
-- 2026-11-02 · $120.00 · [[NSW] Sign up for Electricity and Get $120 Credit after 6 Months @ Sumo](https://www.ozbargain.com.au/node/981265)
 
 ### Wine fridge
 
