@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-24 06:26 (UTC)_
+_Last checked: 2026-11-24 18:09 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-24 06:26 (UTC)_
 
 ### Games
 
+- 2026-11-25 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Kirby and the Forgotten Land + SCW $85, Fire Emblem: FW $85 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985288)
+- 2026-11-25 · $899.00 · [PlayStation 5 Slim Disc Console $899 @ Kmart](https://www.ozbargain.com.au/node/985283)
+- 2026-11-24 · $19.99 · [[Switch] [PS5] Red Dead Redemption + Undead Nightmare - $19.99 CAD + shipping (free > $75C) + other games @ videogamesplus.ca](https://www.ozbargain.com.au/node/985250)
 - 2026-11-23 · $119.00 · [Xbox Wireless Headset (Xbox Series X|S, Xbox One & Windows) $119 (Was $159) + Delivery ($0 C&C/In-Store) @ Target](https://www.ozbargain.com.au/node/985055)
 - 2026-11-23 · $32.49 · [50% off Chess.com Yearly Memberships Gold $32.49, Platinum $52.49, Diamond $79.99 @ Chess.com](https://www.ozbargain.com.au/node/985049)
 - 2026-11-23 · price n/a · [[PC, Steam] Free - Elena @ Steam](https://www.ozbargain.com.au/node/985047)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-24 06:26 (UTC)_
 - 2026-11-23 · $89.00 · [[PS5] Select Games 2 for $89 (Astro Bot, Ghost of Yotei, Spider-Man 2 + More) + $8 Reg Del ($0 to Metro/ C&C/ In-Store) @ BIG W](https://www.ozbargain.com.au/node/984920)
 - 2026-11-23 · $247.46 · [[eBay Plus] Pokemon TCG Chaos Rising Booster Box (36 Packs) $247.46 Delivered @ Gameology eBay](https://www.ozbargain.com.au/node/984919)
 - 2026-11-23 · $79.00 · [Donkey Kong Bananza - Nintendo Switch 2 $79 Delivered @ Amazon AU and Target](https://www.ozbargain.com.au/node/984846)
-- 2026-11-23 · $59.00 · [Diablo IV: Age of Hatred Collection $59 (Switch 2) + Delivery ($0 C&C/In-Store) @ JB-HiFi](https://www.ozbargain.com.au/node/984836)
-- 2026-11-23 · $59.00 · [[PS5, XSX, Switch 2] LEGO Batman Legacy of The Dark Knight $59 (PS5 & Switch 2) $64 (XSX) + Delivery ($0 C&C/ in-Store) @ JBHiFi](https://www.ozbargain.com.au/node/984830)
-- 2026-11-23 · $58.25 · [[PC, XSX] 007 First Light - Deluxe Edition - $58.25 @ Xbox Store](https://www.ozbargain.com.au/node/984828)
 
 ### Drinks
 
