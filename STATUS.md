@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-25 11:42 (UTC)_
+_Last checked: 2026-11-25 20:42 (UTC)_
 
 ## Specific items
 
@@ -26,6 +26,7 @@ _Last checked: 2026-11-25 11:42 (UTC)_
 
 ### NAS
 
+- 2026-11-26 · $39.20 · [20-50% off Unraid Licences: Starter US$39.20, Unleashed US$81.25, Starter to Unleashed Upgrade US$48.30 @ Unraid](https://www.ozbargain.com.au/node/985549)
 - 2026-11-17 · $399.98 · [TerraMaster F2-425 2-Bay NAS Intel X86 QuadCore CPU, 4GB RAM, $399.98 (RRP $499.99) Delivered @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/983572)
 - 2026-10-25 · $1,360.00 · [Synology DiskStation DS1525neo+ 5-Bay NAS $1,360 Delivered (Metro) with Code @ Atomic Networks](https://www.ozbargain.com.au/node/980320)
 - 2026-10-16 · $277.63 · [[Prime] WD Red Plus 4TB 3.5" SATA III NAS Hard Drive $277.63 ($252.39 with Targeted Promo) Delivered @ Amazon JP via AU](https://www.ozbargain.com.au/node/979191)
@@ -35,7 +36,6 @@ _Last checked: 2026-11-25 11:42 (UTC)_
 - 2026-09-30 · $824.99 · [[Prime] Terramaster F4-425 Plus NAS Storage $824.99 Delivered (RRP $1,099.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/977105)
 - 2026-09-30 · $547.49 · [[Prime] TerraMaster F4-425 4-Bay NAS (Intel N5095, 4GB RAM, 2.5G LAN) $547.49 ($527.49 with Zip) Shipped @ TerraMaster Amazon AU](https://www.ozbargain.com.au/node/977155)
 - 2026-09-29 · $1,019.99 · [[Prime] UGREEN DXP4800 Pro 4-Bay NAS $1,019.99 Delivered @ UGREEN GROUP LIMITED AU Amazon AU](https://www.ozbargain.com.au/node/976805)
-- 2026-09-01 · $587.99 · [Terramaster F4 4 Bay SSD NAS Storage $587.99 (RRP $839.99) Delivered @ TerraMaster via Amazon AU](https://www.ozbargain.com.au/node/973482)
 
 ### HDD
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-25 11:42 (UTC)_
 
 ### Games
 
+- 2026-11-26 · $2.89 · [[PC] Hitman: Absolution $2.89 @ GOG](https://www.ozbargain.com.au/node/985545)
+- 2026-11-25 · $99.00 · [Retroid Pocket Duo Lite Handheld 4GB+64GB US$99 + US$25 Delivery (~A$188.62) Delivered @ Retroid](https://www.ozbargain.com.au/node/985524)
+- 2026-11-25 · $8.99 · [[PC] Dead Space Remake $8.99 @ Steam](https://www.ozbargain.com.au/node/985521)
 - 2026-11-25 · $35.00 · [[Switch 2] Star Wars Outlaws $35 + $8 Delivery ($0 C&C/ in-Store/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985512)
 - 2026-11-25 · $49.00 · [[Switch 2, PS5, XSX] Call of Duty: Modern Warfare 4 $49 + $8 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985511)
 - 2026-11-25 · $8.98 · [[Switch, Switch 2] Select Games on Sale: Unravel Two $8.98, LEGO Harry Potter Collection $8.99, Overcooked 2 $9.37 @ Nintendo](https://www.ozbargain.com.au/node/985509)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-25 11:42 (UTC)_
 - 2026-11-25 · $114.99 · [[PS5] Grand Theft Auto VI $114.99 Delivered @ Costco Wholesale (Membership Required)](https://www.ozbargain.com.au/node/985373)
 - 2026-11-25 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Kirby and the Forgotten Land + SCW $85, Fire Emblem: FW $85 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985288)
 - 2026-11-25 · $899.00 · [PlayStation 5 Slim Disc Console $899 @ Kmart](https://www.ozbargain.com.au/node/985283)
-- 2026-11-24 · $19.99 · [[Switch] [PS5] Red Dead Redemption + Undead Nightmare - $19.99 CAD + shipping (free > $75C) + other games @ videogamesplus.ca](https://www.ozbargain.com.au/node/985250)
-- 2026-11-23 · $119.00 · [Xbox Wireless Headset (Xbox Series X|S, Xbox One & Windows) $119 (Was $159) + Delivery ($0 C&C/In-Store) @ Target](https://www.ozbargain.com.au/node/985055)
-- 2026-11-23 · $32.49 · [50% off Chess.com Yearly Memberships Gold $32.49, Platinum $52.49, Diamond $79.99 @ Chess.com](https://www.ozbargain.com.au/node/985049)
 
 ### Drinks
 

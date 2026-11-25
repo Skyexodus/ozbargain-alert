@@ -104,6 +104,13 @@
   "NAS": {
     "deals": [
       {
+        "title": "20-50% off Unraid Licences: Starter US$39.20, Unleashed US$81.25, Starter to Unleashed Upgrade US$48.30 @ Unraid",
+        "link": "https://www.ozbargain.com.au/node/985549",
+        "price": 39.2,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/49/985549l.jpg?h=e33837f5"
+      },
+      {
         "title": "TerraMaster F2-425 2-Bay NAS Intel X86 QuadCore CPU, 4GB RAM, $399.98 (RRP $499.99) Delivered @ TerraMaster Amazon AU",
         "link": "https://www.ozbargain.com.au/node/983572",
         "price": 399.98,
@@ -191,12 +198,6 @@
         "title": "TerraMaster F4-425 Plus NAS Storage - 4Bay Intel N150 CPU, 16GB RAM DDR5 $879.99 Delivered @ TerraMaster via Amazon AU",
         "link": "https://www.ozbargain.com.au/node/971215",
         "price": 879.99,
-        "date": "2026-08-13"
-      },
-      {
-        "title": "TerraMaster F4-424 Pro 4-Bay NAS (i3-N305, 32GB RAM, 2x M.2 NVMe, 2x 2.5G LAN) $847.99 Delivered @ TerraMaster Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/971283",
-        "price": 847.99,
         "date": "2026-08-13"
       }
     ]
@@ -529,6 +530,27 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC] Hitman: Absolution $2.89 @ GOG",
+        "link": "https://www.ozbargain.com.au/node/985545",
+        "price": 2.89,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/45/985545l.jpg?h=454c9512"
+      },
+      {
+        "title": "Retroid Pocket Duo Lite Handheld 4GB+64GB US$99 + US$25 Delivery (~A$188.62) Delivered @ Retroid",
+        "link": "https://www.ozbargain.com.au/node/985524",
+        "price": 99.0,
+        "date": "2026-11-25",
+        "image": "https://files.ozbargain.com.au/n/24/985524l.jpg?h=1f38144d"
+      },
+      {
+        "title": "[PC] Dead Space Remake $8.99 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/985521",
+        "price": 8.99,
+        "date": "2026-11-25",
+        "image": "https://files.ozbargain.com.au/n/21/985521l.jpg?h=10e814af"
+      },
+      {
         "title": "[Switch 2] Star Wars Outlaws $35 + $8 Delivery ($0 C&C/ in-Store/ $60 Order) @ Target",
         "link": "https://www.ozbargain.com.au/node/985512",
         "price": 35.0,
@@ -611,27 +633,6 @@
         "price": 89.0,
         "date": "2026-11-23",
         "image": "https://files.ozbargain.com.au/n/41/985041l.jpg?h=ba18ff37"
-      },
-      {
-        "title": "[PS5] Select Games 2 for $89 (Astro Bot, Ghost of Yotei, Spider-Man 2 + More) + $8 Reg Del ($0 to Metro/ C&C/ In-Store) @ BIG W",
-        "link": "https://www.ozbargain.com.au/node/984920",
-        "price": 89.0,
-        "date": "2026-11-23",
-        "image": "https://files.ozbargain.com.au/n/20/984920l.jpg?h=61653802"
-      },
-      {
-        "title": "[eBay Plus] Pokemon TCG Chaos Rising Booster Box (36 Packs) $247.46 Delivered @ Gameology eBay",
-        "link": "https://www.ozbargain.com.au/node/984919",
-        "price": 247.46,
-        "date": "2026-11-23",
-        "image": "https://files.ozbargain.com.au/n/19/984919l.jpg?h=2dfb4325"
-      },
-      {
-        "title": "Donkey Kong Bananza - Nintendo Switch 2 $79 Delivered @ Amazon AU and Target",
-        "link": "https://www.ozbargain.com.au/node/984846",
-        "price": 79.0,
-        "date": "2026-11-23",
-        "image": "https://files.ozbargain.com.au/n/46/984846l.jpg?h=ca1345b1"
       }
     ]
   },
