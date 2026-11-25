@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-25 02:30 (UTC)_
+_Last checked: 2026-11-25 11:42 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-25 02:30 (UTC)_
 
 ### Games
 
+- 2026-11-25 · $35.00 · [[Switch 2] Star Wars Outlaws $35 + $8 Delivery ($0 C&C/ in-Store/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985512)
+- 2026-11-25 · $49.00 · [[Switch 2, PS5, XSX] Call of Duty: Modern Warfare 4 $49 + $8 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985511)
+- 2026-11-25 · $8.98 · [[Switch, Switch 2] Select Games on Sale: Unravel Two $8.98, LEGO Harry Potter Collection $8.99, Overcooked 2 $9.37 @ Nintendo](https://www.ozbargain.com.au/node/985509)
+- 2026-11-25 · $34.00 · [[Switch 2] Hogwarts Legacy $34 (RRP $89.95) + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/985490)
 - 2026-11-25 · $114.99 · [[PS5] Grand Theft Auto VI $114.99 Delivered @ Costco Wholesale (Membership Required)](https://www.ozbargain.com.au/node/985373)
 - 2026-11-25 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Kirby and the Forgotten Land + SCW $85, Fire Emblem: FW $85 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985288)
 - 2026-11-25 · $899.00 · [PlayStation 5 Slim Disc Console $899 @ Kmart](https://www.ozbargain.com.au/node/985283)
 - 2026-11-24 · $19.99 · [[Switch] [PS5] Red Dead Redemption + Undead Nightmare - $19.99 CAD + shipping (free > $75C) + other games @ videogamesplus.ca](https://www.ozbargain.com.au/node/985250)
 - 2026-11-23 · $119.00 · [Xbox Wireless Headset (Xbox Series X|S, Xbox One & Windows) $119 (Was $159) + Delivery ($0 C&C/In-Store) @ Target](https://www.ozbargain.com.au/node/985055)
 - 2026-11-23 · $32.49 · [50% off Chess.com Yearly Memberships Gold $32.49, Platinum $52.49, Diamond $79.99 @ Chess.com](https://www.ozbargain.com.au/node/985049)
-- 2026-11-23 · price n/a · [[PC, Steam] Free - Elena @ Steam](https://www.ozbargain.com.au/node/985047)
-- 2026-11-23 · $89.00 · [PlayStation 5 Access Controller $89 + Delivery @ JB Hi-Fi](https://www.ozbargain.com.au/node/985041)
-- 2026-11-23 · $89.00 · [[PS5] Select Games 2 for $89 (Astro Bot, Ghost of Yotei, Spider-Man 2 + More) + $8 Reg Del ($0 to Metro/ C&C/ In-Store) @ BIG W](https://www.ozbargain.com.au/node/984920)
-- 2026-11-23 · $247.46 · [[eBay Plus] Pokemon TCG Chaos Rising Booster Box (36 Packs) $247.46 Delivered @ Gameology eBay](https://www.ozbargain.com.au/node/984919)
 
 ### Drinks
 
