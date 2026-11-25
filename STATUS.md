@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-24 18:09 (UTC)_
+_Last checked: 2026-11-25 02:30 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,7 @@ _Last checked: 2026-11-24 18:09 (UTC)_
 
 ### Games
 
+- 2026-11-25 · $114.99 · [[PS5] Grand Theft Auto VI $114.99 Delivered @ Costco Wholesale (Membership Required)](https://www.ozbargain.com.au/node/985373)
 - 2026-11-25 · $85.00 · [[Switch 2] The Legend of Zelda: OoT $85, Kirby and the Forgotten Land + SCW $85, Fire Emblem: FW $85 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985288)
 - 2026-11-25 · $899.00 · [PlayStation 5 Slim Disc Console $899 @ Kmart](https://www.ozbargain.com.au/node/985283)
 - 2026-11-24 · $19.99 · [[Switch] [PS5] Red Dead Redemption + Undead Nightmare - $19.99 CAD + shipping (free > $75C) + other games @ videogamesplus.ca](https://www.ozbargain.com.au/node/985250)
@@ -87,7 +88,6 @@ _Last checked: 2026-11-24 18:09 (UTC)_
 - 2026-11-23 · $89.00 · [PlayStation 5 Access Controller $89 + Delivery @ JB Hi-Fi](https://www.ozbargain.com.au/node/985041)
 - 2026-11-23 · $89.00 · [[PS5] Select Games 2 for $89 (Astro Bot, Ghost of Yotei, Spider-Man 2 + More) + $8 Reg Del ($0 to Metro/ C&C/ In-Store) @ BIG W](https://www.ozbargain.com.au/node/984920)
 - 2026-11-23 · $247.46 · [[eBay Plus] Pokemon TCG Chaos Rising Booster Box (36 Packs) $247.46 Delivered @ Gameology eBay](https://www.ozbargain.com.au/node/984919)
-- 2026-11-23 · $79.00 · [Donkey Kong Bananza - Nintendo Switch 2 $79 Delivered @ Amazon AU and Target](https://www.ozbargain.com.au/node/984846)
 
 ### Drinks
 
