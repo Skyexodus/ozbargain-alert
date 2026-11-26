@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-26 03:13 (UTC)_
+_Last checked: 2026-11-26 12:51 (UTC)_
 
 ## Specific items
 
@@ -65,6 +65,7 @@ _Last checked: 2026-11-26 03:13 (UTC)_
 
 ### NBN (home)
 
+- 2026-11-26 · $35.00 · [AGL Energy Customers: 50% off nbn for 3 Months: 25/10 $35/M, 100/20 or 500/50 $47/M (BYO Modem, New nbn Connections Only) @ AGL](https://www.ozbargain.com.au/node/985735)
 - 2026-11-18 · $69.00 · [nbn FTTP or HFC 500/50 $69/month for 6 Months  (New Customers, $99/Month Ongoing) @ Superloop](https://www.ozbargain.com.au/node/983857)
 - 2026-11-16 · $45.99 · [nbn 25/10 $45.99/M for 6 Months, 750/50 $80/M or 1000/100 $90/M for 12-Months, Eero 7 $0 After 18-Months (New Customer) @ Arctel](https://www.ozbargain.com.au/node/983398)
 - 2026-11-16 · $60.99 · [nbn FTTP/HFC 500/50 $60.99/Month for 6 Months ($92.99 Ongoing) + $100 Visa Gift Card (New Customers) @ Dodo via Finder](https://www.ozbargain.com.au/node/983386)
@@ -74,10 +75,11 @@ _Last checked: 2026-11-26 03:13 (UTC)_
 - 2026-11-06 · $100.00 · [Switch to an Eligible TPG nbn Plan, Stay until Feb 26 & Get a $100 Digital Visa Card @ Finder](https://www.ozbargain.com.au/node/981934)
 - 2026-11-05 · $70.00 · [nbn 100/20 or 500/50 $70/Month, 1000/100 $85/Month for 12 Months (New and Existing Customers) @ Belong](https://www.ozbargain.com.au/node/981747)
 - 2026-11-04 · $89.00 · [nbn FTTP or HFC 750/50Mbps: Carbon Network $89/Month, ABB Direct Network $95/Month @ Carbon Comms](https://www.ozbargain.com.au/node/981661)
-- 2026-11-03 · $49.00 · [50% off Telstra nbn for 4 Months (500/50 $49/Mth, 750/50 $59/Mth, 1000/100 $64/Mth, New Services Only) @ Telstra](https://www.ozbargain.com.au/node/981368)
 
 ### Games
 
+- 2026-11-26 · price n/a · [[PC, Epic] Free - Strange Antiquities @ Epic Games](https://www.ozbargain.com.au/node/985739)
+- 2026-11-26 · $449.00 · [Nintendo Switch OLED Model White $449 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks](https://www.ozbargain.com.au/node/985737)
 - 2026-11-26 · $163.18 · [[PC, Steam] Humble Choice 12 Months Subscription Black Friday Deal $163.18](https://www.ozbargain.com.au/node/985637)
 - 2026-11-26 · $79.00 · [[Uber One] PS5 Dualsense Wireless Controller + Powerwave PS5 Controller Charger $79 (Service Fees Apply) @ Target via Uber Eats](https://www.ozbargain.com.au/node/985628)
 - 2026-11-26 · $1.50 · [[PC, Steam] Killing Floor and Red Orchestra 2: Heroes of Stalingrad for $1.50 @ Green Man Gaming](https://www.ozbargain.com.au/node/985623)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-26 03:13 (UTC)_
 - 2026-11-26 · $2.89 · [[PC] Hitman: Absolution $2.89 @ GOG](https://www.ozbargain.com.au/node/985545)
 - 2026-11-25 · $99.00 · [Retroid Pocket Duo Lite Handheld 4GB+64GB US$99 + US$25 Delivery (~A$188.62) Delivered @ Retroid](https://www.ozbargain.com.au/node/985524)
 - 2026-11-25 · $8.99 · [[PC] Dead Space Remake $8.99 @ Steam](https://www.ozbargain.com.au/node/985521)
-- 2026-11-25 · $35.00 · [[Switch 2] Star Wars Outlaws $35 + $8 Delivery ($0 C&C/ in-Store/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985512)
-- 2026-11-25 · $49.00 · [[Switch 2, PS5, XSX] Call of Duty: Modern Warfare 4 $49 + $8 Delivery ($0 C&C/ in-Store/ OnePass/ $60 Order) @ Target](https://www.ozbargain.com.au/node/985511)
 
 ### Drinks
 
@@ -113,6 +113,7 @@ _Last checked: 2026-11-26 03:13 (UTC)_
 
 ### Electricity
 
+- 2026-11-26 · $120.00 · [[NSW, VIC, QLD, SA] Refer Friend to OVO Energy Plan & Get $120 Bill Credits (Paid over 12 Months) @ OVO Energy](https://www.ozbargain.com.au/node/985760)
 - 2026-11-24 · $250.00 · [Momentum Energy Switch: up to $1,050 eGift Cards ($250 Resi Elec, $200 Resi Gas VIC, $350 SME Elec, $250 SME Gas) @ Econnex](https://www.ozbargain.com.au/node/985207)
 - 2026-11-20 · $1.00 · [Up to 15,000 Bonus Qantas Points with Qantas Red Saver Plan (New Connections) + 2 Points/$1 Paid On Time @ Red Energy](https://www.ozbargain.com.au/node/984423)
 - 2026-11-16 · $4,284.00 · [[VIC, NSW] GreenVolt Pro 24.5kWh Home Battery Installed from $4,284 + Free 8kW Inverter Upgrade @ Green ESS](https://www.ozbargain.com.au/node/983321)
@@ -122,7 +123,6 @@ _Last checked: 2026-11-26 03:13 (UTC)_
 - 2026-11-08 · $150.00 · [[NSW, QLD, VIC] AGL $150 Bill Credits Per Fuel with Smart Saver Plan (90 Days) + $200 Prepaid GC (30 Days) @ Westpac Rewards](https://www.ozbargain.com.au/node/982084)
 - 2026-11-07 · $225.00 · [Switch to Momentum Energy, Stay 30 Days for eGift Cards: $225 for Residential Electricity, $150 for Residential Gas @ Econnex](https://www.ozbargain.com.au/node/982065)
 - 2026-11-03 · $150.00 · [[VIC, ACT, SA, NSW, QLD] Join Origin Go Variable Ongoing Plan, Stay 6 Weeks & Get $150 Bill Credit for Each Fuel @ Origin Energy](https://www.ozbargain.com.au/node/981487)
-- 2026-11-03 · $50.00 · [Switch Electricity to Amber, ENGIE, GloBird (ZeroHero Plan Only) or OVO, Get $50 Prezzee eGift Card @ WATTever](https://www.ozbargain.com.au/node/981485)
 
 ### Wine fridge
 

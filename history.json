@@ -421,6 +421,13 @@
   "NBN (home)": {
     "deals": [
       {
+        "title": "AGL Energy Customers: 50% off nbn for 3 Months: 25/10 $35/M, 100/20 or 500/50 $47/M (BYO Modem, New nbn Connections Only) @ AGL",
+        "link": "https://www.ozbargain.com.au/node/985735",
+        "price": 35.0,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/35/985735l.jpg?h=b9b5fe39"
+      },
+      {
         "title": "nbn FTTP or HFC 500/50 $69/month for 6 Months  (New Customers, $99/Month Ongoing) @ Superloop",
         "link": "https://www.ozbargain.com.au/node/983857",
         "price": 69.0,
@@ -517,18 +524,25 @@
         "price": 87.0,
         "date": "2026-10-27",
         "image": "https://files.ozbargain.com.au/n/97/980497l.jpg?h=d028eb58"
-      },
-      {
-        "title": "nbn 25/10 $30/M, 50/20 $45/M, 500/50 $50/M, 750/50 $60/M, 1000/100 $70/M for 6 Months (New Customers) @ amaysim",
-        "link": "https://www.ozbargain.com.au/node/980347",
-        "price": 30.0,
-        "date": "2026-10-26",
-        "image": "https://files.ozbargain.com.au/n/47/980347l.jpg?h=f4b31213"
       }
     ]
   },
   "Games": {
     "deals": [
+      {
+        "title": "[PC, Epic] Free - Strange Antiquities @ Epic Games",
+        "link": "https://www.ozbargain.com.au/node/985739",
+        "price": null,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/39/985739l.jpg?h=323fb7b5"
+      },
+      {
+        "title": "Nintendo Switch OLED Model White $449 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks",
+        "link": "https://www.ozbargain.com.au/node/985737",
+        "price": 449.0,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/37/985737l.jpg?h=d3e2f9a3"
+      },
       {
         "title": "[PC, Steam] Humble Choice 12 Months Subscription Black Friday Deal $163.18",
         "link": "https://www.ozbargain.com.au/node/985637",
@@ -619,20 +633,6 @@
         "price": 114.99,
         "date": "2026-11-25",
         "image": "https://files.ozbargain.com.au/n/73/985373l.jpg?h=5dadb0c2"
-      },
-      {
-        "title": "[Switch 2] The Legend of Zelda: OoT $85, Kirby and the Forgotten Land + SCW $85, Fire Emblem: FW $85 Delivered @ Amazon AU",
-        "link": "https://www.ozbargain.com.au/node/985288",
-        "price": 85.0,
-        "date": "2026-11-25",
-        "image": "https://files.ozbargain.com.au/n/88/985288l.jpg?h=6cc63210"
-      },
-      {
-        "title": "PlayStation 5 Slim Disc Console $899 @ Kmart",
-        "link": "https://www.ozbargain.com.au/node/985283",
-        "price": 899.0,
-        "date": "2026-11-25",
-        "image": "https://files.ozbargain.com.au/n/83/985283l.jpg?h=5ada3c44"
       }
     ]
   },
@@ -850,6 +850,13 @@
   "Electricity": {
     "deals": [
       {
+        "title": "[NSW, VIC, QLD, SA] Refer Friend to OVO Energy Plan & Get $120 Bill Credits (Paid over 12 Months) @ OVO Energy",
+        "link": "https://www.ozbargain.com.au/node/985760",
+        "price": 120.0,
+        "date": "2026-11-26",
+        "image": "https://files.ozbargain.com.au/n/60/985760l.jpg?h=aefa82f8"
+      },
+      {
         "title": "Momentum Energy Switch: up to $1,050 eGift Cards ($250 Resi Elec, $200 Resi Gas VIC, $350 SME Elec, $250 SME Gas) @ Econnex",
         "link": "https://www.ozbargain.com.au/node/985207",
         "price": 250.0,
@@ -946,13 +953,6 @@
         "price": 225.0,
         "date": "2026-10-15",
         "image": "https://files.ozbargain.com.au/n/10/979010l.jpg?h=b89d515e"
-      },
-      {
-        "title": "[VIC, NSW, QLD, SA] $20 Electricity Credit in Dec for $10 @ Powershop",
-        "link": "https://www.ozbargain.com.au/node/978944",
-        "price": 20.0,
-        "date": "2026-10-14",
-        "image": "https://files.ozbargain.com.au/n/44/978944l.jpg?h=4cd06453"
       }
     ]
   },
