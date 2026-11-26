@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-26 12:51 (UTC)_
+_Last checked: 2026-11-26 22:10 (UTC)_
 
 ## Specific items
 
@@ -78,16 +78,16 @@ _Last checked: 2026-11-26 12:51 (UTC)_
 
 ### Games
 
+- 2026-11-27 · $53.97 · [[Steam, PC] Halo: Campaign Evolved $53.97 @ Steam](https://www.ozbargain.com.au/node/985853)
+- 2026-11-27 · $149.95 · [Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition $149.95 (RRP $189.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985846)
+- 2026-11-27 · $14.66 · [[PC, Steam] Dress Maker $14.66 (30% off; $9.72 USD) @ Fanatical, $16.76 (20% off; $11.11 USD) @ Steam](https://www.ozbargain.com.au/node/985838)
+- 2026-11-27 · $699.00 · [Nintendo Switch 2 + Mario Kart World + 3 Month Nintendo Online Console Bundle $699 + Delivery @ EB Games via Everyday Market](https://www.ozbargain.com.au/node/985823)
 - 2026-11-26 · price n/a · [[PC, Epic] Free - Strange Antiquities @ Epic Games](https://www.ozbargain.com.au/node/985739)
 - 2026-11-26 · $449.00 · [Nintendo Switch OLED Model White $449 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks](https://www.ozbargain.com.au/node/985737)
 - 2026-11-26 · $163.18 · [[PC, Steam] Humble Choice 12 Months Subscription Black Friday Deal $163.18](https://www.ozbargain.com.au/node/985637)
 - 2026-11-26 · $79.00 · [[Uber One] PS5 Dualsense Wireless Controller + Powerwave PS5 Controller Charger $79 (Service Fees Apply) @ Target via Uber Eats](https://www.ozbargain.com.au/node/985628)
 - 2026-11-26 · $1.50 · [[PC, Steam] Killing Floor and Red Orchestra 2: Heroes of Stalingrad for $1.50 @ Green Man Gaming](https://www.ozbargain.com.au/node/985623)
 - 2026-11-26 · $780.07 · [PlayStation 5 825GB Console - Digital Edition Slim + Logitech M90 Mouse $780.07 Delivered (SMS Coupon Code Required) @ Mwave](https://www.ozbargain.com.au/node/985615)
-- 2026-11-26 · $67.49 · [[XSX] Grand Theft Auto VI US$67.49 (~A$118.19) @ Loaded](https://www.ozbargain.com.au/node/985603)
-- 2026-11-26 · $2.89 · [[PC] Hitman: Absolution $2.89 @ GOG](https://www.ozbargain.com.au/node/985545)
-- 2026-11-25 · $99.00 · [Retroid Pocket Duo Lite Handheld 4GB+64GB US$99 + US$25 Delivery (~A$188.62) Delivered @ Retroid](https://www.ozbargain.com.au/node/985524)
-- 2026-11-25 · $8.99 · [[PC] Dead Space Remake $8.99 @ Steam](https://www.ozbargain.com.au/node/985521)
 
 ### Drinks
 
