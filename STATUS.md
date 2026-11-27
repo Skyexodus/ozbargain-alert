@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-26 22:10 (UTC)_
+_Last checked: 2026-11-27 04:19 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-26 22:10 (UTC)_
 
 ### Games
 
+- 2026-11-27 · $2.49 · [[PC] Battlefield 1 Revolution $2.49 @ Steam](https://www.ozbargain.com.au/node/986027)
+- 2026-11-27 · $5.49 · [[PC] A Plague Tale: Innocence $5.49 @ GOG](https://www.ozbargain.com.au/node/986023)
+- 2026-11-27 · $32.60 · [[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/986003)
 - 2026-11-27 · $53.97 · [[Steam, PC] Halo: Campaign Evolved $53.97 @ Steam](https://www.ozbargain.com.au/node/985853)
 - 2026-11-27 · $149.95 · [Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition $149.95 (RRP $189.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985846)
 - 2026-11-27 · $14.66 · [[PC, Steam] Dress Maker $14.66 (30% off; $9.72 USD) @ Fanatical, $16.76 (20% off; $11.11 USD) @ Steam](https://www.ozbargain.com.au/node/985838)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-26 22:10 (UTC)_
 - 2026-11-26 · price n/a · [[PC, Epic] Free - Strange Antiquities @ Epic Games](https://www.ozbargain.com.au/node/985739)
 - 2026-11-26 · $449.00 · [Nintendo Switch OLED Model White $449 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks](https://www.ozbargain.com.au/node/985737)
 - 2026-11-26 · $163.18 · [[PC, Steam] Humble Choice 12 Months Subscription Black Friday Deal $163.18](https://www.ozbargain.com.au/node/985637)
-- 2026-11-26 · $79.00 · [[Uber One] PS5 Dualsense Wireless Controller + Powerwave PS5 Controller Charger $79 (Service Fees Apply) @ Target via Uber Eats](https://www.ozbargain.com.au/node/985628)
-- 2026-11-26 · $1.50 · [[PC, Steam] Killing Floor and Red Orchestra 2: Heroes of Stalingrad for $1.50 @ Green Man Gaming](https://www.ozbargain.com.au/node/985623)
-- 2026-11-26 · $780.07 · [PlayStation 5 825GB Console - Digital Edition Slim + Logitech M90 Mouse $780.07 Delivered (SMS Coupon Code Required) @ Mwave](https://www.ozbargain.com.au/node/985615)
 
 ### Drinks
 

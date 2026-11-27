@@ -530,6 +530,27 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC] Battlefield 1 Revolution $2.49 @ Steam",
+        "link": "https://www.ozbargain.com.au/node/986027",
+        "price": 2.49,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/27/986027l.jpg?h=c3d33557"
+      },
+      {
+        "title": "[PC] A Plague Tale: Innocence $5.49 @ GOG",
+        "link": "https://www.ozbargain.com.au/node/986023",
+        "price": 5.49,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/23/986023l.jpg?h=0a5ea59e"
+      },
+      {
+        "title": "[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/986003",
+        "price": 32.6,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/03/986003l.jpg?h=d8b40696"
+      },
+      {
         "title": "[Steam, PC] Halo: Campaign Evolved $53.97 @ Steam",
         "link": "https://www.ozbargain.com.au/node/985853",
         "price": 53.97,
@@ -612,27 +633,6 @@
         "price": 2.89,
         "date": "2026-11-26",
         "image": "https://files.ozbargain.com.au/n/45/985545l.jpg?h=454c9512"
-      },
-      {
-        "title": "Retroid Pocket Duo Lite Handheld 4GB+64GB US$99 + US$25 Delivery (~A$188.62) Delivered @ Retroid",
-        "link": "https://www.ozbargain.com.au/node/985524",
-        "price": 99.0,
-        "date": "2026-11-25",
-        "image": "https://files.ozbargain.com.au/n/24/985524l.jpg?h=1f38144d"
-      },
-      {
-        "title": "[PC] Dead Space Remake $8.99 @ Steam",
-        "link": "https://www.ozbargain.com.au/node/985521",
-        "price": 8.99,
-        "date": "2026-11-25",
-        "image": "https://files.ozbargain.com.au/n/21/985521l.jpg?h=10e814af"
-      },
-      {
-        "title": "[Switch 2] Star Wars Outlaws $35 + $8 Delivery ($0 C&C/ in-Store/ $60 Order) @ Target",
-        "link": "https://www.ozbargain.com.au/node/985512",
-        "price": 35.0,
-        "date": "2026-11-25",
-        "image": "https://files.ozbargain.com.au/n/12/985512l.jpg?h=b9de610a"
       }
     ]
   },
