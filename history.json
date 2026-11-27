@@ -312,6 +312,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "[Refurb] HP OmniBook Ultra 14\": Ryzen AI 9 HX 365, 32GB RAM, 1TB SSD, 2.2k Touch $1,574 Delivered @ HP",
+        "link": "https://www.ozbargain.com.au/node/986142",
+        "price": 1574.0,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/42/986142l.jpg?h=ae4b33db"
+      },
+      {
         "title": "Apple MacBook Neo 13″ Laptop (A18 Pro, 8GB RAM, 256GB SSD) $979 Delivered @ Hub by Triforce",
         "link": "https://www.ozbargain.com.au/node/985154",
         "price": 979.0,
@@ -408,13 +415,6 @@
         "price": 2999.0,
         "date": "2026-11-16",
         "image": "https://files.ozbargain.com.au/n/92/983392l.jpg?h=2d5b799c"
-      },
-      {
-        "title": "Apple MacBook Pro 14-Inch: M6 Chip with 12‑Core CPU and 12‑Core GPU, 32GB, 1TB SSD - Silver $3531 ($3354 OW PB) + Delivery",
-        "link": "https://www.ozbargain.com.au/node/983131",
-        "price": 3531.0,
-        "date": "2026-11-14",
-        "image": null
       }
     ]
   },
@@ -530,6 +530,27 @@
   "Games": {
     "deals": [
       {
+        "title": "Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress",
+        "link": "https://www.ozbargain.com.au/node/986147",
+        "price": 15.58,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/47/986147l.jpg?h=f33af6f3"
+      },
+      {
+        "title": "[PC] Free - Dead Age 2@ GOG",
+        "link": "https://www.ozbargain.com.au/node/986133",
+        "price": null,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/33/986133l.jpg?h=031a0b91"
+      },
+      {
+        "title": "[PC, Mac, Steam] Free - Vertical Drop Heroes HD (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical",
+        "link": "https://www.ozbargain.com.au/node/986132",
+        "price": null,
+        "date": "2026-11-27",
+        "image": "https://files.ozbargain.com.au/n/32/986132l.jpg?h=2ff30b41"
+      },
+      {
         "title": "[PC] Battlefield 1 Revolution $2.49 @ Steam",
         "link": "https://www.ozbargain.com.au/node/986027",
         "price": 2.49,
@@ -612,27 +633,6 @@
         "price": 1.5,
         "date": "2026-11-26",
         "image": "https://files.ozbargain.com.au/n/23/985623l.jpg?h=f3bb8d7a"
-      },
-      {
-        "title": "PlayStation 5 825GB Console - Digital Edition Slim + Logitech M90 Mouse $780.07 Delivered (SMS Coupon Code Required) @ Mwave",
-        "link": "https://www.ozbargain.com.au/node/985615",
-        "price": 780.07,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/15/985615l.jpg?h=8dba068b"
-      },
-      {
-        "title": "[XSX] Grand Theft Auto VI US$67.49 (~A$118.19) @ Loaded",
-        "link": "https://www.ozbargain.com.au/node/985603",
-        "price": 67.49,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/03/985603l.jpg?h=d6f3c7f6"
-      },
-      {
-        "title": "[PC] Hitman: Absolution $2.89 @ GOG",
-        "link": "https://www.ozbargain.com.au/node/985545",
-        "price": 2.89,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/45/985545l.jpg?h=454c9512"
       }
     ]
   },

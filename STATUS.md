@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-27 04:19 (UTC)_
+_Last checked: 2026-11-27 14:03 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-27 04:19 (UTC)_
 
 ### SSD
 
+- 2026-11-27 · $1,574.00 · [[Refurb] HP OmniBook Ultra 14": Ryzen AI 9 HX 365, 32GB RAM, 1TB SSD, 2.2k Touch $1,574 Delivered @ HP](https://www.ozbargain.com.au/node/986142)
 - 2026-11-24 · $979.00 · [Apple MacBook Neo 13″ Laptop (A18 Pro, 8GB RAM, 256GB SSD) $979 Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/985154)
 - 2026-11-23 · $169.00 · [Gigabyte 1TB NVMe M.2 SSD (G440E1TB) $169 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/984837)
 - 2026-11-22 · $469.00 · [Kingston Fury Renegade with Heatsink 2TB M.2 2280 NVMe PCIe 4.0 SSD $469 (Free C&C, Metro Delivery) (Was $999) @ Scorptec](https://www.ozbargain.com.au/node/984760)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-27 04:19 (UTC)_
 - 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
 - 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
 - 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
-- 2026-11-18 · $1,439.10 · [HP OmniBook 7 Aero Laptop: 13.3" WQXGA, AMD AI 7 350, 32GB RAM, 512GB SSD $1439.10 Delivered @ HP AU](https://www.ozbargain.com.au/node/983919)
 
 ### NBN (home)
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-27 04:19 (UTC)_
 
 ### Games
 
+- 2026-11-27 · $15.58 · [Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/986147)
+- 2026-11-27 · price n/a · [[PC] Free - Dead Age 2@ GOG](https://www.ozbargain.com.au/node/986133)
+- 2026-11-27 · price n/a · [[PC, Mac, Steam] Free - Vertical Drop Heroes HD (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/986132)
 - 2026-11-27 · $2.49 · [[PC] Battlefield 1 Revolution $2.49 @ Steam](https://www.ozbargain.com.au/node/986027)
 - 2026-11-27 · $5.49 · [[PC] A Plague Tale: Innocence $5.49 @ GOG](https://www.ozbargain.com.au/node/986023)
 - 2026-11-27 · $32.60 · [[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/986003)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-27 04:19 (UTC)_
 - 2026-11-27 · $149.95 · [Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition $149.95 (RRP $189.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985846)
 - 2026-11-27 · $14.66 · [[PC, Steam] Dress Maker $14.66 (30% off; $9.72 USD) @ Fanatical, $16.76 (20% off; $11.11 USD) @ Steam](https://www.ozbargain.com.au/node/985838)
 - 2026-11-27 · $699.00 · [Nintendo Switch 2 + Mario Kart World + 3 Month Nintendo Online Console Bundle $699 + Delivery @ EB Games via Everyday Market](https://www.ozbargain.com.au/node/985823)
-- 2026-11-26 · price n/a · [[PC, Epic] Free - Strange Antiquities @ Epic Games](https://www.ozbargain.com.au/node/985739)
-- 2026-11-26 · $449.00 · [Nintendo Switch OLED Model White $449 + Delivery ($0 to Metro/ C&C/ in-Store) @ Officeworks](https://www.ozbargain.com.au/node/985737)
-- 2026-11-26 · $163.18 · [[PC, Steam] Humble Choice 12 Months Subscription Black Friday Deal $163.18](https://www.ozbargain.com.au/node/985637)
 
 ### Drinks
 
