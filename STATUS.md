@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-27 14:03 (UTC)_
+_Last checked: 2026-11-27 22:40 (UTC)_
 
 ## Specific items
 
@@ -13,6 +13,7 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 
 ### Whisky
 
+- 2026-11-28 · $99.00 · [Lark Distillery Classic Cask Export Australian Single Malt Whisky 500ml $99 (Was $200)](https://www.ozbargain.com.au/node/986186)
 - 2026-11-02 · $79.99 · [[Prime] Singleton of Dufftown 15 Years Old 40% Speyside Single Malt Scotch Whisky 700ml $79.99 Delivered @ Amazon AU (Excl. NT)](https://www.ozbargain.com.au/node/981362)
 - 2026-10-29 · $108.00 · [Aberlour A'Bunadh Single Malt Scotch Whisky 700ml $108 (Member's Price) + Del ($0 C&C/ to Metro with $149 Order) @ Dan Murphy's](https://www.ozbargain.com.au/node/980873)
 - 2026-10-29 · $84.99 · [[Prime] Singleton of Dufftown 15 Years Old 40.0% Speyside Single Malt Scotch Whisky 700ml $84.99 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/980782)
@@ -22,7 +23,6 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 - 2026-10-16 · $19.95 · [[QLD] 2 Free Tickets + $19.95 Admin Fee to Whiskymofo Brisbane 16 & 17 Oct at John Reid Pavilion @ Promotix](https://www.ozbargain.com.au/node/979190)
 - 2026-10-15 · $76.00 · [Dalwhinnie 15 Years Old Single Malt Scotch Whisky 700ml $76 + Delivery ($0 C&C) @ Liquorland via Coles Online (Exc QLD, TAS, NT)](https://www.ozbargain.com.au/node/979150)
 - 2026-09-10 · price n/a · [[VIC] Free Can of Jack Daniels Southern Peach or Lemonade (Collect in-Store with Free Membership) @ Thirsty Camel](https://www.ozbargain.com.au/node/974499)
-- 2026-09-08 · $150.00 · [$15 off $150 Spend on Selected Alcohol @ Amazon AU](https://www.ozbargain.com.au/node/974289)
 
 ### NAS
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 
 ### SSD
 
+- 2026-11-28 · $189.00 · [Lexar Play X 1TB M.2 TLC PCIe 4.0 NVMe SSD $189 (Was $299) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/986167)
 - 2026-11-27 · $1,574.00 · [[Refurb] HP OmniBook Ultra 14": Ryzen AI 9 HX 365, 32GB RAM, 1TB SSD, 2.2k Touch $1,574 Delivered @ HP](https://www.ozbargain.com.au/node/986142)
 - 2026-11-24 · $979.00 · [Apple MacBook Neo 13″ Laptop (A18 Pro, 8GB RAM, 256GB SSD) $979 Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/985154)
 - 2026-11-23 · $169.00 · [Gigabyte 1TB NVMe M.2 SSD (G440E1TB) $169 + Delivery @ Shopping Express](https://www.ozbargain.com.au/node/984837)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 - 2026-11-20 · $2,199.00 · [Lenovo Legion 5i 15.3" WQXGA OLED Laptop: Ultra 7 251HX, RTX 5060, 16GB RAM, 512GB SSD $2199 (RRP $2999) @ Scorptec](https://www.ozbargain.com.au/node/984400)
 - 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
 - 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
-- 2026-11-19 · $803.16 · [[Refurb] MacBook Pro 14" 2021 Retina Apple M1 Pro 16GB/512GB SSD (Grade A) $803.16 @ Australian Computer Traders via Kogan First](https://www.ozbargain.com.au/node/984274)
 
 ### NBN (home)
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 
 ### Games
 
+- 2026-11-28 · price n/a · [[PC] Free Game: Mysterious House @ IndieGala](https://www.ozbargain.com.au/node/986192)
+- 2026-11-28 · $54.97 · [[Switch 2] Kirby Air Riders $54.97 + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/986184)
 - 2026-11-27 · $15.58 · [Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/986147)
 - 2026-11-27 · price n/a · [[PC] Free - Dead Age 2@ GOG](https://www.ozbargain.com.au/node/986133)
 - 2026-11-27 · price n/a · [[PC, Mac, Steam] Free - Vertical Drop Heroes HD (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/986132)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-27 14:03 (UTC)_
 - 2026-11-27 · $32.60 · [[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/986003)
 - 2026-11-27 · $53.97 · [[Steam, PC] Halo: Campaign Evolved $53.97 @ Steam](https://www.ozbargain.com.au/node/985853)
 - 2026-11-27 · $149.95 · [Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition $149.95 (RRP $189.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985846)
-- 2026-11-27 · $14.66 · [[PC, Steam] Dress Maker $14.66 (30% off; $9.72 USD) @ Fanatical, $16.76 (20% off; $11.11 USD) @ Steam](https://www.ozbargain.com.au/node/985838)
-- 2026-11-27 · $699.00 · [Nintendo Switch 2 + Mario Kart World + 3 Month Nintendo Online Console Bundle $699 + Delivery @ EB Games via Everyday Market](https://www.ozbargain.com.au/node/985823)
 
 ### Drinks
 

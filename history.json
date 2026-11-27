@@ -2,6 +2,13 @@
   "Whisky": {
     "deals": [
       {
+        "title": "Lark Distillery Classic Cask Export Australian Single Malt Whisky 500ml $99 (Was $200)",
+        "link": "https://www.ozbargain.com.au/node/986186",
+        "price": 99.0,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/86/986186l.jpg?h=0c2bb09b"
+      },
+      {
         "title": "[Prime] Singleton of Dufftown 15 Years Old 40% Speyside Single Malt Scotch Whisky 700ml $79.99 Delivered @ Amazon AU (Excl. NT)",
         "link": "https://www.ozbargain.com.au/node/981362",
         "price": 79.99,
@@ -92,12 +99,6 @@
         "link": "https://www.ozbargain.com.au/node/973261",
         "price": 0.0,
         "date": "2026-08-30"
-      },
-      {
-        "title": "[QLD] Southern Comfort Original Whiskey 1L $5.90 C&C / in Limited Stores Only @ BWS",
-        "link": "https://www.ozbargain.com.au/node/973125",
-        "price": 5.9,
-        "date": "2026-08-28"
       }
     ]
   },
@@ -312,6 +313,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "Lexar Play X 1TB M.2 TLC PCIe 4.0 NVMe SSD $189 (Was $299) Delivered @ Amazon AU",
+        "link": "https://www.ozbargain.com.au/node/986167",
+        "price": 189.0,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/67/986167l.jpg?h=ac99e1c8"
+      },
+      {
         "title": "[Refurb] HP OmniBook Ultra 14\": Ryzen AI 9 HX 365, 32GB RAM, 1TB SSD, 2.2k Touch $1,574 Delivered @ HP",
         "link": "https://www.ozbargain.com.au/node/986142",
         "price": 1574.0,
@@ -408,13 +416,6 @@
         "price": 1499.0,
         "date": "2026-11-16",
         "image": "https://files.ozbargain.com.au/n/93/983393l.jpg?h=15ad6d4e"
-      },
-      {
-        "title": "HP Omen 35L Gaming PC: AMD Ryzen 7 9800X3D, RTX 5070 Ti 16GB, 32GB DDR5 RAM, 1TB SSD $2999 Delivered @ HP eBay",
-        "link": "https://www.ozbargain.com.au/node/983392",
-        "price": 2999.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/92/983392l.jpg?h=2d5b799c"
       }
     ]
   },
@@ -530,6 +531,20 @@
   "Games": {
     "deals": [
       {
+        "title": "[PC] Free Game: Mysterious House @ IndieGala",
+        "link": "https://www.ozbargain.com.au/node/986192",
+        "price": null,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/92/986192l.jpg?h=9d7b4202"
+      },
+      {
+        "title": "[Switch 2] Kirby Air Riders $54.97 + Delivery ($0 C&C) @ EB Games",
+        "link": "https://www.ozbargain.com.au/node/986184",
+        "price": 54.97,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/84/986184l.jpg?h=fffadaeb"
+      },
+      {
         "title": "Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress",
         "link": "https://www.ozbargain.com.au/node/986147",
         "price": 15.58,
@@ -619,20 +634,6 @@
         "price": 163.18,
         "date": "2026-11-26",
         "image": "https://files.ozbargain.com.au/n/37/985637l.jpg?h=2ed980c9"
-      },
-      {
-        "title": "[Uber One] PS5 Dualsense Wireless Controller + Powerwave PS5 Controller Charger $79 (Service Fees Apply) @ Target via Uber Eats",
-        "link": "https://www.ozbargain.com.au/node/985628",
-        "price": 79.0,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/28/985628l.jpg?h=e2a8129d"
-      },
-      {
-        "title": "[PC, Steam] Killing Floor and Red Orchestra 2: Heroes of Stalingrad for $1.50 @ Green Man Gaming",
-        "link": "https://www.ozbargain.com.au/node/985623",
-        "price": 1.5,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/23/985623l.jpg?h=f3bb8d7a"
       }
     ]
   },
