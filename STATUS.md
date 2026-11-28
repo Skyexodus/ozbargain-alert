@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-27 22:40 (UTC)_
+_Last checked: 2026-11-28 04:19 (UTC)_
 
 ## Specific items
 
@@ -78,6 +78,8 @@ _Last checked: 2026-11-27 22:40 (UTC)_
 
 ### Games
 
+- 2026-11-28 · $39.00 · [Corsair Sabre V2 PRO Ultralight Wireless Gaming Mouse $39 @ Mwave](https://www.ozbargain.com.au/node/986256)
+- 2026-11-28 · $149.99 · [Logitech G Astro A20 X Playsync Wireless Gaming Headset Black $149.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/986252)
 - 2026-11-28 · price n/a · [[PC] Free Game: Mysterious House @ IndieGala](https://www.ozbargain.com.au/node/986192)
 - 2026-11-28 · $54.97 · [[Switch 2] Kirby Air Riders $54.97 + Delivery ($0 C&C) @ EB Games](https://www.ozbargain.com.au/node/986184)
 - 2026-11-27 · $15.58 · [Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/986147)
@@ -86,8 +88,6 @@ _Last checked: 2026-11-27 22:40 (UTC)_
 - 2026-11-27 · $2.49 · [[PC] Battlefield 1 Revolution $2.49 @ Steam](https://www.ozbargain.com.au/node/986027)
 - 2026-11-27 · $5.49 · [[PC] A Plague Tale: Innocence $5.49 @ GOG](https://www.ozbargain.com.au/node/986023)
 - 2026-11-27 · $32.60 · [[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/986003)
-- 2026-11-27 · $53.97 · [[Steam, PC] Halo: Campaign Evolved $53.97 @ Steam](https://www.ozbargain.com.au/node/985853)
-- 2026-11-27 · $149.95 · [Thrustmaster T.Flight Hotas 5 Microsoft Flight Simulator Edition $149.95 (RRP $189.95) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/985846)
 
 ### Drinks
 
