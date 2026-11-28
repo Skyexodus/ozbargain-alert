@@ -1,6 +1,6 @@
 # OzBargain watchlist
 
-_Last checked: 2026-11-28 04:19 (UTC)_
+_Last checked: 2026-11-28 13:20 (UTC)_
 
 ## Specific items
 
@@ -52,6 +52,7 @@ _Last checked: 2026-11-28 04:19 (UTC)_
 
 ### SSD
 
+- 2026-11-28 · $719.20 · [HP OmniDesk Desktop AMD 7 8700G 16GB 512GB SSD $719.20 Delivered @ hp eBay](https://www.ozbargain.com.au/node/986311)
 - 2026-11-28 · $189.00 · [Lexar Play X 1TB M.2 TLC PCIe 4.0 NVMe SSD $189 (Was $299) Delivered @ Amazon AU](https://www.ozbargain.com.au/node/986167)
 - 2026-11-27 · $1,574.00 · [[Refurb] HP OmniBook Ultra 14": Ryzen AI 9 HX 365, 32GB RAM, 1TB SSD, 2.2k Touch $1,574 Delivered @ HP](https://www.ozbargain.com.au/node/986142)
 - 2026-11-24 · $979.00 · [Apple MacBook Neo 13″ Laptop (A18 Pro, 8GB RAM, 256GB SSD) $979 Delivered @ Hub by Triforce](https://www.ozbargain.com.au/node/985154)
@@ -61,7 +62,6 @@ _Last checked: 2026-11-28 04:19 (UTC)_
 - 2026-11-20 · $375.03 · [Lexar NM1090 2TB SSD PCle Gen5x4 NVMe, M.2 2280 $375.03 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/984536)
 - 2026-11-20 · $2,199.00 · [Lenovo Legion 5i 15.3" WQXGA OLED Laptop: Ultra 7 251HX, RTX 5060, 16GB RAM, 512GB SSD $2199 (RRP $2999) @ Scorptec](https://www.ozbargain.com.au/node/984400)
 - 2026-11-19 · $99.00 · [Lexar PLAY X 512GB M.2 2230 NVMe PCIe 4.0 SSD with 2280 Adapter $99 + $12-$16 Delivered @ Scorptec](https://www.ozbargain.com.au/node/984294)
-- 2026-11-19 · $3,298.00 · [Acer Predator Helios Neo 16S AI 16" Laptop: Core Ultra 9-275HX, 32GB RAM, 1TB SSD, RTX 5070 Ti 12GB $3298 + Del @ Harvey Norman](https://www.ozbargain.com.au/node/984284)
 
 ### NBN (home)
 
@@ -78,6 +78,9 @@ _Last checked: 2026-11-28 04:19 (UTC)_
 
 ### Games
 
+- 2026-11-28 · $117.94 · [[PS5, XSX] Grand Theft Auto VI $117.94 Delivered @ EB Games via Uber Eats](https://www.ozbargain.com.au/node/986294)
+- 2026-11-28 · $153.19 · [Japanese Pokémon Center Hiroshima Special Box (with Pikachu Promo) A$153.19 + A$22 Shipping (~A$175 Delivered) @ MintBoon](https://www.ozbargain.com.au/node/986293)
+- 2026-11-28 · price n/a · [[PC, Steam] Free - Pearls of Atlantis: The Cove @ Steam](https://www.ozbargain.com.au/node/986288)
 - 2026-11-28 · $39.00 · [Corsair Sabre V2 PRO Ultralight Wireless Gaming Mouse $39 @ Mwave](https://www.ozbargain.com.au/node/986256)
 - 2026-11-28 · $149.99 · [Logitech G Astro A20 X Playsync Wireless Gaming Headset Black $149.99 Delivered @ Costco (Membership Required)](https://www.ozbargain.com.au/node/986252)
 - 2026-11-28 · price n/a · [[PC] Free Game: Mysterious House @ IndieGala](https://www.ozbargain.com.au/node/986192)
@@ -85,9 +88,6 @@ _Last checked: 2026-11-28 04:19 (UTC)_
 - 2026-11-27 · $15.58 · [Gamesir X5 Lite USB-C Mobile Gaming Controller Black US$15.58 (~A$23.63) Delivered @ GameSir Global Store AliExpress](https://www.ozbargain.com.au/node/986147)
 - 2026-11-27 · price n/a · [[PC] Free - Dead Age 2@ GOG](https://www.ozbargain.com.au/node/986133)
 - 2026-11-27 · price n/a · [[PC, Mac, Steam] Free - Vertical Drop Heroes HD (Newsletter Subscription & Unlimited Steam Account Required) @ Fanatical](https://www.ozbargain.com.au/node/986132)
-- 2026-11-27 · $2.49 · [[PC] Battlefield 1 Revolution $2.49 @ Steam](https://www.ozbargain.com.au/node/986027)
-- 2026-11-27 · $5.49 · [[PC] A Plague Tale: Innocence $5.49 @ GOG](https://www.ozbargain.com.au/node/986023)
-- 2026-11-27 · $32.60 · [[Switch] Sid Meier’s Civilization VII $32.60 + Delivery ($0 with Prime/ $59 Spend) @ Amazon AU](https://www.ozbargain.com.au/node/986003)
 
 ### Drinks
 

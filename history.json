@@ -313,6 +313,13 @@
   "SSD": {
     "deals": [
       {
+        "title": "HP OmniDesk Desktop AMD 7 8700G 16GB 512GB SSD $719.20 Delivered @ hp eBay",
+        "link": "https://www.ozbargain.com.au/node/986311",
+        "price": 719.2,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/11/986311l.jpg?h=5af42a94"
+      },
+      {
         "title": "Lexar Play X 1TB M.2 TLC PCIe 4.0 NVMe SSD $189 (Was $299) Delivered @ Amazon AU",
         "link": "https://www.ozbargain.com.au/node/986167",
         "price": 189.0,
@@ -409,13 +416,6 @@
         "price": 3899.2,
         "date": "2026-11-16",
         "image": "https://files.ozbargain.com.au/n/94/983394l.jpg?h=eb640707"
-      },
-      {
-        "title": "HP OmniBook 7 Aero Laptop: 13.3\" QHD, AMD AI 7 350, 32GB RAM, 512GB SSD $1499 Delivered @ HP eBay",
-        "link": "https://www.ozbargain.com.au/node/983393",
-        "price": 1499.0,
-        "date": "2026-11-16",
-        "image": "https://files.ozbargain.com.au/n/93/983393l.jpg?h=15ad6d4e"
       }
     ]
   },
@@ -531,6 +531,27 @@
   "Games": {
     "deals": [
       {
+        "title": "[PS5, XSX] Grand Theft Auto VI $117.94 Delivered @ EB Games via Uber Eats",
+        "link": "https://www.ozbargain.com.au/node/986294",
+        "price": 117.94,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/94/986294l.jpg?h=e2a8129d"
+      },
+      {
+        "title": "Japanese Pokémon Center Hiroshima Special Box (with Pikachu Promo) A$153.19 + A$22 Shipping (~A$175 Delivered) @ MintBoon",
+        "link": "https://www.ozbargain.com.au/node/986293",
+        "price": 153.19,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/93/986293l.jpg?h=9079b77d"
+      },
+      {
+        "title": "[PC, Steam] Free - Pearls of Atlantis: The Cove @ Steam",
+        "link": "https://www.ozbargain.com.au/node/986288",
+        "price": null,
+        "date": "2026-11-28",
+        "image": "https://files.ozbargain.com.au/n/88/986288l.jpg?h=e5ab618a"
+      },
+      {
         "title": "Corsair Sabre V2 PRO Ultralight Wireless Gaming Mouse $39 @ Mwave",
         "link": "https://www.ozbargain.com.au/node/986256",
         "price": 39.0,
@@ -613,27 +634,6 @@
         "price": 149.95,
         "date": "2026-11-27",
         "image": "https://files.ozbargain.com.au/n/46/985846l.jpg?h=131fdae0"
-      },
-      {
-        "title": "[PC, Steam] Dress Maker $14.66 (30% off; $9.72 USD) @ Fanatical, $16.76 (20% off; $11.11 USD) @ Steam",
-        "link": "https://www.ozbargain.com.au/node/985838",
-        "price": 14.66,
-        "date": "2026-11-27",
-        "image": "https://files.ozbargain.com.au/n/38/985838l.jpg?h=e05196f2"
-      },
-      {
-        "title": "Nintendo Switch 2 + Mario Kart World + 3 Month Nintendo Online Console Bundle $699 + Delivery @ EB Games via Everyday Market",
-        "link": "https://www.ozbargain.com.au/node/985823",
-        "price": 699.0,
-        "date": "2026-11-27",
-        "image": "https://files.ozbargain.com.au/n/23/985823l.jpg?h=a71729b5"
-      },
-      {
-        "title": "[PC, Epic] Free - Strange Antiquities @ Epic Games",
-        "link": "https://www.ozbargain.com.au/node/985739",
-        "price": null,
-        "date": "2026-11-26",
-        "image": "https://files.ozbargain.com.au/n/39/985739l.jpg?h=323fb7b5"
       }
     ]
   },
